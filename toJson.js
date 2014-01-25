@@ -3,7 +3,7 @@ var fs = require('graceful-fs');
 
 
 var config = {
-  input:  './private/',
+  input:  './input/',
   output: './output/'
 };
 
