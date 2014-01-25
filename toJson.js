@@ -3,7 +3,7 @@ var fs = require('graceful-fs');
 
 
 var config = {
-  input:  './test/',
+  input:  './input/',
   output: './output/'
 };
 
@@ -25,7 +25,7 @@ for (var i in files) {
           Experience[id] = {};
 
           Experience[id].author = $('.author a').text();
-          // console.log(Experience[id]);
+          Experience[id].citation = $('.ts-citation').text();
           fs.writeFile(config.output + id + '.json', JSON.stringify(Experience[id]), function(err) {
             if(err) {
               console.log(err);
