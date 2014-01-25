@@ -3,13 +3,11 @@ var fs = require('graceful-fs');
 
 
 var config = {
-  input:  './input/',
+  input:  './test/',
   output: './output/'
 };
 
 var Experience = {};
-
-console.log("Let's get started!");
 
 var files = fs.readdirSync(config.input);
 
@@ -20,7 +18,6 @@ for (var i in files) {
         if (err) {
           throw err;
         } else {
-          // Configuration
           var doc = html.toString();
           var $ = cheerio.load(doc);
           var id = files[current].slice(0, -5);
