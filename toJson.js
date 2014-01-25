@@ -1,11 +1,7 @@
 var cheerio = require('cheerio');
 var fs = require('graceful-fs');
+var config = require('./config.js');
 
-
-var config = {
-  input:  './input/',
-  output: './output/'
-};
 
 var Experience = {};
 

@@ -2,6 +2,14 @@
 
 This research project is an effort to analyze the [experiences](http://www.erowid.org/experiences/exp_front.shtml) available from [Erowid](https://en.wikipedia.org/wiki/Erowid) in the interest of harm reduction.
 
+## Usage
+
+To get the current dataset in JSON, run the following command in your terminal:
+
+```sh
+node toJson.js
+```
+
 ## Todo
 
 The task at hand is converting the HTML of these 20,571 experiences to content-rich JSON which will be used in analysis.
