@@ -12,17 +12,11 @@
    "LSD"
   ]
  ],
- "footer": [
-  [
-   "2010",
-   "87443",
-   "Male",
-   "",
-   "30",
-   "Sep 27, 2010",
-   "4281",
-   " "
-  ]
- ],
- "report": "<p>I tripped two weeks ago, but I'm suffering a migraine right now.</p>"
+ "report": "<p>I tripped two weeks ago, but I'm suffering a migraine right now.</p>",
+ "year": "2010",
+ "id": "87443",
+ "gender": "Male",
+ "age": "30",
+ "timestamp": "2010-09-27T07:00:00.000Z",
+ "views": "4281"
 }
