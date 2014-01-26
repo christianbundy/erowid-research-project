@@ -18,14 +18,15 @@ for (var i in files) {
           var $ = cheerio.load(doc);
           var id = files[current].slice(0, -5);
 
-          Experience[id] = {};
-          Experience[id].title = $('.title').text();
-          Experience[id].author = $('.author a').text();
-          Experience[id].citation = $('.ts-citation').text();
-          Experience[id].substance = $('.substance').text();
-          Experience[id].bodyweight = $('.bodyweight-amount').text();
-          Experience[id].header = [];
-          Experience[id].footer = [];
+          Experience[id] = {
+            title: $('.title').text(),
+            author: $('.author a').text(),
+            citation: $('.ts-citation').text(),
+            substance: $('.substance').text(),
+            bodyweight: $('.bodyweight-amount').text(),
+            header: [],
+            footer: []
+          };
 
           $(".dosechart").each(function() {
             var arrayOfThisRow = [];
