@@ -1,18 +1,19 @@
 # Erowid Research Project
 
-This research project is an effort to analyze the [experiences](http://www.erowid.org/experiences/exp_front.shtml) available from [Erowid](https://en.wikipedia.org/wiki/Erowid) in the interest of harm reduction.
+A research project analyzing the  [experiences](http://www.erowid.org/experiences/exp_front.shtml) available from [Erowid](https://en.wikipedia.org/wiki/Erowid) in the interest of harm reduction.
 
 ## Usage
 
-To get the current dataset in JSON, run the following command in your terminal:
+You can read through the JSON files in the input folder, or you can run `main.js` with:
 
 ```sh
-node toJson.js
+npm install
+npm start
 ```
 
 ## Todo
 
-The task at hand is converting the HTML of these 20,571 experiences to content-rich JSON which will be used in analysis.
+I'm currently working on getting rid of the `header` and `footer` properties in the JSON object, and translating them to meaningful properties that can be added to their parent object literal.
 
 ## Copyright
 
