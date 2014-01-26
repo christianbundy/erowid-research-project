@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-05-02T07:00:00.000Z",
  "views": "37363",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 12:00",
+   "amount": "0.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(plant material)"
+  }
+ }
 }

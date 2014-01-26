@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-07-21T07:00:00.000Z",
  "views": "3124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 g",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 6x)"
+  }
+ }
 }

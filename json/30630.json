@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-01-19T08:00:00.000Z",
  "views": "10671",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ }
 }

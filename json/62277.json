@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2007-07-25T07:00:00.000Z",
  "views": "20636",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propylhexedrine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:45",
+   "administration": "250 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Propylhexedrine",
+   "amount": "",
+   "administration": " T+ 0:45",
+   "substance": "2 shots"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Alcohol - Hard",
+   "administration": "(liquid)",
+   "substance": " T+ 1:25"
+  },
+  "4": {
+   "time": "8 oz",
+   "amount": "oral",
+   "administration": "Caffeine",
+   "substance": "(liquid)"
+  }
+ }
 }

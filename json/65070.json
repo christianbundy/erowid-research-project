@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2007-11-16T08:00:00.000Z",
  "views": "14841",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "240 ml",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "20 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "20 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 0:20",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 0:20",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 0:20",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ginseng",
+   "form": "(capsule)"
+  },
+  "6": {
+   "time": " T+ 0:20",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(plant material)"
+  }
+ }
 }

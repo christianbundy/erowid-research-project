@@ -23,5 +23,20 @@
  "age": "28",
  "timestamp": "2013-01-21T08:00:00.000Z",
  "views": "2390",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": "(rootbark)"
+  }
+ }
 }

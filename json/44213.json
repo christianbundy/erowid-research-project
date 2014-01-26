@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-06-05T07:00:00.000Z",
  "views": "34294",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(leaves)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(leaves)"
+  }
+ }
 }

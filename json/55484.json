@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-02-12T08:00:00.000Z",
  "views": "16840",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSA",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "1.25 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-09-22T07:00:00.000Z",
  "views": "11769",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "600 ug",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

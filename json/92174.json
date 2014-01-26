@@ -28,5 +28,27 @@
  "age": "18",
  "timestamp": "2011-08-23T07:00:00.000Z",
  "views": "5877",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

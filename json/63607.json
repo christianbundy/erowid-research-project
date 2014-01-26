@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-07-19T07:00:00.000Z",
  "views": "26499",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 bowls",
+   "administration": "smoked",
+   "substance": "Various",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:35",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(tea)"
+  }
+ }
 }

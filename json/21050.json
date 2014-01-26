@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-09-09T07:00:00.000Z",
  "views": "34801",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "162.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.625 g",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

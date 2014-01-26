@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2010-07-26T07:00:00.000Z",
  "views": "17256",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propylhexedrine"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propylhexedrine"
+  }
+ }
 }

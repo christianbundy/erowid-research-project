@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-02-15T08:00:00.000Z",
  "views": "13134",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-07-01T07:00:00.000Z",
  "views": "25705",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.5 Tbsp",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "PCP",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

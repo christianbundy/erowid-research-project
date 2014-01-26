@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-05-21T07:00:00.000Z",
  "views": "23376",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "insufflated",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

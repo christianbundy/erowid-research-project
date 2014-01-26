@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-08-25T07:00:00.000Z",
  "views": "12720",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

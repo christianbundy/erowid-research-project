@@ -23,5 +23,20 @@
  "age": "24",
  "timestamp": "2012-01-24T08:00:00.000Z",
  "views": "8841",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

@@ -53,5 +53,62 @@
  "age": "23",
  "timestamp": "2014-01-05T08:00:00.000Z",
  "views": "270",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 2:30",
+   "amount": "2 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "6": {
+   "time": " T+ 3:30",
+   "amount": "4 tablets",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 3:30",
+   "amount": "12 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": ""
+  }
+ }
 }

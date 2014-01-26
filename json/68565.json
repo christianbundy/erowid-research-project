@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2010-01-02T08:00:00.000Z",
  "views": "19263",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Acetaminophen",
+   "amount": "(pill / tablet)",
+   "administration": "",
+   "substance": " repeated"
+  }
+ }
 }

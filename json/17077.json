@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2002-08-27T07:00:00.000Z",
  "views": "25285",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "AMT"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide"
+  },
+  "2": {
+   "time": " T+ 14:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GBL"
+  }
+ }
 }

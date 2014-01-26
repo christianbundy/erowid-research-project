@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2001-04-28T07:00:00.000Z",
  "views": "89599",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "40 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(leaves)"
+  }
+ }
 }

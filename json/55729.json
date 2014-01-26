@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-09-01T07:00:00.000Z",
  "views": "16129",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "IM",
+   "substance": "Dizocilpine"
+  }
+ }
 }

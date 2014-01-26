@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-07-27T07:00:00.000Z",
  "views": "5859",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Propofol"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2010-01-24T08:00:00.000Z",
  "views": "16969",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ }
 }

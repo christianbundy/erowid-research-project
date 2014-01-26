@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2011-10-27T07:00:00.000Z",
  "views": "15141",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": ".77 g",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(cookie / food)"
+  }
+ }
 }

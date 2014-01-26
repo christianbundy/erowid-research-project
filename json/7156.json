@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-01-26T08:00:00.000Z",
  "views": "40466",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "530 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

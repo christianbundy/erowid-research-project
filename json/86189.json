@@ -21,5 +21,18 @@
  "age": "19",
  "timestamp": "2010-07-24T07:00:00.000Z",
  "views": "19688",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  }
+ }
 }

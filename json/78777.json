@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2009-09-02T07:00:00.000Z",
  "views": "3528",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "2 hits",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Unknown",
+   "amount": "(blotter / tab)",
+   "administration": "",
+   "substance": " "
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Codeine",
+   "administration": "(liquid)",
+   "substance": ""
+  },
+  "4": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  }
+ }
 }

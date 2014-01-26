@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2005-10-27T07:00:00.000Z",
  "views": "16891",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 2:20",
+   "amount": "3.0 g",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(flowers)"
+  },
+  "2": {
+   "time": " T+ 3:10",
+   "amount": "7.5 g",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 5:10",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(leaves)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 8:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": ""
+  }
+ }
 }

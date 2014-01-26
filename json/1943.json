@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-06-19T07:00:00.000Z",
  "views": "9034",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(extract)"
+  }
+ }
 }

@@ -83,5 +83,104 @@
  "age": "Not Given",
  "timestamp": "2010-12-30T08:00:00.000Z",
  "views": "10691",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 3:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 5:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 12:00",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 13:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "9": {
+   "time": " T+ 14:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "10": {
+   "time": " T+ 19:00",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "11": {
+   "time": " T+ 19:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "12": {
+   "time": " T+ 20:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "13": {
+   "time": " T+ 20:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

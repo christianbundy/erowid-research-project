@@ -23,5 +23,20 @@
  "age": "29",
  "timestamp": "2012-04-05T07:00:00.000Z",
  "views": "10660",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "IV",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  }
+ }
 }

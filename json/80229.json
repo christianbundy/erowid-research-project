@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2010-08-27T07:00:00.000Z",
  "views": "9365",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9 mg",
+   "administration": "IM",
+   "substance": "4-AcO-DMT"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 mg",
+   "administration": "IM",
+   "substance": "Psilocin"
+  }
+ }
 }

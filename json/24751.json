@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-10-02T07:00:00.000Z",
  "views": "30969",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.75 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2003-10-20T07:00:00.000Z",
  "views": "9268",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  }
+ }
 }

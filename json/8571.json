@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2003-04-23T07:00:00.000Z",
  "views": "5515",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  }
+ }
 }

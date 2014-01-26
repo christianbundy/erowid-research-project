@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-10-27T07:00:00.000Z",
  "views": "15500",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.8 g",
+   "administration": "smoked",
+   "substance": "Mushrooms",
+   "form": "(ground / crushed)"
+  }
+ }
 }

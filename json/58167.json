@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-12-25T08:00:00.000Z",
  "views": "14513",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Risperidone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -83,5 +83,104 @@
  "age": "21",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "13052",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:30",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 2:30",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 7:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  },
+  "6": {
+   "time": " T+ 7:00",
+   "amount": "6 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 8:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "9": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 11:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "11": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  },
+  "12": {
+   "time": " T+ 13:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "13": {
+   "time": " T+ 13:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

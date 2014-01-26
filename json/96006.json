@@ -43,5 +43,48 @@
  "age": "19",
  "timestamp": "2013-01-03T08:00:00.000Z",
  "views": "3501",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " ",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "MDA",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:00",
+   "substance": " "
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Sassafras",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": " ",
+   "amount": "oral",
+   "administration": "2C-P",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 13:30",
+   "administration": " repeated",
+   "substance": "smoked"
+  }
+ }
 }

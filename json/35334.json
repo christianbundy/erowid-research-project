@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-10-13T07:00:00.000Z",
  "views": "18406",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(liquid)"
+  }
+ }
 }

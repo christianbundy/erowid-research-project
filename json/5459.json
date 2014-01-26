@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-01-13T08:00:00.000Z",
  "views": "14924",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "1,4-Butanediol",
+   "form": ""
+  }
+ }
 }

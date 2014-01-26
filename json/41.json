@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "64401",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

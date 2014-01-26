@@ -33,5 +33,34 @@
  "age": "29",
  "timestamp": "2013-11-19T08:00:00.000Z",
  "views": "741",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 ug",
+   "administration": "oral",
+   "substance": "AL-LAD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Kratom",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ }
 }

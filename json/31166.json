@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-02-23T08:00:00.000Z",
  "views": "16314",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 seeds",
+   "administration": "smoked",
+   "substance": "Anadenanthera spp.",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": " leaves",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  }
+ }
 }

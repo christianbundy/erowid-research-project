@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2003-02-21T08:00:00.000Z",
  "views": "26997",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.0 mg",
+   "administration": "oral",
+   "substance": "2C-T-4",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(tar / resin)"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "3": {
+   "time": " T+ 4:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(tar / resin)"
+  },
+  "4": {
+   "time": " T+ 13:30",
+   "amount": "2.0 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 15:30",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

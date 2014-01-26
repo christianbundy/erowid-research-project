@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-09-04T07:00:00.000Z",
  "views": "14374",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:16",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 8:43",
+   "amount": "6.0 mg",
+   "administration": "smoked",
+   "substance": "CP 55,940",
+   "form": ""
+  }
+ }
 }

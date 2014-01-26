@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-08T07:00:00.000Z",
  "views": "15124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  }
+ }
 }

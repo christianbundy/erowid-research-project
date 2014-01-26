@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2005-02-01T08:00:00.000Z",
  "views": "27428",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.75 tablets",
+   "administration": "insufflated",
+   "substance": "Codeine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.25 tablets",
+   "administration": "sublingual",
+   "substance": "Codeine",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

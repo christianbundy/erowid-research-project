@@ -58,5 +58,69 @@
  "age": "32",
  "timestamp": "2010-12-29T08:00:00.000Z",
  "views": "11800",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:27",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 4:58",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 9:24",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharmaceuticals",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 10:14",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 11:05",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "6": {
+   "time": " T+ 12:22",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "7": {
+   "time": " T+ 22:26",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 22:51",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

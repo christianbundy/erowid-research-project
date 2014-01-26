@@ -23,5 +23,20 @@
  "age": "78",
  "timestamp": "2010-04-05T07:00:00.000Z",
  "views": "9414",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

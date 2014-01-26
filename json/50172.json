@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-02-26T08:00:00.000Z",
  "views": "10078",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": "",
+   "amount": "9.0 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-10-06T07:00:00.000Z",
  "views": "9897",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "60 g",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(plant material)"
+  }
+ }
 }

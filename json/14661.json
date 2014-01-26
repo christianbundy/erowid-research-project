@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2004-01-21T08:00:00.000Z",
  "views": "44095",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Skullcap",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Hops",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(tea)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(tea)"
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  },
+  "6": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Passion Flower",
+   "form": "(dried)"
+  },
+  "7": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Skullcap",
+   "form": "(dried)"
+  }
+ }
 }

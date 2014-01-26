@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2004-12-20T08:00:00.000Z",
  "views": "27023",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "5.0 g",
+   "substance": "oral"
+  }
+ }
 }

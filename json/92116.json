@@ -28,5 +28,24 @@
  "age": "18",
  "timestamp": "2011-09-04T07:00:00.000Z",
  "views": "6426",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "60 mg",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Salvia divinorum",
+   "amount": "(extract - 10x)",
+   "administration": "",
+   "substance": "1 cart."
+  }
+ }
 }

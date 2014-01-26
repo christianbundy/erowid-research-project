@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-05-17T07:00:00.000Z",
  "views": "23884",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 ml",
+   "administration": "IV",
+   "substance": "Hydromorphone"
+  }
+ }
 }

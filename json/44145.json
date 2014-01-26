@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-02-28T08:00:00.000Z",
  "views": "25209",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

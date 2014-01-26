@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-01-23T08:00:00.000Z",
  "views": "9128",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 2:55",
+   "amount": "16 g",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ }
 }

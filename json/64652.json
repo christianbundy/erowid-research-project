@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-05-02T07:00:00.000Z",
  "views": "52361",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-06-26T07:00:00.000Z",
  "views": "18127",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Piperazines - pFPP",
+   "form": "(capsule)"
+  }
+ }
 }

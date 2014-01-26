@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-07-18T07:00:00.000Z",
  "views": "22590",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

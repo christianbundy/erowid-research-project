@@ -28,5 +28,27 @@
  "age": "27",
  "timestamp": "2010-04-23T07:00:00.000Z",
  "views": "12046",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "12 in",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

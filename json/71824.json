@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2008-12-15T08:00:00.000Z",
  "views": "17700",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  }
+ }
 }

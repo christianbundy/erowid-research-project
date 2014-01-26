@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-12-27T08:00:00.000Z",
  "views": "1085",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "250 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": "125 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": "",
+   "amount": "125 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  }
+ }
 }

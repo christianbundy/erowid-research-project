@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-01-16T08:00:00.000Z",
  "views": "4205",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "75 mg",
+   "substance": "insufflated"
+  }
+ }
 }

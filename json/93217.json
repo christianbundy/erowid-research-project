@@ -58,5 +58,69 @@
  "age": "18",
  "timestamp": "2013-11-11T08:00:00.000Z",
  "views": "1735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 tsp",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 2:10",
+   "amount": "0.33 g",
+   "administration": "vaporized",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 7:50",
+   "amount": "0.6 g",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 8:50",
+   "amount": "0.3 g",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 12:10",
+   "amount": "0.3 g",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 14:20",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 17:20",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 17:20",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

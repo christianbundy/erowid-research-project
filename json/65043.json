@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2010-05-11T07:00:00.000Z",
  "views": "11148",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Heroin"
+  }
+ }
 }

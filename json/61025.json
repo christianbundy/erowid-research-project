@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-02-28T08:00:00.000Z",
  "views": "30508",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 10:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(capsule)"
+  }
+ }
 }

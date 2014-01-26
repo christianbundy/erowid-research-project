@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-11-17T08:00:00.000Z",
  "views": "17995",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10.5 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

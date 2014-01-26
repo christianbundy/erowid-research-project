@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-03-05T08:00:00.000Z",
  "views": "4890",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ }
 }

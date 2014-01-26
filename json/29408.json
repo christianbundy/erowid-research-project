@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2013-07-15T07:00:00.000Z",
  "views": "666",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Diphenyl-2-pyrrolidinemethanol",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

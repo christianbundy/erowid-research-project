@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2004-03-02T08:00:00.000Z",
  "views": "11122",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": "2500 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "2": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  }
+ }
 }

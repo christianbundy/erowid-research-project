@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-05-11T07:00:00.000Z",
  "views": "8502",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "450 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "885 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": ""
+  }
+ }
 }

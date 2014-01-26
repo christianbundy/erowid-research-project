@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-07-17T07:00:00.000Z",
  "views": "5310",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

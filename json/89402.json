@@ -28,5 +28,27 @@
  "age": "16",
  "timestamp": "2013-11-21T08:00:00.000Z",
  "views": "488",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "425 mg",
+   "administration": "oral",
+   "substance": "Skullcap",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "850 mg",
+   "administration": "oral",
+   "substance": "Skullcap",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

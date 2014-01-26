@@ -17,5 +17,12 @@
  "age": "20",
  "timestamp": "2010-07-30T07:00:00.000Z",
  "views": "2372",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

@@ -28,5 +28,24 @@
  "age": "36",
  "timestamp": "2010-09-29T07:00:00.000Z",
  "views": "6507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " ",
+   "substance": ""
+  },
+  "2": {
+   "time": "Vitamins / Supplements",
+   "amount": "",
+   "administration": " T+ 1:00",
+   "substance": "16 mg"
+  }
+ }
 }

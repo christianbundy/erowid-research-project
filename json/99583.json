@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2013-06-02T07:00:00.000Z",
  "views": "1541",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

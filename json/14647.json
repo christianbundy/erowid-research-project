@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-04-01T08:00:00.000Z",
  "views": "5891",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

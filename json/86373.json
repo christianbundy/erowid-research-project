@@ -33,5 +33,36 @@
  "age": "27",
  "timestamp": "2010-08-27T07:00:00.000Z",
  "views": "7347",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "",
+   "substance": "4-AcO-DMT"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:20",
+   "administration": "3 mg",
+   "substance": ""
+  },
+  "2": {
+   "time": "4-AcO-DMT",
+   "amount": "",
+   "administration": " T+ 2:05",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "(plant material)",
+   "substance": " T+ 4:30"
+  },
+  "4": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": "(plant material)"
+  }
+ }
 }

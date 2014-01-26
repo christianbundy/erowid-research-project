@@ -33,5 +33,36 @@
  "age": "23",
  "timestamp": "2013-11-28T08:00:00.000Z",
  "views": "481",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "Methoxetamine "
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "1 mg",
+   "substance": "sublingual"
+  },
+  "2": {
+   "time": "25I-NBOMe",
+   "amount": "(blotter / tab)",
+   "administration": " T+ 2:00",
+   "substance": "150 ug"
+  },
+  "3": {
+   "time": "sublingual",
+   "amount": "LSD",
+   "administration": "(blotter / tab)",
+   "substance": " T+ 10:30"
+  },
+  "4": {
+   "time": "2 mg",
+   "amount": "oral",
+   "administration": "Pharms - Clonazepam",
+   "substance": "(pill / tablet)"
+  }
+ }
 }

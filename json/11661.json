@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-02-11T08:00:00.000Z",
  "views": "13420",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET",
+   "form": "(powder / crystals)"
+  }
+ }
 }

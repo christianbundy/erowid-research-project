@@ -38,5 +38,41 @@
  "age": "35",
  "timestamp": "2013-02-03T08:00:00.000Z",
  "views": "5078",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "25 mg",
+   "administration": "rectal",
+   "substance": "6-APB",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": " bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 7:30",
+   "amount": " bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 8:00",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ }
 }

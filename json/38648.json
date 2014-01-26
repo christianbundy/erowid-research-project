@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-05-20T07:00:00.000Z",
  "views": "6564",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "13 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "13 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

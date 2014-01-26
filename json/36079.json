@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-05-30T07:00:00.000Z",
  "views": "24964",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-11-08T08:00:00.000Z",
  "views": "9066",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Amphetamines",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  }
+ }
 }

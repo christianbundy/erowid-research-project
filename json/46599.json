@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2006-06-14T07:00:00.000Z",
  "views": "22913",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Catuaba",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": "",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Mandrake",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": "",
+   "amount": "0.1 g",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(roots)"
+  }
+ }
 }

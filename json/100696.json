@@ -58,5 +58,69 @@
  "age": "17",
  "timestamp": "2013-11-20T08:00:00.000Z",
  "views": "421",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 2:30",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 6:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 6:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "8": {
+   "time": " T+ 7:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ }
 }

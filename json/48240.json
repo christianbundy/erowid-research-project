@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-24T08:00:00.000Z",
  "views": "5312",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-7",
+   "form": "(powder / crystals)"
+  }
+ }
 }

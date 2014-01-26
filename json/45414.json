@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-09-19T07:00:00.000Z",
  "views": "3317",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Various",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "17 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(tea)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-27T07:00:00.000Z",
  "views": "22943",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-09-28T07:00:00.000Z",
  "views": "6826",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.3 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "3.3 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "3.3 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-06-07T07:00:00.000Z",
  "views": "27662",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "17 leaves",
+   "administration": "buccal",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ }
 }

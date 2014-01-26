@@ -23,5 +23,20 @@
  "age": "26",
  "timestamp": "2010-09-07T07:00:00.000Z",
  "views": "23010",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

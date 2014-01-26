@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2012-11-10T08:00:00.000Z",
  "views": "1811",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 flowers",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 leaves",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ }
 }

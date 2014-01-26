@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2009-04-12T07:00:00.000Z",
  "views": "22641",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Reboxetine",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "4.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Reboxetine",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 7:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 14:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 14:00",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Reboxetine",
+   "form": ""
+  }
+ }
 }

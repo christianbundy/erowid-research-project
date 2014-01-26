@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2006-04-20T07:00:00.000Z",
  "views": "12699",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 ug",
+   "administration": "oral",
+   "substance": "Pharms - Clonidine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "0.5 cups",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "rectal",
+   "substance": "2-Aminoindan",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "5.0 ml",
+   "administration": "rectal",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ }
 }

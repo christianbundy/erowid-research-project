@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2013-09-18T07:00:00.000Z",
  "views": "1000",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "sublingual",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ }
 }

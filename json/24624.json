@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-10-12T07:00:00.000Z",
  "views": "18602",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

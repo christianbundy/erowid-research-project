@@ -73,5 +73,96 @@
  "age": "Not Given",
  "timestamp": "2008-07-07T07:00:00.000Z",
  "views": "19062",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.4 g",
+   "administration": "oral",
+   "substance": "GHB"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 3:30",
+   "administration": "1 cup",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Coffee",
+   "amount": "",
+   "administration": " T+ 4:00",
+   "substance": "3.4 g"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "GHB",
+   "administration": "",
+   "substance": " T+ 4:09"
+  },
+  "4": {
+   "time": "20 mg",
+   "amount": "oral",
+   "administration": "Unknown",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 4:30",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Unknown"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 5:00",
+   "administration": "30 mg",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Ethylcathinone",
+   "amount": "",
+   "administration": " T+ 6:00",
+   "substance": "3.4 g"
+  },
+  "8": {
+   "time": "oral",
+   "amount": "GHB",
+   "administration": "",
+   "substance": " T+ 6:14"
+  },
+  "9": {
+   "time": "50 mg",
+   "amount": "oral",
+   "administration": "Ethylcathinone",
+   "substance": ""
+  },
+  "10": {
+   "time": " T+ 6:57",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone"
+  },
+  "11": {
+   "time": "",
+   "amount": " T+ 7:52",
+   "administration": "50 mg",
+   "substance": "oral"
+  },
+  "12": {
+   "time": "4-Methylmethcathinone",
+   "amount": "",
+   "administration": " T+ 8:50",
+   "substance": "3.4 g"
+  },
+  "13": {
+   "time": "oral",
+   "amount": "GHB",
+   "administration": "",
+   "substance": " T+ 0:00"
+  },
+  "14": {
+   "time": "24 g",
+   "amount": "oral",
+   "administration": "MSM",
+   "substance": "(daily)"
+  }
+ }
 }

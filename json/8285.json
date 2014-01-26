@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-11-20T08:00:00.000Z",
  "views": "47215",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

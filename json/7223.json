@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-06-04T07:00:00.000Z",
  "views": "20738",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-08T08:00:00.000Z",
  "views": "6988",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "13 oz",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

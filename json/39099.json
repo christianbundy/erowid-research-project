@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-03-01T08:00:00.000Z",
  "views": "47845",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 tsp",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(ground / crushed)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-02-13T08:00:00.000Z",
  "views": "8172",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "buccal",
+   "substance": "Betel Nut",
+   "form": "(plant material)"
+  }
+ }
 }

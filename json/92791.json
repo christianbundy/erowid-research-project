@@ -21,5 +21,18 @@
  "age": "22",
  "timestamp": "2012-01-06T08:00:00.000Z",
  "views": "2945",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "Salvia divinorum"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "",
+   "substance": "Methoxetamine "
+  }
+ }
 }

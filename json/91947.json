@@ -18,5 +18,13 @@
  "age": "22",
  "timestamp": "2013-01-30T08:00:00.000Z",
  "views": "1711",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 cups",
+   "administration": "oral",
+   "substance": "Lemon Balm",
+   "form": "(tea)"
+  }
+ }
 }

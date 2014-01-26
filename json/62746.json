@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2007-10-22T07:00:00.000Z",
  "views": "13213",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "DPT"
+  },
+  "2": {
+   "time": " T+ 9:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

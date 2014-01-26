@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2013-12-26T08:00:00.000Z",
  "views": "228",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(capsule)"
+  }
+ }
 }

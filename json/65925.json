@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-09-24T07:00:00.000Z",
  "views": "12960",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Mucuna pruriens",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Mucuna pruriens",
+   "form": "(extract)"
+  }
+ }
 }

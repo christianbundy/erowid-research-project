@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-11-19T08:00:00.000Z",
  "views": "50259",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ }
 }

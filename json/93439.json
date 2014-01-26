@@ -29,5 +29,30 @@
  "age": "20",
  "timestamp": "2013-06-13T07:00:00.000Z",
  "views": "2585",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "2C-D"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GBL"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GHB"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

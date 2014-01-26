@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2006-07-17T07:00:00.000Z",
  "views": "37315",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "4-Fluoroamphetamine"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "11 mg",
+   "administration": "oral",
+   "substance": "2C-B"
+  }
+ }
 }

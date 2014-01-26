@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2011-02-18T08:00:00.000Z",
  "views": "4243",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 ml",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(pill / tablet)"
+  }
+ }
 }

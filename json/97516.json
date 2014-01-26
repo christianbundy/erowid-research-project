@@ -23,5 +23,20 @@
  "age": "22",
  "timestamp": "2012-09-16T07:00:00.000Z",
  "views": "5804",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

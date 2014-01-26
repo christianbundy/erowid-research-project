@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2007-01-15T08:00:00.000Z",
  "views": "19192",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Hydrocodone",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Quetiapine",
+   "form": ""
+  }
+ }
 }

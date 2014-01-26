@@ -18,5 +18,13 @@
  "age": "23",
  "timestamp": "2012-12-20T08:00:00.000Z",
  "views": "2396",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "Psilocin",
+   "form": "(capsule)"
+  }
+ }
 }

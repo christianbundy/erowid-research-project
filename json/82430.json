@@ -33,5 +33,34 @@
  "age": "22",
  "timestamp": "2011-02-28T08:00:00.000Z",
  "views": "12462",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

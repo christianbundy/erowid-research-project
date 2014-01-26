@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-09-26T07:00:00.000Z",
  "views": "12407",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:05",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "11 g",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(pill / tablet)"
+  }
+ }
 }

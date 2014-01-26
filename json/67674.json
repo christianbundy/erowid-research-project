@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-08-10T07:00:00.000Z",
  "views": "17006",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 10:15",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": ""
+  }
+ }
 }

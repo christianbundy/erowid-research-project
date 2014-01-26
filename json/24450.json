@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-06-13T07:00:00.000Z",
  "views": "20723",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

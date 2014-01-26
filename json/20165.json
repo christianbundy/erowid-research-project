@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2003-01-04T08:00:00.000Z",
  "views": "10941",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 mg",
+   "administration": "IV",
+   "substance": "AMT"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "3.5 mg",
+   "administration": "IV",
+   "substance": "AMT"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-09-24T07:00:00.000Z",
  "views": "8115",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "IV",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "75 mg",
+   "administration": "IV",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:05",
+   "amount": "150 mg",
+   "administration": "IV",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ }
 }

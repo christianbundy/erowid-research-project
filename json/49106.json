@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2008-03-09T08:00:00.000Z",
  "views": "46134",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "0.25 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:09",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 0:26",
+   "amount": "0.25 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 0:31",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "5": {
+   "time": " T+ 0:41",
+   "amount": "0.25 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "6": {
+   "time": " T+ 0:49",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "7": {
+   "time": " T+ 1:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "22",
  "timestamp": "2013-09-18T07:00:00.000Z",
  "views": "805",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "sublingual",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ }
 }

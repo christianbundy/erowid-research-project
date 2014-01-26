@@ -23,5 +23,20 @@
  "age": "37",
  "timestamp": "2011-07-17T07:00:00.000Z",
  "views": "8092",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  }
+ }
 }

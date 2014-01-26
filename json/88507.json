@@ -17,5 +17,12 @@
  "age": "20",
  "timestamp": "2011-01-28T08:00:00.000Z",
  "views": "22131",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "140 mg",
+   "administration": "oral",
+   "substance": "MDAI"
+  }
+ }
 }

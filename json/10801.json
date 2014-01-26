@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-02-26T08:00:00.000Z",
  "views": "30031",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "transdermal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

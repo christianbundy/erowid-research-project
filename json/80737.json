@@ -38,5 +38,41 @@
  "age": "27",
  "timestamp": "2009-09-26T07:00:00.000Z",
  "views": "12864",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 1:15",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 2:20",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  }
+ }
 }

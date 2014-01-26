@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-11-12T08:00:00.000Z",
  "views": "23011",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "12.5 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 10x)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2001-09-24T07:00:00.000Z",
  "views": "23554",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "3 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(flowers)"
+  },
+  "3": {
+   "time": " T+ 6:30",
+   "amount": "275 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(roots)"
+  }
+ }
 }

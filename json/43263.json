@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-11-03T08:00:00.000Z",
  "views": "10163",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 cups",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": ""
+  }
+ }
 }

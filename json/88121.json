@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2012-03-05T08:00:00.000Z",
  "views": "17812",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 9:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

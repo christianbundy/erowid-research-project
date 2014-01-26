@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-03-23T07:00:00.000Z",
  "views": "11457",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-02-23T08:00:00.000Z",
  "views": "6625",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 g",
+   "administration": "oral",
+   "substance": "Heimia salicifolia",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

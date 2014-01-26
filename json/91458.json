@@ -33,5 +33,36 @@
  "age": "19",
  "timestamp": "2011-07-01T07:00:00.000Z",
  "views": "7753",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": "insufflated"
+  },
+  "2": {
+   "time": "Methoxetamine ",
+   "amount": "",
+   "administration": "",
+   "substance": " "
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Cannabis",
+   "administration": "(cookie / food)",
+   "substance": ""
+  },
+  "4": {
+   "time": " ",
+   "amount": "insufflated",
+   "administration": "Methoxetamine ",
+   "substance": ""
+  }
+ }
 }

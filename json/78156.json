@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2013-06-18T07:00:00.000Z",
  "views": "848",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 ",
+   "administration": "",
+   "substance": "Herbal Ecstasy"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 3:00",
+   "administration": "10 seeds",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "H.B. Woodrose",
+   "amount": "(seeds)",
+   "administration": " T+ 4:00",
+   "substance": "1 cig."
+  }
+ }
 }

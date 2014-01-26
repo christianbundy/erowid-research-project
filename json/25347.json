@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-07-17T07:00:00.000Z",
  "views": "20627",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Crack",
+   "form": "(freebase)"
+  }
+ }
 }

@@ -48,5 +48,54 @@
  "age": "21",
  "timestamp": "2013-02-23T08:00:00.000Z",
  "views": "3312",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 g",
+   "administration": "",
+   "substance": "Vitamin C"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "1.6 g",
+   "substance": ""
+  },
+  "2": {
+   "time": "Piracetam",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "0.4 g"
+  },
+  "3": {
+   "time": "",
+   "amount": "Valerian",
+   "administration": "(roots)",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": "100 mg",
+   "amount": "",
+   "administration": "Tryptophan - 5-HTP",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "351 mg",
+   "administration": "",
+   "substance": "DMAE"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 0:15",
+   "administration": "125 mg",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Diphenhydramine",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 0:15",
+   "substance": "1 cup"
+  }
+ }
 }

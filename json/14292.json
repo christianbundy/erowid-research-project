@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-02-20T08:00:00.000Z",
  "views": "11379",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "MBDB",
+   "form": "(powder / crystals)"
+  }
+ }
 }

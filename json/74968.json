@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-11-13T08:00:00.000Z",
  "views": "18784",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 11:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  }
+ }
 }

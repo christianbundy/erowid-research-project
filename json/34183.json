@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-05-09T07:00:00.000Z",
  "views": "3185",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

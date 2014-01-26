@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
  "views": "11380",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

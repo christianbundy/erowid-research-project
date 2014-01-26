@@ -23,5 +23,20 @@
  "age": "25",
  "timestamp": "2012-11-17T08:00:00.000Z",
  "views": "6679",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Various",
+   "form": ""
+  }
+ }
 }

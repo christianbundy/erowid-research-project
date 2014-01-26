@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2002-01-22T08:00:00.000Z",
  "views": "26532",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "2.5 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 2:40",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "6": {
+   "time": " T+ 3:15",
+   "amount": "7.0 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 3:25",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

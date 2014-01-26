@@ -17,5 +17,12 @@
  "age": "36",
  "timestamp": "2012-01-24T08:00:00.000Z",
  "views": "22779",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol"
+  }
+ }
 }

@@ -63,5 +63,76 @@
  "age": "Not Given",
  "timestamp": "2008-02-03T08:00:00.000Z",
  "views": "16319",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3000 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "4000 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": "(daily)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": "(daily)"
+  },
+  "6": {
+   "time": " T+ 9:00",
+   "amount": "2000 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 9:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 11:00",
+   "amount": "2000 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  },
+  "9": {
+   "time": " T+ 11:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

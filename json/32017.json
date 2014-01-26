@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-03-29T08:00:00.000Z",
  "views": "6289",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "80 ml",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ }
 }

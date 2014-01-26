@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "22888",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Methamphetamine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

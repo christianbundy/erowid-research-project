@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-09-08T07:00:00.000Z",
  "views": "40111",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ }
 }

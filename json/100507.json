@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2013-06-17T07:00:00.000Z",
  "views": "1563",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Allylescaline",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "vaporized",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

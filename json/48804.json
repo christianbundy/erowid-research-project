@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-03T07:00:00.000Z",
  "views": "39458",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "40 mg",
+   "administration": "",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

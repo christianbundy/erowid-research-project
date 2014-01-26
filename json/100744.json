@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2013-10-21T07:00:00.000Z",
  "views": "539",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 mg",
+   "administration": "sublingual",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

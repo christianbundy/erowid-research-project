@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-01-21T08:00:00.000Z",
  "views": "8192",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

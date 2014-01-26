@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2013-01-29T08:00:00.000Z",
  "views": "2009",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "5-MeO-MIPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

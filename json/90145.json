@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2011-11-22T08:00:00.000Z",
  "views": "12723",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "21 tablets",
+   "administration": "smoked",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2009-07-21T07:00:00.000Z",
  "views": "9454",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "GHB",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Alprazolam",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Clonidine",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Hydromorphone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

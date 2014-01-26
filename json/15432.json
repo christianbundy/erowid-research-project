@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2007-03-15T07:00:00.000Z",
  "views": "30354",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "100 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Sildenafil",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 6:00",
+   "substance": "1 hit"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Amphetamines",
+   "administration": "",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": "2 joints/cigs",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  }
+ }
 }

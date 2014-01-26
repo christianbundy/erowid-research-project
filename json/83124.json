@@ -33,5 +33,36 @@
  "age": "30",
  "timestamp": "2010-02-15T08:00:00.000Z",
  "views": "6873",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " repeated",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Alcohol - Beer/Wine",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "200 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Methylone",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 3:00"
+  },
+  "4": {
+   "time": "20 mg",
+   "amount": "oral",
+   "administration": "2C-I",
+   "substance": "(powder / crystals)"
+  }
+ }
 }

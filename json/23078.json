@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-02-12T08:00:00.000Z",
  "views": "36766",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(gel tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

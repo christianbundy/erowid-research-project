@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-04-07T07:00:00.000Z",
  "views": "25057",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "27 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(liquid)"
+  }
+ }
 }

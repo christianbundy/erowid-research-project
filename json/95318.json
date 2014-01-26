@@ -28,5 +28,27 @@
  "age": "20",
  "timestamp": "2012-04-05T07:00:00.000Z",
  "views": "8675",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 3:10",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ }
 }

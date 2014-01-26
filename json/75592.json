@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2010-01-16T08:00:00.000Z",
  "views": "5649",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": " T+ 11:00",
+   "amount": "0.25 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cyanescens"
+  }
+ }
 }

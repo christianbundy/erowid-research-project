@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-09-12T07:00:00.000Z",
  "views": "90074",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "PCP",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 ",
+   "administration": "insufflated",
+   "substance": "PCP",
+   "form": "(capsule)"
+  }
+ }
 }

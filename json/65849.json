@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-09-09T07:00:00.000Z",
  "views": "1843",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

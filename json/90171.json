@@ -48,5 +48,55 @@
  "age": "23",
  "timestamp": "2011-05-12T07:00:00.000Z",
  "views": "57056",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 6:30",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 12:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 16:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 24:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

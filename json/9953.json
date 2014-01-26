@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2004-08-20T07:00:00.000Z",
  "views": "42926",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

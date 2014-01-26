@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-06-01T07:00:00.000Z",
  "views": "3444",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

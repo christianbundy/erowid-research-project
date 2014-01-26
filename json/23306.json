@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-10-03T07:00:00.000Z",
  "views": "14819",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

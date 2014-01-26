@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-05-28T07:00:00.000Z",
  "views": "19349",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "700 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Voacanga africana",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 1:10",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-05-13T07:00:00.000Z",
  "views": "28606",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1.75 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ }
 }

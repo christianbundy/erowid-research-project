@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2004-06-26T07:00:00.000Z",
  "views": "33955",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 7:30",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

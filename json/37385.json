@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2005-04-04T07:00:00.000Z",
  "views": "11117",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "20 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "2C-T-2",
+   "amount": "",
+   "administration": "",
+   "substance": "3.5 g"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Mushrooms",
+   "administration": "(tea)",
+   "substance": ""
+  },
+  "4": {
+   "time": "1 bowl",
+   "amount": "smoked",
+   "administration": "Salvia divinorum",
+   "substance": ""
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Opium"
+  }
+ }
 }

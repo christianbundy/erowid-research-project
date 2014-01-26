@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2013-12-13T08:00:00.000Z",
  "views": "722",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "3 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "4": {
+   "time": " T+ 3:00",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 6:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 6:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

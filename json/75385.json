@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-12-16T08:00:00.000Z",
  "views": "8440",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 ug",
+   "administration": "oral",
+   "substance": "Huperzine ",
+   "form": "(pill / tablet)"
+  }
+ }
 }

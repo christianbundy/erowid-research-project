@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-11-16T08:00:00.000Z",
  "views": "10952",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "37 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(capsule)"
+  }
+ }
 }

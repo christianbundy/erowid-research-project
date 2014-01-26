@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-27T08:00:00.000Z",
  "views": "11306",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12.5 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

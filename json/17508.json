@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-11-19T08:00:00.000Z",
  "views": "15376",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(extract)"
+  }
+ }
 }

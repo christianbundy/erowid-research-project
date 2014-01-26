@@ -45,5 +45,54 @@
  "age": "Not Given",
  "timestamp": "2009-01-14T08:00:00.000Z",
  "views": "9682",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOI"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "4.0 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone"
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOI"
+  },
+  "4": {
+   "time": " T+ 7:00",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "5": {
+   "time": " T+ 7:00",
+   "amount": "4.0 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone"
+  },
+  "6": {
+   "time": " T+ 12:00",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "7": {
+   "time": " T+ 12:00",
+   "amount": "4.0 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone"
+  }
+ }
 }

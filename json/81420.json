@@ -23,5 +23,20 @@
  "age": "21",
  "timestamp": "2013-12-02T08:00:00.000Z",
  "views": "342",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

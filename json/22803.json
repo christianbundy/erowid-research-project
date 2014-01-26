@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-05-09T07:00:00.000Z",
  "views": "15263",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "sublingual",
+   "substance": "Moclobemide",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "100 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:10",
+   "amount": "60 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 6x)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2011-11-30T08:00:00.000Z",
  "views": "6561",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

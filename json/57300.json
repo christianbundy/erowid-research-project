@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "12590",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 capsls",
+   "administration": "oral",
+   "substance": "Kratom"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "6 capsls",
+   "administration": "oral",
+   "substance": "Kratom"
+  }
+ }
 }

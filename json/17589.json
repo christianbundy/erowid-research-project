@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2006-03-18T08:00:00.000Z",
  "views": "38046",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:35",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 0:40",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 0:45",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 0:55",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 1:30",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": ""
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "25",
  "timestamp": "2011-02-18T08:00:00.000Z",
  "views": "6679",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

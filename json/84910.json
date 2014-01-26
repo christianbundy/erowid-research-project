@@ -28,5 +28,27 @@
  "age": "23",
  "timestamp": "2010-08-28T07:00:00.000Z",
  "views": "15157",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

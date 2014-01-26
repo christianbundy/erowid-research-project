@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2010-05-14T07:00:00.000Z",
  "views": "10850",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

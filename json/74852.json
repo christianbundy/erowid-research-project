@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-03-06T08:00:00.000Z",
  "views": "11250",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine"
+  },
+  "1": {
+   "time": "",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam"
+  }
+ }
 }

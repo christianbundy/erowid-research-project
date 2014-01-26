@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-08-09T07:00:00.000Z",
  "views": "15444",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT"
+  }
+ }
 }

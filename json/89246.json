@@ -68,5 +68,83 @@
  "age": "27",
  "timestamp": "2011-02-21T08:00:00.000Z",
  "views": "7450",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(extract)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Spearmint",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabinoid Receptor Agonists",
+   "form": ""
+  },
+  "9": {
+   "time": " T+ 0:30",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": "(capsule)"
+  },
+  "10": {
+   "time": " T+ 0:30",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-11-11T08:00:00.000Z",
  "views": "25070",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

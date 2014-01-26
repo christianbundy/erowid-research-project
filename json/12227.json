@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-11-24T08:00:00.000Z",
  "views": "15725",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharmaceuticals",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tsp",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(ground / crushed)"
+  }
+ }
 }

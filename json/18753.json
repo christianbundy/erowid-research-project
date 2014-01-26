@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-12-15T08:00:00.000Z",
  "views": "9429",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

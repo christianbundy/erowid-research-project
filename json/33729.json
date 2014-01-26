@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-11-14T08:00:00.000Z",
  "views": "23336",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 16:15",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 18:38",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 19:41",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 36:18",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-07-30T07:00:00.000Z",
  "views": "4732",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(liquid)"
+  }
+ }
 }

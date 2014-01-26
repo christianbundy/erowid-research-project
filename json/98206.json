@@ -48,5 +48,55 @@
  "age": "48",
  "timestamp": "2012-11-20T08:00:00.000Z",
  "views": "1504",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "400 ug",
+   "administration": "sublingual",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 2:15",
+   "amount": "400 ug",
+   "administration": "sublingual",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 2:15",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 6:15",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-06-29T07:00:00.000Z",
  "views": "21374",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15.9 mg",
+   "administration": "oral",
+   "substance": "DOI",
+   "form": "(powder / crystals)"
+  }
+ }
 }

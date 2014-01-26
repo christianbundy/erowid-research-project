@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-08-12T07:00:00.000Z",
  "views": "47784",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "240 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "32 ug",
+   "administration": "oral",
+   "substance": "Chlorpheniramine Maleate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

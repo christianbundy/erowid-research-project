@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-04-23T07:00:00.000Z",
  "views": "44879",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.5 Tbsp",
+   "administration": "oral",
+   "substance": "Ginger",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1.5 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:36",
+   "amount": "0.5 Tbsp",
+   "administration": "oral",
+   "substance": "Ginger",
+   "form": "(capsule)"
+  }
+ }
 }

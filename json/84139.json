@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2010-12-09T08:00:00.000Z",
  "views": "9412",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 ug",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

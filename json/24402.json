@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-06-10T07:00:00.000Z",
  "views": "18378",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  }
+ }
 }

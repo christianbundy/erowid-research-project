@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2002-02-27T08:00:00.000Z",
  "views": "18444",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 shots",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:45",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 1:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 1:05",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 1:25",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 2:15",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

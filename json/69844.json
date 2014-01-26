@@ -29,5 +29,30 @@
  "age": "Not Given",
  "timestamp": "2009-04-13T07:00:00.000Z",
  "views": "22695",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Levmetamfetamine"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamins - Choline"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Levmetamfetamine"
+  }
+ }
 }

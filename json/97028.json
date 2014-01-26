@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2013-07-10T07:00:00.000Z",
  "views": "1914",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "45 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "27",
  "timestamp": "2011-01-12T08:00:00.000Z",
  "views": "15864",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3000 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(daily)"
+  }
+ }
 }

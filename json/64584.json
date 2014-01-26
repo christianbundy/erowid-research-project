@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2010-03-29T07:00:00.000Z",
  "views": "14393",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "transdermal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ }
 }

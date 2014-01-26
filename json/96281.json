@@ -37,5 +37,42 @@
  "age": "21",
  "timestamp": "2013-02-23T08:00:00.000Z",
  "views": "3125",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "IM",
+   "substance": "DPT"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "3": {
+   "time": " T+ 0:35",
+   "amount": "25 mg",
+   "administration": "IM",
+   "substance": "Methoxetamine "
+  },
+  "4": {
+   "time": " T+ 1:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "5": {
+   "time": " T+ 1:30",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide"
+  }
+ }
 }

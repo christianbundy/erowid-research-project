@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-05-01T07:00:00.000Z",
  "views": "9331",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "22.5 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

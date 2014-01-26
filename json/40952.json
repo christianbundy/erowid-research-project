@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-07-13T07:00:00.000Z",
  "views": "41127",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 4:10",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 6:45",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

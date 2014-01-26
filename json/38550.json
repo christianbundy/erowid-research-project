@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-12-04T08:00:00.000Z",
  "views": "52214",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 2:45",
+   "amount": "0.35 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": ""
+  }
+ }
 }

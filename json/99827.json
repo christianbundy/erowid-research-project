@@ -33,5 +33,36 @@
  "age": "17",
  "timestamp": "2013-12-11T08:00:00.000Z",
  "views": "500",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:00",
+   "administration": " ",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": " T+ 1:00",
+   "substance": "2.5 shots"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Alcohol - Hard",
+   "administration": "",
+   "substance": " T+ 2:00"
+  },
+  "4": {
+   "time": "2 capsls",
+   "amount": "insufflated",
+   "administration": "4-Fluoroamphetamine",
+   "substance": "(powder / crystals)"
+  }
+ }
 }

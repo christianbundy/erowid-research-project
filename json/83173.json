@@ -33,5 +33,34 @@
  "age": "27",
  "timestamp": "2011-01-17T08:00:00.000Z",
  "views": "7287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

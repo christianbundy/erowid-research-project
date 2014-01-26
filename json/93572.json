@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2012-04-11T07:00:00.000Z",
  "views": "3270",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-T-4",
+   "form": "(powder / crystals)"
+  }
+ }
 }

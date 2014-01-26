@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-01-03T08:00:00.000Z",
  "views": "6357",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ }
 }

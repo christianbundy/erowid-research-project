@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-07-31T07:00:00.000Z",
  "views": "31526",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  },
+  "1": {
+   "time": "",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  }
+ }
 }

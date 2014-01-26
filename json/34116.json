@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-06-04T07:00:00.000Z",
  "views": "26242",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 g",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": "(tea)"
+  }
+ }
 }

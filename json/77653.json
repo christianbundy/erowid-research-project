@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-08-01T07:00:00.000Z",
  "views": "10297",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Benzodiazepines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-06-07T07:00:00.000Z",
  "views": "57347",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  }
+ }
 }

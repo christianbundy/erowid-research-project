@@ -18,5 +18,13 @@
  "age": "27",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "12187",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

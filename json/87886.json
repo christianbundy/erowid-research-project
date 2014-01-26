@@ -18,5 +18,13 @@
  "age": "40",
  "timestamp": "2011-07-16T07:00:00.000Z",
  "views": "4213",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(daily)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-04-22T07:00:00.000Z",
  "views": "4727",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  }
+ }
 }

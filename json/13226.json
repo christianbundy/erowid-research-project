@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-11-29T08:00:00.000Z",
  "views": "17014",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": ""
+  }
+ }
 }

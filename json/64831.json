@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-08-09T07:00:00.000Z",
  "views": "13049",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  }
+ }
 }

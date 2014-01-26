@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2007-08-29T07:00:00.000Z",
  "views": "20794",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 lines",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 5:40",
+   "amount": "4 lines",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 7:30",
+   "amount": "4 lines",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 11:00",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 12:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(plant material)"
+  }
+ }
 }

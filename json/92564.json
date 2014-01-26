@@ -25,5 +25,24 @@
  "age": "26",
  "timestamp": "2012-01-23T08:00:00.000Z",
  "views": "3238",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "26 mg",
+   "administration": "oral",
+   "substance": "Psilocin"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "11 mg",
+   "administration": "oral",
+   "substance": "Psilocin"
+  }
+ }
 }

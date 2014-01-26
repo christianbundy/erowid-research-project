@@ -18,5 +18,13 @@
  "age": "23",
  "timestamp": "2013-01-18T08:00:00.000Z",
  "views": "2255",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Fluoromethamphetamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

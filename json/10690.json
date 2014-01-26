@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-03-23T08:00:00.000Z",
  "views": "19668",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Crack",
+   "form": "(freebase)"
+  }
+ }
 }

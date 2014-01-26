@@ -28,5 +28,27 @@
  "age": "30",
  "timestamp": "2011-02-20T08:00:00.000Z",
  "views": "27304",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 9:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

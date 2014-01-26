@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-08-04T07:00:00.000Z",
  "views": "5811",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

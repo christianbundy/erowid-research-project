@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2012-01-07T08:00:00.000Z",
  "views": "19875",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "sublingual",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 3:30",
+   "administration": "1 tablet",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "MDMA",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 3:30",
+   "substance": "2 hits"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "(plant material)",
+   "substance": " T+ 8:00"
+  },
+  "4": {
+   "time": "1 tablet",
+   "amount": "insufflated",
+   "administration": "MDMA",
+   "substance": "(ground / crushed)"
+  },
+  "5": {
+   "time": " T+ 10:00",
+   "amount": "3 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 10:00",
+   "administration": "1 ",
+   "substance": "oral"
+  }
+ }
 }

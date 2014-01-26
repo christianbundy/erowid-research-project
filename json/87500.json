@@ -33,5 +33,36 @@
  "age": "20",
  "timestamp": "2013-12-25T08:00:00.000Z",
  "views": "251",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine"
+  },
+  "1": {
+   "time": " T+ 4:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 4:15",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "4": {
+   "time": " T+ 6:30",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  }
+ }
 }

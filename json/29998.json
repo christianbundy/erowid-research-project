@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-01-14T08:00:00.000Z",
  "views": "23507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "PMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

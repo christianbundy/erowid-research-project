@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-11-10T08:00:00.000Z",
  "views": "19714",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 cups",
+   "administration": "oral",
+   "substance": "Coffee",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:05",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 4:15",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(liquid)"
+  }
+ }
 }

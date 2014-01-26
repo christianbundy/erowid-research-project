@@ -29,5 +29,30 @@
  "age": "60",
  "timestamp": "2011-02-20T08:00:00.000Z",
  "views": "11543",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "AM-2201"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "MDPV"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "MDPV"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "MDPV"
+  }
+ }
 }

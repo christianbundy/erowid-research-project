@@ -28,5 +28,27 @@
  "age": "27",
  "timestamp": "2013-04-27T07:00:00.000Z",
  "views": "2255",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Psilocin",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Psilocin",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": "0.5 g",
+   "administration": "vaporized",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

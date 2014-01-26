@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2011-01-23T08:00:00.000Z",
  "views": "6519",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

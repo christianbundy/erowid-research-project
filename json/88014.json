@@ -17,5 +17,12 @@
  "age": "25",
  "timestamp": "2012-05-27T07:00:00.000Z",
  "views": "2635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "IM",
+   "substance": "2C-D"
+  }
+ }
 }

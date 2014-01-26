@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2001-12-24T08:00:00.000Z",
  "views": "26615",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ }
 }

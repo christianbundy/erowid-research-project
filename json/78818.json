@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "9006",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Methylone"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:00",
+   "administration": "50 mg",
+   "substance": "insufflated"
+  },
+  "2": {
+   "time": "Methylone",
+   "amount": "",
+   "administration": " T+ 3:30",
+   "substance": "200 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Methylone",
+   "administration": "",
+   "substance": " T+ 7:00"
+  },
+  "4": {
+   "time": " repeated",
+   "amount": "insufflated",
+   "administration": "4-Methylmethcathinone",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 13:30",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 13:30",
+   "administration": " ",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Pharms - Fentanyl",
+   "amount": "",
+   "administration": " T+ 13:30",
+   "substance": "200 mg"
+  }
+ }
 }

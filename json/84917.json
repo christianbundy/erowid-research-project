@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-07-17T07:00:00.000Z",
  "views": "7759",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "34",
  "timestamp": "2012-06-01T07:00:00.000Z",
  "views": "4014",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-Acetoxy-MiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "38",
  "timestamp": "2010-07-23T07:00:00.000Z",
  "views": "3144",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 48:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 96:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ }
 }

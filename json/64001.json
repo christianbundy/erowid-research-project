@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-11-29T08:00:00.000Z",
  "views": "8795",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

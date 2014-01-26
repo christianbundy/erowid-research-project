@@ -18,5 +18,13 @@
  "age": "22",
  "timestamp": "2011-02-02T08:00:00.000Z",
  "views": "6896",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 mg",
+   "administration": "smoked",
+   "substance": "JWH-073",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2004-12-06T08:00:00.000Z",
  "views": "27596",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nelumbo nucifera",
+   "form": ""
+  }
+ }
 }

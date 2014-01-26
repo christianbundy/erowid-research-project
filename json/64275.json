@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-09-21T07:00:00.000Z",
  "views": "8867",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Carisoprodol"
+  }
+ }
 }

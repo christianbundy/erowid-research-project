@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-10-21T07:00:00.000Z",
  "views": "17822",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.3 g",
+   "administration": "oral",
+   "substance": "Cannabis - Hash",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 tsp",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(tea)"
+  }
+ }
 }

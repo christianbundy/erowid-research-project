@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-03-02T08:00:00.000Z",
  "views": "8319",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(cookie / food)"
+  }
+ }
 }

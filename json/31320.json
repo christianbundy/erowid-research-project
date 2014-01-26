@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-01-25T08:00:00.000Z",
  "views": "4109",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 drop",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  }
+ }
 }

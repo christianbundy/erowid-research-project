@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-07-07T07:00:00.000Z",
  "views": "18444",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  }
+ }
 }

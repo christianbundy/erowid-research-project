@@ -23,5 +23,20 @@
  "age": "30",
  "timestamp": "2010-07-19T07:00:00.000Z",
  "views": "8288",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DALT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2002-06-30T07:00:00.000Z",
  "views": "30635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 3:30",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  }
+ }
 }

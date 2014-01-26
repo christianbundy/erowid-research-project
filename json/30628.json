@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-04-29T07:00:00.000Z",
  "views": "18136",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 19:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

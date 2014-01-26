@@ -17,5 +17,12 @@
  "age": "30",
  "timestamp": "2011-11-04T07:00:00.000Z",
  "views": "6558",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP"
+  }
+ }
 }

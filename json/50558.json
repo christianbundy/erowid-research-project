@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-12-26T08:00:00.000Z",
  "views": "9332",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Triazolam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "0.25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Triazolam",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ }
 }

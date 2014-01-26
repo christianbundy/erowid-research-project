@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "24131",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(plant material)"
+  }
+ }
 }

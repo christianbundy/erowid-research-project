@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-06-28T07:00:00.000Z",
  "views": "4481",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2002-10-07T07:00:00.000Z",
  "views": "38308",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1050 mg",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2011-12-17T08:00:00.000Z",
  "views": "7142",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  }
+ }
 }

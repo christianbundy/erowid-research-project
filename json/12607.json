@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2005-02-10T08:00:00.000Z",
  "views": "29057",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 9:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 9:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

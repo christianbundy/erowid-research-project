@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-01-09T08:00:00.000Z",
  "views": "21891",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  }
+ }
 }

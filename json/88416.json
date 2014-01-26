@@ -21,5 +21,18 @@
  "age": "33",
  "timestamp": "2011-01-28T08:00:00.000Z",
  "views": "16143",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "MDAI"
+  },
+  "1": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "MDAI"
+  }
+ }
 }

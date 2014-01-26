@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2006-03-07T08:00:00.000Z",
  "views": "11711",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "6 caps",
+   "administration": "oral",
+   "substance": "Amanitas - A. pantherina",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "3 glasses",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": "6.0 mg",
+   "administration": "IV",
+   "substance": "5-MeO-DMT",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "6": {
+   "time": "",
+   "amount": "25 mg",
+   "administration": "IM",
+   "substance": "DPT",
+   "form": ""
+  },
+  "7": {
+   "time": "",
+   "amount": "8.0 mg",
+   "administration": "IV",
+   "substance": "5-MeO-DMT",
+   "form": ""
+  },
+  "8": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "IV",
+   "substance": "5-MeO-DMT",
+   "form": ""
+  }
+ }
 }

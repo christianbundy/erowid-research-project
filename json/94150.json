@@ -48,5 +48,54 @@
  "age": "18",
  "timestamp": "2013-01-05T08:00:00.000Z",
  "views": "1417",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "0.25 oz",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Mushrooms - P. cubensis",
+   "amount": "(cookie / food)",
+   "administration": "",
+   "substance": "3 hits"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "LSD",
+   "administration": "(blotter / tab)",
+   "substance": ""
+  },
+  "4": {
+   "time": "0.125 oz",
+   "amount": "oral",
+   "administration": "Mushrooms",
+   "substance": "(cookie / food)"
+  },
+  "5": {
+   "time": "",
+   "amount": "0.125 oz",
+   "administration": "oral",
+   "substance": "Mushrooms"
+  },
+  "6": {
+   "time": "(dried)",
+   "amount": "",
+   "administration": "1 tablet",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "MDMA",
+   "amount": "(pill / tablet)",
+   "administration": "",
+   "substance": "3 hits"
+  }
+ }
 }

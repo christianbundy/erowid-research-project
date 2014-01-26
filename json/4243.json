@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2001-03-03T08:00:00.000Z",
  "views": "15735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Nutmeg"
+  }
+ }
 }

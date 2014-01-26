@@ -33,5 +33,34 @@
  "age": "17",
  "timestamp": "2012-04-28T07:00:00.000Z",
  "views": "3994",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 22:40",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 40:40",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

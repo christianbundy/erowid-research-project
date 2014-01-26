@@ -18,5 +18,13 @@
  "age": "27",
  "timestamp": "2010-11-10T08:00:00.000Z",
  "views": "10340",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ }
 }

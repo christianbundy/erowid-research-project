@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2009-12-02T08:00:00.000Z",
  "views": "18845",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

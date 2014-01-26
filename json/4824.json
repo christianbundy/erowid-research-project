@@ -29,5 +29,30 @@
  "age": "Not Given",
  "timestamp": "2001-03-01T08:00:00.000Z",
  "views": "41357",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Valerian"
+  },
+  "1": {
+   "time": "",
+   "amount": "7.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin"
+  },
+  "2": {
+   "time": "",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Kava"
+  },
+  "3": {
+   "time": "",
+   "amount": "21 mg",
+   "administration": "oral",
+   "substance": "Vitamin B-6"
+  }
+ }
 }

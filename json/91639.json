@@ -21,5 +21,18 @@
  "age": "39",
  "timestamp": "2011-06-30T07:00:00.000Z",
  "views": "7143",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Tea"
+  },
+  "1": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Modafinil"
+  }
+ }
 }

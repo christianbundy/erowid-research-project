@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-09-25T07:00:00.000Z",
  "views": "10067",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  }
+ }
 }

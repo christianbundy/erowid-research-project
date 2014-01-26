@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2007-05-08T07:00:00.000Z",
  "views": "22029",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Ephedra sinica",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 2:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Lobelia spp.",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 10:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 10:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lactuca - L. canadensis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "26",
  "timestamp": "2010-08-13T07:00:00.000Z",
  "views": "6388",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  }
+ }
 }

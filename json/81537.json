@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2010-06-17T07:00:00.000Z",
  "views": "13550",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

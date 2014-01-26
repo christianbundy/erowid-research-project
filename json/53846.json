@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-06-16T07:00:00.000Z",
  "views": "43651",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5.3 g",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-07-31T07:00:00.000Z",
  "views": "29198",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "210 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:40",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

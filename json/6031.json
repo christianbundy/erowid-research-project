@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2001-04-04T07:00:00.000Z",
  "views": "51424",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "13 hits",
+   "administration": "inhaled",
+   "substance": "Pharms - Albuterol",
+   "form": "(gas)"
+  },
+  "1": {
+   "time": "",
+   "amount": "13 hits",
+   "administration": "inhaled",
+   "substance": "Pharms - Albuterol",
+   "form": "(gas)"
+  },
+  "2": {
+   "time": "",
+   "amount": "13 hits",
+   "administration": "inhaled",
+   "substance": "Pharms - Albuterol",
+   "form": "(gas)"
+  }
+ }
 }

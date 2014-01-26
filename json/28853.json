@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2003-12-03T08:00:00.000Z",
  "views": "23114",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "4": {
+   "time": " T+ 7:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "5": {
+   "time": " T+ 8:00",
+   "amount": "3.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": " T+ 9:00",
+   "amount": "3.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  },
+  "7": {
+   "time": " T+ 10:00",
+   "amount": "3.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  }
+ }
 }

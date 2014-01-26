@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2012-06-01T07:00:00.000Z",
  "views": "12309",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "18",
  "timestamp": "2010-10-28T07:00:00.000Z",
  "views": "5492",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 ug",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly"
+  }
+ }
 }

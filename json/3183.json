@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2001-12-23T08:00:00.000Z",
  "views": "24045",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7 tablets",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "7 tablets",
+   "administration": "oral",
+   "substance": "Ginseng",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "7 tablets",
+   "administration": "oral",
+   "substance": "Guarana",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "500 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

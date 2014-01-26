@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
  "views": "32824",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

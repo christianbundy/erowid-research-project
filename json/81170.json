@@ -21,5 +21,18 @@
  "age": "40",
  "timestamp": "2012-02-22T08:00:00.000Z",
  "views": "6570",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Ephedrine"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  }
+ }
 }

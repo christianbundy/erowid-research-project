@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2011-08-04T07:00:00.000Z",
  "views": "3650",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Heroin",
+   "form": "(tar / resin)"
+  }
+ }
 }

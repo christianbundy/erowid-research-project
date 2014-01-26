@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2006-06-18T07:00:00.000Z",
  "views": "38085",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

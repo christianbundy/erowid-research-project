@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-03-08T08:00:00.000Z",
  "views": "9932",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": "",
+   "amount": "8 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2 Tbsp",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(roots)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

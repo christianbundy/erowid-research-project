@@ -33,5 +33,34 @@
  "age": "19",
  "timestamp": "2009-10-26T07:00:00.000Z",
  "views": "9500",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "1.5 mg",
+   "administration": "",
+   "substance": "Melatonin",
+   "form": ""
+  }
+ }
 }

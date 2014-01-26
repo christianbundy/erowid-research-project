@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-05-22T07:00:00.000Z",
  "views": "11953",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

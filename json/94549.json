@@ -28,5 +28,27 @@
  "age": "33",
  "timestamp": "2012-01-24T08:00:00.000Z",
  "views": "17707",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  }
+ }
 }

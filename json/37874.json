@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
  "views": "6384",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

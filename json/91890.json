@@ -23,5 +23,20 @@
  "age": "23",
  "timestamp": "2011-07-21T07:00:00.000Z",
  "views": "8568",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 3:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ }
 }

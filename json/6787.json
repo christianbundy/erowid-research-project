@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-10-29T08:00:00.000Z",
  "views": "16901",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(dried)"
+  }
+ }
 }

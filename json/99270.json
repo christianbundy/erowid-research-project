@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2013-09-27T07:00:00.000Z",
  "views": "551",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "600 ug",
+   "administration": "sublingual",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  }
+ }
 }

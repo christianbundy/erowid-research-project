@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-08-12T07:00:00.000Z",
  "views": "29775",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": ""
+  }
+ }
 }

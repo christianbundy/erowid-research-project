@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2011-03-08T08:00:00.000Z",
  "views": "10047",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:40",
+   "amount": "2 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

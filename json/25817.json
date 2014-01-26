@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2004-05-03T07:00:00.000Z",
  "views": "21255",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Flunitrazepam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

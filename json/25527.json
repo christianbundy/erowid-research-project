@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-07-24T07:00:00.000Z",
  "views": "18152",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  }
+ }
 }

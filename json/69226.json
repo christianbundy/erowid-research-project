@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-09-30T07:00:00.000Z",
  "views": "8692",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "insufflated",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-01-14T08:00:00.000Z",
  "views": "34729",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

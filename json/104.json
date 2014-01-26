@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2001-07-29T07:00:00.000Z",
  "views": "24871",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "44",
  "timestamp": "2012-03-06T08:00:00.000Z",
  "views": "20790",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "60 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "40 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": "",
+   "amount": "12.5 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(tea)"
+  },
+  "4": {
+   "time": "",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  }
+ }
 }

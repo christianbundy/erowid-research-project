@@ -18,5 +18,13 @@
  "age": "35",
  "timestamp": "2010-07-19T07:00:00.000Z",
  "views": "11451",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

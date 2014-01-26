@@ -21,5 +21,18 @@
  "age": "18",
  "timestamp": "2013-03-02T08:00:00.000Z",
  "views": "4462",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin"
+  }
+ }
 }

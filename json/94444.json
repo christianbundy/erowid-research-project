@@ -23,5 +23,20 @@
  "age": "21",
  "timestamp": "2013-12-06T08:00:00.000Z",
  "views": "663",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.2 g",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "4.1 g",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

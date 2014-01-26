@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2000-07-13T07:00:00.000Z",
  "views": "54375",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "110 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Piperazines - TFMPP",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Piperazines - mCPP",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ }
 }

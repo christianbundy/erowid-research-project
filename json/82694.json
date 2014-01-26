@@ -33,5 +33,36 @@
  "age": "16",
  "timestamp": "2013-11-21T08:00:00.000Z",
  "views": "510",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "3": {
+   "time": " T+ 0:15",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "4": {
+   "time": " T+ 0:20",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  }
+ }
 }

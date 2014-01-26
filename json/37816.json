@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-07-02T07:00:00.000Z",
  "views": "4641",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  }
+ }
 }

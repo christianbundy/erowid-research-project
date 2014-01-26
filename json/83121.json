@@ -21,5 +21,18 @@
  "age": "25",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "23381",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin"
+  }
+ }
 }

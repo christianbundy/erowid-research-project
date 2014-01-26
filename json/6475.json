@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2002-01-19T08:00:00.000Z",
  "views": "12753",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "12 in",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": "5.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  }
+ }
 }

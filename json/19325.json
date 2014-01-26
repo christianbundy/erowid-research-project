@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2006-08-25T07:00:00.000Z",
  "views": "4184",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 5:30",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 5:30",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 6:30",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 11:30",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

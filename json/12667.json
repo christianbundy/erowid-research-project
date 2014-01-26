@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-01-25T08:00:00.000Z",
  "views": "16173",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ }
 }

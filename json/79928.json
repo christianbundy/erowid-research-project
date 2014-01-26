@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-01-25T08:00:00.000Z",
  "views": "2378",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2011-03-31T07:00:00.000Z",
  "views": "14679",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ }
 }

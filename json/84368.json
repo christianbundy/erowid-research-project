@@ -18,5 +18,13 @@
  "age": "33",
  "timestamp": "2011-08-02T07:00:00.000Z",
  "views": "11085",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

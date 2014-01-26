@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-10-01T07:00:00.000Z",
  "views": "23795",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 1:15",
+   "amount": "10 g",
+   "administration": "oral",
+   "substance": "Heimia salicifolia",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 2:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

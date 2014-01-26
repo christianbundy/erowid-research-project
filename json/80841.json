@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2009-12-26T08:00:00.000Z",
  "views": "10150",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 in",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(liquid)"
+  }
+ }
 }

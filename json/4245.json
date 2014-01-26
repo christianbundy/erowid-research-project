@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2001-06-06T07:00:00.000Z",
  "views": "11959",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 Tbsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "240 mg",
+   "administration": "oral",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

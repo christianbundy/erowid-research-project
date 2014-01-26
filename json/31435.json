@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2006-04-30T07:00:00.000Z",
  "views": "78644",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-09-30T07:00:00.000Z",
  "views": "13266",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 ml",
+   "administration": "",
+   "substance": "Morphine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "260 mg",
+   "administration": "IV",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ }
 }

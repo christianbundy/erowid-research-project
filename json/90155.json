@@ -25,5 +25,24 @@
  "age": "19",
  "timestamp": "2011-05-02T07:00:00.000Z",
  "views": "8542",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  }
+ }
 }

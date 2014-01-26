@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2009-01-25T08:00:00.000Z",
  "views": "15307",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "11 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "12 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 drop",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "1 drop",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 9:30",
+   "amount": "12.5 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": ""
+  }
+ }
 }

@@ -43,5 +43,48 @@
  "age": "21",
  "timestamp": "2010-06-27T07:00:00.000Z",
  "views": "6436",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "60 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(extract)"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  }
+ }
 }

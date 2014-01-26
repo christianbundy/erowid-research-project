@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "17047",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "28 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 10:00",
+   "amount": "92 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

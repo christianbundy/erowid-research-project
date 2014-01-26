@@ -18,5 +18,13 @@
  "age": "23",
  "timestamp": "2012-12-28T08:00:00.000Z",
  "views": "2775",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ }
 }

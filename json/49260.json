@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2007-11-09T08:00:00.000Z",
  "views": "2827",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": "",
+   "substance": "1 hit"
+  }
+ }
 }

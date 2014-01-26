@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-06-10T07:00:00.000Z",
  "views": "7887",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  }
+ }
 }

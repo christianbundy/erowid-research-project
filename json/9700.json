@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2002-07-14T07:00:00.000Z",
  "views": "16056",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 1:10",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Ketamine"
+  }
+ }
 }

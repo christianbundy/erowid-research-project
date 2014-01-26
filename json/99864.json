@@ -28,5 +28,27 @@
  "age": "22",
  "timestamp": "2013-07-27T07:00:00.000Z",
  "views": "874",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:45",
+   "amount": "30 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(freebase)"
+  }
+ }
 }

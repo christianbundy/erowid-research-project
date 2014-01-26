@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-04-05T07:00:00.000Z",
  "views": "7569",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-T-7"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:40",
+   "administration": "1 hit",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": " T+ 3:25",
+   "substance": "1 hit"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 6:10"
+  },
+  "4": {
+   "time": "190 mg",
+   "amount": "insufflated",
+   "administration": "Ketamine",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kratom"
+  },
+  "6": {
+   "time": "(tea)",
+   "amount": " T+ 0:00",
+   "administration": " ",
+   "substance": "oral"
+  }
+ }
 }

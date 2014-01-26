@@ -29,5 +29,30 @@
  "age": "33",
  "timestamp": "2012-12-26T08:00:00.000Z",
  "views": "1212",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cacti"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": "25 mg",
+   "administration": "",
+   "substance": "2C-E"
+  },
+  "3": {
+   "time": " T+ 8:00",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ }
 }

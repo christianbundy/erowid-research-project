@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2012-07-26T07:00:00.000Z",
  "views": "1720",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ }
 }

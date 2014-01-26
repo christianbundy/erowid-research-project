@@ -18,5 +18,13 @@
  "age": "42",
  "timestamp": "2011-06-28T07:00:00.000Z",
  "views": "13703",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1/2 cap",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  }
+ }
 }

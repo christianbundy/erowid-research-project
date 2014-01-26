@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-01-17T08:00:00.000Z",
  "views": "64568",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

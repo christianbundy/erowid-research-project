@@ -18,5 +18,13 @@
  "age": "49",
  "timestamp": "2011-02-25T08:00:00.000Z",
  "views": "9880",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  }
+ }
 }

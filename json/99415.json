@@ -23,5 +23,20 @@
  "age": "15",
  "timestamp": "2013-06-02T07:00:00.000Z",
  "views": "2785",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Theanine",
+   "form": "(tea)"
+  }
+ }
 }

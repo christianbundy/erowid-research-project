@@ -21,5 +21,18 @@
  "age": "16",
  "timestamp": "2013-09-21T07:00:00.000Z",
  "views": "669",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "25I-NBOMe"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

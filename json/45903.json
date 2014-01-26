@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2008-02-16T08:00:00.000Z",
  "views": "8701",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "700 mg",
+   "substance": "insufflated"
+  },
+  "2": {
+   "time": "DXM",
+   "amount": "(powder / crystals)",
+   "administration": "",
+   "substance": "600 mg"
+  }
+ }
 }

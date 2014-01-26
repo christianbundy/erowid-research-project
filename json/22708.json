@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-10-13T07:00:00.000Z",
  "views": "10925",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(cookie / food)"
+  }
+ }
 }

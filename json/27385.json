@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-09-09T07:00:00.000Z",
  "views": "4418",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

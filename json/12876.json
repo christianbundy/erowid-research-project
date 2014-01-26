@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-02-07T08:00:00.000Z",
  "views": "4241",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.75 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

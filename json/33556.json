@@ -45,5 +45,54 @@
  "age": "Not Given",
  "timestamp": "2004-11-15T08:00:00.000Z",
  "views": "13262",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": "",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi"
+  },
+  "4": {
+   "time": "",
+   "amount": "2 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard"
+  },
+  "5": {
+   "time": "",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "6": {
+   "time": "",
+   "amount": "2 leaves",
+   "administration": "smoked",
+   "substance": "Salvia divinorum"
+  },
+  "7": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi"
+  }
+ }
 }

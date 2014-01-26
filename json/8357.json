@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2001-07-26T07:00:00.000Z",
  "views": "29698",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

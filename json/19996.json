@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2006-03-21T08:00:00.000Z",
  "views": "25623",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:15",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "65 mg",
+   "administration": "oral",
+   "substance": "Methcathinone",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 4:30",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Methcathinone",
+   "form": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 4:45",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 4:45",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

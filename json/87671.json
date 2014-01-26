@@ -18,5 +18,13 @@
  "age": "49",
  "timestamp": "2010-12-22T08:00:00.000Z",
  "views": "10036",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 ug",
+   "administration": "sublingual",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  }
+ }
 }

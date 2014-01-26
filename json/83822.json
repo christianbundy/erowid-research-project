@@ -23,5 +23,20 @@
  "age": "37",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "7295",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "750 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 24:00",
+   "amount": "750 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

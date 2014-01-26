@@ -57,5 +57,72 @@
  "age": "Not Given",
  "timestamp": "2007-05-26T07:00:00.000Z",
  "views": "54274",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6800 mg",
+   "administration": "oral",
+   "substance": "Kava"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Valerian"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "730 mg",
+   "administration": "oral",
+   "substance": "Hops"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "730 mg",
+   "administration": "oral",
+   "substance": "Passion Flower"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Catnip"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Coffee"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Skullcap"
+  },
+  "7": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone"
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Lecithin"
+  },
+  "9": {
+   "time": " T+ 2:00",
+   "amount": "1.0 ml",
+   "administration": "oral",
+   "substance": "Capsicum spp."
+  },
+  "10": {
+   "time": " T+ 2:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

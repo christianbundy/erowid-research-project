@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-04-19T07:00:00.000Z",
  "views": "12485",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Mugwort"
+  }
+ }
 }

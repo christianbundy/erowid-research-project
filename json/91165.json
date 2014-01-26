@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2013-12-01T08:00:00.000Z",
  "views": "424",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(extract)"
+  }
+ }
 }

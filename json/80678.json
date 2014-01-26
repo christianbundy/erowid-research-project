@@ -33,5 +33,34 @@
  "age": "44",
  "timestamp": "2013-10-26T07:00:00.000Z",
  "views": "1089",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

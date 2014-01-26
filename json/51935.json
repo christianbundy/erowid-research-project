@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-04-25T07:00:00.000Z",
  "views": "15809",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 seeds",
+   "administration": "insufflated",
+   "substance": "Anadenanthera colubrina",
+   "form": "(ground / crushed)"
+  }
+ }
 }

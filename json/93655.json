@@ -28,5 +28,24 @@
  "age": "27",
  "timestamp": "2012-10-07T07:00:00.000Z",
  "views": "8510",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "70 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "5-APB",
+   "amount": "(capsule)",
+   "administration": " T+ 4:10",
+   "substance": "40 mg"
+  }
+ }
 }

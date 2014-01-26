@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-01-17T08:00:00.000Z",
  "views": "14934",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "387 mg",
+   "administration": "oral",
+   "substance": "Barbiturates - Phenobarbital",
+   "form": "(pill / tablet)"
+  }
+ }
 }

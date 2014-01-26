@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-03-18T08:00:00.000Z",
  "views": "3222",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "2C-I"
+  }
+ }
 }

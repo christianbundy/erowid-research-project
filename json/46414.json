@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-04-26T07:00:00.000Z",
  "views": "10984",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.0 g",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(dried)"
+  }
+ }
 }

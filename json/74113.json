@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2008-10-31T07:00:00.000Z",
  "views": "8289",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Methylone"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Methylone"
+  }
+ }
 }

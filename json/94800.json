@@ -58,5 +58,72 @@
  "age": "20",
  "timestamp": "2012-03-08T08:00:00.000Z",
  "views": "6700",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Smoking Blends - Cannabis-Like"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " repeated",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Alcohol - Beer/Wine",
+   "amount": "",
+   "administration": " T+ 2:00",
+   "substance": "3 mg"
+  },
+  "3": {
+   "time": "insufflated",
+   "amount": "2C-B",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 2:00"
+  },
+  "4": {
+   "time": "5 mg",
+   "amount": "insufflated",
+   "administration": "2C-C",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 2:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "2C-B"
+  },
+  "6": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 2:00",
+   "administration": "3 mg",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "2C-C",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 2:00",
+   "substance": "0.5 mg"
+  },
+  "8": {
+   "time": "oral",
+   "amount": "Etizolam",
+   "administration": "(pill / tablet)",
+   "substance": " T+ 3:00"
+  },
+  "9": {
+   "time": "10 mg",
+   "amount": "smoked",
+   "administration": "5-MeO-MIPT",
+   "substance": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 6:00",
+   "amount": "30 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-MIPT"
+  }
+ }
 }

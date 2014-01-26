@@ -68,5 +68,83 @@
  "age": "33",
  "timestamp": "2012-12-25T08:00:00.000Z",
  "views": "4274",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "1 tablet",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": " T+ 2:15",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 2:15",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "6": {
+   "time": " T+ 4:15",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 6:15",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 7:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(pill / tablet)"
+  },
+  "9": {
+   "time": " T+ 7:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "10": {
+   "time": " T+ 7:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

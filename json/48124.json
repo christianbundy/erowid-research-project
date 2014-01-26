@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-08T08:00:00.000Z",
  "views": "18987",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(daily)"
+  }
+ }
 }

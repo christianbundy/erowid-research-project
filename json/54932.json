@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-07-29T07:00:00.000Z",
  "views": "8680",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "22 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-MiPT",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

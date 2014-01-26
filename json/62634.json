@@ -28,5 +28,27 @@
  "age": "17",
  "timestamp": "2010-01-06T08:00:00.000Z",
  "views": "2286",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(cookie / food)"
+  },
+  "2": {
+   "time": " T+ 2:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

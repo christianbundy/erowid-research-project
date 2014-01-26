@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-12-15T08:00:00.000Z",
  "views": "24147",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "IV",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2.0 mg",
+   "administration": "IV",
+   "substance": "Naloxone",
+   "form": "(ground / crushed)"
+  }
+ }
 }

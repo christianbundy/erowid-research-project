@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-01-16T08:00:00.000Z",
  "views": "13473",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.4 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cyanescens",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "186135",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "95 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ }
 }

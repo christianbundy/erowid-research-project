@@ -68,5 +68,83 @@
  "age": "Not Given",
  "timestamp": "2004-02-16T08:00:00.000Z",
  "views": "16722",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 15:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 45:40",
+   "amount": "4.5 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 48:40",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 72:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 96:00",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 110:40",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 121:00",
+   "amount": "2.5 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "9": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 138:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-08-10T07:00:00.000Z",
  "views": "33312",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

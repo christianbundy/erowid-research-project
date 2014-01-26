@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-13T07:00:00.000Z",
  "views": "34318",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

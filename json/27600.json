@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-11-22T08:00:00.000Z",
  "views": "8332",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": "8 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

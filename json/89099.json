@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2011-07-17T07:00:00.000Z",
  "views": "10444",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

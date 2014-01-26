@@ -17,5 +17,12 @@
  "age": "39",
  "timestamp": "2012-07-24T07:00:00.000Z",
  "views": "2152",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "MDPV"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-03-27T08:00:00.000Z",
  "views": "75735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 bowls",
+   "administration": "smoked",
+   "substance": "Opium",
+   "form": "(tar / resin)"
+  }
+ }
 }

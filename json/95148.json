@@ -37,5 +37,42 @@
  "age": "21",
  "timestamp": "2013-08-06T07:00:00.000Z",
  "views": "682",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT"
+  },
+  "4": {
+   "time": " T+ 0:45",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

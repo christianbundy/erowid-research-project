@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-04-05T07:00:00.000Z",
  "views": "52767",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mugwort",
+   "form": "(tea)"
+  }
+ }
 }

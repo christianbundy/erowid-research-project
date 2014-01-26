@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-04-21T07:00:00.000Z",
  "views": "34331",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Heroin"
+  }
+ }
 }

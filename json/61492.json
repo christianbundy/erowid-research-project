@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-04-08T07:00:00.000Z",
  "views": "2714",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ }
 }

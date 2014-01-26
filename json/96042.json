@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2012-05-19T07:00:00.000Z",
  "views": "3902",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  }
+ }
 }

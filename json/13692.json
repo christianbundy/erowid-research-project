@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2008-03-12T07:00:00.000Z",
  "views": "5135",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 line",
+   "administration": "smoked",
+   "substance": "Cocaine",
+   "form": "(freebase)"
+  },
+  "2": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 line",
+   "administration": "smoked",
+   "substance": "Cocaine",
+   "form": "(freebase)"
+  },
+  "4": {
+   "time": "",
+   "amount": "1 repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

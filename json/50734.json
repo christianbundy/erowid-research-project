@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-05-12T07:00:00.000Z",
  "views": "4757",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  }
+ }
 }

@@ -29,5 +29,30 @@
  "age": "Not Given",
  "timestamp": "2002-02-06T08:00:00.000Z",
  "views": "10613",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "Hydrocodone"
+  },
+  "1": {
+   "time": "",
+   "amount": "144 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "2": {
+   "time": "",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "3": {
+   "time": "",
+   "amount": "6 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  }
+ }
 }

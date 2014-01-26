@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-03-13T07:00:00.000Z",
  "views": "54951",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

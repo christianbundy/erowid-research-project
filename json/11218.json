@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-04-07T08:00:00.000Z",
  "views": "97401",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(seeds)"
+  }
+ }
 }

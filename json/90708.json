@@ -18,5 +18,13 @@
  "age": "16",
  "timestamp": "2011-07-25T07:00:00.000Z",
  "views": "4400",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Unknown",
+   "form": "(capsule)"
+  }
+ }
 }

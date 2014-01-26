@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2001-12-25T08:00:00.000Z",
  "views": "36417",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis - Hash"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2004-07-12T07:00:00.000Z",
  "views": "20108",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": " T+ 5:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

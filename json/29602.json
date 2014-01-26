@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2004-02-26T08:00:00.000Z",
  "views": "10925",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

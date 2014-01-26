@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-07-20T07:00:00.000Z",
  "views": "3305",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 seeds",
+   "administration": "sublingual",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ }
 }

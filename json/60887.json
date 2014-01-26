@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-10-25T07:00:00.000Z",
  "views": "2915",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 g",
+   "administration": "oral",
+   "substance": "Mushrooms - C. cyanescens",
+   "form": "(fresh)"
+  }
+ }
 }

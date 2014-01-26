@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-09-04T07:00:00.000Z",
  "views": "15953",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Various",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(plant material)"
+  }
+ }
 }

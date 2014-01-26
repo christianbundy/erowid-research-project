@@ -28,5 +28,27 @@
  "age": "26",
  "timestamp": "2013-03-18T07:00:00.000Z",
  "views": "8932",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:45",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 6:30",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ }
 }

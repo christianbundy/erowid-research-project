@@ -58,5 +58,69 @@
  "age": "20",
  "timestamp": "2010-03-26T07:00:00.000Z",
  "views": "23609",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:20",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 2:40",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 3:20",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 4:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 4:40",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 4:40",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

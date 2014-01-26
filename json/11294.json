@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-04-05T07:00:00.000Z",
  "views": "12243",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:50",
+   "amount": "3 capsls",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 1:40",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 2:30",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

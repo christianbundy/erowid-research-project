@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2011-02-16T08:00:00.000Z",
  "views": "3611",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

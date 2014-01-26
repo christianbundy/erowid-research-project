@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2012-12-25T08:00:00.000Z",
  "views": "934",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

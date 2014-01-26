@@ -18,5 +18,13 @@
  "age": "27",
  "timestamp": "2010-08-09T07:00:00.000Z",
  "views": "3458",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-10-03T07:00:00.000Z",
  "views": "12115",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  }
+ }
 }

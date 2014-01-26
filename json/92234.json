@@ -17,5 +17,12 @@
  "age": "22",
  "timestamp": "2011-08-02T07:00:00.000Z",
  "views": "5152",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  }
+ }
 }

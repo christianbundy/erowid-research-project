@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2008-01-16T08:00:00.000Z",
  "views": "7687",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "",
+   "substance": "Pharms - Venlafaxine"
+  },
+  "1": {
+   "time": "",
+   "amount": "36 mg",
+   "administration": "",
+   "substance": "Pharms - Methylphenidate"
+  },
+  "2": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "",
+   "substance": "Pharms - Olanzapine"
+  },
+  "3": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "5-MeO-DiPT"
+  },
+  "4": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "smoked",
+   "substance": "AMT"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-23T08:00:00.000Z",
  "views": "26043",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5 glasses",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ }
 }

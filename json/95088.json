@@ -28,5 +28,27 @@
  "age": "23",
  "timestamp": "2013-01-04T08:00:00.000Z",
  "views": "16912",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms -  Dexmethylphenidate",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ }
 }

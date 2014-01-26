@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-04-10T07:00:00.000Z",
  "views": "5343",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "4.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "6 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

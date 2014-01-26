@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-12-05T08:00:00.000Z",
  "views": "18339",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.66 hits",
+   "administration": "oral",
+   "substance": "DOI",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 12:00",
+   "amount": "1800 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ }
 }

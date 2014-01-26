@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2001-11-24T08:00:00.000Z",
  "views": "20775",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 shots",
+   "administration": "insufflated",
+   "substance": "Vasopressin"
+  },
+  "1": {
+   "time": "",
+   "amount": "2.5 shots",
+   "administration": "oral",
+   "substance": "Alcohol"
+  }
+ }
 }

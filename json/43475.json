@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2006-10-28T07:00:00.000Z",
  "views": "17284",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "1 tablet",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "MDMA",
+   "amount": "",
+   "administration": " T+ 3:00",
+   "substance": "1 tablet"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "MDMA",
+   "administration": "",
+   "substance": " T+ 6:00"
+  },
+  "4": {
+   "time": "4 hits",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": "(plant material)"
+  }
+ }
 }

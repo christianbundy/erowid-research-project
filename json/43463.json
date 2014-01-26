@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2011-03-04T08:00:00.000Z",
  "views": "4735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  }
+ }
 }

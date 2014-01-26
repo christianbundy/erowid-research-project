@@ -17,5 +17,12 @@
  "age": "20",
  "timestamp": "2011-06-18T07:00:00.000Z",
  "views": "5412",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  }
+ }
 }

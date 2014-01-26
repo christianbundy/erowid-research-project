@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-04-28T07:00:00.000Z",
  "views": "33114",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "PCP"
+  }
+ }
 }

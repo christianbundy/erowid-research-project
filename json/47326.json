@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2010-10-01T07:00:00.000Z",
  "views": "5000",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Pedicularis spp."
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:55",
+   "administration": "7.5 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pedicularis spp.",
+   "amount": "(tea)",
+   "administration": " T+ 0:00",
+   "substance": " "
+  }
+ }
 }

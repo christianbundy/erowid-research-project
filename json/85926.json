@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2010-10-04T07:00:00.000Z",
  "views": "6048",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "rectal",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  }
+ }
 }

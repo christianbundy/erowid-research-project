@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-09-03T07:00:00.000Z",
  "views": "37631",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(liquid)"
+  }
+ }
 }

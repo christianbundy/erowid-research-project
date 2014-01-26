@@ -23,5 +23,20 @@
  "age": "21",
  "timestamp": "2011-07-23T07:00:00.000Z",
  "views": "14709",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

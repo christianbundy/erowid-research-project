@@ -18,5 +18,13 @@
  "age": "37",
  "timestamp": "2011-09-09T07:00:00.000Z",
  "views": "4669",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "MMDA-3a",
+   "form": "(powder / crystals)"
+  }
+ }
 }

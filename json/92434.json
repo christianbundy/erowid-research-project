@@ -18,5 +18,13 @@
  "age": "50",
  "timestamp": "2011-08-16T07:00:00.000Z",
  "views": "5544",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "13 mg",
+   "administration": "oral",
+   "substance": "TMA-2",
+   "form": "(powder / crystals)"
+  }
+ }
 }

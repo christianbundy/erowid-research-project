@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-08-16T07:00:00.000Z",
  "views": "69719",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(dried)"
+  }
+ }
 }

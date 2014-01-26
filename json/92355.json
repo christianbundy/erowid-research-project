@@ -23,5 +23,18 @@
  "age": "46",
  "timestamp": "2011-12-20T08:00:00.000Z",
  "views": "12559",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methylone"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "2 hits",
+   "substance": "smoked"
+  }
+ }
 }

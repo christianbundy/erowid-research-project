@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-04-24T07:00:00.000Z",
  "views": "50600",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ }
 }

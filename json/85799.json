@@ -23,5 +23,20 @@
  "age": "30",
  "timestamp": "2012-04-22T07:00:00.000Z",
  "views": "3123",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10g repeated",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "60g mg",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

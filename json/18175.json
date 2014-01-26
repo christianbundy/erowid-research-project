@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-10-14T07:00:00.000Z",
  "views": "7640",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT"
+  }
+ }
 }

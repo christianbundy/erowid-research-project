@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-08-19T07:00:00.000Z",
  "views": "48397",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Alprazolam",
+   "form": "(ground / crushed)"
+  }
+ }
 }

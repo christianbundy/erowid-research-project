@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-06-08T07:00:00.000Z",
  "views": "11500",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(tar / resin)"
+  }
+ }
 }

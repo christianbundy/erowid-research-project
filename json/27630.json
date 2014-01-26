@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-10-17T07:00:00.000Z",
  "views": "23803",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(plant material)"
+  }
+ }
 }

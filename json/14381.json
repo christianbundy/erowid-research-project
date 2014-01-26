@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-01-08T08:00:00.000Z",
  "views": "15234",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

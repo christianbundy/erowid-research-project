@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2012-03-01T08:00:00.000Z",
  "views": "7377",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "2C-I-NBOMe",
+   "form": "(powder / crystals)"
+  }
+ }
 }

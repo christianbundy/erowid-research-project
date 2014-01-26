@@ -18,5 +18,13 @@
  "age": "26",
  "timestamp": "2010-03-09T08:00:00.000Z",
  "views": "3108",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(fresh)"
+  }
+ }
 }

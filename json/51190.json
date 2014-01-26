@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-05-18T07:00:00.000Z",
  "views": "24256",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  }
+ }
 }

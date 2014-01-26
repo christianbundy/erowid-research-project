@@ -25,5 +25,24 @@
  "age": "18",
  "timestamp": "2012-12-27T08:00:00.000Z",
  "views": "2416",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 8:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD"
+  }
+ }
 }

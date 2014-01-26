@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "15624",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cloves",
+   "form": "(dried)"
+  }
+ }
 }

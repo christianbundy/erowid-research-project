@@ -23,5 +23,20 @@
  "age": "31",
  "timestamp": "2010-07-28T07:00:00.000Z",
  "views": "10280",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

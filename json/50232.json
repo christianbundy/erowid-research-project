@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-10-29T07:00:00.000Z",
  "views": "8862",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

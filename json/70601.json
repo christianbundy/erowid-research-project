@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-05-25T07:00:00.000Z",
  "views": "8509",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 flowers",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " leaves",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ }
 }

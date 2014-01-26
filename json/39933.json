@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-04-03T07:00:00.000Z",
  "views": "14739",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 23:00",
+   "amount": "8 oz",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ }
 }

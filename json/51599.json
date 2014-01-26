@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-07-21T07:00:00.000Z",
  "views": "12335",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tar / resin)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(capsule)"
+  }
+ }
 }

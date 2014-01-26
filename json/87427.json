@@ -33,5 +33,34 @@
  "age": "28",
  "timestamp": "2012-11-16T08:00:00.000Z",
  "views": "2503",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9 g",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(tar / resin)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

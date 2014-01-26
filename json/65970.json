@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2011-03-04T08:00:00.000Z",
  "views": "11171",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

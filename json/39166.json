@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-12-23T08:00:00.000Z",
  "views": "13748",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Harmaline",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -53,5 +53,62 @@
  "age": "21",
  "timestamp": "2009-10-08T07:00:00.000Z",
  "views": "6513",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "6": {
+   "time": "",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "7": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  }
+ }
 }

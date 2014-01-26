@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-10-12T07:00:00.000Z",
  "views": "14971",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Mushrooms - C. cyanescens",
+   "form": "(fresh)"
+  },
+  "2": {
+   "time": " T+ 1:45",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(fresh)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "0.25 g",
+   "administration": "oral",
+   "substance": "Cannabis - Hash",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(powder / crystals)"
+  }
+ }
 }

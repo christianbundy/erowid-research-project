@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2001-07-14T07:00:00.000Z",
  "views": "13766",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "32.5 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "5.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 3:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 10x)"
+  },
+  "6": {
+   "time": " T+ 6:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "7": {
+   "time": " T+ 6:30",
+   "amount": "5.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  },
+  "8": {
+   "time": " T+ 7:30",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2001-12-27T08:00:00.000Z",
  "views": "9621",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "2": {
+   "time": " T+ 3:15",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "3": {
+   "time": " T+ 5:30",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "4": {
+   "time": " T+ 6:45",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

@@ -78,5 +78,97 @@
  "age": "Not Given",
  "timestamp": "2002-05-07T07:00:00.000Z",
  "views": "26118",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(flowers)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 1:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(plant material)"
+  },
+  "6": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(flowers)"
+  },
+  "7": {
+   "time": " T+ 2:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "8": {
+   "time": " T+ 3:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "9": {
+   "time": " T+ 4:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "4-Acetoxy-DET",
+   "form": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 4:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "11": {
+   "time": " T+ 6:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "4-Acetoxy-DET",
+   "form": "(powder / crystals)"
+  },
+  "12": {
+   "time": " T+ 6:00",
+   "amount": "1 cart.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

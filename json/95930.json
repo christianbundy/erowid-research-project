@@ -23,5 +23,20 @@
  "age": "23",
  "timestamp": "2012-05-30T07:00:00.000Z",
  "views": "2427",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  }
+ }
 }

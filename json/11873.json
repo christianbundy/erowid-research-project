@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-08-12T07:00:00.000Z",
  "views": "13638",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-T-7",
+   "form": "(powder / crystals)"
+  }
+ }
 }

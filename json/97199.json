@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2013-02-06T08:00:00.000Z",
  "views": "1275",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

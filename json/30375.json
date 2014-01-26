@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2004-01-26T08:00:00.000Z",
  "views": "18036",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Various"
+  }
+ }
 }

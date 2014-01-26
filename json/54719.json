@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-08-14T07:00:00.000Z",
  "views": "4738",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

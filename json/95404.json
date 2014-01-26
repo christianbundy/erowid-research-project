@@ -21,5 +21,18 @@
  "age": "18",
  "timestamp": "2012-03-29T07:00:00.000Z",
  "views": "4224",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  },
+  "1": {
+   "time": "",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Nortriptyline"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-08-12T07:00:00.000Z",
  "views": "9299",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(dried)"
+  }
+ }
 }

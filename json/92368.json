@@ -28,5 +28,24 @@
  "age": "26",
  "timestamp": "2011-09-03T07:00:00.000Z",
  "views": "8883",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Tobacco",
+   "amount": "",
+   "administration": "",
+   "substance": "1 mg"
+  }
+ }
 }

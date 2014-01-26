@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-14T08:00:00.000Z",
  "views": "14819",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

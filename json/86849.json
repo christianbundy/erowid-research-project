@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2013-12-30T08:00:00.000Z",
  "views": "389",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "PMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

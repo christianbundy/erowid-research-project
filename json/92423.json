@@ -58,5 +58,69 @@
  "age": "22",
  "timestamp": "2011-08-30T07:00:00.000Z",
  "views": "10646",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "JWH-122",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 0:45",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 5:20",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 5:20",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "JWH-122",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 7:30",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "JWH-122",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 8:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

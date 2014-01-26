@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2009-10-19T07:00:00.000Z",
  "views": "4030",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

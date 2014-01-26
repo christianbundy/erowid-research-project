@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-16T08:00:00.000Z",
  "views": "29762",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-12-30T08:00:00.000Z",
  "views": "28154",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

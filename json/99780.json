@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2013-09-29T07:00:00.000Z",
  "views": "1117",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Lorazepam",
+   "form": ""
+  }
+ }
 }

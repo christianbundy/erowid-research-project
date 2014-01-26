@@ -23,5 +23,20 @@
  "age": "32",
  "timestamp": "2011-02-09T08:00:00.000Z",
  "views": "13477",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-250",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-200",
+   "form": "(powder / crystals)"
+  }
+ }
 }

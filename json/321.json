@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-09-16T07:00:00.000Z",
  "views": "20678",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "18",
  "timestamp": "2010-08-31T07:00:00.000Z",
  "views": "7173",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "MDPV",
+   "form": "(liquid)"
+  }
+ }
 }

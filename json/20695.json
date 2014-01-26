@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "5931",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "30 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Amphetamines",
+   "amount": "(capsule)",
+   "administration": "",
+   "substance": "45 mg"
+  }
+ }
 }

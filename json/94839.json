@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2012-03-21T07:00:00.000Z",
  "views": "3972",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": "70 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

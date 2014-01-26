@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
  "views": "11115",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Lactuca spp.",
+   "form": "(tea)"
+  }
+ }
 }

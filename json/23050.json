@@ -29,5 +29,30 @@
  "age": "Not Given",
  "timestamp": "2003-04-17T07:00:00.000Z",
  "views": "14115",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "rectal",
+   "substance": "AMT"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "15 mg",
+   "administration": "rectal",
+   "substance": "AMT"
+  },
+  "2": {
+   "time": " T+ 15:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "3": {
+   "time": "",
+   "amount": "0.25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  }
+ }
 }

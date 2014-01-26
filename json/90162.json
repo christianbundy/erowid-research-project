@@ -21,5 +21,18 @@
  "age": "29",
  "timestamp": "2012-01-11T08:00:00.000Z",
  "views": "4660",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "17.5 mg",
+   "administration": "IV",
+   "substance": "4-AcO-DALT"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "17.5 mg",
+   "administration": "IV",
+   "substance": "4-AcO-DALT"
+  }
+ }
 }

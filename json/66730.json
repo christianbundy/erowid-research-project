@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2007-12-01T08:00:00.000Z",
  "views": "28384",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:30",
+   "administration": "7.0 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Cacti - T. bridgesii",
+   "amount": "(dried)",
+   "administration": " T+ 0:00",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "(plant material)",
+   "substance": " T+ 10:00"
+  },
+  "4": {
+   "time": "2 hits",
+   "amount": "smoked",
+   "administration": "DMT",
+   "substance": ""
+  }
+ }
 }

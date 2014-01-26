@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-02-08T08:00:00.000Z",
  "views": "22860",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "240 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

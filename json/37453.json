@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-01-03T08:00:00.000Z",
  "views": "53991",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Atomoxetine",
+   "form": "(ground / crushed)"
+  }
+ }
 }

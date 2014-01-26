@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-11-26T08:00:00.000Z",
  "views": "9384",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

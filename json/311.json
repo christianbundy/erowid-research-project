@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "71655",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Desmanthus illinoensis",
+   "form": "(rootbark)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

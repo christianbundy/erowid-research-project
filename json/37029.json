@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-05-05T07:00:00.000Z",
  "views": "18363",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(leaves)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(flowers)"
+  }
+ }
 }

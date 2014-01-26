@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2001-04-19T07:00:00.000Z",
  "views": "65170",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "10 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "13 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(tea)"
+  },
+  "4": {
+   "time": " T+ 0:30",
+   "amount": "60 leaves",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(tea)"
+  },
+  "5": {
+   "time": " T+ 0:30",
+   "amount": "17 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(tea)"
+  }
+ }
 }

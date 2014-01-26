@@ -33,5 +33,36 @@
  "age": "19",
  "timestamp": "2011-03-07T08:00:00.000Z",
  "views": "6287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "4 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Alprazolam",
+   "amount": "(pill / tablet)",
+   "administration": "",
+   "substance": "15 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Pharms - Alprazolam",
+   "administration": "(pill / tablet)",
+   "substance": ""
+  },
+  "4": {
+   "time": "4 tablets",
+   "amount": "oral",
+   "administration": "MDMA",
+   "substance": ""
+  }
+ }
 }

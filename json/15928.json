@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-07-10T07:00:00.000Z",
  "views": "12084",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "sublingual",
+   "substance": "LSD",
+   "form": "(gel tab)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1.5 hits",
+   "administration": "sublingual",
+   "substance": "LSD",
+   "form": "(gel tab)"
+  }
+ }
 }

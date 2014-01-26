@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2005-06-07T07:00:00.000Z",
  "views": "22013",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "55 mg",
+   "substance": "insufflated"
+  },
+  "2": {
+   "time": "DPT",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:00",
+   "substance": "1 cart."
+  },
+  "3": {
+   "time": "inhaled",
+   "amount": "Nitrous Oxide",
+   "administration": "(gas)",
+   "substance": " T+ 0:20"
+  },
+  "4": {
+   "time": "20 carts.",
+   "amount": "inhaled",
+   "administration": "Nitrous Oxide",
+   "substance": "(gas)"
+  },
+  "5": {
+   "time": " T+ 2:15",
+   "amount": "80 mg",
+   "administration": "smoked",
+   "substance": "DMT"
+  },
+  "6": {
+   "time": "(freebase)",
+   "amount": " T+ 4:00",
+   "administration": "50 mg",
+   "substance": "insufflated"
+  },
+  "7": {
+   "time": "DPT",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:00",
+   "substance": " repeated"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-05-20T07:00:00.000Z",
  "views": "18370",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(tar / resin)"
+  }
+ }
 }

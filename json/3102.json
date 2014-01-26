@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-10-29T07:00:00.000Z",
  "views": "17305",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

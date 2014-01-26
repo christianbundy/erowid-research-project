@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2013-11-21T08:00:00.000Z",
  "views": "2934",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:33",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 2:21",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 3:25",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

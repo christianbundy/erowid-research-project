@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-05-10T07:00:00.000Z",
  "views": "13151",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "6 buttons",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(tea)"
+  }
+ }
 }

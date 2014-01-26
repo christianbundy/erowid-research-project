@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-11-13T08:00:00.000Z",
  "views": "5120",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

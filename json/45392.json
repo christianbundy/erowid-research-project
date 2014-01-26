@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-11-16T08:00:00.000Z",
  "views": "151653",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

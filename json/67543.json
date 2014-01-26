@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-01-27T08:00:00.000Z",
  "views": "4882",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-06-07T07:00:00.000Z",
  "views": "41376",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

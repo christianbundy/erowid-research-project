@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-10-24T07:00:00.000Z",
  "views": "7664",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:05",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:05",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:30",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 1:30",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

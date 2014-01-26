@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-11-09T08:00:00.000Z",
  "views": "70037",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 tsp",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(extract)"
+  }
+ }
 }

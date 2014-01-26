@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-05-03T07:00:00.000Z",
  "views": "40416",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ }
 }

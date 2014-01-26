@@ -33,5 +33,34 @@
  "age": "24",
  "timestamp": "2010-02-13T08:00:00.000Z",
  "views": "37776",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": " joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Yerba Mate",
+   "form": "(daily)"
+  }
+ }
 }

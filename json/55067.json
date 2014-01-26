@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-01-24T08:00:00.000Z",
  "views": "3377",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.6667 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.3333 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

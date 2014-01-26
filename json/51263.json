@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "14633",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Pharms - Zaleplon",
+   "form": "(powder / crystals)"
+  }
+ }
 }

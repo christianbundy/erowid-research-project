@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2003-01-04T08:00:00.000Z",
  "views": "19849",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 1:25",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 1:46",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DiPT",
+   "form": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 2:02",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "6": {
+   "time": " T+ 3:07",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "7": {
+   "time": " T+ 3:07",
+   "amount": "2.5 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ }
 }

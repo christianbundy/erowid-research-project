@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2009-02-10T08:00:00.000Z",
  "views": "19073",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 Tbsp",
+   "administration": "oral",
+   "substance": "Kratom"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:25",
+   "administration": " ",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "CP 55,940",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:32",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "CP 55,940",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:32"
+  },
+  "4": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Tobacco - Cigarettes",
+   "substance": ""
+  }
+ }
 }

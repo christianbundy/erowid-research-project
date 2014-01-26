@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-01-23T08:00:00.000Z",
  "views": "16378",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 oz",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "1.5 oz",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1.5 oz",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

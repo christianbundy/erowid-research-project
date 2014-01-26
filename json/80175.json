@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2009-07-25T07:00:00.000Z",
  "views": "6939",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "700 mg",
+   "administration": "oral",
+   "substance": "Vitamins - Choline"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "2.8 g",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "2": {
+   "time": " T+ 1:10",
+   "amount": "80 g",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "3": {
+   "time": " T+ 1:10",
+   "amount": "13 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  },
+  "4": {
+   "time": " T+ 1:40",
+   "amount": "80 g",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

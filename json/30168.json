@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2004-01-19T08:00:00.000Z",
  "views": "6547",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms"
+  }
+ }
 }

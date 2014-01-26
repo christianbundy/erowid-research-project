@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-03-29T08:00:00.000Z",
  "views": "10116",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 in",
+   "administration": "buccal",
+   "substance": "Banisteriopsis caapi",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms - C. cyanescens",
+   "form": "(dried)"
+  }
+ }
 }

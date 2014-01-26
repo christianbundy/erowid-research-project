@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2003-07-19T07:00:00.000Z",
  "views": "26785",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "360 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "360 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

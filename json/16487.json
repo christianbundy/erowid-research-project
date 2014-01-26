@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-08-02T07:00:00.000Z",
  "views": "36904",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 oz",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  }
+ }
 }

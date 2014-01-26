@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-01-09T08:00:00.000Z",
  "views": "5973",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

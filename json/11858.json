@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2003-12-29T08:00:00.000Z",
  "views": "6738",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "55 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "3": {
+   "time": " T+ 10:30",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

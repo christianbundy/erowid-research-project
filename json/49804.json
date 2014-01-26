@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2006-02-20T08:00:00.000Z",
  "views": "16707",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 5:00",
+   "amount": "0.33 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  },
+  "6": {
+   "time": " T+ 5:00",
+   "amount": "15 leaves",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  },
+  "7": {
+   "time": " T+ 5:30",
+   "amount": "0.3333 leaves",
+   "administration": "smoked",
+   "substance": "Brugmansia",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 5:30",
+   "amount": "10 leaves",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": ""
+  }
+ }
 }

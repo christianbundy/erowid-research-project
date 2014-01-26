@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2004-12-29T08:00:00.000Z",
  "views": "13507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 8:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DMAE",
+   "form": ""
+  }
+ }
 }

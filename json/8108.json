@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2001-07-23T07:00:00.000Z",
  "views": "7059",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 4:02",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-04-10T07:00:00.000Z",
  "views": "6407",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Mushrooms"
+  }
+ }
 }

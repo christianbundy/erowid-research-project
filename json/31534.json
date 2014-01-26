@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-03-05T08:00:00.000Z",
  "views": "33935",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.25 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Butorphanol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3.75 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Butorphanol",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Pharms - Butorphanol",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

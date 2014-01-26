@@ -28,5 +28,27 @@
  "age": "22",
  "timestamp": "2012-05-16T07:00:00.000Z",
  "views": "12902",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "0.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lamotrigine ",
+   "form": "(daily)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-12-15T08:00:00.000Z",
  "views": "21404",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "IV",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  }
+ }
 }

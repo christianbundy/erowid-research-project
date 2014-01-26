@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-01-29T08:00:00.000Z",
  "views": "24179",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "12 ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ }
 }

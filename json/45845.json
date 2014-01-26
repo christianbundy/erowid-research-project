@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-07-05T07:00:00.000Z",
  "views": "6832",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-Acetoxy-MiPT"
+  }
+ }
 }

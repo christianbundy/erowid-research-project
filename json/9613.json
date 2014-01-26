@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2001-09-25T07:00:00.000Z",
  "views": "85763",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "0.5 cups",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-10-01T07:00:00.000Z",
  "views": "14588",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Piperazines",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Piperazines",
+   "form": "(capsule)"
+  }
+ }
 }

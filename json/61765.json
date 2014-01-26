@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-11-09T08:00:00.000Z",
  "views": "13596",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

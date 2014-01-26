@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-11-07T08:00:00.000Z",
  "views": "20976",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "transdermal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ }
 }

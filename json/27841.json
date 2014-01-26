@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2003-10-26T07:00:00.000Z",
  "views": "13146",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:05",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:10",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 0:35",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 0:35",
+   "amount": "130 mg",
+   "administration": "oral",
+   "substance": "DMT",
+   "form": "(freebase)"
+  },
+  "5": {
+   "time": " T+ 1:05",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "DMT",
+   "form": "(freebase)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-04-18T07:00:00.000Z",
  "views": "9597",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "3 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(fresh)"
+  },
+  "2": {
+   "time": " T+ 0:40",
+   "amount": "4 leaves",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

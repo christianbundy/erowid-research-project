@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2012-10-27T07:00:00.000Z",
  "views": "1577",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 seeds",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  }
+ }
 }

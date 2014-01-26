@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "11238",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Vinpocetine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

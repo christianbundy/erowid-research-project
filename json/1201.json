@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-07-20T07:00:00.000Z",
  "views": "12615",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 tablets",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

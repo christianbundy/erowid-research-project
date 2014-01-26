@@ -23,5 +23,20 @@
  "age": "16",
  "timestamp": "2011-09-09T07:00:00.000Z",
  "views": "8848",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "insufflated",
+   "substance": "2C-I-NBOMe",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": ""
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-04-10T07:00:00.000Z",
  "views": "33572",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  }
+ }
 }

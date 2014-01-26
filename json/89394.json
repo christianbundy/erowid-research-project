@@ -21,5 +21,18 @@
  "age": "18",
  "timestamp": "2013-12-12T08:00:00.000Z",
  "views": "566",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "JWH-018"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  }
+ }
 }

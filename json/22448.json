@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2006-05-28T07:00:00.000Z",
  "views": "7117",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": "smoked"
+  }
+ }
 }

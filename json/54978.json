@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-07-21T07:00:00.000Z",
  "views": "4943",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 g",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

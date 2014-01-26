@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-05-28T07:00:00.000Z",
  "views": "6861",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "130 ug",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

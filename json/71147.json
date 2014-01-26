@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2009-08-28T07:00:00.000Z",
  "views": "3295",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-11-19T08:00:00.000Z",
  "views": "16600",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "123 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 4:00",
+   "amount": "115 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

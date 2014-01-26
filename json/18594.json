@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-03-31T08:00:00.000Z",
  "views": "50226",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(daily)"
+  }
+ }
 }

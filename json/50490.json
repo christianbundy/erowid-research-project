@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-02-14T08:00:00.000Z",
  "views": "13923",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Aniracetam"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": ""
+  },
+  "2": {
+   "time": "Caffeine",
+   "amount": "(liquid)",
+   "administration": "",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": ""
+  },
+  "4": {
+   "time": " ",
+   "amount": "insufflated",
+   "administration": "2C-B-Fly",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "6": {
+   "time": "",
+   "amount": "",
+   "administration": "600 mg",
+   "substance": "oral"
+  }
+ }
 }

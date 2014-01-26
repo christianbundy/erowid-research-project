@@ -43,5 +43,48 @@
  "age": "43",
  "timestamp": "2013-06-19T07:00:00.000Z",
  "views": "1332",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.2 g",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "1 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Vitamins - Choline",
+   "amount": "",
+   "administration": " T+ 2:00",
+   "substance": "200 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Methylone",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 2:45"
+  },
+  "4": {
+   "time": "50 mg",
+   "amount": "oral",
+   "administration": "Methylone",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 3:30",
+   "amount": "1.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam"
+  },
+  "6": {
+   "time": "(pill / tablet)",
+   "amount": " T+ 3:30",
+   "administration": "7.5 mg",
+   "substance": "oral"
+  }
+ }
 }

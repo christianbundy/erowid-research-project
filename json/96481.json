@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2013-12-28T08:00:00.000Z",
  "views": "311",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Butalbital",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

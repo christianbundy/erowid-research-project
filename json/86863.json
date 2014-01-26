@@ -43,5 +43,48 @@
  "age": "17",
  "timestamp": "2011-05-18T07:00:00.000Z",
  "views": "55550",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 3:30",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 4:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 5:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 9:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

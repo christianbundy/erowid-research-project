@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "3591",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 flower",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " seeds",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ }
 }

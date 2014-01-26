@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-07-11T07:00:00.000Z",
  "views": "8423",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 14:39",
+   "amount": "16 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 19:15",
+   "amount": "20 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ }
 }

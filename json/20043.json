@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-10-03T07:00:00.000Z",
  "views": "4101",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  }
+ }
 }

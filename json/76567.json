@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2009-03-23T07:00:00.000Z",
  "views": "13606",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 10:00",
+   "administration": "60 mg",
+   "substance": "oral"
+  }
+ }
 }

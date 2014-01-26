@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-07-19T07:00:00.000Z",
  "views": "14079",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "360 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

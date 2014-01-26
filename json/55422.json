@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2008-01-15T08:00:00.000Z",
  "views": "3763",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:05",
+   "administration": "1.0 mg",
+   "substance": "sublingual"
+  },
+  "2": {
+   "time": "2C-E",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:16",
+   "substance": "4.0 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "2C-E",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:21"
+  },
+  "4": {
+   "time": "5.0 mg",
+   "amount": "oral",
+   "administration": "2C-E",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  }
+ }
 }

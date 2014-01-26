@@ -28,5 +28,27 @@
  "age": "31",
  "timestamp": "2010-04-29T07:00:00.000Z",
  "views": "12740",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "insufflated",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:05",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:45",
+   "amount": "1 ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

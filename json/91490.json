@@ -18,5 +18,13 @@
  "age": "53",
  "timestamp": "2013-12-28T08:00:00.000Z",
  "views": "612",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

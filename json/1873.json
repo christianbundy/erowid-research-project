@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "7236",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "insufflated",
+   "substance": "DPT"
+  }
+ }
 }

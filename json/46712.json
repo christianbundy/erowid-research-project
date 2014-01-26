@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-01-09T08:00:00.000Z",
  "views": "7650",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DPT",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2009-12-10T08:00:00.000Z",
  "views": "8723",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 ",
+   "administration": "",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "7.5 mg",
+   "substance": ""
+  },
+  "2": {
+   "time": "Pharms - Eszopiclone",
+   "amount": "(pill / tablet)",
+   "administration": "",
+   "substance": "30 mg"
+  },
+  "3": {
+   "time": "IM",
+   "amount": "2C-B",
+   "administration": "(powder / crystals)",
+   "substance": ""
+  },
+  "4": {
+   "time": "30 mg",
+   "amount": "IM",
+   "administration": "4-AcO-DMT",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ }
 }

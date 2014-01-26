@@ -18,5 +18,13 @@
  "age": "28",
  "timestamp": "2010-11-13T08:00:00.000Z",
  "views": "4021",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ }
 }

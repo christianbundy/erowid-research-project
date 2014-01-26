@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-09-06T07:00:00.000Z",
  "views": "13869",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Inhalants - Nitrites",
+   "form": "(gas)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

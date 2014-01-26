@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2011-09-03T07:00:00.000Z",
  "views": "10282",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 8:00",
+   "administration": "200 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Tramadol",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 8:00",
+   "substance": "1 glass"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Alcohol - Beer/Wine",
+   "administration": "",
+   "substance": " T+ 8:00"
+  },
+  "4": {
+   "time": "200 mg",
+   "amount": "oral",
+   "administration": "Pharms - Propoxyphene",
+   "substance": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 8:00",
+   "amount": "1300 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen"
+  },
+  "6": {
+   "time": "(pill / tablet)",
+   "amount": " T+ 15:00",
+   "administration": "200 mg",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Pharms - Tramadol",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 15:00",
+   "substance": "1 glass"
+  }
+ }
 }

@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2008-03-12T07:00:00.000Z",
  "views": "6100",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:25",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 3:15",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "4 cups",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 7:15",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  }
+ }
 }

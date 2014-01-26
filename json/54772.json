@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-03-22T07:00:00.000Z",
  "views": "7409",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 4:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

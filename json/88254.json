@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2010-11-21T08:00:00.000Z",
  "views": "7638",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Kratom",
+   "form": "(daily)"
+  }
+ }
 }

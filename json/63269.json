@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "12697",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Risperidone",
+   "form": "(daily)"
+  }
+ }
 }

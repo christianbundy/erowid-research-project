@@ -48,5 +48,55 @@
  "age": "19",
  "timestamp": "2011-08-25T07:00:00.000Z",
  "views": "12651",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "4-MeO-MiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:32",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "4-MeO-MiPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 4:40",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phenazepam",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 4:40",
+   "amount": "3 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(daily)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(daily)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut",
+   "form": "(daily)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Vinpocetine",
+   "form": "(daily)"
+  }
+ }
 }

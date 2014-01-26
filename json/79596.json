@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-06-25T07:00:00.000Z",
  "views": "17575",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "275 mg",
+   "administration": "oral",
+   "substance": "Unknown",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  }
+ }
 }

@@ -63,5 +63,76 @@
  "age": "17",
  "timestamp": "2010-04-01T07:00:00.000Z",
  "views": "4985",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "11 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 5:00",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 5:48",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 5:48",
+   "amount": "0.5 lines",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 7:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "8": {
+   "time": " T+ 9:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "9": {
+   "time": " T+ 9:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

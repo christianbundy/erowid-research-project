@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-06-10T07:00:00.000Z",
  "views": "10453",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

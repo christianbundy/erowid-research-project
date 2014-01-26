@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-08-16T07:00:00.000Z",
  "views": "41880",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "140 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:15",
+   "amount": "52 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:15",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

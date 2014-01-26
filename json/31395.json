@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-08-17T07:00:00.000Z",
  "views": "12378",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 6:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 7:45",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Hydroxyzine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

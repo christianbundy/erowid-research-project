@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2002-12-05T08:00:00.000Z",
  "views": "29635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "24 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Tobacco",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
  "views": "8665",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Zolpidem"
+  }
+ }
 }

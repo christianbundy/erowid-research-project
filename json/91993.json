@@ -28,5 +28,27 @@
  "age": "30",
  "timestamp": "2011-11-30T08:00:00.000Z",
  "views": "13253",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "inhaled",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  }
+ }
 }

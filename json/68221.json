@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2008-01-25T08:00:00.000Z",
  "views": "3565",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "90 mg",
+   "administration": "IM",
+   "substance": "DPT"
+  },
+  "1": {
+   "time": "",
+   "amount": "120 mg",
+   "administration": "IM",
+   "substance": "Ketamine"
+  }
+ }
 }

@@ -43,5 +43,48 @@
  "age": "26",
  "timestamp": "2009-12-28T08:00:00.000Z",
  "views": "8843",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

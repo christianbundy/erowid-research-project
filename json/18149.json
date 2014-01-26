@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-08-01T07:00:00.000Z",
  "views": "15249",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "0.125 oz",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  }
+ }
 }

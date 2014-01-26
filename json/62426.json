@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
  "views": "6970",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "IM",
+   "substance": "Ketamine"
+  },
+  "1": {
+   "time": "",
+   "amount": "110 mg",
+   "administration": "IM",
+   "substance": "Ketamine"
+  }
+ }
 }

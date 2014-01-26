@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2001-09-07T07:00:00.000Z",
  "views": "10739",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ }
 }

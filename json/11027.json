@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-08-28T07:00:00.000Z",
  "views": "33813",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "708 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

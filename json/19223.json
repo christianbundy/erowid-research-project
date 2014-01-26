@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2005-09-16T07:00:00.000Z",
  "views": "113428",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:12",
+   "administration": "1 tablet",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Oxycodone",
+   "amount": "",
+   "administration": " T+ 0:24",
+   "substance": "1 tablet"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Pharms - Oxycodone",
+   "administration": "",
+   "substance": " T+ 0:27"
+  },
+  "4": {
+   "time": "1 tablet",
+   "amount": "oral",
+   "administration": "Pharms - Oxycodone",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acetaminophen"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 1:06",
+   "administration": "1 bowl",
+   "substance": "smoked"
+  },
+  "7": {
+   "time": "Cannabis",
+   "amount": "(plant material)",
+   "administration": " T+ 4:00",
+   "substance": "1 "
+  }
+ }
 }

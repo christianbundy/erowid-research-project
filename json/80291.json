@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-07-29T07:00:00.000Z",
  "views": "17095",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "24 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-06-08T07:00:00.000Z",
  "views": "5571",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

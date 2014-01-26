@@ -68,5 +68,84 @@
  "age": "19",
  "timestamp": "2013-04-30T07:00:00.000Z",
  "views": "1668",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:10",
+   "administration": "1 ",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Alcohol - Beer/Wine",
+   "amount": "",
+   "administration": " T+ 0:20",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 1:30"
+  },
+  "4": {
+   "time": "1 ",
+   "amount": "oral",
+   "administration": "Alcohol - Beer/Wine",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 1:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 1:45",
+   "administration": "150 mg",
+   "substance": "insufflated"
+  },
+  "7": {
+   "time": "MDMA",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 1:50",
+   "substance": "50 mg"
+  },
+  "8": {
+   "time": "oral",
+   "amount": "MDMA",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 2:20"
+  },
+  "9": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  },
+  "10": {
+   "time": " T+ 3:00",
+   "amount": "150 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone"
+  },
+  "11": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 4:45",
+   "administration": " ",
+   "substance": "oral"
+  },
+  "12": {
+   "time": "MDMA",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 5:00",
+   "substance": " repeated"
+  }
+ }
 }

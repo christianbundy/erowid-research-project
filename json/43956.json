@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2007-05-31T07:00:00.000Z",
  "views": "16555",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Cocaine"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Opiates"
+  },
+  "4": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Heroin"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-12T07:00:00.000Z",
  "views": "57375",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": ""
+  }
+ }
 }

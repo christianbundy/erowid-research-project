@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-10-03T07:00:00.000Z",
  "views": "21271",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 g",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(cookie / food)"
+  }
+ }
 }

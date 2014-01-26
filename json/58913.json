@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
  "views": "13184",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-HO-MiPT"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Various"
+  }
+ }
 }

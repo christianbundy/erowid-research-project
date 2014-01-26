@@ -83,5 +83,104 @@
  "age": "Not Given",
  "timestamp": "2008-06-21T07:00:00.000Z",
  "views": "202215",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 3:30",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 6:00",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 10:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 10:45",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  },
+  "8": {
+   "time": " T+ 14:30",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  "9": {
+   "time": " T+ 15:30",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 16:30",
+   "amount": "2 bumps",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "11": {
+   "time": " T+ 18:00",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  "12": {
+   "time": " T+ 23:00",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "13": {
+   "time": " T+ 23:00",
+   "amount": "2 bumps",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

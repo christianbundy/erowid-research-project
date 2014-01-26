@@ -28,5 +28,27 @@
  "age": "23",
  "timestamp": "2013-04-10T07:00:00.000Z",
  "views": "825",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Mefloquine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "13.5 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:05",
+   "amount": "13.5 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  }
+ }
 }

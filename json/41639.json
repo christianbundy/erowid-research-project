@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-07-23T07:00:00.000Z",
  "views": "7635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(daily)"
+  }
+ }
 }

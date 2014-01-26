@@ -21,5 +21,18 @@
  "age": "31",
  "timestamp": "2012-03-08T08:00:00.000Z",
  "views": "8246",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Cathinone"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  }
+ }
 }

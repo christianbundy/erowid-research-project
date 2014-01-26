@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2012-11-26T08:00:00.000Z",
  "views": "4141",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.2 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 0:20",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Diplopterys cabrerana",
+   "form": "(extract)"
+  },
+  "4": {
+   "time": " T+ 1:20",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(extract)"
+  },
+  "5": {
+   "time": " T+ 1:20",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  },
+  "6": {
+   "time": " T+ 1:20",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Diplopterys cabrerana",
+   "form": "(extract)"
+  }
+ }
 }

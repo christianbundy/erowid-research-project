@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2008-07-09T07:00:00.000Z",
  "views": "28045",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Morphine",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Hydrocodone",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Morphine",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

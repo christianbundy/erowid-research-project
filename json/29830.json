@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-11-10T08:00:00.000Z",
  "views": "4943",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:35",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Sassafras",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

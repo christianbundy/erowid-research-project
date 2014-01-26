@@ -18,5 +18,13 @@
  "age": "28",
  "timestamp": "2011-10-04T07:00:00.000Z",
  "views": "5044",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  }
+ }
 }

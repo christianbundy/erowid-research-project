@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-07-23T07:00:00.000Z",
  "views": "16723",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DiPT",
+   "form": "(freebase)"
+  },
+  "1": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

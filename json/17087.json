@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-08-25T07:00:00.000Z",
  "views": "23389",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.6 mg",
+   "administration": "oral",
+   "substance": "Scopolamine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 0:40",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  }
+ }
 }

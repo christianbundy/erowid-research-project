@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-24T08:00:00.000Z",
  "views": "7834",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "23 mg",
+   "administration": "rectal",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "27 mg",
+   "administration": "rectal",
+   "substance": "2C-T-2",
+   "form": "(capsule)"
+  }
+ }
 }

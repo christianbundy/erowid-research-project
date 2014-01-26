@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2008-02-05T08:00:00.000Z",
  "views": "22268",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2000 mg",
+   "administration": "oral",
+   "substance": "Pharms - Divalproex",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluvoxamine",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Risperidone",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": "45 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(daily)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "11.25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": ""
+  },
+  "6": {
+   "time": "",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": ""
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "40",
  "timestamp": "2011-02-21T08:00:00.000Z",
  "views": "8338",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "Naloxone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

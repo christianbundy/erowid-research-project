@@ -38,5 +38,41 @@
  "age": "19",
  "timestamp": "2010-12-11T08:00:00.000Z",
  "views": "7136",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1/4 ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 2:15",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": ""
+  }
+ }
 }

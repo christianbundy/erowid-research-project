@@ -53,5 +53,62 @@
  "age": "Not Given",
  "timestamp": "2006-08-16T07:00:00.000Z",
  "views": "7125",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "13 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 5:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 18:20",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 18:20",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 18:20",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 18:20",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  },
+  "7": {
+   "time": " T+ 28:00",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": ""
+  }
+ }
 }

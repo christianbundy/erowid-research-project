@@ -21,5 +21,18 @@
  "age": "17",
  "timestamp": "2013-12-05T08:00:00.000Z",
  "views": "680",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Heroin"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Hydrocodone"
+  }
+ }
 }

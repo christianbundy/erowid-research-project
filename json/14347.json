@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2004-05-06T07:00:00.000Z",
  "views": "16981",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ }
 }

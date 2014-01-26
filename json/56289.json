@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-12-11T08:00:00.000Z",
  "views": "9608",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": " hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

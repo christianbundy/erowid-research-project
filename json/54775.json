@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2009-02-06T08:00:00.000Z",
  "views": "27991",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "375 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:47",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

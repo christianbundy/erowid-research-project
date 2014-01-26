@@ -21,5 +21,18 @@
  "age": "29",
  "timestamp": "2010-09-22T07:00:00.000Z",
  "views": "5706",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "1": {
+   "time": "",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "DOC"
+  }
+ }
 }

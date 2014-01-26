@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-02-11T08:00:00.000Z",
  "views": "12759",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "IV",
+   "substance": "Pharms - Nalbuphine",
+   "form": "(liquid)"
+  }
+ }
 }

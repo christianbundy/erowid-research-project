@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-06-04T07:00:00.000Z",
  "views": "21249",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "Catha edulis",
+   "form": "(leaves)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-04-27T07:00:00.000Z",
  "views": "37870",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.66 buttons",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(extract)"
+  }
+ }
 }

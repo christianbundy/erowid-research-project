@@ -23,5 +23,20 @@
  "age": "27",
  "timestamp": "2010-09-07T07:00:00.000Z",
  "views": "5914",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-11-21T08:00:00.000Z",
  "views": "16791",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GABOB",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Benzodiazepines",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": "(daily)"
+  }
+ }
 }

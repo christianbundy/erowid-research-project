@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2001-12-25T08:00:00.000Z",
  "views": "18627",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1100 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 48:00",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 60:00",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 63:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 120:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 125:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ }
 }

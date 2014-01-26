@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2008-12-22T08:00:00.000Z",
  "views": "85793",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "SC",
+   "substance": "Animals - Black Widow Spider"
+  },
+  "1": {
+   "time": "",
+   "amount": "4 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

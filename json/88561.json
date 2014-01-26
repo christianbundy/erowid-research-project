@@ -48,5 +48,54 @@
  "age": "18",
  "timestamp": "2011-02-02T08:00:00.000Z",
  "views": "4879",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1/2 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:30",
+   "administration": "20 mg",
+   "substance": "sublingual"
+  },
+  "2": {
+   "time": "5-MeO-MIPT",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 2:00",
+   "substance": "1/2 g"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 2:20"
+  },
+  "4": {
+   "time": "1/2 g",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 2:50",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Ketamine"
+  },
+  "6": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 3:55",
+   "administration": "1/2 g",
+   "substance": "smoked"
+  },
+  "7": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": " T+ 3:55",
+   "substance": " "
+  }
+ }
 }

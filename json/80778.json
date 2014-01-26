@@ -17,5 +17,12 @@
  "age": "33",
  "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "8453",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Modafinil"
+  }
+ }
 }

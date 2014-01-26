@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2009-07-19T07:00:00.000Z",
  "views": "21297",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "4 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 7:00",
+   "amount": "0.75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 7:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

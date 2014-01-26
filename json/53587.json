@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-07-11T07:00:00.000Z",
  "views": "8308",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "26 mg",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

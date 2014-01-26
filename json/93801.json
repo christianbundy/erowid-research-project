@@ -18,5 +18,13 @@
  "age": "15",
  "timestamp": "2012-05-19T07:00:00.000Z",
  "views": "14578",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

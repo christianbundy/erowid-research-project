@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2009-11-04T08:00:00.000Z",
  "views": "5439",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "60 drops",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "3.75 ml",
+   "administration": "oral",
+   "substance": "Wormwood",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "60 drops",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 1:30",
+   "amount": "2.5 ml",
+   "administration": "oral",
+   "substance": "Wormwood",
+   "form": "(extract)"
+  }
+ }
 }

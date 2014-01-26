@@ -25,5 +25,24 @@
  "age": "19",
  "timestamp": "2012-06-21T07:00:00.000Z",
  "views": "4593",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "",
+   "substance": "bk-MBDB"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "75 mg",
+   "administration": "",
+   "substance": "bk-MBDB"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

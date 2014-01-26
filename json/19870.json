@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-10-28T07:00:00.000Z",
  "views": "93195",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ }
 }

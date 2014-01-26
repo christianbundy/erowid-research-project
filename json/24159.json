@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-06-02T07:00:00.000Z",
  "views": "26236",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Opium",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

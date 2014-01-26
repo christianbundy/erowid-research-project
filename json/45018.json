@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-12-14T08:00:00.000Z",
  "views": "5173",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "13 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "250 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 0:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

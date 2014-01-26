@@ -29,5 +29,30 @@
  "age": "23",
  "timestamp": "2013-12-20T08:00:00.000Z",
  "views": "396",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "AM-2201"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GHB"
+  }
+ }
 }

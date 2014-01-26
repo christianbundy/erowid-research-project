@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-06-06T07:00:00.000Z",
  "views": "11336",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "5 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  }
+ }
 }

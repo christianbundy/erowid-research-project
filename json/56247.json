@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2007-12-11T08:00:00.000Z",
  "views": "12884",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 cap",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Coca",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 cap",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": "",
+   "amount": "3 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": "",
+   "amount": "3 caps",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": ""
+  }
+ }
 }

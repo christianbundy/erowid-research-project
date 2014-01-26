@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2010-05-19T07:00:00.000Z",
  "views": "9060",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "various ",
+   "administration": "",
+   "substance": "4-Methylmethcathinone"
+  }
+ }
 }

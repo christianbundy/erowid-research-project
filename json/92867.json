@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2013-07-27T07:00:00.000Z",
  "views": "1106",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  }
+ }
 }

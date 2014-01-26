@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2013-12-05T08:00:00.000Z",
  "views": "552",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 g",
+   "administration": "oral",
+   "substance": "Tea",
+   "form": "(tea)"
+  }
+ }
 }

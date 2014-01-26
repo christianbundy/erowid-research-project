@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-06-02T07:00:00.000Z",
  "views": "24144",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(daily)"
+  }
+ }
 }

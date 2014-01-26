@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "32054",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "Naloxone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

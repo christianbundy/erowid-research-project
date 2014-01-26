@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-12-16T08:00:00.000Z",
  "views": "17732",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

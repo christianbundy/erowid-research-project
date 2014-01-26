@@ -33,5 +33,34 @@
  "age": "20",
  "timestamp": "2013-05-06T07:00:00.000Z",
  "views": "1190",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 8:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

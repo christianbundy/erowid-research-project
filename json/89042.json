@@ -38,5 +38,41 @@
  "age": "19",
  "timestamp": "2012-02-02T08:00:00.000Z",
  "views": "52417",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "101 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "43 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 4:15",
+   "amount": "15 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

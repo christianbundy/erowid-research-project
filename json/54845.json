@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-05-13T07:00:00.000Z",
  "views": "37610",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(ground / crushed)"
+  }
+ }
 }

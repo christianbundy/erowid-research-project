@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2009-07-19T07:00:00.000Z",
  "views": "4761",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "2 drops",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 4:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 7:30",
+   "amount": "4 drops",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": " T+ 8:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

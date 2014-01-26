@@ -17,5 +17,12 @@
  "age": "23",
  "timestamp": "2013-12-21T08:00:00.000Z",
  "views": "1519",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol"
+  }
+ }
 }

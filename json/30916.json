@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-02-16T08:00:00.000Z",
  "views": "54787",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "19",
  "timestamp": "2013-05-28T07:00:00.000Z",
  "views": "3614",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ }
 }

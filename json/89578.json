@@ -33,5 +33,34 @@
  "age": "21",
  "timestamp": "2011-02-24T08:00:00.000Z",
  "views": "15392",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(daily)"
+  }
+ }
 }

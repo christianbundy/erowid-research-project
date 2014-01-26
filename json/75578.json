@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-03-08T08:00:00.000Z",
  "views": "22635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4.0 g",
+   "administration": "oral",
+   "substance": "Aniracetam",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 12:00",
+   "amount": "4.0 g",
+   "administration": "oral",
+   "substance": "Aniracetam",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-05-04T07:00:00.000Z",
  "views": "2287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

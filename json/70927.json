@@ -33,5 +33,36 @@
  "age": "17",
  "timestamp": "2009-09-18T07:00:00.000Z",
  "views": "47522",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Vitamins / Supplements"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " ",
+   "substance": ""
+  },
+  "2": {
+   "time": "Ginkgo biloba",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "1080 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "DXM",
+   "administration": "(liquid)",
+   "substance": " T+ 2:00"
+  },
+  "4": {
+   "time": "360 mg",
+   "amount": "oral",
+   "administration": "DXM",
+   "substance": "(liquid)"
+  }
+ }
 }

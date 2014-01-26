@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-04-02T07:00:00.000Z",
  "views": "18160",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.2 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ }
 }

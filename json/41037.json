@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "20083",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Valerian"
+  },
+  "1": {
+   "time": "",
+   "amount": "4.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin"
+  },
+  "2": {
+   "time": "",
+   "amount": "900 ug",
+   "administration": "oral",
+   "substance": "Vitamin B-6"
+  }
+ }
 }

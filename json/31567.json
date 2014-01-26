@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2005-10-05T07:00:00.000Z",
  "views": "11968",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Lactuca - L. virosa",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(leaves)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

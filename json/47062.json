@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2006-07-18T07:00:00.000Z",
  "views": "11974",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1200 ug",
+   "administration": "buccal",
+   "substance": "Pharms - Fentanyl"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "75 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Tramadol",
+   "amount": "(pill / tablet)",
+   "administration": "",
+   "substance": "650 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Acetaminophen",
+   "administration": "(pill / tablet)",
+   "substance": ""
+  },
+  "4": {
+   "time": "200 mg",
+   "amount": "oral",
+   "administration": "Diphenhydramine",
+   "substance": "(pill / tablet)"
+  }
+ }
 }

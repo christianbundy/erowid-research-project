@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-25T08:00:00.000Z",
  "views": "9246",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "DOB",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 14:00",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-11-24T08:00:00.000Z",
  "views": "13525",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

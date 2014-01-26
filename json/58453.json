@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-01-08T08:00:00.000Z",
  "views": "13677",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "250 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:40",
+   "amount": "250 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "50 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": ""
+  }
+ }
 }

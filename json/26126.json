@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-08-16T07:00:00.000Z",
  "views": "9125",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "62 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

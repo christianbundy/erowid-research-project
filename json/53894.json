@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-06-26T07:00:00.000Z",
  "views": "4330",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(extract)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-11-10T08:00:00.000Z",
  "views": "43482",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4.5 mg",
+   "administration": "oral",
+   "substance": "Hydergine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": "(capsule)"
+  }
+ }
 }

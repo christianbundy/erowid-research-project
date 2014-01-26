@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-08-24T07:00:00.000Z",
  "views": "30460",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "4.0 mg",
+   "administration": "smoked",
+   "substance": "Hydrocodone",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

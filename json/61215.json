@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "3714",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

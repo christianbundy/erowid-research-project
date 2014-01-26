@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-02-12T08:00:00.000Z",
  "views": "9158",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.0 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

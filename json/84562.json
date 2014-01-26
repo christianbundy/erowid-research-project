@@ -63,5 +63,76 @@
  "age": "21",
  "timestamp": "2010-09-27T07:00:00.000Z",
  "views": "3998",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 3:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 11:00",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": " T+ 12:30",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "7": {
+   "time": " T+ 14:00",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "8": {
+   "time": " T+ 15:30",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "9": {
+   "time": " T+ 28:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

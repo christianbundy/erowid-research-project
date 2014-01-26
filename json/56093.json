@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2009-08-28T07:00:00.000Z",
  "views": "19869",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

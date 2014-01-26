@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-06-02T07:00:00.000Z",
  "views": "19493",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  }
+ }
 }

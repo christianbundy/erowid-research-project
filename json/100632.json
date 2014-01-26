@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2013-09-27T07:00:00.000Z",
  "views": "1049",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.8 mg",
+   "administration": "buccal",
+   "substance": "25B-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ }
 }

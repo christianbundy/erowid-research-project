@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-12-30T08:00:00.000Z",
  "views": "18941",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "350 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-03-09T08:00:00.000Z",
  "views": "15293",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 3:35",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

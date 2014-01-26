@@ -53,5 +53,62 @@
  "age": "25",
  "timestamp": "2012-02-09T08:00:00.000Z",
  "views": "8127",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 0:50",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 2:45",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 4:30",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 4:30",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 4:45",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 6:15",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

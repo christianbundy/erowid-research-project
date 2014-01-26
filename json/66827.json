@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2012-05-08T07:00:00.000Z",
  "views": "5285",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 14:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 14:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

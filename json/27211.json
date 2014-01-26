@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2003-10-01T07:00:00.000Z",
  "views": "14289",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-MIPT"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum"
+  }
+ }
 }

@@ -68,5 +68,83 @@
  "age": "Not Given",
  "timestamp": "2005-11-23T08:00:00.000Z",
  "views": "12881",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(capsule)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 1:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  },
+  "9": {
+   "time": " T+ 2:30",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "10": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "19",
  "timestamp": "2013-12-22T08:00:00.000Z",
  "views": "340",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  }
+ }
 }

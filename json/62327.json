@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-10-28T07:00:00.000Z",
  "views": "18334",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1350 mg",
+   "administration": "oral",
+   "substance": "Damiana",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2009-02-02T08:00:00.000Z",
  "views": "3803",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "25 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "AMT",
+   "amount": "(capsule)",
+   "administration": " T+ 1:30",
+   "substance": "12.5 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "AMT",
+   "administration": "(capsule)",
+   "substance": " T+ 2:00"
+  },
+  "4": {
+   "time": "12.5 mg",
+   "amount": "oral",
+   "administration": "AMT",
+   "substance": "(capsule)"
+  }
+ }
 }

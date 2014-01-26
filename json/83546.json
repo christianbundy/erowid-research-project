@@ -17,5 +17,12 @@
  "age": "19",
  "timestamp": "2010-05-12T07:00:00.000Z",
  "views": "5902",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9 mg",
+   "administration": "insufflated",
+   "substance": "2C-E"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2005-12-30T08:00:00.000Z",
  "views": "43220",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Poppies - Opium"
+  }
+ }
 }

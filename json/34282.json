@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-05-02T07:00:00.000Z",
  "views": "8808",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

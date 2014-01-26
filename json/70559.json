@@ -38,5 +38,41 @@
  "age": "19",
  "timestamp": "2010-04-07T07:00:00.000Z",
  "views": "46472",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Herbal Ecstasy",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 8:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 23:15",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Vitamins - Niacin",
+   "form": "(capsule)"
+  }
+ }
 }

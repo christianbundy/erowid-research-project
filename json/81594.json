@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2010-07-29T07:00:00.000Z",
  "views": "54356",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 15:30",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 15:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Doxylamine",
+   "form": "(capsule)"
+  }
+ }
 }

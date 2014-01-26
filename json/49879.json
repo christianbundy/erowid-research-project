@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-12-15T08:00:00.000Z",
  "views": "15287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Opioids",
+   "form": ""
+  }
+ }
 }

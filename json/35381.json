@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-08-12T07:00:00.000Z",
  "views": "26809",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

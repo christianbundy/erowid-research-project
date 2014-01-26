@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-09-29T07:00:00.000Z",
  "views": "2801",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  },
+  "1": {
+   "time": "",
+   "amount": "325 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ }
 }

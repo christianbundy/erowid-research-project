@@ -33,5 +33,34 @@
  "age": "23",
  "timestamp": "2010-07-28T07:00:00.000Z",
  "views": "8739",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lamotrigine ",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Valproate",
+   "form": "(daily)"
+  }
+ }
 }

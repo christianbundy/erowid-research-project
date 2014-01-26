@@ -28,5 +28,24 @@
  "age": "29",
  "timestamp": "2009-10-23T07:00:00.000Z",
  "views": "11005",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": ""
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": "",
+   "substance": "40 mg"
+  }
+ }
 }

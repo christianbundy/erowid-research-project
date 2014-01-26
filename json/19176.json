@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2002-11-25T08:00:00.000Z",
  "views": "23725",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 5:00",
+   "administration": "40 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "TMA-2",
+   "amount": "(capsule)",
+   "administration": "",
+   "substance": " "
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Methamphetamine",
+   "administration": "(capsule)",
+   "substance": " T+ 18:00"
+  },
+  "4": {
+   "time": "1 hit",
+   "amount": "smoked",
+   "administration": "Salvia divinorum",
+   "substance": "(extract)"
+  },
+  "5": {
+   "time": " T+ 30:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone"
+  },
+  "6": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": "smoked"
+  }
+ }
 }

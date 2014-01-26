@@ -53,5 +53,66 @@
  "age": "21",
  "timestamp": "2011-01-31T08:00:00.000Z",
  "views": "3435",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Unknown"
+  },
+  "1": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Unknown"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Clonidine"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  },
+  "5": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "6": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  },
+  "7": {
+   "time": " T+ 15:30",
+   "amount": "1/2 ",
+   "administration": "oral",
+   "substance": "Pharms - Clonidine"
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": "750 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "9": {
+   "time": " T+ 0:00",
+   "amount": "1.5 mg",
+   "administration": "sublingual",
+   "substance": "Melatonin"
+  }
+ }
 }

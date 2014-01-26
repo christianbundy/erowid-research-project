@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-07-21T07:00:00.000Z",
  "views": "4124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ }
 }

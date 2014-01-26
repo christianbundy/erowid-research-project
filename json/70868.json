@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2009-08-21T07:00:00.000Z",
  "views": "6063",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Damiana",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Poppies - California",
+   "form": "(tea)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Acacia",
+   "form": "(dried)"
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Passion Flower",
+   "form": "(dried)"
+  },
+  "6": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Ibuprofen",
+   "form": ""
+  }
+ }
 }

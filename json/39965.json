@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2011-11-10T08:00:00.000Z",
  "views": "6406",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  }
+ }
 }

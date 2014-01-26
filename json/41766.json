@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-01-09T08:00:00.000Z",
  "views": "53851",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:40",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Nicotine",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 0:40",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Nicotine",
+   "form": "(plant material)"
+  }
+ }
 }

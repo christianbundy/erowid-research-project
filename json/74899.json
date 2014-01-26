@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2012-02-24T08:00:00.000Z",
  "views": "3315",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Modafinil"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "100 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Modafinil",
+   "amount": "",
+   "administration": " T+ 2:00",
+   "substance": "800 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Smarts - Oxiracetam",
+   "administration": "",
+   "substance": " T+ 5:30"
+  },
+  "4": {
+   "time": "4 mg",
+   "amount": "oral",
+   "administration": "Pharms - Lorazepam",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 8:00",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 8:00",
+   "administration": "100 mg",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Modafinil",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "20 mg"
+  }
+ }
 }

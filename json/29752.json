@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-12-31T08:00:00.000Z",
  "views": "48740",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "875 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": ""
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-07-11T07:00:00.000Z",
  "views": "107171",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

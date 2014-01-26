@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2006-03-30T08:00:00.000Z",
  "views": "94349",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "IV",
+   "substance": "Heroin"
+  },
+  "1": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "IV",
+   "substance": "Cocaine"
+  }
+ }
 }

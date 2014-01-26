@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-02-27T08:00:00.000Z",
  "views": "39973",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

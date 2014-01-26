@@ -17,5 +17,12 @@
  "age": "16",
  "timestamp": "2012-03-01T08:00:00.000Z",
  "views": "2281",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria"
+  }
+ }
 }

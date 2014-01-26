@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-02-06T08:00:00.000Z",
  "views": "25877",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "450 ml",
+   "administration": "oral",
+   "substance": "Sassafras",
+   "form": "(tea)"
+  }
+ }
 }

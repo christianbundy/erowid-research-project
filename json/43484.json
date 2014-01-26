@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-03-26T07:00:00.000Z",
  "views": "30226",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  }
+ }
 }

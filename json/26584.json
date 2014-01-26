@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2003-09-04T07:00:00.000Z",
  "views": "41523",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Methadone"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Methadone"
+  }
+ }
 }

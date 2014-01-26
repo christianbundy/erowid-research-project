@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2005-04-04T07:00:00.000Z",
  "views": "6526",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

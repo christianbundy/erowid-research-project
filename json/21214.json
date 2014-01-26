@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-10-26T07:00:00.000Z",
  "views": "32462",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Leonurus sibiricus",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(flowers)"
+  }
+ }
 }

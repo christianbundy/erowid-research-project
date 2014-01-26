@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2013-11-25T08:00:00.000Z",
  "views": "379",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

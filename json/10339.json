@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-12-13T08:00:00.000Z",
  "views": "2894",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

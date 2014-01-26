@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-01-09T08:00:00.000Z",
  "views": "8344",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-12-14T08:00:00.000Z",
  "views": "25154",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "smoked",
+   "substance": "Ginkgo biloba",
+   "form": "(tar / resin)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "370 mg",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": "(tar / resin)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

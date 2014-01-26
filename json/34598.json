@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2007-07-27T07:00:00.000Z",
  "views": "9930",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Methylphenidate"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Cocaine"
+  }
+ }
 }

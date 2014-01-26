@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-08-01T07:00:00.000Z",
  "views": "11683",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Hydrocodone",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Oxycodone",
+   "form": "(daily)"
+  }
+ }
 }

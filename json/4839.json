@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-01-24T08:00:00.000Z",
  "views": "47668",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

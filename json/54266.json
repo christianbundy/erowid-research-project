@@ -63,5 +63,76 @@
  "age": "Not Given",
  "timestamp": "2009-08-27T07:00:00.000Z",
  "views": "21300",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(tar / resin)"
+  },
+  "2": {
+   "time": " T+ 0:15",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 0:25",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(extract - 10x)"
+  },
+  "4": {
+   "time": " T+ 0:25",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Leonotis leonurus",
+   "form": "(extract - 10x)"
+  },
+  "5": {
+   "time": " T+ 0:45",
+   "amount": "1.5 Tbsp",
+   "administration": "oral",
+   "substance": "Lactuca - L. virosa",
+   "form": "(tea)"
+  },
+  "6": {
+   "time": " T+ 1:10",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Argemone spp. ",
+   "form": "(extract)"
+  },
+  "7": {
+   "time": " T+ 1:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(leaves)"
+  },
+  "8": {
+   "time": " T+ 3:45",
+   "amount": "1/4 tsp",
+   "administration": "oral",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(extract)"
+  },
+  "9": {
+   "time": " T+ 3:45",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

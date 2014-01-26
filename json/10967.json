@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-11-04T08:00:00.000Z",
  "views": "7421",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "17.5 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(ground / crushed)"
+  }
+ }
 }

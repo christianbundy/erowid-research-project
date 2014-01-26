@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-04-09T07:00:00.000Z",
  "views": "15007",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - C. cyanescens",
+   "form": "(dried)"
+  }
+ }
 }

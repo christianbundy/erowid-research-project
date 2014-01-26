@@ -18,5 +18,13 @@
  "age": "23",
  "timestamp": "2012-11-01T07:00:00.000Z",
  "views": "12068",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.65 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(cookie / food)"
+  }
+ }
 }

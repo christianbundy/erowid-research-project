@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-11-29T08:00:00.000Z",
  "views": "2714",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.5 g",
+   "administration": "",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ }
 }

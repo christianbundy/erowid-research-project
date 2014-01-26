@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "7791",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 4:15",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  }
+ }
 }

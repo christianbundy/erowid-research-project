@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-02-02T08:00:00.000Z",
  "views": "6546",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "rectal",
+   "substance": "5-MeO-DiPT",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "30",
  "timestamp": "2013-06-02T07:00:00.000Z",
  "views": "1796",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "rectal",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ }
 }

@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2010-06-30T07:00:00.000Z",
  "views": "5772",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "2 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide"
+  }
+ }
 }

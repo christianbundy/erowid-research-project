@@ -18,5 +18,13 @@
  "age": "40",
  "timestamp": "2010-04-13T07:00:00.000Z",
  "views": "22782",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Products - Smoking Blends - Cannabis-Like",
+   "form": "(plant material)"
+  }
+ }
 }

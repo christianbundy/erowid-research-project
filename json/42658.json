@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2007-08-21T07:00:00.000Z",
  "views": "36735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Methamphetamine"
+  }
+ }
 }

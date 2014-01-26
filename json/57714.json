@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2008-04-28T07:00:00.000Z",
  "views": "15054",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tsp",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "2 tsp",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": "",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": ""
+  }
+ }
 }

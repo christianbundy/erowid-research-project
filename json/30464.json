@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2006-05-04T07:00:00.000Z",
  "views": "8426",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 1:20",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  }
+ }
 }

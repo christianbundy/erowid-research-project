@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-11-01T08:00:00.000Z",
  "views": "24245",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "insufflated",
+   "substance": "Valerian",
+   "form": "(ground / crushed)"
+  }
+ }
 }

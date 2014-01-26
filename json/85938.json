@@ -48,5 +48,54 @@
  "age": "37",
  "timestamp": "2010-07-23T07:00:00.000Z",
  "views": "6977",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "1 cig.",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Tobacco",
+   "administration": "",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": "125 mg",
+   "amount": "oral",
+   "administration": "bk-MBDB",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 1:50",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDAI"
+  },
+  "6": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 2:42",
+   "administration": " ",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Alcohol - Hard",
+   "amount": "",
+   "administration": " T+ 2:54",
+   "substance": "137 mg"
+  }
+ }
 }

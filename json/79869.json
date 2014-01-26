@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-07-11T07:00:00.000Z",
  "views": "11565",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "240 mg",
+   "administration": "oral",
+   "substance": "Pseudoephedrine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

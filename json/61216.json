@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-10-25T07:00:00.000Z",
  "views": "36927",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Heroin",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Hydrocodone",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Various",
+   "form": ""
+  }
+ }
 }

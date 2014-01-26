@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2008-10-31T07:00:00.000Z",
  "views": "8453",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Poppies - Opium",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "2 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 3:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(tea)"
+  },
+  "5": {
+   "time": " T+ 3:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

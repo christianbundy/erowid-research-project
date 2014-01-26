@@ -33,5 +33,34 @@
  "age": "20",
  "timestamp": "2012-11-03T07:00:00.000Z",
  "views": "4271",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "11 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:10",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 4:08",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  }
+ }
 }

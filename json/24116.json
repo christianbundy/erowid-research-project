@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-12-09T08:00:00.000Z",
  "views": "39058",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(daily)"
+  }
+ }
 }

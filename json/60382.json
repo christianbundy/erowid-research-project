@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2007-07-09T07:00:00.000Z",
  "views": "19123",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:50",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 2:35",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 3:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 7:45",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

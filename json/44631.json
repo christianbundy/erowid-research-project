@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2006-06-30T07:00:00.000Z",
  "views": "28203",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Tyrosine",
+   "form": "(daily)"
+  },
+  "4": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(daily)"
+  },
+  "5": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(daily)"
+  },
+  "6": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": "(daily)"
+  },
+  "7": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "8": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

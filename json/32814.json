@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-03-19T08:00:00.000Z",
  "views": "9355",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "IAP",
+   "form": "(powder / crystals)"
+  }
+ }
 }

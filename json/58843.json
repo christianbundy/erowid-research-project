@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-06-06T07:00:00.000Z",
  "views": "12027",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "14 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Leonotis leonurus",
+   "form": "(extract)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "12 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ }
 }

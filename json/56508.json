@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-12-07T08:00:00.000Z",
  "views": "4641",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:35",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 0:35",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 9:50",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 9:50",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 15:26",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

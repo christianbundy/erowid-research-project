@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2002-07-22T07:00:00.000Z",
  "views": "9166",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "364 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "392 g",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1.5 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

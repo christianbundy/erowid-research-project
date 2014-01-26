@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-08-28T07:00:00.000Z",
  "views": "8857",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

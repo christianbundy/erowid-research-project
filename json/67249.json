@@ -48,5 +48,54 @@
  "age": "Not Given",
  "timestamp": "2007-12-16T08:00:00.000Z",
  "views": "30859",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "6 caps",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Amanitas",
+   "amount": "(dried)",
+   "administration": "",
+   "substance": "8 "
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Amanitas",
+   "administration": "(tea)",
+   "substance": ""
+  },
+  "4": {
+   "time": "2 caps",
+   "amount": "oral",
+   "administration": "Amanitas",
+   "substance": "(tea)"
+  },
+  "5": {
+   "time": "",
+   "amount": "50 leaves",
+   "administration": "oral",
+   "substance": "Passion Flower"
+  },
+  "6": {
+   "time": "(tea)",
+   "amount": "",
+   "administration": "1 bowl",
+   "substance": "smoked"
+  },
+  "7": {
+   "time": "Amanitas",
+   "amount": "",
+   "administration": "",
+   "substance": "1 bowl"
+  }
+ }
 }

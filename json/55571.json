@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-06-09T07:00:00.000Z",
  "views": "5285",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "1 hit",
+   "substance": "smoked"
+  }
+ }
 }

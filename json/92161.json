@@ -18,5 +18,13 @@
  "age": "36",
  "timestamp": "2011-09-28T07:00:00.000Z",
  "views": "5241",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  }
+ }
 }

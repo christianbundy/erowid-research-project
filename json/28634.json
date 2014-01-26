@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-12-19T08:00:00.000Z",
  "views": "10165",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "inhaled",
+   "substance": "Inhalants",
+   "form": "(gas)"
+  }
+ }
 }

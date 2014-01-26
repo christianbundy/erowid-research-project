@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2013-11-16T08:00:00.000Z",
  "views": "637",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone"
+  },
+  "1": {
+   "time": " T+ 13:15",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "DMT"
+  },
+  "2": {
+   "time": " T+ 13:25",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-06-18T07:00:00.000Z",
  "views": "19108",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8 oz",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ }
 }

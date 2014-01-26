@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-07-27T07:00:00.000Z",
  "views": "4287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(ground / crushed)"
+  }
+ }
 }

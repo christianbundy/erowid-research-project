@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-10-05T07:00:00.000Z",
  "views": "12234",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

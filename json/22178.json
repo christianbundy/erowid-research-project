@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2003-03-17T08:00:00.000Z",
  "views": "16108",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 seeds",
+   "administration": "buccal",
+   "substance": "H.B. Woodrose"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:30",
+   "administration": "10 seeds",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "H.B. Woodrose",
+   "amount": "",
+   "administration": "",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "(plant material)",
+   "substance": " T+ 2:00"
+  },
+  "4": {
+   "time": "4 seeds",
+   "amount": "buccal",
+   "administration": "H.B. Woodrose",
+   "substance": ""
+  },
+  "5": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

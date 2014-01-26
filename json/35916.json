@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2004-08-18T07:00:00.000Z",
  "views": "33226",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "smoked",
+   "substance": "Heimia salicifolia",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2.0 g",
+   "administration": "smoked",
+   "substance": "Skullcap",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Catnip",
+   "form": "(dried)"
+  }
+ }
 }

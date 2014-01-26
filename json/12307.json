@@ -63,5 +63,76 @@
  "age": "Not Given",
  "timestamp": "2007-06-14T07:00:00.000Z",
  "views": "12115",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.25 g",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 4:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": "2.0 g",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 9:00",
+   "amount": "1 drop",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "7": {
+   "time": " T+ 14:00",
+   "amount": "0.25 g",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  },
+  "9": {
+   "time": " T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

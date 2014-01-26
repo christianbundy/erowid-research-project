@@ -38,5 +38,41 @@
  "age": "21",
  "timestamp": "2012-01-22T08:00:00.000Z",
  "views": "15711",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:15",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Inhalants - Nitrites",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 2:35",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 8:45",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Inhalants - Nitrites",
+   "form": ""
+  }
+ }
 }

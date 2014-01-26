@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-11-18T08:00:00.000Z",
  "views": "34124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ }
 }

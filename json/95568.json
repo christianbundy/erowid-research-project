@@ -38,5 +38,41 @@
  "age": "27",
  "timestamp": "2012-04-08T07:00:00.000Z",
  "views": "11539",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 4:30",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 7:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 11:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": ""
+  }
+ }
 }

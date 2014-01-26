@@ -58,5 +58,69 @@
  "age": "25",
  "timestamp": "2010-11-12T08:00:00.000Z",
  "views": "13943",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 1:30",
+   "amount": "27.5 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 2:00",
+   "amount": "37.5 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 3:10",
+   "amount": "35 mg",
+   "administration": "insufflated",
+   "substance": "2-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 4:20",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  },
+  "8": {
+   "time": " T+ 9:30",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

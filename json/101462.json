@@ -28,5 +28,24 @@
  "age": "24",
  "timestamp": "2013-10-04T07:00:00.000Z",
  "views": "650",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "TMA-6"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:45",
+   "administration": "27.5 mg",
+   "substance": "rectal"
+  },
+  "2": {
+   "time": "TMA-6",
+   "amount": "(liquid)",
+   "administration": " T+ 9:45",
+   "substance": " "
+  }
+ }
 }

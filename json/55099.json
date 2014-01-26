@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-02-09T08:00:00.000Z",
  "views": "35841",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 buttons",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 3:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 3:45",
+   "amount": "1.75 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

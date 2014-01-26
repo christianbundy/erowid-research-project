@@ -18,5 +18,13 @@
  "age": "18",
  "timestamp": "2010-10-09T07:00:00.000Z",
  "views": "24420",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

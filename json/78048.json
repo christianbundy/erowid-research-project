@@ -37,5 +37,42 @@
  "age": "Not Given",
  "timestamp": "2009-06-11T07:00:00.000Z",
  "views": "13361",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "IM",
+   "substance": "MDE"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "2.0 mg",
+   "administration": "IM",
+   "substance": "5-MeO-DiPT"
+  },
+  "3": {
+   "time": " T+ 2:20",
+   "amount": "2.0 mg",
+   "administration": "IM",
+   "substance": "5-MeO-DiPT"
+  },
+  "4": {
+   "time": " T+ 3:00",
+   "amount": "2.0 mg",
+   "administration": "IM",
+   "substance": "5-MeO-DiPT"
+  },
+  "5": {
+   "time": " T+ 3:30",
+   "amount": "2.0 mg",
+   "administration": "IM",
+   "substance": "5-MeO-DiPT"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2001-12-13T08:00:00.000Z",
  "views": "43324",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  }
+ }
 }

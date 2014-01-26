@@ -21,5 +21,18 @@
  "age": "19",
  "timestamp": "2010-05-09T07:00:00.000Z",
  "views": "6887",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  }
+ }
 }

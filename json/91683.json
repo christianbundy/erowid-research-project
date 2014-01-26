@@ -25,5 +25,24 @@
  "age": "23",
  "timestamp": "2011-08-02T07:00:00.000Z",
  "views": "11764",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  },
+  "2": {
+   "time": " T+ 1:45",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  }
+ }
 }

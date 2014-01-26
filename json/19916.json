@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-10-05T07:00:00.000Z",
  "views": "29593",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 g",
+   "administration": "",
+   "substance": "Amanitas",
+   "form": "(extract - 10x)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "0.25 tsp",
+   "administration": "",
+   "substance": "Ephedra sinica",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 10x)"
+  }
+ }
 }

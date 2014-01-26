@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-10-31T07:00:00.000Z",
  "views": "24959",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.5 tablets",
+   "administration": "oral",
+   "substance": "2C-B"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "0.5 tablets",
+   "substance": "insufflated"
+  }
+ }
 }

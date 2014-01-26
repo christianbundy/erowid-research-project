@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-01-06T08:00:00.000Z",
  "views": "56148",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Duloxetine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Fluoxetine",
+   "form": "(capsule)"
+  }
+ }
 }

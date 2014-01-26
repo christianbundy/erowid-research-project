@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2008-06-28T07:00:00.000Z",
  "views": "50065",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Theanine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DMAE",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DHEA",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - L-Tryptophan",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": "",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(ground / crushed)"
+  },
+  "5": {
+   "time": "",
+   "amount": "9.0 g",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": "(ground / crushed)"
+  },
+  "6": {
+   "time": "",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Yerba Mate",
+   "form": "(tea)"
+  },
+  "7": {
+   "time": "",
+   "amount": "776 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(capsule)"
+  },
+  "8": {
+   "time": "",
+   "amount": "407 mg",
+   "administration": "oral",
+   "substance": "Yerba Mate",
+   "form": "(capsule)"
+  }
+ }
 }

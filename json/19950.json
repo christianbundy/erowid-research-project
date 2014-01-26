@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2013-07-13T07:00:00.000Z",
  "views": "796",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3/8 oz",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "3/8 oz",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 0:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 12:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

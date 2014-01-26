@@ -43,5 +43,48 @@
  "age": "30",
  "timestamp": "2010-03-24T07:00:00.000Z",
  "views": "31197",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Hydroxyzine",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": ""
+  }
+ }
 }

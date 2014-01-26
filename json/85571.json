@@ -23,5 +23,20 @@
  "age": "15",
  "timestamp": "2010-07-30T07:00:00.000Z",
  "views": "4839",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.5 ",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(flowers)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ }
 }

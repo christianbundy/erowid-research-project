@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2010-03-01T08:00:00.000Z",
  "views": "10330",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Catnip",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": " T+ 0:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(ground / crushed)"
+  },
+  "5": {
+   "time": " T+ 0:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(ground / crushed)"
+  },
+  "6": {
+   "time": " T+ 0:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Catnip",
+   "form": "(ground / crushed)"
+  }
+ }
 }

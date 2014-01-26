@@ -23,5 +23,20 @@
  "age": "25",
  "timestamp": "2010-08-06T07:00:00.000Z",
  "views": "6929",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

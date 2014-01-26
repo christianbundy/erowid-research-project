@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
  "views": "11969",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-10-18T07:00:00.000Z",
  "views": "32107",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 lbs",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(tea)"
+  }
+ }
 }

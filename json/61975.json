@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "6896",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8.0 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "2.0 mg",
+   "administration": "sublingual",
+   "substance": "Naloxone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "4.0 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "1.0 mg",
+   "administration": "sublingual",
+   "substance": "Naloxone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

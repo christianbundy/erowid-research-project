@@ -25,5 +25,24 @@
  "age": "19",
  "timestamp": "2010-03-26T07:00:00.000Z",
  "views": "25124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "5-MeO-DALT"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

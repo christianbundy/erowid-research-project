@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2013-08-13T07:00:00.000Z",
  "views": "1795",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "AL-LAD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

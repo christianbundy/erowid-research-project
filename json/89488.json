@@ -43,5 +43,48 @@
  "age": "20",
  "timestamp": "2011-02-02T08:00:00.000Z",
  "views": "10816",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1600 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Vitamins - Choline",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": "",
+   "amount": "4.5 mg",
+   "administration": "oral",
+   "substance": "Hydergine",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

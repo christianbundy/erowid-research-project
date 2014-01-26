@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-02-16T08:00:00.000Z",
  "views": "12790",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 9:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

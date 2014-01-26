@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2008-01-16T08:00:00.000Z",
  "views": "10511",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "55 mg",
+   "administration": "",
+   "substance": "DiPT"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 9:30",
+   "administration": " ",
+   "substance": "oral"
+  }
+ }
 }

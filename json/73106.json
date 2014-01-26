@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2008-09-18T07:00:00.000Z",
  "views": "26708",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "1": {
+   "time": "",
+   "amount": "700 mg",
+   "administration": "oral",
+   "substance": "Aniracetam"
+  },
+  "2": {
+   "time": "",
+   "amount": "13.5 mg",
+   "administration": "oral",
+   "substance": "Hydergine"
+  }
+ }
 }

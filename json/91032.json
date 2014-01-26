@@ -33,5 +33,34 @@
  "age": "24",
  "timestamp": "2011-05-16T07:00:00.000Z",
  "views": "10651",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "rectal",
+   "substance": "Methoxetamine ",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "50 mg",
+   "administration": "rectal",
+   "substance": "DPT",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "rectal",
+   "substance": "2C-C",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

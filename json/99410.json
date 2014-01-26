@@ -37,5 +37,42 @@
  "age": "22",
  "timestamp": "2013-09-14T07:00:00.000Z",
  "views": "939",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  },
+  "2": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "Pharms - Tramadol"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "25I-NBOMe"
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Ketamine"
+  }
+ }
 }

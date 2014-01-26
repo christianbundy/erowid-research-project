@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2013-04-30T07:00:00.000Z",
  "views": "3828",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

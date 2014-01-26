@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2011-12-15T08:00:00.000Z",
  "views": "4863",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "",
+   "substance": "2C-P",
+   "form": "(pill / tablet)"
+  }
+ }
 }

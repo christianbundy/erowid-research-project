@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "10428",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-HO-DiPT"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "2C-C"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Alprazolam"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "DXM"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "5-MeO-DMT"
+  }
+ }
 }

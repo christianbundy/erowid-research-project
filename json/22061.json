@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-04-21T07:00:00.000Z",
  "views": "11883",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 12:00",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

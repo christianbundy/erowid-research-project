@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2008-06-22T07:00:00.000Z",
  "views": "15849",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "PCP"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

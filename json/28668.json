@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2003-11-24T08:00:00.000Z",
  "views": "101228",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methamphetamine"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Cocaine"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate"
+  }
+ }
 }

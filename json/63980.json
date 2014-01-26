@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-06-28T07:00:00.000Z",
  "views": "6878",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

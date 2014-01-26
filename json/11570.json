@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2004-10-07T07:00:00.000Z",
  "views": "58957",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:06",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:13",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:16",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 0:42",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 0:56",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 1:10",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

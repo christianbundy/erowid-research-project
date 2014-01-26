@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-21T07:00:00.000Z",
  "views": "3116",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "sublingual",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ }
 }

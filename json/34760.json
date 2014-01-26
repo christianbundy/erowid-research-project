@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2007-03-03T08:00:00.000Z",
  "views": "11381",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 3:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 3:30",
+   "amount": "4.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 4:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

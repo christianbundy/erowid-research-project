@@ -25,5 +25,24 @@
  "age": "21",
  "timestamp": "2011-08-30T07:00:00.000Z",
  "views": "5125",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  },
+  "2": {
+   "time": " T+ 4:00",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  }
+ }
 }

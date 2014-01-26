@@ -23,5 +23,20 @@
  "age": "21",
  "timestamp": "2013-07-09T07:00:00.000Z",
  "views": "881",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "4-HO-DET",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

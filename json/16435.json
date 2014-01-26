@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-07-27T07:00:00.000Z",
  "views": "9038",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 6x)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-01-09T08:00:00.000Z",
  "views": "13054",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "18.5 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:37",
+   "amount": "1 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

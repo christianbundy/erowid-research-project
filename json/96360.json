@@ -25,5 +25,24 @@
  "age": "33",
  "timestamp": "2012-08-08T07:00:00.000Z",
  "views": "8612",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methylone"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "2": {
+   "time": " T+ 24:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

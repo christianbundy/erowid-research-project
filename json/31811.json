@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-01T07:00:00.000Z",
  "views": "3887",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "350 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

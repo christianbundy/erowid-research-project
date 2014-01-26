@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2006-04-14T07:00:00.000Z",
  "views": "52846",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 tsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 14:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 22:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

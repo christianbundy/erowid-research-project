@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2006-07-21T07:00:00.000Z",
  "views": "30507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.25 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(gel tab)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 0:40",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 1:20",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 1:40",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

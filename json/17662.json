@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-07-27T07:00:00.000Z",
  "views": "54851",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:10",
+   "amount": "0.1 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 1:40",
+   "amount": "0.1 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

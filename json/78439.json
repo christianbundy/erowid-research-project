@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2011-10-03T07:00:00.000Z",
  "views": "12669",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-05-16T07:00:00.000Z",
  "views": "14155",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(tea)"
+  }
+ }
 }

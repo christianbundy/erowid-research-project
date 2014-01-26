@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-06-27T07:00:00.000Z",
  "views": "14283",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Ephedrine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Tobacco",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "31",
  "timestamp": "2013-07-30T07:00:00.000Z",
  "views": "2388",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "25I-NBOMe",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2010-04-05T07:00:00.000Z",
  "views": "30508",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 1:10",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  },
+  "4": {
+   "time": " T+ 1:40",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  }
+ }
 }

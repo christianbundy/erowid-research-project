@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-02-21T08:00:00.000Z",
  "views": "9099",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Aripiprazole",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -29,5 +29,30 @@
  "age": "18",
  "timestamp": "2013-12-06T08:00:00.000Z",
  "views": "470",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "3": {
+   "time": " T+ 1:30",
+   "amount": "150 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  }
+ }
 }

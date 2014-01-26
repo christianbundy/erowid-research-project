@@ -28,5 +28,27 @@
  "age": "24",
  "timestamp": "2010-10-02T07:00:00.000Z",
  "views": "13177",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": "",
+   "amount": "16 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ }
 }

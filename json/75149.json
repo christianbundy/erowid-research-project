@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2013-11-16T08:00:00.000Z",
  "views": "2407",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propylhexedrine"
+  },
+  "1": {
+   "time": " T+ 1:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": " T+ 1:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  }
+ }
 }

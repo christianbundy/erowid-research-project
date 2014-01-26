@@ -25,5 +25,24 @@
  "age": "15",
  "timestamp": "2013-07-14T07:00:00.000Z",
  "views": "403",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "AMT"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

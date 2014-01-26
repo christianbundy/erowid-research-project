@@ -29,5 +29,30 @@
  "age": "19",
  "timestamp": "2013-02-22T08:00:00.000Z",
  "views": "3448",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-B"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-B"
+  }
+ }
 }

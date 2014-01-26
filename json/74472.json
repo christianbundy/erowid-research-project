@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2010-02-09T08:00:00.000Z",
  "views": "19231",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Kratom"
+  }
+ }
 }

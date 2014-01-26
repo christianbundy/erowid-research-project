@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-10-20T07:00:00.000Z",
  "views": "10805",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Piperazines - BZP"
+  }
+ }
 }

@@ -25,5 +25,24 @@
  "age": "23",
  "timestamp": "2010-01-25T08:00:00.000Z",
  "views": "4678",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

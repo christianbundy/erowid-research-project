@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2013-04-04T07:00:00.000Z",
  "views": "6379",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 4:30",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

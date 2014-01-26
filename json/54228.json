@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-06-14T07:00:00.000Z",
  "views": "11852",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Anadenanthera peregrina",
+   "form": "(ground / crushed)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-10-13T07:00:00.000Z",
  "views": "4596",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "333 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "333 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

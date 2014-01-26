@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-01-09T08:00:00.000Z",
  "views": "9904",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 g",
+   "administration": "buccal",
+   "substance": "Catha edulis",
+   "form": "(plant material)"
+  }
+ }
 }

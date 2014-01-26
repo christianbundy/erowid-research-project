@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-11-11T08:00:00.000Z",
  "views": "3292",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(tar / resin)"
+  }
+ }
 }

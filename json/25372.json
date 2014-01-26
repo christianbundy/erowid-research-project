@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-07-18T07:00:00.000Z",
  "views": "25031",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "36 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  }
+ }
 }

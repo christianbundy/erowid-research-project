@@ -18,5 +18,13 @@
  "age": "17",
  "timestamp": "2013-02-26T08:00:00.000Z",
  "views": "1227",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(plant material)"
+  }
+ }
 }

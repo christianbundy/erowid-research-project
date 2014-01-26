@@ -33,5 +33,34 @@
  "age": "22",
  "timestamp": "2013-09-18T07:00:00.000Z",
  "views": "1382",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 ug",
+   "administration": "buccal",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:20",
+   "amount": "150 ug",
+   "administration": "buccal",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 2:40",
+   "amount": "150 ug",
+   "administration": "buccal",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 3:40",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

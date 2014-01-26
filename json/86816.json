@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2010-08-11T07:00:00.000Z",
  "views": "4198",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

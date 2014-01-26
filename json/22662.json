@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-05-18T07:00:00.000Z",
  "views": "11148",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "22.5 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

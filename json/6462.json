@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2002-02-28T08:00:00.000Z",
  "views": "20347",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Opium",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "8 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  }
+ }
 }

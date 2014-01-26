@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-09-01T07:00:00.000Z",
  "views": "12342",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "14 g",
+   "administration": "",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 tablets",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "14 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

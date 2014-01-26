@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2002-08-01T07:00:00.000Z",
  "views": "73879",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tablets",
+   "administration": "",
+   "substance": "MDMA"
+  },
+  "2": {
+   "time": "",
+   "amount": "30 hits",
+   "administration": "",
+   "substance": "Nitrous Oxide"
+  },
+  "3": {
+   "time": "",
+   "amount": "15 hits",
+   "administration": "",
+   "substance": "Methamphetamine"
+  },
+  "4": {
+   "time": "",
+   "amount": "10 hits",
+   "administration": "",
+   "substance": "Salvia divinorum"
+  }
+ }
 }

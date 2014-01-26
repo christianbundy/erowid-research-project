@@ -17,5 +17,12 @@
  "age": "17",
  "timestamp": "2013-07-09T07:00:00.000Z",
  "views": "477",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-I"
+  }
+ }
 }

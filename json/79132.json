@@ -53,5 +53,66 @@
  "age": "Not Given",
  "timestamp": "2013-10-22T07:00:00.000Z",
  "views": "1264",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:30",
+   "administration": "3 tablets",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Hydrocodone",
+   "amount": "",
+   "administration": " T+ 2:30",
+   "substance": "2 lines"
+  },
+  "3": {
+   "time": "insufflated",
+   "amount": "Cocaine",
+   "administration": "",
+   "substance": " T+ 4:00"
+  },
+  "4": {
+   "time": "4 tablets",
+   "amount": "oral",
+   "administration": "MDMA",
+   "substance": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 4:10",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 4:10",
+   "administration": "1 cig.",
+   "substance": "smoked"
+  },
+  "7": {
+   "time": "Tobacco - Cigarettes",
+   "amount": "",
+   "administration": " T+ 6:00",
+   "substance": " repeated"
+  },
+  "8": {
+   "time": "insufflated",
+   "amount": "Cocaine",
+   "administration": "",
+   "substance": " T+ 7:30"
+  },
+  "9": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "43998",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  }
+ }
 }

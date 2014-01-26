@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-08-02T07:00:00.000Z",
  "views": "13510",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT"
+  }
+ }
 }

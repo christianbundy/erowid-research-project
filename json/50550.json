@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-04-11T07:00:00.000Z",
  "views": "2673",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "5 shots",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

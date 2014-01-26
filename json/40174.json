@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "63593",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(daily)"
+  }
+ }
 }

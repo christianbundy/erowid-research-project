@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-03-28T07:00:00.000Z",
  "views": "8825",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "100 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:45",
+   "amount": "225 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

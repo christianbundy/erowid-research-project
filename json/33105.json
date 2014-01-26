@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2010-07-11T07:00:00.000Z",
  "views": "11846",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Pharms - Topiramate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

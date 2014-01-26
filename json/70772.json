@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2008-11-07T08:00:00.000Z",
  "views": "25944",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4800 mg",
+   "administration": "oral",
+   "substance": "Piracetam"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DHEA"
+  }
+ }
 }

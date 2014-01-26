@@ -18,5 +18,13 @@
  "age": "38",
  "timestamp": "2010-05-18T07:00:00.000Z",
  "views": "9681",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 mg",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

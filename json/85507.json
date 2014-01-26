@@ -28,5 +28,27 @@
  "age": "31",
  "timestamp": "2012-04-05T07:00:00.000Z",
  "views": "21437",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": "(tea)"
+  }
+ }
 }

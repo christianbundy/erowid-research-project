@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-08-14T07:00:00.000Z",
  "views": "9146",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

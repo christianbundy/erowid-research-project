@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2004-10-21T07:00:00.000Z",
  "views": "18826",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "160 mg",
+   "administration": "oral",
+   "substance": "4-Fluoroamphetamine"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ }
 }

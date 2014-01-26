@@ -23,5 +23,20 @@
  "age": "21",
  "timestamp": "2011-11-11T08:00:00.000Z",
  "views": "32270",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

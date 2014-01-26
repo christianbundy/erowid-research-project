@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-09-14T07:00:00.000Z",
  "views": "53341",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

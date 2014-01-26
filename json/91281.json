@@ -18,5 +18,13 @@
  "age": "27",
  "timestamp": "2011-11-06T07:00:00.000Z",
  "views": "8212",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(gel tab)"
+  }
+ }
 }

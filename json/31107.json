@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-03-03T08:00:00.000Z",
  "views": "4203",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.7 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "400 mg",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": ""
+  }
+ }
 }

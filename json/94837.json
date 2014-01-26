@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2012-10-02T07:00:00.000Z",
  "views": "4741",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:15",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ }
 }

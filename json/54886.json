@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-02-01T08:00:00.000Z",
  "views": "4570",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Coffee",
+   "form": "(liquid)"
+  }
+ }
 }

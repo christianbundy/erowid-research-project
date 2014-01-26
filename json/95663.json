@@ -17,5 +17,12 @@
  "age": "63",
  "timestamp": "2012-04-25T07:00:00.000Z",
  "views": "4729",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "MDA"
+  }
+ }
 }

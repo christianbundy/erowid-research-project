@@ -38,5 +38,41 @@
  "age": "23",
  "timestamp": "2011-12-18T08:00:00.000Z",
  "views": "6771",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "1 hit",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "1 hit",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 5:30",
+   "amount": "0.5 hits",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 12:30",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

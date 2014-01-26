@@ -18,5 +18,13 @@
  "age": "29",
  "timestamp": "2009-08-24T07:00:00.000Z",
  "views": "6367",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 mg",
+   "administration": "IV",
+   "substance": "Pharms - Butorphanol",
+   "form": "(ground / crushed)"
+  }
+ }
 }

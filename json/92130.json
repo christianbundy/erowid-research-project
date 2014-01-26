@@ -33,5 +33,34 @@
  "age": "19",
  "timestamp": "2011-09-14T07:00:00.000Z",
  "views": "8357",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1000 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "4-MeO-PCP",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": "",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -83,5 +83,104 @@
  "age": "Not Given",
  "timestamp": "2006-02-24T08:00:00.000Z",
  "views": "12445",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 3:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 4:30",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 7:30",
+   "amount": "10 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 17:50",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 27:30",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "6": {
+   "time": " T+ 30:00",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  },
+  "7": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 32:00",
+   "amount": "1.5 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "9": {
+   "time": " T+ 37:50",
+   "amount": "4 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "10": {
+   "time": " T+ 52:00",
+   "amount": "1 tablet",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "11": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  },
+  "12": {
+   "time": " T+ 56:00",
+   "amount": "1 tablet",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "13": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-07-25T07:00:00.000Z",
  "views": "11634",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "",
+   "substance": "Vitamins / Supplements",
+   "form": "(daily)"
+  }
+ }
 }

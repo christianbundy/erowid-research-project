@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-01-23T08:00:00.000Z",
  "views": "46462",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "9.0 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 1:05",
+   "amount": "26 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:05",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 1:24",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": " T+ 2:53",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  },
+  "5": {
+   "time": " T+ 6:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  }
+ }
 }

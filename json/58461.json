@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2009-07-08T07:00:00.000Z",
  "views": "14506",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Absinthe"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 24:00",
+   "administration": "1 glass",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Absinthe",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "1 glass"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "20",
  "timestamp": "2010-01-02T08:00:00.000Z",
  "views": "10071",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "380 ug",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": "120 mg",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 16:00",
+   "amount": "210 mg",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 18:00",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 18:30",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2000-10-22T07:00:00.000Z",
  "views": "23465",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 ml",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:04",
+   "amount": "1.0 ml",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 0:08",
+   "amount": "1.0 ml",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(liquid)"
+  }
+ }
 }

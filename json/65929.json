@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2011-03-11T08:00:00.000Z",
  "views": "34436",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

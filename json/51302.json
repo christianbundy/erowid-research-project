@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2006-05-01T07:00:00.000Z",
  "views": "23068",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 12:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 16:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 19:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 36:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

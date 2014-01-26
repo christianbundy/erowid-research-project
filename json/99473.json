@@ -29,5 +29,30 @@
  "age": "22",
  "timestamp": "2013-07-29T07:00:00.000Z",
  "views": "630",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "DOC"
+  },
+  "2": {
+   "time": " T+ 9:00",
+   "amount": "425 ug",
+   "administration": "sublingual",
+   "substance": "25C-NBOMe"
+  },
+  "3": {
+   "time": " T+ 15:35",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine"
+  }
+ }
 }

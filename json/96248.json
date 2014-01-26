@@ -17,5 +17,12 @@
  "age": "20",
  "timestamp": "2013-07-10T07:00:00.000Z",
  "views": "1337",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Metaxalone"
+  }
+ }
 }

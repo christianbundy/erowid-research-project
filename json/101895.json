@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2013-11-24T08:00:00.000Z",
  "views": "844",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "vaporized",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

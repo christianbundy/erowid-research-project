@@ -38,5 +38,41 @@
  "age": "32",
  "timestamp": "2009-10-24T07:00:00.000Z",
  "views": "16866",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:20",
+   "amount": "2 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 1:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

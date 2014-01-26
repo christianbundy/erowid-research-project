@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2008-09-26T07:00:00.000Z",
  "views": "5445",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "rectal",
+   "substance": "2C-B"
+  },
+  "1": {
+   "time": " T+ 5:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ }
 }

@@ -37,5 +37,42 @@
  "age": "Not Given",
  "timestamp": "2003-04-14T07:00:00.000Z",
  "views": "22541",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "4": {
+   "time": "",
+   "amount": "0.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA"
+  },
+  "5": {
+   "time": " T+ 6:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem"
+  }
+ }
 }

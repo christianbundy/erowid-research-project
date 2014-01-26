@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-04-14T07:00:00.000Z",
  "views": "10401",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 leaves",
+   "administration": "buccal",
+   "substance": "Coca"
+  }
+ }
 }

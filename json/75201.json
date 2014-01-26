@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-07-20T07:00:00.000Z",
  "views": "13151",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "2C-B"
+  },
+  "1": {
+   "time": " T+ 4:20",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

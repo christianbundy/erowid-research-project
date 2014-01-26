@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-07-15T07:00:00.000Z",
  "views": "14270",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "21 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": "",
+   "amount": "4 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ }
 }

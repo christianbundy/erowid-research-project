@@ -28,5 +28,27 @@
  "age": "29",
  "timestamp": "2013-07-24T07:00:00.000Z",
  "views": "817",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:15",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 5:30",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

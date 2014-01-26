@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-12-19T08:00:00.000Z",
  "views": "18778",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "3 cups",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 4:00",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Aniracetam",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": " T+ 12:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

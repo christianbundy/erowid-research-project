@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2013-09-08T07:00:00.000Z",
  "views": "786",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.25 hits",
+   "administration": "",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-03-21T08:00:00.000Z",
  "views": "21517",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "750 ml",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": ""
+  }
+ }
 }

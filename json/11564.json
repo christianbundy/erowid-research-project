@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-04-13T07:00:00.000Z",
  "views": "4256",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

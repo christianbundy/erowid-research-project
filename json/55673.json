@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2008-01-18T08:00:00.000Z",
  "views": "4673",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:00",
+   "administration": "5.5 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "DOI",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 31:00",
+   "substance": "0.5 mg"
+  }
+ }
 }

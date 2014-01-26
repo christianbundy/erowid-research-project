@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-09-22T07:00:00.000Z",
  "views": "2753",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(pill / tablet)"
+  }
+ }
 }

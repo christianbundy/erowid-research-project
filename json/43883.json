@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-05-07T07:00:00.000Z",
  "views": "65732",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone",
+   "form": "(ground / crushed)"
+  }
+ }
 }

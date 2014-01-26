@@ -23,5 +23,20 @@
  "age": "17",
  "timestamp": "2010-07-15T07:00:00.000Z",
  "views": "47191",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:20",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

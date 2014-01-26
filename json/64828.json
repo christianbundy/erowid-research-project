@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-10-31T07:00:00.000Z",
  "views": "7277",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "DOI",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 8:15",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 9:30",
+   "amount": "2 ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

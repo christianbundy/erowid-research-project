@@ -28,5 +28,27 @@
  "age": "18",
  "timestamp": "2011-02-17T08:00:00.000Z",
  "views": "4050",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 oz",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "6 oz",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  }
+ }
 }

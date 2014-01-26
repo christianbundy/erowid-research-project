@@ -23,5 +23,18 @@
  "age": "21",
  "timestamp": "2009-10-28T07:00:00.000Z",
  "views": "7634",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "300 mg",
+   "substance": "oral"
+  }
+ }
 }

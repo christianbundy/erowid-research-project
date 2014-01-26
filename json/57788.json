@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-06-20T07:00:00.000Z",
  "views": "12721",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "11 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(capsule)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2009-08-08T07:00:00.000Z",
  "views": "5960",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Piperazines",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Piperazines",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 2:30",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Piperazines",
+   "form": "(pill / tablet)"
+  }
+ }
 }

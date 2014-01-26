@@ -23,5 +23,20 @@
  "age": "30",
  "timestamp": "2010-11-03T07:00:00.000Z",
  "views": "10416",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

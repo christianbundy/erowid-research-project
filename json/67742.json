@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-12-31T08:00:00.000Z",
  "views": "16825",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Sceletium tortuosum",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Kratom",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Codeine",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Poppies - Opium",
+   "form": ""
+  }
+ }
 }

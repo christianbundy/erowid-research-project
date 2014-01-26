@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2009-12-02T08:00:00.000Z",
  "views": "8876",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:02",
+   "administration": "100 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Diphenhydramine",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 1:06",
+   "substance": "100 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Diphenhydramine",
+   "administration": "(pill / tablet)",
+   "substance": " T+ 2:42"
+  },
+  "4": {
+   "time": " ",
+   "amount": "oral",
+   "administration": "Caffeine",
+   "substance": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 2:48",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine"
+  },
+  "6": {
+   "time": "(pill / tablet)",
+   "amount": " T+ 3:01",
+   "administration": "50 mg",
+   "substance": "oral"
+  }
+ }
 }

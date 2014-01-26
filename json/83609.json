@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2010-07-27T07:00:00.000Z",
  "views": "11694",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "80 ",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(fresh)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

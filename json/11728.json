@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-04-10T07:00:00.000Z",
  "views": "40428",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4800 mg",
+   "administration": "sublingual",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ }
 }

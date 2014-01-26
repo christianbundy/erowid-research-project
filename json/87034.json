@@ -21,5 +21,18 @@
  "age": "19",
  "timestamp": "2011-08-29T07:00:00.000Z",
  "views": "6367",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine"
+  }
+ }
 }

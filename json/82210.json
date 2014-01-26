@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2010-07-19T07:00:00.000Z",
  "views": "10151",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  }
+ }
 }

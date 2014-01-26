@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-08-06T07:00:00.000Z",
  "views": "30683",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  }
+ }
 }

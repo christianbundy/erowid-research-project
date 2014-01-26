@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2011-07-22T07:00:00.000Z",
  "views": "5059",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": ""
+  }
+ }
 }

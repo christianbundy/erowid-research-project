@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-07-19T07:00:00.000Z",
  "views": "7124",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Flurazepam"
+  }
+ }
 }

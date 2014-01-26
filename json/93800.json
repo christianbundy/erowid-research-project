@@ -28,5 +28,27 @@
  "age": "21",
  "timestamp": "2013-06-09T07:00:00.000Z",
  "views": "802",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis - Hash",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

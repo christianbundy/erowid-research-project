@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-01-20T08:00:00.000Z",
  "views": "19957",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  }
+ }
 }

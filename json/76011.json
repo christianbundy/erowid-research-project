@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-05-07T07:00:00.000Z",
  "views": "11519",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-P",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 14:45",
+   "amount": "300 mg",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

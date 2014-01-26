@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2011-03-29T07:00:00.000Z",
  "views": "6624",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "MDE",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:05",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

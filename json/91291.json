@@ -28,5 +28,27 @@
  "age": "17",
  "timestamp": "2011-05-31T07:00:00.000Z",
  "views": "21034",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:10",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:50",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-10-03T07:00:00.000Z",
  "views": "3355",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "4 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "4 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "3": {
+   "time": " T+ 1:45",
+   "amount": "5 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ }
 }

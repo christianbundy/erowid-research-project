@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2006-05-27T07:00:00.000Z",
  "views": "24553",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

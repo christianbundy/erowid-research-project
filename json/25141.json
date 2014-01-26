@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-01-12T08:00:00.000Z",
  "views": "78724",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 cups",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ }
 }

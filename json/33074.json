@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2004-12-27T08:00:00.000Z",
  "views": "24714",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Unknown"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Unknown"
+  }
+ }
 }

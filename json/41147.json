@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-03-29T08:00:00.000Z",
  "views": "11161",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(tea)"
+  }
+ }
 }

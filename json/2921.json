@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2001-12-16T08:00:00.000Z",
  "views": "23032",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 drops",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

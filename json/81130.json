@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2010-09-22T07:00:00.000Z",
  "views": "4586",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(blotter / tab)"
+  }
+ }
 }

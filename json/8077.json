@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-02-08T08:00:00.000Z",
  "views": "58132",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "rectal",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

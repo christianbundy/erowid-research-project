@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-01-10T08:00:00.000Z",
  "views": "26206",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pseudoephedrine",
+   "form": "(liquid)"
+  }
+ }
 }

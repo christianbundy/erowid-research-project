@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-02-28T08:00:00.000Z",
  "views": "3577",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "6.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": "",
+   "amount": "6 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "66 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": ""
+  }
+ }
 }

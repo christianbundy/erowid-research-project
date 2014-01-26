@@ -33,5 +33,36 @@
  "age": "19",
  "timestamp": "2010-10-14T07:00:00.000Z",
  "views": "6113",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Coffee"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Vitamins / Supplements"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018"
+  }
+ }
 }

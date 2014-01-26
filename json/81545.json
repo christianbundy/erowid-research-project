@@ -28,5 +28,27 @@
  "age": "23",
  "timestamp": "2012-10-23T07:00:00.000Z",
  "views": "1401",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(powder / crystals)"
+  }
+ }
 }

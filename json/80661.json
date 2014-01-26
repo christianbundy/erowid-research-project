@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2010-11-13T08:00:00.000Z",
  "views": "4811",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

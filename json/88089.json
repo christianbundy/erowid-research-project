@@ -18,5 +18,13 @@
  "age": "2010",
  "timestamp": "2010-11-09T08:00:00.000Z",
  "views": "6131",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

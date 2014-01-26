@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-01-01T08:00:00.000Z",
  "views": "13650",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

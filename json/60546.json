@@ -23,5 +23,20 @@
  "age": "27",
  "timestamp": "2009-10-02T07:00:00.000Z",
  "views": "39969",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Yerba Mate",
+   "form": "(tea)"
+  }
+ }
 }

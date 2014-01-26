@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2007-01-15T08:00:00.000Z",
  "views": "3987",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "",
+   "substance": "2C-E"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 7:00",
+   "administration": "150 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Hydrocodone",
+   "amount": "(pill / tablet)",
+   "administration": " T+ 9:00",
+   "substance": "150 mg"
+  }
+ }
 }

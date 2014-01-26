@@ -33,5 +33,36 @@
  "age": "17",
  "timestamp": "2010-09-22T07:00:00.000Z",
  "views": "22753",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " repeated",
+   "substance": "smoked"
+  },
+  "2": {
+   "time": "Cannabis",
+   "amount": "(plant material)",
+   "administration": " T+ 6:00",
+   "substance": " repeated"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Salvia divinorum",
+   "administration": "(leaves)",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": "1.5 bowls",
+   "amount": "smoked",
+   "administration": "Salvia divinorum",
+   "substance": "(extract - 10x)"
+  }
+ }
 }

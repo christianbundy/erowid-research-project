@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2002-05-26T07:00:00.000Z",
  "views": "25542",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "Phenethylamines - Other",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 6:00",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 7:00",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 8:00",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 8:00",
+   "amount": "24 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 8:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  }
+ }
 }

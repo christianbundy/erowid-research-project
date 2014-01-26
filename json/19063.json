@@ -68,5 +68,83 @@
  "age": "Not Given",
  "timestamp": "2005-01-03T08:00:00.000Z",
  "views": "20538",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Heimia salicifolia",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "15 mg",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": "",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Sceletium tortuosum",
+   "form": "(dried)"
+  },
+  "3": {
+   "time": " T+ 0:45",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(dried)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  },
+  "5": {
+   "time": " T+ 1:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  },
+  "6": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  },
+  "7": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": "(tea)"
+  },
+  "8": {
+   "time": " T+ 2:30",
+   "amount": " ",
+   "administration": "",
+   "substance": "Valerian",
+   "form": "(tea)"
+  },
+  "9": {
+   "time": " T+ 2:45",
+   "amount": "4 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  },
+  "10": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(dried)"
+  }
+ }
 }

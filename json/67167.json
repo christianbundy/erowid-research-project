@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-11-30T08:00:00.000Z",
  "views": "35727",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(freebase)"
+  },
+  "1": {
+   "time": " T+ 0:02",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(freebase)"
+  },
+  "2": {
+   "time": " T+ 0:04",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(freebase)"
+  },
+  "3": {
+   "time": " T+ 0:06",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(freebase)"
+  },
+  "4": {
+   "time": " T+ 0:08",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(freebase)"
+  }
+ }
 }

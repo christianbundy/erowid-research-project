@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2010-07-12T07:00:00.000Z",
  "views": "7129",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": ""
+  },
+  "2": {
+   "time": "Pharms - Risperidone",
+   "amount": "(daily)",
+   "administration": "",
+   "substance": " "
+  }
+ }
 }

@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2012-05-17T07:00:00.000Z",
  "views": "7578",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1600 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 1:20",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:20",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ }
 }

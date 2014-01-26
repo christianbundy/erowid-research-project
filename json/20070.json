@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-12-22T08:00:00.000Z",
  "views": "37358",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(plant material)"
+  }
+ }
 }

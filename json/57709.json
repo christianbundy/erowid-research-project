@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
  "views": "41763",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:45",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 2:45",
+   "amount": "14 tablets",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "24",
  "timestamp": "2010-07-08T07:00:00.000Z",
  "views": "18416",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 glasses",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "7 ",
+   "administration": "transdermal",
+   "substance": "Animals - Frogs",
+   "form": "(extract)"
+  }
+ }
 }

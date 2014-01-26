@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-11-11T08:00:00.000Z",
  "views": "41599",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  }
+ }
 }

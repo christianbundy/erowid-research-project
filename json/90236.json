@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2011-03-23T07:00:00.000Z",
  "views": "22523",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(daily)"
+  }
+ }
 }

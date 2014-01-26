@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2006-01-01T08:00:00.000Z",
  "views": "60396",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 caps",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 berries",
+   "administration": "oral",
+   "substance": "Belladonna",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": "33 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": "3 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(liquid)"
+  }
+ }
 }

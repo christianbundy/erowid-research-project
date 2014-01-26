@@ -48,5 +48,54 @@
  "age": "18",
  "timestamp": "2013-02-27T08:00:00.000Z",
  "views": "1791",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:30",
+   "administration": "150 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "4-Methylethcathinone",
+   "amount": "(capsule)",
+   "administration": " T+ 3:00",
+   "substance": "1 bowl"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 6:30"
+  },
+  "4": {
+   "time": "50 mg",
+   "amount": "oral",
+   "administration": "Methoxetamine ",
+   "substance": "(capsule)"
+  },
+  "5": {
+   "time": " T+ 8:40",
+   "amount": "56 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 9:08",
+   "administration": "60 mg",
+   "substance": "insufflated"
+  },
+  "7": {
+   "time": "4-Methylethcathinone",
+   "amount": "",
+   "administration": " T+ 9:40",
+   "substance": "1 bowl"
+  }
+ }
 }

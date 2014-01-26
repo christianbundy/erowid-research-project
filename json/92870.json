@@ -33,5 +33,34 @@
  "age": "20",
  "timestamp": "2011-09-26T07:00:00.000Z",
  "views": "7438",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 ug",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "250 ug",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

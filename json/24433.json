@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-12-01T08:00:00.000Z",
  "views": "32127",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Kava",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Salvia divinorum",
+   "form": "(extract)"
+  }
+ }
 }

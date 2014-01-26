@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2010-01-30T08:00:00.000Z",
  "views": "14968",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ }
 }

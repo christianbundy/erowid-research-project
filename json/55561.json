@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-05-13T07:00:00.000Z",
  "views": "11067",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

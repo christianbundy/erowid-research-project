@@ -18,5 +18,13 @@
  "age": "42",
  "timestamp": "2013-01-02T08:00:00.000Z",
  "views": "1792",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

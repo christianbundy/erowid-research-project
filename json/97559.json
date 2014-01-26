@@ -58,5 +58,69 @@
  "age": "25",
  "timestamp": "2013-01-28T08:00:00.000Z",
  "views": "2297",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.4 ml",
+   "administration": "oral",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:10",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:45",
+   "amount": " ",
+   "administration": "",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 1:00",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 1:55",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 2:00",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 4:15",
+   "amount": "0.4 ml",
+   "administration": "oral",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(liquid)"
+  },
+  "8": {
+   "time": " T+ 4:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

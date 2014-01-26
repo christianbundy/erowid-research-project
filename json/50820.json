@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2006-04-19T07:00:00.000Z",
  "views": "15802",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Mugwort"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 bowls",
+   "administration": "smoked",
+   "substance": "Damiana"
+  }
+ }
 }

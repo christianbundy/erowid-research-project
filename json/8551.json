@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-12-25T08:00:00.000Z",
  "views": "15270",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "710 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

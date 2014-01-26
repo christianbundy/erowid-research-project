@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2011-05-22T07:00:00.000Z",
  "views": "8029",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 oz",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

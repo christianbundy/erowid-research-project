@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2003-11-13T08:00:00.000Z",
  "views": "53466",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "AMT"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Mushrooms"
+  }
+ }
 }

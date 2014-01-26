@@ -33,5 +33,36 @@
  "age": "21",
  "timestamp": "2011-01-14T08:00:00.000Z",
  "views": "7670",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "15 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "2C-I",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:15",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 5:20"
+  },
+  "4": {
+   "time": "6 mg",
+   "amount": "smoked",
+   "administration": "2C-I",
+   "substance": ""
+  }
+ }
 }

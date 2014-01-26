@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "61742",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Gabapentin",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

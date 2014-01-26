@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2008-01-24T08:00:00.000Z",
  "views": "24109",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "4 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

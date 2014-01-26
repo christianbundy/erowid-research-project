@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-02-16T08:00:00.000Z",
  "views": "12290",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "700 mg",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "5 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

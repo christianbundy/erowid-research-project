@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-04-11T07:00:00.000Z",
  "views": "17879",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Sceletium tortuosum",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Sceletium tortuosum",
+   "form": "(dried)"
+  }
+ }
 }

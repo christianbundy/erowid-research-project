@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-03-11T07:00:00.000Z",
  "views": "6734",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DMT",
+   "form": "(capsule)"
+  }
+ }
 }

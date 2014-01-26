@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2010-08-27T07:00:00.000Z",
  "views": "106563",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-03-01T08:00:00.000Z",
  "views": "39018",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": "(pill / tablet)"
+  }
+ }
 }

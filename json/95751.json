@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2012-10-28T07:00:00.000Z",
  "views": "2507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 17:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

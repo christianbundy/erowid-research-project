@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2009-08-20T07:00:00.000Z",
  "views": "3408",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT"
+  }
+ }
 }

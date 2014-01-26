@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2000-06-15T07:00:00.000Z",
  "views": "17886",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "DOB",
+   "form": "(liquid)"
+  }
+ }
 }

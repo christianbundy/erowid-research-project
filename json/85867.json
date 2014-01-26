@@ -28,5 +28,27 @@
  "age": "35",
  "timestamp": "2010-06-14T07:00:00.000Z",
  "views": "9193",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Aripiprazole",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "5 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  }
+ }
 }

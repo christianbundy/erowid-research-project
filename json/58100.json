@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-01-16T08:00:00.000Z",
  "views": "5855",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "70 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

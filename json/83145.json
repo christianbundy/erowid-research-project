@@ -17,5 +17,12 @@
  "age": "22",
  "timestamp": "2013-11-24T08:00:00.000Z",
  "views": "2164",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg"
+  }
+ }
 }

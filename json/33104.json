@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2004-07-11T07:00:00.000Z",
  "views": "14383",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "DiPT"
+  }
+ }
 }

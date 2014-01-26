@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2008-02-10T08:00:00.000Z",
  "views": "63665",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:15",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:45",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "1.5 g",
+   "administration": "oral",
+   "substance": "Tyrosine",
+   "form": "(daily)"
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Vitamins / Supplements",
+   "form": "(daily)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram",
+   "form": "(daily)"
+  }
+ }
 }

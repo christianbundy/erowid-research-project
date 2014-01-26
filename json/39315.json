@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-04-25T07:00:00.000Z",
  "views": "21867",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  }
+ }
 }

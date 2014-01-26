@@ -48,5 +48,55 @@
  "age": "25",
  "timestamp": "2011-02-19T08:00:00.000Z",
  "views": "22339",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 15:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 24:00",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 34:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 40:00",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 50:00",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  }
+ }
 }

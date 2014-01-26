@@ -18,5 +18,13 @@
  "age": "25",
  "timestamp": "2010-11-03T07:00:00.000Z",
  "views": "27686",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Phenazepam",
+   "form": "(powder / crystals)"
+  }
+ }
 }

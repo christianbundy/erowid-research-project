@@ -28,5 +28,27 @@
  "age": "22",
  "timestamp": "2012-03-05T08:00:00.000Z",
  "views": "3383",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "2 mg",
+   "administration": "IM",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:05",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

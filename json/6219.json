@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2002-02-18T08:00:00.000Z",
  "views": "37110",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "5 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline"
+  }
+ }
 }

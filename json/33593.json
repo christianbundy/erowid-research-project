@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-03-12T07:00:00.000Z",
  "views": "18302",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 in",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(roots)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "8 in",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(roots)"
+  }
+ }
 }

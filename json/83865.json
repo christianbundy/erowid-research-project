@@ -17,5 +17,12 @@
  "age": "39",
  "timestamp": "2010-04-29T07:00:00.000Z",
  "views": "18507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "MDPV"
+  }
+ }
 }

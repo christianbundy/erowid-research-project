@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2012-06-03T07:00:00.000Z",
  "views": "6781",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-10-13T07:00:00.000Z",
  "views": "35842",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 1:15",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 22:30",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  }
+ }
 }

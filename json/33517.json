@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2004-09-16T07:00:00.000Z",
  "views": "21557",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "1.0 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Tabernanthe iboga",
+   "amount": "(rootbark)",
+   "administration": "",
+   "substance": "5.0 mg"
+  }
+ }
 }

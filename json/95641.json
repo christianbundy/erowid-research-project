@@ -53,5 +53,66 @@
  "age": "17",
  "timestamp": "2013-09-16T07:00:00.000Z",
  "views": "861",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "17 mg",
+   "administration": "insufflated",
+   "substance": "4-AcO-DMT"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "4-AcO-DMT"
+  },
+  "3": {
+   "time": " T+ 1:45",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "25I-NBOMe"
+  },
+  "4": {
+   "time": " T+ 2:30",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  },
+  "5": {
+   "time": " T+ 2:55",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "6": {
+   "time": " T+ 4:35",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "7": {
+   "time": " T+ 5:05",
+   "amount": "7 mg",
+   "administration": "insufflated",
+   "substance": "25I-NBOMe"
+  },
+  "8": {
+   "time": " T+ 8:20",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "9": {
+   "time": " T+ 9:35",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  }
+ }
 }

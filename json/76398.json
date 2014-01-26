@@ -29,5 +29,30 @@
  "age": "Not Given",
  "timestamp": "2009-01-27T08:00:00.000Z",
  "views": "14321",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.25 mg",
+   "administration": "oral",
+   "substance": "DOM"
+  },
+  "1": {
+   "time": " T+ 13:30",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem"
+  },
+  "2": {
+   "time": " T+ 13:55",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem"
+  },
+  "3": {
+   "time": " T+ 14:10",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem"
+  }
+ }
 }

@@ -29,5 +29,30 @@
  "age": "32",
  "timestamp": "2011-02-14T08:00:00.000Z",
  "views": "5168",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga"
+  },
+  "1": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  },
+  "2": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  },
+  "3": {
+   "time": "",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ }
 }

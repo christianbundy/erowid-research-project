@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-08-09T07:00:00.000Z",
  "views": "6640",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "13 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 2:36",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ }
 }

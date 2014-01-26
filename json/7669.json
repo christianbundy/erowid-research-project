@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-06-24T07:00:00.000Z",
  "views": "23400",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Opium",
+   "form": "(tar / resin)"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-10-27T07:00:00.000Z",
  "views": "26938",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "0.3333 cups",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Bufotenin",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 0:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

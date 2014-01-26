@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2006-09-01T07:00:00.000Z",
  "views": "9429",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "900 mg",
+   "substance": "oral"
+  }
+ }
 }

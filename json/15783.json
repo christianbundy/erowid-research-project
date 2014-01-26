@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2002-12-07T08:00:00.000Z",
  "views": "9412",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-01-04T08:00:00.000Z",
  "views": "16263",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "11 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

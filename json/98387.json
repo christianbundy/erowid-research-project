@@ -17,5 +17,12 @@
  "age": "39",
  "timestamp": "2012-12-25T08:00:00.000Z",
  "views": "1572",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "",
+   "substance": "4-AcO-DMT"
+  }
+ }
 }

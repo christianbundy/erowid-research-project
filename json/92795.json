@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2011-12-25T08:00:00.000Z",
  "views": "14480",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3200 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 1:25",
+   "amount": "1600 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(capsule)"
+  }
+ }
 }

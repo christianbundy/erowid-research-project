@@ -18,5 +18,13 @@
  "age": "23",
  "timestamp": "2013-10-15T07:00:00.000Z",
  "views": "743",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-D",
+   "form": "(powder / crystals)"
+  }
+ }
 }

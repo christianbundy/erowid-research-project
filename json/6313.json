@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2001-06-26T07:00:00.000Z",
  "views": "15721",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 1:40",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 4:30",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": " T+ 6:00",
+   "amount": "5.0 ml",
+   "administration": "oral",
+   "substance": "1,4-Butanediol",
+   "form": "(liquid)"
+  },
+  "5": {
+   "time": " T+ 7:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

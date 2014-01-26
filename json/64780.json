@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2008-02-16T08:00:00.000Z",
  "views": "11638",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Barbiturates",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3250 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

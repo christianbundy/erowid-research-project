@@ -28,5 +28,27 @@
  "age": "37",
  "timestamp": "2010-11-19T08:00:00.000Z",
  "views": "19137",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "454 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "589 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": "",
+   "amount": "589 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(capsule)"
+  }
+ }
 }

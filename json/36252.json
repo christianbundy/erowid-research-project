@@ -25,5 +25,24 @@
  "age": "Not Given",
  "timestamp": "2004-11-15T08:00:00.000Z",
  "views": "18763",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Amanitas - A. muscaria"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lobelia spp."
+  }
+ }
 }

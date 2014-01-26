@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2009-11-03T08:00:00.000Z",
  "views": "8920",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "0.1 bowls",
+   "administration": "smoked",
+   "substance": "Mugwort",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.1 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

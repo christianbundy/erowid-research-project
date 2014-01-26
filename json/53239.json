@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-04-09T07:00:00.000Z",
  "views": "13805",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ }
 }

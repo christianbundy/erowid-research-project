@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-07-28T07:00:00.000Z",
  "views": "43517",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

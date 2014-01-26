@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-11-17T08:00:00.000Z",
  "views": "7545",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Leonotis leonurus",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ }
 }

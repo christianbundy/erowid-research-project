@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-09-05T07:00:00.000Z",
  "views": "23012",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "525 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(daily)"
+  }
+ }
 }

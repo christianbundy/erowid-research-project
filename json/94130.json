@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2011-12-21T08:00:00.000Z",
  "views": "5213",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "28 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:15",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

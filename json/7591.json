@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-06-04T07:00:00.000Z",
  "views": "16289",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ }
 }

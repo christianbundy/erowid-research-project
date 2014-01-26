@@ -17,5 +17,12 @@
  "age": "28",
  "timestamp": "2011-06-21T07:00:00.000Z",
  "views": "14093",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Ayahuasca"
+  }
+ }
 }

@@ -38,5 +38,42 @@
  "age": "27",
  "timestamp": "2011-08-22T07:00:00.000Z",
  "views": "5357",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "20 mg",
+   "substance": "insufflated"
+  },
+  "2": {
+   "time": "Methoxetamine ",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:05",
+   "substance": "30 mg"
+  },
+  "3": {
+   "time": "insufflated",
+   "amount": "Methoxetamine ",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:07"
+  },
+  "4": {
+   "time": "50 mg",
+   "amount": "sublingual",
+   "administration": "Methoxetamine ",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:15",
+   "amount": "50 mg",
+   "administration": "sublingual",
+   "substance": "Methoxetamine "
+  }
+ }
 }

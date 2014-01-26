@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-11T07:00:00.000Z",
  "views": "109084",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": "0.5 cups",
+   "administration": "oral",
+   "substance": "Amanitas - A. pantherina",
+   "form": "(fresh)"
+  }
+ }
 }

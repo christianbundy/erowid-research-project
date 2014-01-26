@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2003-11-12T08:00:00.000Z",
  "views": "24309",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "4.0 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Amanitas - A. muscaria",
+   "amount": "(tea)",
+   "administration": "",
+   "substance": "3.5 g"
+  }
+ }
 }

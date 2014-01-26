@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-05-12T07:00:00.000Z",
  "views": "16194",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "14 mg",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 5:09",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

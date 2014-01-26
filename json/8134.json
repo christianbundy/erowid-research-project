@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-07-28T07:00:00.000Z",
  "views": "21410",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(pill / tablet)"
+  }
+ }
 }

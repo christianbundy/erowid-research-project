@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2006-10-24T07:00:00.000Z",
  "views": "7018",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET"
+  }
+ }
 }

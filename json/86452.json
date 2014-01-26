@@ -18,5 +18,13 @@
  "age": "36",
  "timestamp": "2010-10-24T07:00:00.000Z",
  "views": "21249",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ }
 }

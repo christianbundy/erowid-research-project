@@ -29,5 +29,30 @@
  "age": "18",
  "timestamp": "2013-07-21T07:00:00.000Z",
  "views": "4073",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Codeine"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phenylephrine"
+  },
+  "3": {
+   "time": " T+ 2:15",
+   "amount": "5 hits",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

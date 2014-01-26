@@ -38,5 +38,41 @@
  "age": "23",
  "timestamp": "2011-02-14T08:00:00.000Z",
  "views": "13735",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:50",
+   "amount": "115 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "85 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Eszopiclone",
+   "form": ""
+  }
+ }
 }

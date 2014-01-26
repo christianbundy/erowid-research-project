@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2006-08-09T07:00:00.000Z",
  "views": "14839",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Vitamin C"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-02-09T08:00:00.000Z",
  "views": "19909",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "DOB",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 25:00",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

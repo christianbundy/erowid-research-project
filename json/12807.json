@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-12-05T08:00:00.000Z",
  "views": "18036",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9 cups",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ }
 }

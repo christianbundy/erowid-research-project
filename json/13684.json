@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-04-04T08:00:00.000Z",
  "views": "30992",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  }
+ }
 }

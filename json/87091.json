@@ -28,5 +28,27 @@
  "age": "43",
  "timestamp": "2010-09-21T07:00:00.000Z",
  "views": "4983",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

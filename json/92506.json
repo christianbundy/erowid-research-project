@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2011-08-23T07:00:00.000Z",
  "views": "11769",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

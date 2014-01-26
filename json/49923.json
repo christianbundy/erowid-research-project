@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-01-27T08:00:00.000Z",
  "views": "31775",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 2:46",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 9:38",
+   "amount": "4.5 mg",
+   "administration": "oral",
+   "substance": "Hydergine",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 9:38",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 9:38",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 12:37",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  }
+ }
 }

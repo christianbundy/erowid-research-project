@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-05-03T07:00:00.000Z",
  "views": "12290",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "MAOI"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:30",
+   "administration": "100 mg",
+   "substance": "oral"
+  }
+ }
 }

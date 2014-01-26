@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2013-12-09T08:00:00.000Z",
  "views": "838",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "400 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ }
 }

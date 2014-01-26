@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2013-03-29T07:00:00.000Z",
  "views": "2116",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "35 mg",
+   "administration": "IM",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

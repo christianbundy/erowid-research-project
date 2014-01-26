@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2005-10-14T07:00:00.000Z",
  "views": "21692",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(roots)"
+  },
+  "1": {
+   "time": "",
+   "amount": "20 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(leaves)"
+  },
+  "2": {
+   "time": "",
+   "amount": "205 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  }
+ }
 }

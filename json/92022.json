@@ -17,5 +17,12 @@
  "age": "39",
  "timestamp": "2011-07-20T07:00:00.000Z",
  "views": "3267",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Moclobemide"
+  }
+ }
 }

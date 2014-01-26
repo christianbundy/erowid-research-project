@@ -38,5 +38,41 @@
  "age": "17",
  "timestamp": "2013-01-18T08:00:00.000Z",
  "views": "2407",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:40",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:55",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:10",
+   "amount": " bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 1:10",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

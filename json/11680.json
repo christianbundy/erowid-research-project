@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2002-02-12T08:00:00.000Z",
  "views": "18894",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 9:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 20:00",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

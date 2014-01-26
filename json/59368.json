@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
  "views": "4004",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(gel tab)"
+  },
+  "2": {
+   "time": "",
+   "amount": "3 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": "",
+   "amount": "5.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2004-08-23T07:00:00.000Z",
  "views": "19191",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "2 Tbsp",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 1:30",
+   "amount": "4 glasses",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

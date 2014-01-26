@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2012-10-26T07:00:00.000Z",
  "views": "1012",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis - Hash",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "7 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "4 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  },
+  "4": {
+   "time": " T+ 2:30",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

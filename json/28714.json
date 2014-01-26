@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2013-07-14T07:00:00.000Z",
  "views": "531",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 9:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

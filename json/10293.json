@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-01-19T08:00:00.000Z",
  "views": "25892",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 caps",
+   "administration": "smoked",
+   "substance": "Mushrooms - P. cyanescens",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

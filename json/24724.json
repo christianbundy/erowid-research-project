@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2003-06-23T07:00:00.000Z",
  "views": "26668",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Olanzapine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "20",
  "timestamp": "2011-05-20T07:00:00.000Z",
  "views": "4511",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:05",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ }
 }

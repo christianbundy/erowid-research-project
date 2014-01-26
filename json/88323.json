@@ -41,5 +41,48 @@
  "age": "20",
  "timestamp": "2013-12-28T08:00:00.000Z",
  "views": "287",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  },
+  "4": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-E"
+  },
+  "5": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "6": {
+   "time": "",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-I"
+  }
+ }
 }

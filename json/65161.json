@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-11-20T08:00:00.000Z",
  "views": "40570",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

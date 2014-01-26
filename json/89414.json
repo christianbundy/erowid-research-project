@@ -17,5 +17,12 @@
  "age": "41",
  "timestamp": "2011-02-25T08:00:00.000Z",
  "views": "11754",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  }
+ }
 }

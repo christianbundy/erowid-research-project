@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2003-03-11T08:00:00.000Z",
  "views": "18956",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Melatonin"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

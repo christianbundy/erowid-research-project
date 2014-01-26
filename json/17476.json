@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-06-28T07:00:00.000Z",
  "views": "5201",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "smoked",
+   "substance": "Red Rock"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": "oral"
+  }
+ }
 }

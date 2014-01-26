@@ -18,5 +18,13 @@
  "age": "18",
  "timestamp": "2013-06-16T07:00:00.000Z",
  "views": "1854",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Bad/Suspect Ecstasy",
+   "form": "(pill / tablet)"
+  }
+ }
 }

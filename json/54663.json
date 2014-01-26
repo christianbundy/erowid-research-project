@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-01-13T08:00:00.000Z",
  "views": "15617",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "0.25 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:30",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

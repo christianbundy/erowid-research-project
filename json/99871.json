@@ -21,5 +21,18 @@
  "age": "35",
  "timestamp": "2013-05-06T07:00:00.000Z",
  "views": "771",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "37 mg",
+   "administration": "oral",
+   "substance": "2C-T-7"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": "4 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine"
+  }
+ }
 }

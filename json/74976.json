@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2009-11-21T08:00:00.000Z",
  "views": "16445",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "2 Tbsp",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Syrian Rue",
+   "amount": "(tea)",
+   "administration": " T+ 0:20",
+   "substance": "12.5 g"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Mimosa tenuiflora",
+   "administration": "(tea)",
+   "substance": " T+ 0:20"
+  },
+  "4": {
+   "time": "2 g",
+   "amount": "oral",
+   "administration": "Banisteriopsis caapi",
+   "substance": "(tea)"
+  },
+  "5": {
+   "time": " T+ 0:20",
+   "amount": "6 leaves",
+   "administration": "oral",
+   "substance": "Psychotria viridis"
+  }
+ }
 }

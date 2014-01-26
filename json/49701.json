@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2006-03-27T08:00:00.000Z",
  "views": "15849",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "2 cups",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Kratom",
+   "amount": "(tea)",
+   "administration": " T+ 0:00",
+   "substance": "100 mg"
+  },
+  "3": {
+   "time": "rectal",
+   "amount": "2-Aminoindan",
+   "administration": "(liquid)",
+   "substance": " T+ 0:10"
+  },
+  "4": {
+   "time": "100 mg",
+   "amount": "rectal",
+   "administration": "2-Aminoindan",
+   "substance": "(liquid)"
+  }
+ }
 }

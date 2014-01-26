@@ -38,5 +38,42 @@
  "age": "Not Given",
  "timestamp": "2008-06-30T07:00:00.000Z",
  "views": "6795",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "1 tablet",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "MDMA",
+   "amount": "(ground / crushed)",
+   "administration": " T+ 1:15",
+   "substance": "0.25 tablets"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "MDMA",
+   "administration": "",
+   "substance": " T+ 1:30"
+  },
+  "4": {
+   "time": "1.75 tablets",
+   "amount": "oral",
+   "administration": "MDMA",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  }
+ }
 }

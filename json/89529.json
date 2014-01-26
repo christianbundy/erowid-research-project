@@ -17,5 +17,12 @@
  "age": "23",
  "timestamp": "2011-02-23T08:00:00.000Z",
  "views": "6965",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "28 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET"
+  }
+ }
 }

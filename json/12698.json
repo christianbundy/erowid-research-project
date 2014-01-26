@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2002-06-19T07:00:00.000Z",
  "views": "46376",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Piperazines - BZP"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Piperazines - TFMPP"
+  }
+ }
 }

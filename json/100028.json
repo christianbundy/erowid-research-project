@@ -23,5 +23,20 @@
  "age": "24",
  "timestamp": "2013-04-26T07:00:00.000Z",
  "views": "1395",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Dronabinol",
+   "form": "(pill / tablet)"
+  }
+ }
 }

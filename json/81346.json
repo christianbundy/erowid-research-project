@@ -38,5 +38,42 @@
  "age": "19",
  "timestamp": "2010-02-23T08:00:00.000Z",
  "views": "2335",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Alcohol",
+   "amount": "",
+   "administration": "",
+   "substance": "10 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "2C-I",
+   "administration": "(capsule)",
+   "substance": ""
+  },
+  "4": {
+   "time": " repeated",
+   "amount": "inhaled",
+   "administration": "Inhalants - Nitrites",
+   "substance": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Salvia divinorum"
+  }
+ }
 }

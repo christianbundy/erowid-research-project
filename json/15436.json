@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2005-04-26T07:00:00.000Z",
  "views": "4729",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "LSD"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " ",
+   "substance": ""
+  }
+ }
 }

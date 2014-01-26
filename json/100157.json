@@ -21,5 +21,18 @@
  "age": "22",
  "timestamp": "2013-08-11T07:00:00.000Z",
  "views": "860",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "4-HO-DET"
+  },
+  "1": {
+   "time": " T+ 1:45",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MAOI"
+  }
+ }
 }

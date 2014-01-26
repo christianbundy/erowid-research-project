@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2010-10-10T07:00:00.000Z",
  "views": "6713",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "8 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "8 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": "8 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

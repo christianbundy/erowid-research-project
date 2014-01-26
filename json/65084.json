@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-11-15T08:00:00.000Z",
  "views": "31108",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  }
+ }
 }

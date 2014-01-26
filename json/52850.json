@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-07-28T07:00:00.000Z",
  "views": "15639",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "225150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(daily)"
+  }
+ }
 }

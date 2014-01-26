@@ -18,5 +18,13 @@
  "age": "18",
  "timestamp": "2011-02-18T08:00:00.000Z",
  "views": "5638",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(powder / crystals)"
+  }
+ }
 }

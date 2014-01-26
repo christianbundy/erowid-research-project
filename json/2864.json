@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2000-09-11T07:00:00.000Z",
  "views": "60792",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Heroin"
+  }
+ }
 }

@@ -58,5 +58,72 @@
  "age": "Not Given",
  "timestamp": "2005-09-19T07:00:00.000Z",
  "views": "19574",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " ",
+   "substance": ""
+  },
+  "2": {
+   "time": "Vitamins / Supplements",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "40 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Ginkgo biloba",
+   "administration": "",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": "0.25 hits",
+   "amount": "rectal",
+   "administration": "LSD",
+   "substance": "(blotter / tab)"
+  },
+  "5": {
+   "time": " T+ 3:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Poppies - Opium"
+  },
+  "6": {
+   "time": "(tea)",
+   "amount": " T+ 0:00",
+   "administration": "38 mg",
+   "substance": "insufflated"
+  },
+  "7": {
+   "time": "DPT",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:00",
+   "substance": "113 mg"
+  },
+  "8": {
+   "time": "rectal",
+   "amount": "DPT",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:00"
+  },
+  "9": {
+   "time": "0.5 ug",
+   "amount": "sublingual",
+   "administration": "Pharms - Clonazepam",
+   "substance": "(pill / tablet)"
+  },
+  "10": {
+   "time": " T+ 12:30",
+   "amount": "9.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin"
+  }
+ }
 }

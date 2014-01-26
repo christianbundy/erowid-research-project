@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2008-01-11T08:00:00.000Z",
  "views": "21171",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Coffee"
+  }
+ }
 }

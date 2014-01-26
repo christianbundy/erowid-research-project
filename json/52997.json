@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-05-07T07:00:00.000Z",
  "views": "12842",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  }
+ }
 }

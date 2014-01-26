@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-11-09T08:00:00.000Z",
  "views": "10861",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:35",
+   "amount": "1.5 tsp",
+   "administration": "oral",
+   "substance": "Virola spp.",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Virola spp.",
+   "form": ""
+  }
+ }
 }

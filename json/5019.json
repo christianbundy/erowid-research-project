@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-01-11T08:00:00.000Z",
  "views": "29664",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "28 g",
+   "administration": "oral",
+   "substance": "Guarana",
+   "form": "(capsule)"
+  }
+ }
 }

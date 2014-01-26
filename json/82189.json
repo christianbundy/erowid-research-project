@@ -23,5 +23,18 @@
  "age": "26",
  "timestamp": "2009-12-28T08:00:00.000Z",
  "views": "15539",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Methylone"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": " repeated",
+   "substance": "insufflated"
+  }
+ }
 }

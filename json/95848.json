@@ -53,5 +53,66 @@
  "age": "23",
  "timestamp": "2013-05-27T07:00:00.000Z",
  "views": "1616",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.1 g",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:15",
+   "administration": "1 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Mushrooms",
+   "amount": "",
+   "administration": " T+ 1:42",
+   "substance": "0.1 g"
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Mushrooms",
+   "administration": "",
+   "substance": " T+ 1:42"
+  },
+  "4": {
+   "time": "0.125 g",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 1:42",
+   "amount": "60 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis"
+  },
+  "6": {
+   "time": "(extract)",
+   "amount": " T+ 1:42",
+   "administration": "60 g",
+   "substance": "oral"
+  },
+  "7": {
+   "time": "Banisteriopsis caapi",
+   "amount": "(extract)",
+   "administration": " T+ 2:02",
+   "substance": "1 cig."
+  },
+  "8": {
+   "time": "smoked",
+   "amount": "Tobacco",
+   "administration": "",
+   "substance": " T+ 6:13"
+  },
+  "9": {
+   "time": "0.13 g",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  }
+ }
 }

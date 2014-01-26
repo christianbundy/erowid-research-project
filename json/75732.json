@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2009-08-31T07:00:00.000Z",
  "views": "11746",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 1:12",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 1:50",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 2:38",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  }
+ }
 }

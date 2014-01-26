@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2011-09-02T07:00:00.000Z",
  "views": "4388",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DMT",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:02",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ }
 }

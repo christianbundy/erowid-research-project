@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-11-01T07:00:00.000Z",
  "views": "16956",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(tar / resin)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Heroin",
+   "form": "(tar / resin)"
+  },
+  "4": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Various",
+   "form": ""
+  }
+ }
 }

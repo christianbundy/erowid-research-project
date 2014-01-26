@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2007-07-06T07:00:00.000Z",
  "views": "19862",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "160 mg",
+   "administration": "rectal",
+   "substance": "bk-MBDB",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 2:30",
+   "amount": "200 mg",
+   "administration": "rectal",
+   "substance": "bk-MBDB",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "300 mg",
+   "administration": "rectal",
+   "substance": "bk-MBDB",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": " T+ 4:30",
+   "amount": "240 mg",
+   "administration": "rectal",
+   "substance": "bk-MBDB",
+   "form": "(capsule)"
+  },
+  "4": {
+   "time": " T+ 16:00",
+   "amount": "4.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 16:00",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  }
+ }
 }

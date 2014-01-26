@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2004-11-16T08:00:00.000Z",
  "views": "12266",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "16 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-2",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": ""
+  }
+ }
 }

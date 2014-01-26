@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2010-01-16T08:00:00.000Z",
  "views": "4825",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  }
+ }
 }

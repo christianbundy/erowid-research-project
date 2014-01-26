@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-10-06T07:00:00.000Z",
  "views": "2537",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 3:15",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 3:15",
+   "amount": "2 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

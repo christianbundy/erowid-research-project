@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-06-15T07:00:00.000Z",
  "views": "3440",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 leaves",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ }
 }

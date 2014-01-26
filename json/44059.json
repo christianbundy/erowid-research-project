@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-12-05T08:00:00.000Z",
  "views": "24936",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 bowls",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(extract - 6x)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-07-09T07:00:00.000Z",
  "views": "12074",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(flowers)"
+  }
+ }
 }

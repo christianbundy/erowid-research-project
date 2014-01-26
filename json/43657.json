@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-05-27T07:00:00.000Z",
  "views": "19056",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "14 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "6.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": "",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Lorazepam",
+   "form": "(liquid)"
+  }
+ }
 }

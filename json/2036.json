@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "9551",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2005-12-15T08:00:00.000Z",
  "views": "27016",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Divalproex",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": " T+ 1:05",
+   "amount": "54 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  },
+  "3": {
+   "time": " T+ 3:25",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 5:30",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  },
+  "5": {
+   "time": " T+ 6:30",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 6:35",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  }
+ }
 }

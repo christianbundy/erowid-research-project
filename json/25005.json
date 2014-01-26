@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2003-12-30T08:00:00.000Z",
  "views": "39701",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  }
+ }
 }

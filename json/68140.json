@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2010-07-28T07:00:00.000Z",
  "views": "10808",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 capsls",
+   "administration": "oral",
+   "substance": "Mucuna pruriens"
+  }
+ }
 }

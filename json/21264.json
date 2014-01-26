@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2003-02-15T08:00:00.000Z",
  "views": "12260",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "AMT"
+  }
+ }
 }

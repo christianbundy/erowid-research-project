@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2004-11-22T08:00:00.000Z",
  "views": "8542",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 g",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  },
+  "2": {
+   "time": " T+ 24:00",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(capsule)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  },
+  "4": {
+   "time": " T+ 48:00",
+   "amount": "2.3 g",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  }
+ }
 }

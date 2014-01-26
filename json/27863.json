@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-05-10T07:00:00.000Z",
  "views": "11383",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "31",
  "timestamp": "2012-04-05T07:00:00.000Z",
  "views": "12441",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Acacia",
+   "form": "(tea)"
+  }
+ }
 }

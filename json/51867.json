@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "5329",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "20 mg",
+   "substance": "oral"
+  }
+ }
 }

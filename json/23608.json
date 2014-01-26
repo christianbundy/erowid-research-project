@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2004-03-08T08:00:00.000Z",
  "views": "17452",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "TMA-2",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 10:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

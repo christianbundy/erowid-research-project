@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2003-10-28T08:00:00.000Z",
  "views": "22856",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "14 mg",
+   "administration": "oral",
+   "substance": "4-HO-DiPT"
+  }
+ }
 }

@@ -58,5 +58,69 @@
  "age": "32",
  "timestamp": "2011-10-25T07:00:00.000Z",
  "views": "9669",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 1:20",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:55",
+   "amount": "4 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 5:29",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 7:03",
+   "amount": "4 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 9:26",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 12:20",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  },
+  "7": {
+   "time": " T+ 17:07",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Ziprasidone",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-07-21T07:00:00.000Z",
  "views": "29405",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

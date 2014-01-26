@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2005-11-08T08:00:00.000Z",
  "views": "33425",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "350 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Piperazines - TFMPP",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "3": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 8:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  }
+ }
 }

@@ -63,5 +63,76 @@
  "age": "40",
  "timestamp": "2012-02-29T08:00:00.000Z",
  "views": "10135",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:20",
+   "amount": "7 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 1:55",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 2:15",
+   "amount": "8 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 2:15",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  },
+  "6": {
+   "time": " T+ 2:45",
+   "amount": "2 ",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 4:45",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(pill / tablet)"
+  },
+  "8": {
+   "time": " T+ 6:45",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  },
+  "9": {
+   "time": " T+ 6:45",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ }
 }

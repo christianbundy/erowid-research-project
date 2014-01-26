@@ -28,5 +28,27 @@
  "age": "19",
  "timestamp": "2010-04-26T07:00:00.000Z",
  "views": "7583",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:50",
+   "amount": "24 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 0:50",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": ""
+  }
+ }
 }

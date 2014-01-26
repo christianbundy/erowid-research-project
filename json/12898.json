@@ -28,5 +28,24 @@
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "4450",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "220 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "20 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "AMT",
+   "amount": "(powder / crystals)",
+   "administration": "",
+   "substance": "20 mg"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-06-01T07:00:00.000Z",
  "views": "7392",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 leaves",
+   "administration": "smoked",
+   "substance": "Salvia splendens",
+   "form": "(leaves)"
+  }
+ }
 }

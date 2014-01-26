@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "16482",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "187.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1625 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ }
 }

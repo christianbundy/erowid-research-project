@@ -18,5 +18,13 @@
  "age": "38",
  "timestamp": "2011-08-29T07:00:00.000Z",
  "views": "6590",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(daily)"
+  }
+ }
 }

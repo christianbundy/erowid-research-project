@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-08-26T07:00:00.000Z",
  "views": "5133",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "90 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "7 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

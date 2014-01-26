@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-03-31T08:00:00.000Z",
  "views": "12019",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "rectal",
+   "substance": "4-Acetoxy-DET",
+   "form": "(liquid)"
+  }
+ }
 }

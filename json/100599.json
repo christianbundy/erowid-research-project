@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2013-10-31T07:00:00.000Z",
  "views": "393",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "vaporized",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

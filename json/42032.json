@@ -43,5 +43,48 @@
  "age": "Not Given",
  "timestamp": "2006-12-25T08:00:00.000Z",
  "views": "10501",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Inhalants - Nitrites",
+   "form": "(gas)"
+  },
+  "2": {
+   "time": "",
+   "amount": "5.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": "",
+   "amount": "28 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "4": {
+   "time": "",
+   "amount": "4.0 g",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "1.875 gal",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

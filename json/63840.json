@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2007-10-10T07:00:00.000Z",
  "views": "19689",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "30 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(daily)"
+  }
+ }
 }

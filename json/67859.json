@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2012-04-22T07:00:00.000Z",
  "views": "39842",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.5 g",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(ground / crushed)"
+  }
+ }
 }

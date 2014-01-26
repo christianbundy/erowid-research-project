@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-02-04T08:00:00.000Z",
  "views": "6786",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "rectal",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ }
 }

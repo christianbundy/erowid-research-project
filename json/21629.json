@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2003-02-26T08:00:00.000Z",
  "views": "16005",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:30",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:40",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -18,5 +18,13 @@
  "age": "24",
  "timestamp": "2010-01-08T08:00:00.000Z",
  "views": "26446",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "St. John's Wort",
+   "form": "(dried)"
+  }
+ }
 }

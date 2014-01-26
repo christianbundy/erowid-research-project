@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2002-04-17T07:00:00.000Z",
  "views": "39891",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:45",
+   "amount": "27 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": "4 hits",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

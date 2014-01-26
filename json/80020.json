@@ -73,5 +73,90 @@
  "age": "Not Given",
  "timestamp": "2012-10-23T07:00:00.000Z",
  "views": "6484",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": "",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Theanine",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": ""
+  },
+  "3": {
+   "time": "",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": ""
+  },
+  "4": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Phosphatidylserine",
+   "form": ""
+  },
+  "5": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Ginseng",
+   "form": ""
+  },
+  "6": {
+   "time": "",
+   "amount": "2000 mg",
+   "administration": "oral",
+   "substance": "Tea",
+   "form": "(extract)"
+  },
+  "7": {
+   "time": "",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": ""
+  },
+  "8": {
+   "time": "",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": ""
+  },
+  "9": {
+   "time": "",
+   "amount": "10 joints/cigs",
+   "administration": "inhaled",
+   "substance": "Tobacco - Cigarettes",
+   "form": ""
+  },
+  "10": {
+   "time": "",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  "11": {
+   "time": "",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nicotine",
+   "form": ""
+  }
+ }
 }

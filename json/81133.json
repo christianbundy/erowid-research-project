@@ -18,5 +18,13 @@
  "age": "35",
  "timestamp": "2012-03-31T07:00:00.000Z",
  "views": "2926",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2009-10-04T07:00:00.000Z",
  "views": "4702",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": "200 mg",
+   "administration": "smoked",
+   "substance": "Caffeine",
+   "form": "(ground / crushed)"
+  }
+ }
 }

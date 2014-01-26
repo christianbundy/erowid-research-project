@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "20134",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "480 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "480 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 2:00",
+   "amount": "256 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  },
+  "4": {
+   "time": " T+ 2:00",
+   "amount": "480 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  }
+ }
 }

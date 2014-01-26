@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2001-07-26T07:00:00.000Z",
  "views": "18070",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  },
+  "2": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  },
+  "3": {
+   "time": "",
+   "amount": "3 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

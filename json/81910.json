@@ -18,5 +18,13 @@
  "age": "34",
  "timestamp": "2010-08-08T07:00:00.000Z",
  "views": "32671",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "14 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": "(roots)"
+  }
+ }
 }

@@ -33,5 +33,36 @@
  "age": "Not Given",
  "timestamp": "2004-05-18T07:00:00.000Z",
  "views": "5042",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Methamphetamine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 3:00",
+   "administration": "4.5 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Mushrooms - P. cubensis",
+   "amount": "(dried)",
+   "administration": " T+ 3:30",
+   "substance": "1 cig."
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Tobacco - Cigarettes",
+   "administration": "",
+   "substance": ""
+  },
+  "4": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Tobacco - Cigarettes",
+   "substance": ""
+  }
+ }
 }

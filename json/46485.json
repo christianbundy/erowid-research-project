@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-01-11T08:00:00.000Z",
  "views": "5436",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "8 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

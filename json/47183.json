@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2006-05-10T07:00:00.000Z",
  "views": "148924",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(liquid)"
+  }
+ }
 }

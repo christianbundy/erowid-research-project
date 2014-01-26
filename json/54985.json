@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2009-07-07T07:00:00.000Z",
  "views": "15625",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3.5 cups",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  }
+ }
 }

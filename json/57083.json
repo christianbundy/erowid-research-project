@@ -53,5 +53,62 @@
  "age": "20",
  "timestamp": "2010-07-23T07:00:00.000Z",
  "views": "14296",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Zopiclone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Citalopram",
+   "form": "(ground / crushed)"
+  },
+  "2": {
+   "time": " T+ 0:30",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(pill / tablet)"
+  },
+  "3": {
+   "time": " T+ 0:30",
+   "amount": "3.75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(pill / tablet)"
+  },
+  "4": {
+   "time": " T+ 2:30",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "5": {
+   "time": " T+ 6:30",
+   "amount": "7.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Zopiclone",
+   "form": "(ground / crushed)"
+  },
+  "6": {
+   "time": " T+ 6:30",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Citalopram",
+   "form": "(ground / crushed)"
+  },
+  "7": {
+   "time": " T+ 8:00",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(pill / tablet)"
+  }
+ }
 }

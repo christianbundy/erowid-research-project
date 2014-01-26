@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-07-25T07:00:00.000Z",
  "views": "14507",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pseudoephedrine",
+   "form": ""
+  }
+ }
 }

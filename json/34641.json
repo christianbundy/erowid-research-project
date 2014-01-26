@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "10453",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ }
 }

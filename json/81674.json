@@ -17,5 +17,12 @@
  "age": "34",
  "timestamp": "2010-11-26T08:00:00.000Z",
  "views": "9021",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "transdermal",
+   "substance": "Phyllomedusa bicolor"
+  }
+ }
 }

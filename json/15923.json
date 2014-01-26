@@ -17,5 +17,12 @@
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "12418",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "10 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam"
+  }
+ }
 }

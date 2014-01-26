@@ -18,5 +18,13 @@
  "age": "18",
  "timestamp": "2010-03-21T07:00:00.000Z",
  "views": "4949",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  }
+ }
 }

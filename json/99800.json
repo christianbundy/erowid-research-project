@@ -43,5 +43,48 @@
  "age": "25",
  "timestamp": "2013-04-05T07:00:00.000Z",
  "views": "1232",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 3:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 4:00",
+   "amount": "150 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 5:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

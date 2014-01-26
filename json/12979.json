@@ -38,5 +38,41 @@
  "age": "Not Given",
  "timestamp": "2004-07-06T07:00:00.000Z",
  "views": "7693",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DiPT",
+   "form": "(freebase)"
+  },
+  "2": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": "50 mg",
+   "administration": "smoked",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": "",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ }
 }

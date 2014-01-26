@@ -38,5 +38,42 @@
  "age": "14",
  "timestamp": "2013-12-09T08:00:00.000Z",
  "views": "489",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "0.5 hits",
+   "substance": ""
+  },
+  "2": {
+   "time": "LSD",
+   "amount": "(blotter / tab)",
+   "administration": " T+ 0:20",
+   "substance": "0.5 hits"
+  },
+  "3": {
+   "time": "",
+   "amount": "LSD",
+   "administration": "(blotter / tab)",
+   "substance": " T+ 0:50"
+  },
+  "4": {
+   "time": "1 hit",
+   "amount": "",
+   "administration": "LSD",
+   "substance": "(blotter / tab)"
+  },
+  "5": {
+   "time": " T+ 1:30",
+   "amount": "1 hit",
+   "administration": "",
+   "substance": "LSD"
+  }
+ }
 }

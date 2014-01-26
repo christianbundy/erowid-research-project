@@ -23,5 +23,18 @@
  "age": "19",
  "timestamp": "2011-11-18T08:00:00.000Z",
  "views": "2824",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "1 bump",
+   "substance": "insufflated"
+  }
+ }
 }

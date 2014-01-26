@@ -58,5 +58,69 @@
  "age": "Not Given",
  "timestamp": "2008-03-21T07:00:00.000Z",
  "views": "19939",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "70 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 1:00",
+   "amount": "70 mg",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 1:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 1:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  },
+  "6": {
+   "time": " T+ 2:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "7": {
+   "time": " T+ 2:20",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  },
+  "8": {
+   "time": " T+ 5:00",
+   "amount": "1 repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

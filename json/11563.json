@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-01-27T08:00:00.000Z",
  "views": "30973",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " seeds",
+   "administration": "transdermal",
+   "substance": "Datura",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": " seeds",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(extract)"
+  }
+ }
 }

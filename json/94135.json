@@ -41,5 +41,48 @@
  "age": "27",
  "timestamp": "2013-02-22T08:00:00.000Z",
  "views": "1369",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "6-APB"
+  },
+  "2": {
+   "time": " T+ 3:38",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "3": {
+   "time": " T+ 3:42",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "4": {
+   "time": " T+ 3:42",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "5": {
+   "time": " T+ 3:42",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "6": {
+   "time": " T+ 11:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Etizolam"
+  }
+ }
 }

@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2004-12-01T08:00:00.000Z",
  "views": "30473",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4 seeds",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": "240 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ }
 }

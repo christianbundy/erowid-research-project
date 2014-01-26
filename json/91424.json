@@ -18,5 +18,13 @@
  "age": "35",
  "timestamp": "2011-08-10T07:00:00.000Z",
  "views": "5543",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(cookie / food)"
+  }
+ }
 }

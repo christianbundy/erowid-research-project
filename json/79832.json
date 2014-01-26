@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-10-17T07:00:00.000Z",
  "views": "15323",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(ground / crushed)"
+  }
+ }
 }

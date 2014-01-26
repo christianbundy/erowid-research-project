@@ -33,5 +33,34 @@
  "age": "18",
  "timestamp": "2013-11-17T08:00:00.000Z",
  "views": "1276",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "buccal",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:45",
+   "amount": "1 hit",
+   "administration": "buccal",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 1:45",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "3": {
+   "time": " T+ 5:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": "(pill / tablet)"
+  }
+ }
 }

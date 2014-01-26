@@ -58,5 +58,72 @@
  "age": "Not Given",
  "timestamp": "2006-10-10T07:00:00.000Z",
  "views": "23046",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Quetiapine"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "150 mg",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Pharms - Venlafaxine",
+   "amount": "(daily)",
+   "administration": " T+ 0:00",
+   "substance": " "
+  },
+  "3": {
+   "time": "smoked",
+   "amount": "Cannabis",
+   "administration": "",
+   "substance": " T+ 0:00"
+  },
+  "4": {
+   "time": " repeated",
+   "amount": "insufflated",
+   "administration": "Pharms - Alprazolam",
+   "substance": ""
+  },
+  "5": {
+   "time": " T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "6": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": " repeated",
+   "substance": "inhaled"
+  },
+  "7": {
+   "time": "Nitrous Oxide",
+   "amount": "",
+   "administration": " T+ 7:00",
+   "substance": "40 mg"
+  },
+  "8": {
+   "time": "insufflated",
+   "amount": "Pharms - Oxycodone",
+   "administration": "(pill / tablet)",
+   "substance": " T+ 0:00"
+  },
+  "9": {
+   "time": "20 mg",
+   "amount": "IV",
+   "administration": "Pharms - Oxycodone",
+   "substance": "(ground / crushed)"
+  },
+  "10": {
+   "time": " T+ 0:00",
+   "amount": "20 mg",
+   "administration": "IV",
+   "substance": "Pharms - Oxycodone"
+  }
+ }
 }

@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2001-02-18T08:00:00.000Z",
  "views": "27549",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "MDMA"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "3 hits",
+   "substance": "smoked"
+  }
+ }
 }

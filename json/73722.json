@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-02-21T08:00:00.000Z",
  "views": "21034",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "9.0 mg",
+   "administration": "transdermal",
+   "substance": "Pharms - Selegeline",
+   "form": "(patch)"
+  },
+  "1": {
+   "time": "",
+   "amount": "1.5 g",
+   "administration": "oral",
+   "substance": "Phenylalanine",
+   "form": "(daily)"
+  }
+ }
 }

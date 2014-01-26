@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "11128",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamin B-6",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(pill / tablet)"
+  }
+ }
 }

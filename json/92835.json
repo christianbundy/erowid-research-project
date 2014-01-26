@@ -23,5 +23,20 @@
  "age": "18",
  "timestamp": "2011-09-12T07:00:00.000Z",
  "views": "5760",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "95 mg",
+   "administration": "sublingual",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

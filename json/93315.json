@@ -43,5 +43,48 @@
  "age": "28",
  "timestamp": "2013-06-08T07:00:00.000Z",
  "views": "8784",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 12:00",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 14:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 17:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  },
+  "5": {
+   "time": " T+ 26:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  }
+ }
 }

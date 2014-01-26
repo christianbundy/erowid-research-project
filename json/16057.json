@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-09-22T07:00:00.000Z",
  "views": "25458",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 tsp",
+   "administration": "oral",
+   "substance": "Guarana",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": "",
+   "amount": "2 tsp",
+   "administration": "oral",
+   "substance": "Kola Nut",
+   "form": "(extract)"
+  }
+ }
 }

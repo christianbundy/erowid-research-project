@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-02-17T08:00:00.000Z",
  "views": "22822",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": "(capsule)"
+  }
+ }
 }

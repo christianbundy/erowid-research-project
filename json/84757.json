@@ -18,5 +18,13 @@
  "age": "28",
  "timestamp": "2010-06-22T07:00:00.000Z",
  "views": "4757",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -17,5 +17,12 @@
  "age": "18",
  "timestamp": "2011-07-26T07:00:00.000Z",
  "views": "2047",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ }
 }

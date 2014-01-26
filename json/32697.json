@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2005-11-01T08:00:00.000Z",
  "views": "19543",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(dried)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

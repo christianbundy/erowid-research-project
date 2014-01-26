@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-03-23T07:00:00.000Z",
  "views": "8920",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 0:35",
+   "amount": "25 mg",
+   "administration": "rectal",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 1:35",
+   "amount": "40 mg",
+   "administration": "rectal",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ }
 }

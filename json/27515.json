@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2005-01-13T08:00:00.000Z",
  "views": "11358",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Benzphetamine",
+   "form": "(pill / tablet)"
+  }
+ }
 }

@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-09-17T07:00:00.000Z",
  "views": "7635",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "2C-I"
+  },
+  "1": {
+   "time": "",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Various"
+  }
+ }
 }

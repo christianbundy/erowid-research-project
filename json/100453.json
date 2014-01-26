@@ -23,5 +23,20 @@
  "age": "45",
  "timestamp": "2013-06-10T07:00:00.000Z",
  "views": "3074",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "AL-LAD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

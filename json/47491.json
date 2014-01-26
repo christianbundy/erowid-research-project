@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2007-04-26T07:00:00.000Z",
  "views": "7328",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(cookie / food)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

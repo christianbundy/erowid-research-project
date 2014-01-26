@@ -23,5 +23,20 @@
  "age": "19",
  "timestamp": "2013-02-28T08:00:00.000Z",
  "views": "1515",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 hit",
+   "administration": "sublingual",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "3/4 hits",
+   "administration": "sublingual",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ }
 }

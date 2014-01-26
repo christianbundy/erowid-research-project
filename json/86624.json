@@ -28,5 +28,27 @@
  "age": "21",
  "timestamp": "2010-08-07T07:00:00.000Z",
  "views": "14060",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(capsule)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 0:55",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(dried)"
+  }
+ }
 }

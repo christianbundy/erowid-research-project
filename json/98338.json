@@ -33,5 +33,36 @@
  "age": "16",
  "timestamp": "2013-02-21T08:00:00.000Z",
  "views": "3217",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 1:05",
+   "administration": "1 hit",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "2C-I-NBOMe",
+   "amount": "(blotter / tab)",
+   "administration": " T+ 1:20",
+   "substance": "250 mg"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "MDMA",
+   "administration": "(capsule)",
+   "substance": " T+ 3:20"
+  },
+  "4": {
+   "time": "50 mg",
+   "amount": "oral",
+   "administration": "Methoxetamine ",
+   "substance": "(capsule)"
+  }
+ }
 }

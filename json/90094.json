@@ -73,5 +73,96 @@
  "age": "24",
  "timestamp": "2011-04-28T07:00:00.000Z",
  "views": "10147",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 0:00",
+   "administration": "3 g",
+   "substance": "oral"
+  },
+  "2": {
+   "time": "Piracetam",
+   "amount": "",
+   "administration": " T+ 0:00",
+   "substance": "2.5 g"
+  },
+  "3": {
+   "time": "oral",
+   "amount": "Mushrooms",
+   "administration": "",
+   "substance": " T+ 0:30"
+  },
+  "4": {
+   "time": "25 mg",
+   "amount": "insufflated",
+   "administration": "Methoxetamine ",
+   "substance": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 0:45",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "6": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 0:00",
+   "administration": "50 mg",
+   "substance": "insufflated"
+  },
+  "7": {
+   "time": "Methoxetamine ",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 0:00",
+   "substance": "50 mg"
+  },
+  "8": {
+   "time": "insufflated",
+   "amount": "Methoxetamine ",
+   "administration": "(powder / crystals)",
+   "substance": " T+ 0:00"
+  },
+  "9": {
+   "time": "100 mg",
+   "amount": "insufflated",
+   "administration": "Methoxetamine ",
+   "substance": "(powder / crystals)"
+  },
+  "10": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  },
+  "11": {
+   "time": "(powder / crystals)",
+   "amount": " T+ 9:00",
+   "administration": " ",
+   "substance": "insufflated"
+  },
+  "12": {
+   "time": "Methoxetamine ",
+   "amount": "(powder / crystals)",
+   "administration": " T+ 17:30",
+   "substance": " "
+  },
+  "13": {
+   "time": "smoked",
+   "amount": "DMT",
+   "administration": "",
+   "substance": " T+ 17:30"
+  },
+  "14": {
+   "time": " ",
+   "amount": "smoked",
+   "administration": "Cannabis",
+   "substance": ""
+  }
+ }
 }

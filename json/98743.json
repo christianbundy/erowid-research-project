@@ -29,5 +29,30 @@
  "age": "19",
  "timestamp": "2013-01-02T08:00:00.000Z",
  "views": "2275",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Ethylphenidate"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "IM",
+   "substance": "Ethylphenidate"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Poppies - California"
+  },
+  "3": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen"
+  }
+ }
 }

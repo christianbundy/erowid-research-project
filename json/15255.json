@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2002-06-08T07:00:00.000Z",
  "views": "39041",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "4-Methylaminorex",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 1:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylaminorex",
+   "form": "(powder / crystals)"
+  }
+ }
 }

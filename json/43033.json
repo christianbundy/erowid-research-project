@@ -33,5 +33,34 @@
  "age": "Not Given",
  "timestamp": "2005-07-16T07:00:00.000Z",
  "views": "14140",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  },
+  "2": {
+   "time": " T+ 3:30",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  },
+  "3": {
+   "time": " T+ 3:30",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ }
 }

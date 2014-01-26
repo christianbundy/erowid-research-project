@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2008-09-18T07:00:00.000Z",
  "views": "5267",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "17 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ }
 }

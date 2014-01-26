@@ -21,5 +21,18 @@
  "age": "Not Given",
  "timestamp": "2009-07-17T07:00:00.000Z",
  "views": "13662",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "4-MeO-MiPT"
+  },
+  "1": {
+   "time": " T+ 7:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Lorazepam"
+  }
+ }
 }

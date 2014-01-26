@@ -18,5 +18,13 @@
  "age": "21",
  "timestamp": "2009-12-14T08:00:00.000Z",
  "views": "7144",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Bupropion",
+   "form": "(ground / crushed)"
+  }
+ }
 }

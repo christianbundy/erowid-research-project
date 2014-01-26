@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-11-28T08:00:00.000Z",
  "views": "5687",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ }
 }

@@ -48,5 +48,55 @@
  "age": "Not Given",
  "timestamp": "2005-11-08T08:00:00.000Z",
  "views": "19706",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "0.083 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "2": {
+   "time": " T+ 0:00",
+   "amount": "7.0 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 1:08",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 2:04",
+   "amount": " tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  },
+  "5": {
+   "time": " T+ 2:04",
+   "amount": "0.125 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  },
+  "6": {
+   "time": " T+ 2:04",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ }
 }

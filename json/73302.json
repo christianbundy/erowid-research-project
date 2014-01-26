@@ -65,5 +65,84 @@
  "age": "Not Given",
  "timestamp": "2008-11-07T08:00:00.000Z",
  "views": "4603",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "2": {
+   "time": " T+ 0:20",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "3": {
+   "time": " T+ 6:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "4": {
+   "time": " T+ 11:35",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "5": {
+   "time": " T+ 22:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "6": {
+   "time": " T+ 22:00",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "7": {
+   "time": " T+ 32:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "8": {
+   "time": " T+ 32:00",
+   "amount": "2.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "9": {
+   "time": " T+ 35:30",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  },
+  "10": {
+   "time": " T+ 45:30",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  },
+  "11": {
+   "time": " T+ 45:30",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "2C-I"
+  },
+  "12": {
+   "time": " T+ 45:30",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam"
+  }
+ }
 }

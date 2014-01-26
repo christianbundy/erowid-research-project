@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2006-10-24T07:00:00.000Z",
  "views": "25136",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mandrake",
+   "form": "(tea)"
+  },
+  "1": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Lobelia spp.",
+   "form": "(tea)"
+  },
+  "2": {
+   "time": " T+ 0:45",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mandrake",
+   "form": "(tea)"
+  }
+ }
 }

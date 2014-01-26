@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2009-09-19T07:00:00.000Z",
  "views": "2379",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "1": {
+   "time": "",
+   "amount": " T+ 2:00",
+   "administration": "1 hit",
+   "substance": "smoked"
+  }
+ }
 }

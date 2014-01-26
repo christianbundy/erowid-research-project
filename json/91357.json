@@ -25,5 +25,24 @@
  "age": "45",
  "timestamp": "2012-03-06T08:00:00.000Z",
  "views": "20193",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 g",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  },
+  "1": {
+   "time": " T+ 1:30",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "1 g",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  }
+ }
 }

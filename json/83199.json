@@ -18,5 +18,13 @@
  "age": "29",
  "timestamp": "2010-04-23T07:00:00.000Z",
  "views": "6710",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "DiPT",
+   "form": "(capsule)"
+  }
+ }
 }

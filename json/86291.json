@@ -28,5 +28,27 @@
  "age": "20",
  "timestamp": "2014-01-05T08:00:00.000Z",
  "views": "814",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 hits",
+   "administration": "",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 11:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  },
+  "2": {
+   "time": " T+ 12:00",
+   "amount": "2 shots",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ }
 }

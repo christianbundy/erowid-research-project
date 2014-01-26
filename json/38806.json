@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2004-12-30T08:00:00.000Z",
  "views": "20902",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "4.0 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(ground / crushed)"
+  }
+ }
 }

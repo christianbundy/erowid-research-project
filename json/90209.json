@@ -28,5 +28,27 @@
  "age": "27",
  "timestamp": "2011-11-04T07:00:00.000Z",
  "views": "11815",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "3 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(daily)"
+  }
+ }
 }

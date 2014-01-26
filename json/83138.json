@@ -18,5 +18,13 @@
  "age": "22",
  "timestamp": "2012-11-09T08:00:00.000Z",
  "views": "6900",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ }
 }

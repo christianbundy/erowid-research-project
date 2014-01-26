@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2002-01-11T08:00:00.000Z",
  "views": "15782",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(extract)"
+  }
+ }
 }

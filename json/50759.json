@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2007-04-28T07:00:00.000Z",
  "views": "6862",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": "",
+   "amount": "9.0 mg",
+   "administration": "rectal",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  }
+ }
 }

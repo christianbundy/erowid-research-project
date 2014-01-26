@@ -18,5 +18,13 @@
  "age": "17",
  "timestamp": "2012-12-05T08:00:00.000Z",
  "views": "9449",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Lisdexamfetamine",
+   "form": "(capsule)"
+  }
+ }
 }

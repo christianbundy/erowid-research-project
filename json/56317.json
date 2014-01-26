@@ -23,5 +23,18 @@
  "age": "Not Given",
  "timestamp": "2008-12-17T08:00:00.000Z",
  "views": "52799",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "PCP"
+  },
+  "1": {
+   "time": "",
+   "amount": "",
+   "administration": "0.5 g",
+   "substance": "smoked"
+  }
+ }
 }

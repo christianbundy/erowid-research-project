@@ -18,5 +18,13 @@
  "age": "20",
  "timestamp": "2012-11-28T08:00:00.000Z",
  "views": "3993",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Heimia salicifolia",
+   "form": "(tea)"
+  }
+ }
 }

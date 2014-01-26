@@ -33,5 +33,34 @@
  "age": "15",
  "timestamp": "2011-02-25T08:00:00.000Z",
  "views": "4904",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lamotrigine ",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "72 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(daily)"
+  },
+  "2": {
+   "time": "",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Risperidone",
+   "form": "(daily)"
+  },
+  "3": {
+   "time": "",
+   "amount": "1.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": ""
+  }
+ }
 }

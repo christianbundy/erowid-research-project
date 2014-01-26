@@ -43,5 +43,48 @@
  "age": "29",
  "timestamp": "2011-08-21T07:00:00.000Z",
  "views": "6746",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  },
+  "1": {
+   "time": " T+ 3:55",
+   "amount": "1 mg",
+   "administration": "insufflated",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  },
+  "2": {
+   "time": " T+ 4:08",
+   "amount": "1 mg",
+   "administration": "insufflated",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  },
+  "3": {
+   "time": " T+ 6:10",
+   "amount": "1 mg",
+   "administration": "insufflated",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  },
+  "4": {
+   "time": " T+ 12:20",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 20:25",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "20",
  "timestamp": "2011-09-02T07:00:00.000Z",
  "views": "4223",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "buccal",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  },
+  "1": {
+   "time": "",
+   "amount": ".5 mg",
+   "administration": "buccal",
+   "substance": "Naloxone",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Quetiapine",
+   "form": ""
+  }
+ }
 }

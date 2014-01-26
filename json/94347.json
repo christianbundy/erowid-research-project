@@ -33,5 +33,34 @@
  "age": "21",
  "timestamp": "2012-01-24T08:00:00.000Z",
  "views": "7426",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "800 ug",
+   "administration": "buccal",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "1": {
+   "time": " T+ 2:00",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  "2": {
+   "time": " T+ 2:00",
+   "amount": "800 ug",
+   "administration": "buccal",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  },
+  "3": {
+   "time": " T+ 4:00",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ }
 }

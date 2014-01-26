@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2009-09-27T07:00:00.000Z",
  "views": "22161",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "1 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(daily)"
+  },
+  "1": {
+   "time": "",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  }
+ }
 }

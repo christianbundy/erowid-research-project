@@ -18,5 +18,13 @@
  "age": "19",
  "timestamp": "2010-09-30T07:00:00.000Z",
  "views": "17775",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  }
+ }
 }

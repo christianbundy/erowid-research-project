@@ -18,5 +18,13 @@
  "age": "30",
  "timestamp": "2011-06-11T07:00:00.000Z",
  "views": "19291",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "70 mg",
+   "administration": "oral",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  }
+ }
 }

@@ -28,5 +28,27 @@
  "age": "Not Given",
  "timestamp": "2003-03-31T08:00:00.000Z",
  "views": "41432",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam",
+   "form": "(pill / tablet)"
+  },
+  "2": {
+   "time": "",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ }
 }

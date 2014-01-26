@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2006-09-01T07:00:00.000Z",
  "views": "11501",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "15 leaves",
+   "administration": "oral",
+   "substance": "Coleus",
+   "form": "(fresh)"
+  }
+ }
 }

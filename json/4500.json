@@ -18,5 +18,13 @@
  "age": "Not Given",
  "timestamp": "2001-01-23T08:00:00.000Z",
  "views": "17617",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE:",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Red Rock",
+   "form": "(powder / crystals)"
+  }
+ }
 }

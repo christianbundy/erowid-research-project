@@ -49,5 +49,60 @@
  "age": "28",
  "timestamp": "2011-10-04T07:00:00.000Z",
  "views": "4138",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "165 mg",
+   "administration": "oral",
+   "substance": "Harmine"
+  },
+  "1": {
+   "time": " T+ 0:25",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "MET"
+  },
+  "2": {
+   "time": " T+ 0:25",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Harmine"
+  },
+  "3": {
+   "time": " T+ 0:45",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "MET"
+  },
+  "4": {
+   "time": " T+ 0:45",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Harmine"
+  },
+  "5": {
+   "time": " T+ 2:35",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  },
+  "6": {
+   "time": " T+ 2:35",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  },
+  "7": {
+   "time": " T+ 2:35",
+   "amount": "15 mg",
+   "administration": "smoked",
+   "substance": "MET"
+  },
+  "8": {
+   "time": " T+ 2:35",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "Harmine"
+  }
+ }
 }

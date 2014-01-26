@@ -23,5 +23,20 @@
  "age": "Not Given",
  "timestamp": "2008-05-04T07:00:00.000Z",
  "views": "8098",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "12 oz",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  },
+  "1": {
+   "time": " T+ 3:00",
+   "amount": "12 oz",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ }
 }

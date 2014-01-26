@@ -48,5 +48,55 @@
  "age": "18",
  "timestamp": "2012-12-02T08:00:00.000Z",
  "views": "2463",
- "dose": {}
+ "dose": {
+  "0": {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.25 g",
+   "administration": "insufflated",
+   "substance": "Coca",
+   "form": "(extract)"
+  },
+  "1": {
+   "time": " T+ 0:30",
+   "amount": "1 hit",
+   "administration": "oral",
+   "substance": "DOB",
+   "form": "(blotter / tab)"
+  },
+  "2": {
+   "time": " T+ 2:45",
+   "amount": "0.125 g",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": ""
+  },
+  "3": {
+   "time": " T+ 0:00",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": ""
+  },
+  "4": {
+   "time": " T+ 3:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  },
+  "5": {
+   "time": " T+ 6:45",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  },
+  "6": {
+   "time": " T+ 7:30",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ }
 }
