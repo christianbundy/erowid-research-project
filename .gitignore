@@ -1,3 +1,11 @@
+// Never commit zips
 *.zip
-test-input
-invisible*
+
+// Test input/output
+test-*
+
+// Takes way too long
+output
+
+// Install them yourself
+node_modules
