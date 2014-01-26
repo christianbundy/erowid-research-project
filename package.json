@@ -1,0 +1,37 @@
+{
+  "name": "erowid-research-project",
+  "version": "0.0.0",
+  "author": "Christian Bundy <me@christianbundy.com>",
+  "description": "A research project analyzing the experiences available from Erowid in the interest of harm reduction.",
+  "contributors": [ 
+    {
+      "name": "Christian Bundy",
+      "email": "me@christianbundy.com"
+    } 
+  ],
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianbundy/erowid-research-project.git"
+  },
+  "keywords": [
+    "erowid",
+    "experience",
+    "substance",
+    "drug"
+  ],
+  "dependencies" : {
+    "graceful-fs" : "*",
+    "dive"        : "*"
+  },
+  "analyze": false,
+  "bundledDependencies": [
+    "union",
+    "ecstatic"
+  ],  
+  "engines": {
+    "node": ">=0.10"
+  }
+}
