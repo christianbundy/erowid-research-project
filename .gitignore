@@ -1,14 +1,17 @@
-# Never commit zips
-*.zip
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
 
-# Test input/output
-test-*
+pids
+logs
+results
+build
+.grunt
 
-# Takes way too long
-output
-
-# Install them yourself
 node_modules
-
-# Mine
-config.js
