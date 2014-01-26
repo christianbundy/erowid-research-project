@@ -16,13 +16,13 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

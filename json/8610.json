@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Mushrooms",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

@@ -16,41 +16,41 @@
    "amount": "12.5 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "6:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "6.0 ml",
    "administration": "oral",
    "substance": "GBL",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "10:00",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "10:20",
    "amount": "2.0 ml",
    "administration": "oral",
    "substance": "GBL",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

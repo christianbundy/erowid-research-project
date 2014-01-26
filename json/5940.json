@@ -15,7 +15,7 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
@@ -35,13 +35,13 @@
    "time": "0",
    "administration": "oral",
    "substance": "Ginkgo biloba",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Coffee",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "IV",
    "substance": "Pharms - Oxycodone",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

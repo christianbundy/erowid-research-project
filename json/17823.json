@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-B",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(capsule)"
+   "form": "capsule"
   }
  ],
  "report": [

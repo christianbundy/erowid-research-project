@@ -16,7 +16,7 @@
    "amount": "3.0 ml",
    "administration": "oral",
    "substance": "Tea",
-   "form": "(extract)"
+   "form": "extract"
   },
   {
    "time": "0:00",
@@ -30,21 +30,21 @@
    "amount": "120 mg",
    "administration": "insufflated",
    "substance": "DPT",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0:20",
    "amount": "1 hit",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "3:00",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "DPT",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

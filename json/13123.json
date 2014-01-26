@@ -16,14 +16,14 @@
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Inhalants",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "0",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

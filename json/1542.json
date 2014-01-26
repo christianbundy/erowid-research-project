@@ -15,26 +15,26 @@
    "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "1:00",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "1:30",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

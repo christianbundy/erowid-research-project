@@ -14,27 +14,27 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "administration": "buccal",
    "substance": "Kratom",
-   "form": "(leaves)"
+   "form": "leaves"
   },
   {
    "time": "0",
    "amount": "7 bowls",
    "administration": "oral",
    "substance": "Opium",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "0",
    "amount": "5 cups",
    "administration": "oral",
    "substance": "Coca",
-   "form": "(tea)"
+   "form": "tea"
   }
  ],
  "report": [

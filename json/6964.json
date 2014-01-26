@@ -16,33 +16,33 @@
    "amount": "2.5 mg",
    "administration": "oral",
    "substance": "DON",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "12:00",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "12:00",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "12:00",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "12:00",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

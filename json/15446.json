@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Hydrocodone",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Codeine",
-   "form": "(daily)"
+   "form": "daily"
   }
  ],
  "report": [

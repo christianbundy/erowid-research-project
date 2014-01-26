@@ -16,14 +16,14 @@
    "amount": "225 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "45 mg",
    "administration": "oral",
    "substance": "Pharms - Mirtazapine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
@@ -37,7 +37,7 @@
    "amount": "5 mg",
    "administration": "ocular",
    "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

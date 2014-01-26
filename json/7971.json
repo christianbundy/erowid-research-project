@@ -16,19 +16,19 @@
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Inhalants",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(tar / resin)"
+   "form": "tar / resin"
   }
  ],
  "report": [

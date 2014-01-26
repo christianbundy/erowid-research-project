@@ -16,20 +16,20 @@
    "amount": "100 mg",
    "administration": "oral",
    "substance": "6-APB",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0:30",
    "administration": "oral",
    "substance": "6-APB",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "1:00",
    "amount": "repeated",
    "administration": "oral",
    "substance": "6-APB",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "4:00",
@@ -41,7 +41,7 @@
    "time": "4:30",
    "administration": "oral",
    "substance": "Tryptophan",
-   "form": "(capsule)"
+   "form": "capsule"
   }
  ],
  "report": [

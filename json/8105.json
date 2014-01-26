@@ -16,28 +16,28 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Chlordiazepoxide",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

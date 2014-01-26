@@ -16,20 +16,20 @@
    "amount": "500 mg",
    "administration": "oral",
    "substance": "St. John's Wort",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:00",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Vitamin C",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:00",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:00",
@@ -49,21 +49,21 @@
    "amount": "1 hit",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "1:30",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "2:30",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

@@ -16,28 +16,28 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Alcohol - Hard",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "750 mg",
    "administration": "smoked",
    "substance": "DMT",
-   "form": "(extract)"
+   "form": "extract"
   },
   {
    "time": "0",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

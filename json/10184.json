@@ -16,19 +16,19 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Coffee",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

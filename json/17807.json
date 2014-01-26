@@ -16,35 +16,35 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "15 caps",
    "administration": "oral",
    "substance": "Mushrooms",
-   "form": "(dried)"
+   "form": "dried"
   }
  ],
  "report": [

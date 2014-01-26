@@ -16,14 +16,14 @@
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "7:00",
    "amount": "465 mg",
    "administration": "oral",
    "substance": "Catuaba",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0:00",
@@ -36,7 +36,7 @@
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sildenafil",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

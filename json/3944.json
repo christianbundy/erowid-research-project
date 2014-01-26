@@ -16,14 +16,14 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Opioids",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "IV",
    "substance": "Opioids",
-   "form": "(daily)"
+   "form": "daily"
   }
  ],
  "report": [

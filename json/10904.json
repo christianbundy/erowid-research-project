@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Wormwood",
-   "form": "(extract)"
+   "form": "extract"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

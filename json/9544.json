@@ -16,34 +16,34 @@
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:15",
    "amount": "750 mg",
    "administration": "oral",
    "substance": "Kava",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "2:00",
    "amount": "200 mg",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "4:30",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

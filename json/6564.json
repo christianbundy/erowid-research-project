@@ -16,20 +16,20 @@
    "amount": "0.75 tablets",
    "administration": "insufflated",
    "substance": "Codeine",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0",
    "amount": "0.25 tablets",
    "administration": "sublingual",
    "substance": "Codeine",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0",
    "administration": "",
    "substance": "DXM",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:30",
@@ -43,7 +43,7 @@
    "amount": "1 hit",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

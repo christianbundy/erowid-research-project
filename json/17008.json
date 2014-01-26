@@ -16,20 +16,20 @@
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Modafinil",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "13:00",
    "administration": "oral",
    "substance": "Poppies - Opium",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "14:00",
@@ -49,7 +49,7 @@
    "time": "17:30",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "18:00",
@@ -70,14 +70,14 @@
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "23:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

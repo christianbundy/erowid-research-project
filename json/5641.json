@@ -16,21 +16,21 @@
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "4:00",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "4:15",
@@ -44,7 +44,7 @@
    "amount": "20 mg",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

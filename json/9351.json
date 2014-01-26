@@ -16,56 +16,56 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Ketamine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0:00",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:15",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Hydrocodone",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:45",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "1:30",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
-   "form": "(blotter / tab)"
+   "form": "blotter / tab"
   },
   {
    "time": "3:30",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

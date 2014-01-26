@@ -16,27 +16,27 @@
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Heroin",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Codeine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
@@ -48,13 +48,13 @@
    "time": "0",
    "administration": "",
    "substance": "Amphetamines",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "",
    "substance": "Cocaine",
-   "form": "(freebase)"
+   "form": "freebase"
   },
   {
    "time": "0",

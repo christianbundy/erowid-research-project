@@ -16,27 +16,27 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:00",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "1:00",
    "amount": "18 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
-   "form": "(fresh)"
+   "form": "fresh"
   },
   {
    "time": "11:00",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

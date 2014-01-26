@@ -16,7 +16,7 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Lithium",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
@@ -30,7 +30,7 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "DXM",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

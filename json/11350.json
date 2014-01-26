@@ -16,7 +16,7 @@
    "amount": "repeated",
    "administration": "",
    "substance": "Ethylcathinone",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
@@ -29,14 +29,14 @@
    "time": "0",
    "administration": "oral",
    "substance": "Valerian",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "GBL",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

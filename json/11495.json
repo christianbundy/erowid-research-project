@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "20 mg",
    "administration": "rectal",
    "substance": "Pharms - Cyclobenzaprine",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
-   "form": "(extract - 10x)"
+   "form": "extract - 10x"
   },
   {
    "time": "0",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "Melatonin",
-   "form": "(capsule)"
+   "form": "capsule"
   }
  ],
  "report": [

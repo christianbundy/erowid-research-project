@@ -16,7 +16,7 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
@@ -29,7 +29,7 @@
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Salvia divinorum",
-   "form": "(extract)"
+   "form": "extract"
   }
  ],
  "report": [

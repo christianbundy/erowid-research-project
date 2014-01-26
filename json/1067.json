@@ -16,28 +16,28 @@
    "amount": "0.5 oz",
    "administration": "oral",
    "substance": "Nutmeg",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Coffee",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "2:00",
    "amount": "2.8 g",
    "administration": "oral",
    "substance": "St. John's Wort",
-   "form": "(extract)"
+   "form": "extract"
   }
  ],
  "report": [

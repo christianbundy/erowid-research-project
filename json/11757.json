@@ -16,35 +16,35 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:30",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0:45",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "1:10",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "1:40",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   }
  ],
  "report": [

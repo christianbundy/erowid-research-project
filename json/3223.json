@@ -16,28 +16,28 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "2:45",
    "amount": "5.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
-   "form": "(dried)"
+   "form": "dried"
   },
   {
    "time": "6:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-2",
-   "form": "(capsule)"
+   "form": "capsule"
   }
  ],
  "report": [

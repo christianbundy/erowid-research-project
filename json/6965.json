@@ -16,14 +16,14 @@
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
@@ -57,21 +57,21 @@
    "time": "5:30",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "60:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Modafinil",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "96:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

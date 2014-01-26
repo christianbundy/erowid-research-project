@@ -16,34 +16,34 @@
    "amount": "4 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "administration": "insufflated",
    "substance": "Methamphetamine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

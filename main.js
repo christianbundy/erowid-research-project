@@ -2,10 +2,16 @@ var fs = require('graceful-fs'); // Queues fs.readFile()
 var dive = require('dive');      // Recursive dir walking
 
 var main = function(e) {
-	if (typeof e.date.experience !== 'undefined') {
-		e.date.experience = new Date(e.date.experience);
+	if (typeof e.dose !== 'undefined') {
+		for (var i = 0; i < e.dose.length; i++) {
+			if (typeof e.dose[i].form !== 'undefined') {
+				if (e.dose[i].form[0] === '(') {
+					var noFirst = e.dose[i].form.substring(1);
+					e.dose[i].form = noFirst.substring(0, noFirst.length - 1);
+				}
+			}
+		};
 	}
-
 	return e;
 }
 

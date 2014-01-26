@@ -16,21 +16,21 @@
    "amount": "3.0 ml",
    "administration": "insufflated",
    "substance": "Pharms - Butorphanol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Amitriptyline",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Pharms - Divalproex",
-   "form": "(daily)"
+   "form": "daily"
   }
  ],
  "report": [

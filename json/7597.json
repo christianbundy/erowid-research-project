@@ -16,13 +16,13 @@
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

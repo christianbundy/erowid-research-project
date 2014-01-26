@@ -16,14 +16,14 @@
    "amount": "11.3 mg",
    "administration": "oral",
    "substance": "DOM",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "13:00",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "GHB",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "13:00",
@@ -36,7 +36,7 @@
    "amount": "35 ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Pharms - Buprenorphine",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

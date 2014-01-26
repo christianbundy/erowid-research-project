@@ -15,14 +15,14 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Ephedrine",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",

@@ -16,27 +16,27 @@
    "amount": "24 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

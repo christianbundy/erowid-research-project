@@ -16,14 +16,14 @@
    "amount": "50 mg",
    "administration": "oral",
    "substance": "AMT",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "4:00",
@@ -36,7 +36,7 @@
    "time": "12:00",
    "administration": "oral",
    "substance": "Cannabis",
-   "form": "(cookie / food)"
+   "form": "cookie / food"
   }
  ],
  "report": [

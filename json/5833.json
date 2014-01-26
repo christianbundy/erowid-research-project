@@ -16,26 +16,26 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Skullcap",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "administration": "",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "(extract)"
+   "form": "extract"
   }
  ],
  "report": [

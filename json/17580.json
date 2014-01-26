@@ -16,21 +16,21 @@
    "amount": "3000 mg",
    "administration": "oral",
    "substance": "Vitamin C",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Vitamin B-6",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
@@ -44,14 +44,14 @@
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Vitamin B-6",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Tryptophan",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "9:00",
@@ -65,7 +65,7 @@
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "11:00",
@@ -79,7 +79,7 @@
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

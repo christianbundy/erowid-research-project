@@ -16,20 +16,20 @@
    "amount": "repeated",
    "administration": "",
    "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "",
    "substance": "Methadone",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

@@ -16,7 +16,7 @@
    "amount": "1 mg",
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0:00",
@@ -30,14 +30,14 @@
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "3:00",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "3:00",
@@ -51,35 +51,35 @@
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "12:30",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "14:00",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "15:30",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "28:00",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cocaine",
-   "form": "(freebase)"
+   "form": "freebase"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "IV",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

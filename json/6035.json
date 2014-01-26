@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "",
    "substance": "Methamphetamine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "9:30",
    "amount": "7.5 mg",
    "administration": "oral",
    "substance": "2C-E",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "14:00",
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

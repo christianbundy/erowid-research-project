@@ -16,27 +16,27 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Methadone",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Propoxyphene",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "administration": "",
    "substance": "AMT",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

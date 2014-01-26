@@ -16,34 +16,34 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Coca",
-   "form": "(tea)"
+   "form": "tea"
   },
   {
    "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Coca",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "administration": "inhaled",
    "substance": "Coca",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "sublingual",
    "substance": "Coca",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Coca",
-   "form": "(extract)"
+   "form": "extract"
   }
  ],
  "report": [

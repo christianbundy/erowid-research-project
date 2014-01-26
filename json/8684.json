@@ -16,14 +16,14 @@
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Morphine",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "1:30",
    "amount": "15 mg",
    "administration": "insufflated",
    "substance": "Morphine",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "2:00",
@@ -37,7 +37,7 @@
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

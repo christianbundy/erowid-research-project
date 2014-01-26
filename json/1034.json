@@ -16,25 +16,25 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Caffeine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "administration": "smoked",
    "substance": "Ephedra sinica",
-   "form": "(freebase)"
+   "form": "freebase"
   },
   {
    "time": "0",
    "administration": "smoked",
    "substance": "Caffeine",
-   "form": "(freebase)"
+   "form": "freebase"
   },
   {
    "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   }
  ],
  "report": [

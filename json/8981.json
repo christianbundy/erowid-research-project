@@ -16,35 +16,35 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "GBL",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0:00",
    "amount": "600 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "10:00",
    "amount": "3.0 mg",
    "administration": "oral",
    "substance": "Pharms - Flunitrazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "11:00",
    "amount": "2.0 mg",
    "administration": "insufflated",
    "substance": "Pharms - Flunitrazepam",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "11:00",
    "amount": "1.2 ml",
    "administration": "oral",
    "substance": "GHB",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

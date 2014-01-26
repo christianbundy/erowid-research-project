@@ -16,7 +16,7 @@
    "amount": "repeated",
    "administration": "",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
@@ -30,14 +30,14 @@
    "amount": "1.0 g",
    "administration": "",
    "substance": "Methamphetamine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "7.0 g",
    "administration": "",
    "substance": "Cannabis",
-   "form": "(daily)"
+   "form": "daily"
   }
  ],
  "report": [

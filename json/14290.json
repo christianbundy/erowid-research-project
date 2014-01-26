@@ -16,7 +16,7 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0:00",
@@ -37,28 +37,28 @@
    "amount": "1.5 hits",
    "administration": "",
    "substance": "LSD",
-   "form": "(blotter / tab)"
+   "form": "blotter / tab"
   },
   {
    "time": "1:00",
    "amount": "1 hit",
    "administration": "insufflated",
    "substance": "25I-NBOMe",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "3:00",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "3:15",
    "amount": "8 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "5:15",

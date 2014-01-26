@@ -16,14 +16,14 @@
    "amount": "50 mg",
    "administration": "oral",
    "substance": "AMT",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0:00",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "Pseudoephedrine",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:00",
@@ -35,14 +35,14 @@
    "time": "1:00",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "5:00",
    "amount": "repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
-   "form": "(gas)"
+   "form": "gas"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "2 leaves",
    "administration": "smoked",
    "substance": "Coleus",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0",
    "amount": "leaves",
    "administration": "smoked",
    "substance": "Coleus",
-   "form": "(dried)"
+   "form": "dried"
   }
  ],
  "report": [

@@ -16,14 +16,14 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Methamphetamine",
-   "form": "(daily)"
+   "form": "daily"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

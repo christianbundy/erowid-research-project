@@ -16,14 +16,14 @@
    "amount": "1 repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "1 repeated",
    "administration": "insufflated",
    "substance": "Pharms - Alprazolam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
@@ -37,21 +37,21 @@
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "0",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B",
-   "form": "(capsule)"
+   "form": "capsule"
   },
   {
    "time": "0",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-B",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   }
  ],
  "report": [

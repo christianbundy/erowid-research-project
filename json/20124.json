@@ -16,21 +16,21 @@
    "amount": "30 ml",
    "administration": "",
    "substance": "Morphine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "260 mg",
    "administration": "IV",
    "substance": "Ketamine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

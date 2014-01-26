@@ -16,55 +16,55 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
-   "form": "(plant material)"
+   "form": "plant material"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
-   "form": "(tar / resin)"
+   "form": "tar / resin"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "2:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "2:15",
    "amount": "450 mg",
    "administration": "oral",
    "substance": "DXM",
-   "form": "(extract)"
+   "form": "extract"
   },
   {
    "time": "4:30",
    "administration": "oral",
    "substance": "GHB",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "7:30",
    "amount": "2 lines",
    "administration": "insufflated",
    "substance": "Cocaine",
-   "form": "(powder / crystals)"
+   "form": "powder / crystals"
   },
   {
    "time": "9:00",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
-   "form": "(dried)"
+   "form": "dried"
   }
  ],
  "report": [

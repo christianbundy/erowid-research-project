@@ -16,21 +16,21 @@
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "3:00",
    "amount": "5.0 mg",
    "administration": "IM",
    "substance": "Morphine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "5.0 mg",
    "administration": "IV",
    "substance": "Morphine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

@@ -16,21 +16,21 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "DXM",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
    "substance": "DXM",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

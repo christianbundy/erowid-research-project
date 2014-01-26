@@ -16,20 +16,20 @@
    "amount": "2.5 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   },
   {
    "time": "0:30",
    "amount": ".25 mg",
    "administration": "insufflated",
    "substance": "Pharms - Alprazolam",
-   "form": "(ground / crushed)"
+   "form": "ground / crushed"
   },
   {
    "time": "0:40",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
+   "form": "liquid"
   }
  ],
  "report": [

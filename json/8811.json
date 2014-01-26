@@ -16,34 +16,34 @@
    "amount": "10 mg",
    "administration": "IV",
    "substance": "Pharms - Midazolam",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "administration": "inhaled",
    "substance": "Unknown",
-   "form": "(gas)"
+   "form": "gas"
   },
   {
    "time": "0",
    "amount": "100 ug",
    "administration": "IV",
    "substance": "Pharms - Fentanyl",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "16 mg",
    "administration": "IV",
    "substance": "Morphine",
-   "form": "(liquid)"
+   "form": "liquid"
   },
   {
    "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
-   "form": "(pill / tablet)"
+   "form": "pill / tablet"
   }
  ],
  "report": [
