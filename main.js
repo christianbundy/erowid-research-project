@@ -6,7 +6,7 @@ dive(__dirname + '/json', function (err, file) {
 		if (err) throw err;
 		var obj = JSON.parse(contents);
 		var str = JSON.stringify(obj);
-		obj = JSON.parse(str.replace('"report":"</p>', '"report":"<p>'));
+		obj = JSON.parse(str.replace('\\n', ''));
 		fs.writeFile(file, JSON.stringify(obj, null, 1) + "\r\n", function(err) {
 			if (err) throw err;
 		}); 
