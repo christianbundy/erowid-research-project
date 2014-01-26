@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Methadone",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -34,8 +34,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "g"
+    "unit": "g",
+    "grams": "20",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Lecithin",
@@ -44,8 +45,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -54,8 +55,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "GHB",

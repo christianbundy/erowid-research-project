@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.45",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.45",
+    "quantity": "1.45"
    },
    "administration": "oral",
    "substance": "Voacanga africana",
@@ -24,8 +25,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Voacanga africana",

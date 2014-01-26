@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -30,8 +30,8 @@
   {
    "time": "3:15",
    "amount": {
-    "number": "2",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

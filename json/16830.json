@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Pregabalin"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:20"
+    "unit": "0:20",
+    "quantity": "T+"
    },
    "administration": "150 mg",
    "substance": "oral"

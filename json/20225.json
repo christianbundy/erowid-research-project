@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Zolpidem",
@@ -33,8 +33,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -44,8 +44,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -54,8 +54,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Coffee",

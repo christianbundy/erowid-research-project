@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.4",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.4"
    },
    "administration": "inhaled",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.4",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.4"
    },
    "administration": "inhaled",
    "substance": "Leonotis leonurus",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.2"
    },
    "administration": "inhaled",
    "substance": "Lotus/Lily",

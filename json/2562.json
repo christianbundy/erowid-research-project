@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis"

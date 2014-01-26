@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -24,8 +24,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "48",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "48"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

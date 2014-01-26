@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -25,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "85",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "85"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -35,8 +35,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",

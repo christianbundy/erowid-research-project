@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "rectal",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "rectal",
    "substance": "MDMA",

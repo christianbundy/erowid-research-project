@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.0"
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "55",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "55"
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "14",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "14"
    },
    "administration": "IM",
    "substance": "Psilocin",

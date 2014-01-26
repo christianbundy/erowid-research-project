@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Voacanga africana",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Cocaine",

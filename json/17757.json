@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "GBL",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "GBL",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

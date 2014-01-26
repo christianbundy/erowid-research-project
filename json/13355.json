@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Atomoxetine",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Fluvoxamine",

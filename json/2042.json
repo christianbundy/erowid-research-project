@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Catnip",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Ginger",
@@ -34,8 +34,8 @@
   {
    "time": "0:12",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Catnip",
@@ -44,8 +44,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "7",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Catnip",
@@ -54,8 +54,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -64,8 +64,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Catnip",

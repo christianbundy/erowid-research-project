@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:04",
    "amount": {
-    "number": "0.3333",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.3333"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -35,8 +35,8 @@
   {
    "time": "0:26",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -45,8 +45,8 @@
   {
    "time": "0:32",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Tobacco",

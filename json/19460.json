@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +36,9 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -45,8 +47,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",

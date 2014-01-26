@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -30,8 +30,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -40,8 +40,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -21,8 +21,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "rectal",
    "substance": "2C-T-21",
@@ -31,8 +31,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "rectal",
    "substance": "2C-T-21",
@@ -41,8 +41,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "22",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "22"
    },
    "administration": "rectal",
    "substance": "2C-C",
@@ -51,8 +51,9 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Kratom",

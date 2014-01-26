@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.1"
    },
    "administration": "smoked",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "0:11",
    "amount": {
-    "number": "0.6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.6"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -34,8 +34,8 @@
   {
    "time": "0:12",
    "amount": {
-    "number": "2.3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.3"
    },
    "administration": "smoked",
    "substance": "Amphetamines",

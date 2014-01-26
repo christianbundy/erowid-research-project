@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "DOC"
@@ -29,8 +29,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "425",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "425"
    },
    "administration": "sublingual",
    "substance": "25C-NBOMe"

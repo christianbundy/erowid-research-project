@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -34,8 +34,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Caffeine"
@@ -43,8 +43,8 @@
   {
    "time": "4:56",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Caffeine"
@@ -52,8 +52,8 @@
   {
    "time": "5:24",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Caffeine"
@@ -61,8 +61,8 @@
   {
    "time": "7:44",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Caffeine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "DET",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

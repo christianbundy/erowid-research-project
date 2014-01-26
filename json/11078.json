@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "g"
+    "unit": "g",
+    "grams": "350",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "Poppies",
@@ -25,8 +26,9 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "1.6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.6",
+    "quantity": "1.6"
    },
    "administration": "oral",
    "substance": "Kava",

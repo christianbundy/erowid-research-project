@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "MDAI",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "MDAI",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "MDAI",
@@ -44,8 +44,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "MDAI",
@@ -54,8 +54,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "MDAI",

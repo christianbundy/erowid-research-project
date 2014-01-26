@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1050",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1050"
    },
    "administration": "oral",
    "substance": "Lithium"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "36:00"
+    "unit": "36:00",
+    "quantity": "T+"
    },
    "administration": "17 mg",
    "substance": "oral"

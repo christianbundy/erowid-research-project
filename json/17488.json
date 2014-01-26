@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:20"
+    "unit": "0:20",
+    "quantity": "T+"
    },
    "administration": "6 seeds",
    "substance": "oral"

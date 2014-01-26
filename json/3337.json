@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "sublingual",
    "substance": "LSD",
@@ -31,8 +31,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Alcohol",

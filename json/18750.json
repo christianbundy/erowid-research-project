@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "oral"
@@ -47,8 +47,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -56,8 +56,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "3 mg",
    "substance": "oral"
@@ -83,8 +83,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "smoked",
    "substance": "5-MeO-MIPT"

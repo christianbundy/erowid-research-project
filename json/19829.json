@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "smoked",
    "substance": "Virola spp.",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2.5"
    },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",

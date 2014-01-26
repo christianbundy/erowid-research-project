@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8.5",
+    "quantity": "8.5"
    },
    "administration": "oral",
    "substance": "Kava",

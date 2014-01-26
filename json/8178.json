@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.31",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.31",
+    "quantity": "1.31"
    },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",

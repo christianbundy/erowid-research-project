@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
@@ -30,8 +30,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
@@ -40,8 +40,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "substance": "2C-I-NBOMe",
    "form": "powder/crystals"
@@ -49,8 +49,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "Ketamine"

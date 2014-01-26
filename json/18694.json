@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "buccal",
    "substance": "2C-C-NBOMe",
@@ -42,8 +42,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "3",
-    "unit": ""
+    "unit": "",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -52,8 +52,8 @@
   {
    "time": "15:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -62,8 +62,8 @@
   {
    "time": "15:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -72,8 +72,8 @@
   {
    "time": "15:20",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -82,8 +82,8 @@
   {
    "time": "15:20",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -92,8 +92,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -102,8 +102,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -112,8 +112,8 @@
   {
    "time": "18:07",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

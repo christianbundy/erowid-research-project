@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

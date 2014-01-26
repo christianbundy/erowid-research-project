@@ -11,8 +11,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -20,8 +20,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDMA"

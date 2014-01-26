@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bumps"
+    "unit": "bumps",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Ketamine",

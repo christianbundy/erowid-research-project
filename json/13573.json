@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Venlafaxine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDAI",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDAI",

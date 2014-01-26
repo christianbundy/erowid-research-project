@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -34,8 +34,9 @@
   {
    "time": "2:10",
    "amount": {
-    "number": "0.33",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.33",
+    "quantity": "0.33"
    },
    "administration": "vaporized",
    "substance": "Cannabis"
@@ -43,8 +44,9 @@
   {
    "time": "7:50",
    "amount": {
-    "number": "0.6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.6",
+    "quantity": "0.6"
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -52,8 +54,9 @@
   {
    "time": "8:50",
    "amount": {
-    "number": "0.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3",
+    "quantity": "0.3"
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -61,8 +64,9 @@
   {
    "time": "12:10",
    "amount": {
-    "number": "0.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3",
+    "quantity": "0.3"
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -70,8 +74,8 @@
   {
    "time": "14:20",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -80,8 +84,8 @@
   {
    "time": "17:20",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Tobacco",

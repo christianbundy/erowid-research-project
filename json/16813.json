@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "160",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "160"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "120",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -55,8 +55,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "100",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -66,8 +66,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Caffeine",

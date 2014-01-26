@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1600"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:00"
+    "unit": "1:00",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "oral"

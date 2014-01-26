@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": ""
+    "unit": "",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": ""
+    "unit": "",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Mushrooms",

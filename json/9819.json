@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",

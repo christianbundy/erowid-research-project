@@ -11,8 +11,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": ".5"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -29,8 +29,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": ".5"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -38,8 +38,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Inhalants",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "12.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "12.5",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "g"
+    "unit": "g",
+    "grams": "50",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",

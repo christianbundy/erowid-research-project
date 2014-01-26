@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "950",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "950"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "300 mg",
    "substance": "oral"
@@ -49,8 +49,9 @@
   {
    "time": "3:47",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Kratom"

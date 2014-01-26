@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -22,8 +22,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "MDMA"

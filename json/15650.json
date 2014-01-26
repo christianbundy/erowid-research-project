@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": ""
+    "unit": "",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -45,8 +45,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "4",
-    "unit": ""
+    "unit": "",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Mushrooms",

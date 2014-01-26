@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "2C-E",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "bk-MBDB",

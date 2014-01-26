@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"
@@ -43,8 +43,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "sublingual",
    "substance": "MDPV"
@@ -52,8 +52,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "12.5 mg",
    "substance": "sublingual"

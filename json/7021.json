@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "102",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "102"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "165",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "165"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

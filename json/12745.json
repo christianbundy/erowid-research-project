@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "60 mg",
    "substance": "oral"

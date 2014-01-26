@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1/4",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1/4"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1/4",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1/4"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -48,8 +48,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

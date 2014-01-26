@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "4"
    },
    "administration": "smoked",
    "substance": "Coleus",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "sublingual",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -34,8 +34,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -44,8 +44,8 @@
   {
    "time": "11:30",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "MDMA",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -24,8 +24,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",

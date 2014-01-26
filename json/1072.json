@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.5",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "Cannabis",
@@ -24,8 +25,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +35,9 @@
   {
    "time": "36:00",
    "amount": {
-    "number": "4.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.5",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "Cannabis",
@@ -44,8 +46,8 @@
   {
    "time": "36:00",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",

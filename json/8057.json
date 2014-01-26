@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
@@ -24,8 +25,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
@@ -34,8 +36,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "3",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Anadenanthera peregrina"
@@ -43,8 +45,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum"
@@ -52,8 +54,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
@@ -67,8 +70,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Tabernanthe iboga",

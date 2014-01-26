@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "DOB"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -32,8 +32,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Cocaine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -24,8 +24,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",

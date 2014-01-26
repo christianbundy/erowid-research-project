@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.4",
+    "quantity": "0.4"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "oral",
    "substance": "Wormwood",
@@ -35,8 +37,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Wormwood",
@@ -45,8 +48,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -55,8 +58,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Lagochilus inebrians",
@@ -65,8 +68,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -76,8 +79,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Various",

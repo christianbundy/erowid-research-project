@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.6"
    },
    "administration": "oral",
    "substance": "Scopolamine",
@@ -24,8 +24,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +35,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -44,8 +46,9 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

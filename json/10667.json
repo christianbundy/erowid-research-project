@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "256",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "256"
    },
    "administration": "oral",
    "substance": "Codeine"

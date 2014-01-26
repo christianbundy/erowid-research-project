@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "6-APB",
@@ -24,8 +24,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -40,8 +40,8 @@
   {
    "time": "2:35",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "6-APB",

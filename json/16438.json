@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -44,8 +44,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -54,8 +54,8 @@
   {
    "time": "4:15",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

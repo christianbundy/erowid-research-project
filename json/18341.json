@@ -48,8 +48,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -57,8 +57,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -67,8 +67,8 @@
   {
    "time": "34:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Clonazepam",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

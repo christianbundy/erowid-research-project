@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Cocaine",

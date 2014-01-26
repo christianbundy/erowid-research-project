@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "substance": "2C-E"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "7:00"
+    "unit": "7:00",
+    "quantity": "T+"
    },
    "administration": "150 mg",
    "substance": "oral"

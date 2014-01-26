@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Coleus",

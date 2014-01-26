@@ -14,8 +14,8 @@
   {
    "time": "DOSE:2:00",
    "amount": {
-    "number": "56",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "56"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",

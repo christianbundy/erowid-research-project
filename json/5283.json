@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

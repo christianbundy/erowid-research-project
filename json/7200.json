@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Bupropion",

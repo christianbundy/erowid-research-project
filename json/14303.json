@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "substance": "smoked"
   },
@@ -52,8 +52,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:45"
+    "unit": "1:45",
+    "quantity": "T+"
    },
    "administration": "1 tablet",
    "substance": "oral"
@@ -67,8 +67,8 @@
   {
    "time": "inhaled",
    "amount": {
-    "number": "Nitrous",
-    "unit": "Oxide"
+    "unit": "Oxide",
+    "quantity": "Nitrous"
    },
    "substance": "T+ 6:45"
   },

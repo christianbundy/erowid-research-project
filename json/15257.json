@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +24,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "2:05",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",

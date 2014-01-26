@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "225",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "225"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1060",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1060"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "530",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "530"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -44,8 +44,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1590",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1590"
    },
    "administration": "oral",
    "substance": "Valerian",

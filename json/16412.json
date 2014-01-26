@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +25,8 @@
   {
    "time": "0:14",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +35,9 @@
   {
    "time": "1:35",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -44,8 +46,9 @@
   {
    "time": "2:57",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -54,8 +57,9 @@
   {
    "time": "2:57",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",

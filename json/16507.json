@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Passion Flower",
@@ -24,8 +25,9 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -40,8 +42,9 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "11",
-    "unit": "g"
+    "unit": "g",
+    "grams": "11",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "Passion Flower",

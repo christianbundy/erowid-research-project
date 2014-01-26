@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "17:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -44,8 +44,8 @@
   {
    "time": "19:00",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -72,8 +72,8 @@
   {
    "time": "40:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -83,8 +83,8 @@
   {
    "time": "40:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -93,8 +93,8 @@
   {
    "time": "40:00",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",

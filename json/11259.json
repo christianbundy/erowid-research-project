@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "2C-B-Fly",
@@ -29,8 +29,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "2C-B-Fly",
@@ -49,8 +49,8 @@
   {
    "time": "4:40",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "2C-B",
@@ -59,8 +59,8 @@
   {
    "time": "8:50",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "2C-B",

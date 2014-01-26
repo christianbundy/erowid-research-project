@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "IV",
    "substance": "Heroin"
@@ -23,8 +23,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "IV",
    "substance": "Heroin"
@@ -32,8 +32,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "IV",
    "substance": "Heroin"

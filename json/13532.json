@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Modafinil"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "5:00"
+    "unit": "5:00",
+    "quantity": "T+"
    },
    "administration": "125 mg",
    "substance": "oral"

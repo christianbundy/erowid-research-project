@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.06",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.06",
+    "quantity": "0.06"
    },
    "administration": "insufflated",
    "substance": "Heroin",
@@ -34,8 +35,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDA",
@@ -50,8 +51,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

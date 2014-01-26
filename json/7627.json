@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -31,8 +31,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "450",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "450"
    },
    "administration": "oral",
    "substance": "Ketamine",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3.5"
    },
    "substance": "MDMA",
    "form": "pill/tablet"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "substance": "LSD",
    "form": "blotter/tab"
@@ -36,16 +36,16 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "substance": "LSD"
   },
   {
    "time": "0:45",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "substance": "LSD"
   },

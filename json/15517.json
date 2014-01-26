@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "PCP",

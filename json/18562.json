@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "substance": "Amphetamines"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "10 mg"
   },
@@ -44,16 +44,16 @@
   {
    "time": "11:30",
    "amount": {
-    "number": "1000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1000"
    },
    "substance": "Vitamin C"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "11:30"
+    "unit": "11:30",
+    "quantity": "T+"
    },
    "administration": "800 mg"
   },

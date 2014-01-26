@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "DMT"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:07"
+    "unit": "0:07",
+    "quantity": "T+"
    },
    "administration": "0.3 g",
    "substance": "oral"
@@ -48,8 +48,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1000",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "1000"
    },
    "administration": "sublingual",
    "substance": "25C-NBOMe"
@@ -57,8 +57,8 @@
   {
    "time": "(blotter / tab)",
    "amount": {
-    "number": "T+",
-    "unit": "3:00"
+    "unit": "3:00",
+    "quantity": "T+"
    },
    "administration": "0.3 g",
    "substance": "oral"

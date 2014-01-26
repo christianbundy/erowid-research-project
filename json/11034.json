@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "insufflated",
    "substance": "2C-E",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

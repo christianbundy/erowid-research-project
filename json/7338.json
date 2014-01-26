@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Methylphenidate"
@@ -23,8 +23,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Methylphenidate"
@@ -32,8 +32,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Bupropion"
@@ -41,8 +41,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Methylphenidate"
@@ -50,8 +50,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Bupropion"
@@ -59,16 +59,16 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "substance": "Lorazepam"
   },
   {
    "time": "0:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "substance": "Lorazepam"
   }

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Syrian Rue"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:10"
+    "unit": "0:10",
+    "quantity": "T+"
    },
    "administration": "10 g",
    "substance": "oral"

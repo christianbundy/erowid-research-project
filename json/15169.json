@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -41,8 +41,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -51,8 +51,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -61,8 +61,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -71,8 +71,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -81,8 +81,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -91,8 +91,8 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -101,8 +101,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -111,8 +111,8 @@
   {
    "time": "19:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -121,8 +121,8 @@
   {
    "time": "19:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

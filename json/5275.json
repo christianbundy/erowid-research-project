@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "7",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Ginseng",
@@ -33,8 +33,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "7",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Guarana",
@@ -43,8 +43,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Alcohol",

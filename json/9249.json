@@ -21,8 +21,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "GHB"

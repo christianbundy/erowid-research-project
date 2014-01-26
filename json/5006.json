@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Absinthe",

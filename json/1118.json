@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -34,8 +36,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

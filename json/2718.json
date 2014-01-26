@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "450",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "450"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "30",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "30"
    },
    "administration": "sublingual",
    "substance": "Codeine",
@@ -40,8 +40,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -50,8 +50,8 @@
   {
    "time": "1:35",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",

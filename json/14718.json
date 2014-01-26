@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

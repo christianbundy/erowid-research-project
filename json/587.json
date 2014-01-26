@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1600"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "DMAE"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -42,8 +42,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Piracetam"

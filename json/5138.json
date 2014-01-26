@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

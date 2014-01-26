@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -35,8 +37,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -45,8 +48,8 @@
   {
    "time": "10:10",
    "amount": {
-    "number": "4",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "4"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +36,8 @@
   {
    "time": "3:45",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",

@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "substance": "Bromo-Dragonfly"
   },
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "200"
    },
    "substance": "Bromo-Dragonfly"
   }

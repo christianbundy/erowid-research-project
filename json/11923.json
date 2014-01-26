@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Piperazines"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "25 mg",
    "substance": "oral"

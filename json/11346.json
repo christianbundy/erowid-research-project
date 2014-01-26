@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "9"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Calamus",
@@ -34,8 +35,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -44,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Milk Thistle",

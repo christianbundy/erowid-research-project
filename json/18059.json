@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "seed"
+    "unit": "seed",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "seed"
+    "unit": "seed",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Turbina corymbosa",

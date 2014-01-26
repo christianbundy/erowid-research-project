@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -34,8 +35,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

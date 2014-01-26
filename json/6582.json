@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "g"
+    "unit": "g",
+    "grams": "300",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Poppies",
@@ -25,8 +26,9 @@
   {
    "time": "3:15",
    "amount": {
-    "number": "300",
-    "unit": "g"
+    "unit": "g",
+    "grams": "300",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Poppies",
@@ -36,8 +38,9 @@
   {
    "time": "4:15",
    "amount": {
-    "number": "300",
-    "unit": "g"
+    "unit": "g",
+    "grams": "300",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Poppies",

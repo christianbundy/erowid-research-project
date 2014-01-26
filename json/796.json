@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Codeine",
@@ -34,8 +34,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Codeine",
@@ -44,8 +44,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Codeine",

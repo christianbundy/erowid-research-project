@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Tryptophan",

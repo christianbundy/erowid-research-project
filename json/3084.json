@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Sertraline",
@@ -24,8 +24,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -34,8 +34,8 @@
   {
    "time": "25:00",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "insufflated",
    "substance": "Bupropion",

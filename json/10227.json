@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "9000"
    },
    "administration": "oral",
    "substance": "Bupropion",

@@ -12,8 +12,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3",
+    "quantity": "0.3"
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",

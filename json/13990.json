@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "Duloxetine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Modafinil",

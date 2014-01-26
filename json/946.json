@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "110",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "110"
    },
    "administration": "oral",
    "substance": "AMT",
@@ -24,8 +24,9 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

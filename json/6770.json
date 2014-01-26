@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Escitalopram",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -44,8 +44,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -54,8 +54,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -64,8 +64,8 @@
   {
    "time": "5:40",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -74,8 +74,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -84,8 +84,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -95,8 +95,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -106,8 +106,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -117,8 +117,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",

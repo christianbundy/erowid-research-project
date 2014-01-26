@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Alcohol",

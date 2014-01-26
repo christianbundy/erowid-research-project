@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "AL-LAD",

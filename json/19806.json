@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Sertraline",

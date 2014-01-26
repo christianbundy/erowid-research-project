@@ -21,8 +21,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "4.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -31,8 +31,8 @@
   {
    "time": "6:20",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "Tramadol",
@@ -41,8 +41,8 @@
   {
    "time": "6:40",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -51,8 +51,8 @@
   {
    "time": "7:20",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",

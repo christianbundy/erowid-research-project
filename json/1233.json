@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",

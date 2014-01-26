@@ -21,8 +21,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -37,8 +37,8 @@
   {
    "time": "2:35",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -47,8 +47,8 @@
   {
    "time": "5:10",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",

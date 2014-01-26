@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Chlordiazepoxide",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Chlordiazepoxide",

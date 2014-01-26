@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "7.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -34,8 +34,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Lactuca",
@@ -45,8 +46,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Damiana",

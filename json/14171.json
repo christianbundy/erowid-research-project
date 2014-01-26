@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1200",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "1200"
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "800"
    },
    "administration": "insufflated",
    "substance": "25C-NBOMe",

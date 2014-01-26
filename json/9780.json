@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -36,8 +36,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Cannabis",

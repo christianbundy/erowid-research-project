@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "14.4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "14.4"
    },
    "administration": "oral",
    "substance": "2C-B-Fly",
@@ -24,8 +24,8 @@
   {
    "time": "2:57",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

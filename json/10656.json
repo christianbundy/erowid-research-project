@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Passion Flower",
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.5",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -40,8 +40,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2.5",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Kava",

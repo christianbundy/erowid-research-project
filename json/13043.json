@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "JWH-018",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.5"
    },
    "administration": "smoked",
    "substance": "JWH-018",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Citalopram",

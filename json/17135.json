@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -24,8 +24,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "g"
+    "unit": "g",
+    "grams": "50",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -34,8 +35,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "g"
+    "unit": "g",
+    "grams": "50",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",

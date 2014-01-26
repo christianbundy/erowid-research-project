@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -24,8 +25,8 @@
   {
    "time": "34:50",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +35,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

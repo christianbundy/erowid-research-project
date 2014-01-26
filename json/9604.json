@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines"
@@ -43,8 +43,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -53,8 +53,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.6667",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.6667"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3333",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.3333"
    },
    "administration": "smoked",
    "substance": "Cannabis",

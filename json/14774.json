@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "55",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "55"
    },
    "substance": "DiPT"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "9:30"
+    "unit": "9:30",
+    "quantity": "T+"
    },
    "substance": "oral"
   }

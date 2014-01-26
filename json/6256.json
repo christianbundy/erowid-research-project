@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "smoked",
    "substance": "Diphenhydramine",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -45,8 +45,8 @@
   {
    "time": "0:32",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -55,8 +55,8 @@
   {
    "time": "0:58",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -65,8 +65,8 @@
   {
    "time": "4:39",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -75,8 +75,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

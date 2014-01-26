@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -34,8 +34,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -44,8 +44,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -54,8 +54,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -64,8 +64,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -74,8 +74,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",

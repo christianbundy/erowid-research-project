@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "750",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "MDMA"

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "28",
-    "unit": "g"
+    "unit": "g",
+    "grams": "28",
+    "quantity": "28"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Unknown",

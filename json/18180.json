@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "275",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "275"
    },
    "administration": "oral",
    "substance": "Unknown",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Bupropion",

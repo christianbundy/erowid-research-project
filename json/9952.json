@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:40"
+    "unit": "0:40",
+    "quantity": "T+"
    },
    "administration": "1 seed",
    "substance": "oral"
@@ -37,8 +37,8 @@
   {
    "time": "oral",
    "amount": {
-    "number": "H.B.",
-    "unit": "Woodrose"
+    "unit": "Woodrose",
+    "quantity": "H.B."
    },
    "administration": "(ground / crushed)",
    "substance": "T+ 2:20"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "105",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "105"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -40,8 +40,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

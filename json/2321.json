@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "PCP"

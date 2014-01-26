@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "g"
+    "unit": "g",
+    "grams": "60",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -34,8 +36,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -44,8 +47,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "12.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "12.5",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -54,8 +58,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",

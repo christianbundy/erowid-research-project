@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "70",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "70"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "70",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "70"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "2C-B",
@@ -54,8 +54,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -64,8 +64,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Heroin",
@@ -74,8 +74,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -83,8 +83,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco"
@@ -92,8 +92,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

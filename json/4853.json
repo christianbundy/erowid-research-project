@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "3.5"
    },
    "administration": "IM",
    "substance": "Buprenorphine",

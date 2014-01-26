@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Venlafaxine",

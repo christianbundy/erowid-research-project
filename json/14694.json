@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -24,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Selegeline",

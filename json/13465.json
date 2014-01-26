@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "3 g",
    "substance": "oral"
@@ -48,8 +48,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -57,8 +57,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "50 mg",
    "substance": "insufflated"
@@ -72,8 +72,8 @@
   {
    "time": "insufflated",
    "amount": {
-    "number": "Methoxetamine",
-    "unit": ""
+    "unit": "",
+    "quantity": "Methoxetamine"
    },
    "administration": "(powder / crystals)",
    "substance": "T+ 0:00"
@@ -92,8 +92,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "9:00"
+    "unit": "9:00",
+    "quantity": "T+"
    },
    "substance": "insufflated"
   },

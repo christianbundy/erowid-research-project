@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Wormwood",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Yohimbe",

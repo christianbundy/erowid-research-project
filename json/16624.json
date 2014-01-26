@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "325",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "325"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -55,8 +55,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "4",
-    "unit": ""
+    "unit": "",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -66,8 +66,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -76,8 +76,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Oxycodone",

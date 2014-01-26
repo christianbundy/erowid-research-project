@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -35,8 +37,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -45,8 +47,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "3",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "3"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -55,8 +57,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

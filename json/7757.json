@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "in"
+    "unit": "in",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Lorazepam"
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Lorazepam"

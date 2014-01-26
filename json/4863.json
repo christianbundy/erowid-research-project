@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",

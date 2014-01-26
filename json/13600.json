@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "rectal",
    "substance": "Methoxetamine ",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "rectal",
    "substance": "DPT",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "rectal",
    "substance": "2C-C",
@@ -44,8 +44,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine ",

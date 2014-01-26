@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -55,8 +55,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -65,8 +65,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Codeine",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bumps"
+    "unit": "bumps",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Methamphetamine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.1"
    },
    "administration": "oral",
    "substance": "GBL",

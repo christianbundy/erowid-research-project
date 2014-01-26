@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Coleus",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "2"
    },
    "administration": "sublingual",
    "substance": "Coleus",
@@ -50,8 +50,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "2",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Coleus"

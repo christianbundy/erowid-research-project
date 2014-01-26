@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "450",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "450"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -34,8 +34,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Lactuca",
@@ -45,8 +45,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Lactuca",

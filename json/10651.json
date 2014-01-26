@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Skullcap",

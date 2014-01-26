@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -25,8 +25,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -35,8 +35,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "18",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol"

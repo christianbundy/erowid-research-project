@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -42,8 +42,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.35",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.35",
+    "quantity": "0.35"
    },
    "administration": "oral",
    "substance": "Mushrooms",

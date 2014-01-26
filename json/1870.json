@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "364",
-    "unit": "g"
+    "unit": "g",
+    "grams": "364",
+    "quantity": "364"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "392",
-    "unit": "g"
+    "unit": "g",
+    "grams": "392",
+    "quantity": "392"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -36,8 +38,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

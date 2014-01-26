@@ -20,8 +20,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "4",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "4"
    },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
@@ -30,8 +30,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -40,8 +40,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Various",
@@ -50,8 +50,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -60,8 +60,8 @@
   {
    "time": "6:50",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -70,8 +70,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "17",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "17"
    },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",

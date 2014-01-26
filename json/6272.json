@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "37",
-    "unit": "g"
+    "unit": "g",
+    "grams": "37",
+    "quantity": "37"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "37",
-    "unit": "g"
+    "unit": "g",
+    "grams": "37",
+    "quantity": "37"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",

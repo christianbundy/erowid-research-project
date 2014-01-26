@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -34,8 +34,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -44,8 +44,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -54,8 +54,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "5.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "1,4-Butanediol",
@@ -64,8 +64,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

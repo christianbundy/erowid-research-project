@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -33,8 +33,9 @@
   {
    "time": "13:30",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "GHB"
@@ -42,8 +43,9 @@
   {
    "time": "14:30",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "GHB"
@@ -51,8 +53,9 @@
   {
    "time": "15:30",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB"

@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol"
@@ -21,8 +21,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "cap"
+    "unit": "cap",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB"
@@ -30,8 +30,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol"
@@ -39,8 +39,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "cap"
+    "unit": "cap",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB"

@@ -36,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -57,8 +57,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Smarts",

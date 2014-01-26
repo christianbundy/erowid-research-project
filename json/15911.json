@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "160",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "160"
    },
    "administration": "oral",
    "substance": "Atomoxetine"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Escitalopram"

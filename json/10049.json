@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -34,8 +34,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -44,8 +44,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -54,8 +54,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Benzodiazepines",
@@ -64,8 +64,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Diazepam",
@@ -74,8 +74,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Clonazepam",
@@ -84,8 +84,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Codeine",

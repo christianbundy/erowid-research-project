@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2"
    },
    "substance": "Anadenanthera peregrina",
    "form": "ground/crushed"

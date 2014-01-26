@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -44,8 +44,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -54,8 +54,8 @@
   {
    "time": "4:15",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -64,8 +64,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -74,8 +74,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "0.1667",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.1667"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -84,8 +84,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "0.5",
-    "unit": "nuts"
+    "unit": "nuts",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -94,8 +94,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

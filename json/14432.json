@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "TMA-6"
@@ -28,8 +28,9 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "GHB"

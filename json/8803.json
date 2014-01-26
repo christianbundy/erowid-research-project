@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Mandrake",

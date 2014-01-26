@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Caffeine",

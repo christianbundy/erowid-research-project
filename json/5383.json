@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

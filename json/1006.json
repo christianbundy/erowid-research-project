@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "22",
-    "unit": "g"
+    "unit": "g",
+    "grams": "22",
+    "quantity": "22"
    },
    "administration": "oral",
    "substance": "Amanitas",

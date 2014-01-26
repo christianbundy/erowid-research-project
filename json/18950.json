@@ -19,8 +19,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "substance": "oral"
   },
@@ -50,8 +50,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "13:30"
+    "unit": "13:30",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"

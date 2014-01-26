@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cap"
+    "unit": "cap",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cap"
+    "unit": "cap",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -46,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -57,8 +57,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -67,8 +67,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Mirtazapine"

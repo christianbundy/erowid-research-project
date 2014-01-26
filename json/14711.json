@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "3:15",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -34,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:30"
+    "unit": "0:30",
+    "quantity": "T+"
    },
    "administration": "1 tablet",
    "substance": "oral"
@@ -53,8 +53,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "3:00"
+    "unit": "3:00",
+    "quantity": "T+"
    },
    "administration": "1/2 tablet",
    "substance": "oral"

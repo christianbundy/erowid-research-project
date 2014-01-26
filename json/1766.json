@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "g"
+    "unit": "g",
+    "grams": "400",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Poppies",

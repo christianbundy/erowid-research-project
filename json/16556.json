@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10.5",
+    "quantity": "10.5"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

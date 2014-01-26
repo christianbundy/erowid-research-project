@@ -19,8 +19,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "1",
-    "unit": "cart."
+    "unit": "cart.",
+    "quantity": "1"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

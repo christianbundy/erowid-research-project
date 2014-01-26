@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "substance": "4-MeO-PCP"
   },
@@ -32,8 +32,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "substance": "4-MeO-PCP"
   }

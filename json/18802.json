@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "substance": "2C-P"
   },
   {
    "time": "23:30",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "substance": "Methoxetamine "
   }

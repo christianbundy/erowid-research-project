@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Damiana",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Damiana",

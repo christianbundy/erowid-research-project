@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "160",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "160"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -40,8 +40,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -50,8 +50,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -60,8 +60,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

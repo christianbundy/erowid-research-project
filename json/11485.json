@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "LSA"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:00"
+    "unit": "3:00",
+    "quantity": "T+"
    },
    "administration": "3 hits",
    "substance": "smoked"

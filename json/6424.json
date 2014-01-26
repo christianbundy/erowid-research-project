@@ -29,8 +29,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -39,8 +39,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -49,8 +49,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -59,8 +59,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",

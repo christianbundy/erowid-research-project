@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -30,8 +30,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "167",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "167"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -40,8 +40,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

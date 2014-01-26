@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Adrafinil"
@@ -23,8 +23,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Adrafinil"
@@ -32,8 +32,8 @@
   {
    "time": "22:00",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Adrafinil"

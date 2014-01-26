@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -41,8 +41,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",

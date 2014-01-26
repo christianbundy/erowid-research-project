@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3150"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Passion Flower",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Hops",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Lemon Balm",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "St. John's Wort",
@@ -64,8 +64,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1250"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -74,8 +74,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -84,8 +84,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -94,8 +94,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "GABA",

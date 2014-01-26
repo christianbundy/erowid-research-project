@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -34,8 +34,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "20",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",
@@ -44,8 +44,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "20",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",
@@ -54,8 +54,8 @@
   {
    "time": "9:25",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -64,8 +64,8 @@
   {
    "time": "9:25",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",
@@ -74,8 +74,8 @@
   {
    "time": "10:25",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",
@@ -84,8 +84,9 @@
   {
    "time": "10:35",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Heroin",
@@ -94,8 +95,8 @@
   {
    "time": "11:25",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",

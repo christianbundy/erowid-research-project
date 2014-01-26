@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2400"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -22,8 +22,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -31,8 +31,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT"

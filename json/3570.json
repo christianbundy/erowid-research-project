@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -30,8 +31,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -40,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": ""
+    "unit": "",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -50,8 +51,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "18",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",

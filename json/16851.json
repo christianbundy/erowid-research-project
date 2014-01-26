@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -24,8 +24,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "350",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "350"
    },
    "administration": "insufflated",
    "substance": "Carisoprodol",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "175",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -44,8 +44,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -55,8 +55,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1/4",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1/4"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

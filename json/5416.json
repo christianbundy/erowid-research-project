@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.9",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.9",
+    "quantity": "9.9"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Caffeine"

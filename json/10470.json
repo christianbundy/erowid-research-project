@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -31,8 +31,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -41,8 +41,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

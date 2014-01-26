@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "2C-B-Fly"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:15"
+    "unit": "3:15",
+    "quantity": "T+"
    },
    "administration": "2.0 mg",
    "substance": "oral"

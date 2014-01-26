@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "insufflated",
    "substance": "Zopiclone",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Citalopram",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Citalopram",
@@ -44,8 +44,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "3.75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.75"
    },
    "administration": "oral",
    "substance": "Zopiclone",
@@ -54,8 +54,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -64,8 +64,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "insufflated",
    "substance": "Zopiclone",
@@ -74,8 +74,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Citalopram",
@@ -84,8 +84,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Zopiclone",

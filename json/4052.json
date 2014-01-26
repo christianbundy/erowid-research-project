@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "262",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "262"
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -34,8 +34,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Cannabis",

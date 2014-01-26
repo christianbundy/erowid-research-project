@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2400"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -34,8 +34,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -44,8 +44,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -54,8 +54,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",

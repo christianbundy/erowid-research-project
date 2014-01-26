@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Escitalopram"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "30 mg",
    "substance": "oral"
@@ -49,8 +49,8 @@
   {
    "time": "19:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Modafinil"
@@ -58,8 +58,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "20:00"
+    "unit": "20:00",
+    "quantity": "T+"
    },
    "administration": "2 mg",
    "substance": "oral"

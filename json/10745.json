@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +26,9 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -36,8 +38,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alprazolam"

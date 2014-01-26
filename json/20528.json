@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "insufflated",
    "substance": "Hydromorphone",
@@ -35,8 +35,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -45,8 +45,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -55,8 +55,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -65,8 +65,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -76,8 +76,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -92,8 +92,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -102,8 +102,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -112,8 +112,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -123,8 +123,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -133,8 +133,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -143,8 +143,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Meperidine",

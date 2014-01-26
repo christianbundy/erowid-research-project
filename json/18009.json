@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Pregabalin",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -44,8 +44,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -55,8 +55,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "bk-MBDB",
@@ -65,8 +65,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -75,8 +75,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "2",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",

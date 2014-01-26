@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "lb"
+    "unit": "lb",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDPV",
@@ -44,8 +44,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -54,8 +54,8 @@
   {
    "time": "1:33",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "MDPV",

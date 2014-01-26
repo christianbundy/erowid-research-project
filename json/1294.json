@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -24,8 +24,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -34,8 +34,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -44,8 +44,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -54,8 +54,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -64,8 +64,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -74,8 +74,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

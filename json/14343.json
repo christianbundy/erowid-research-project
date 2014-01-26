@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "7.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.5",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -34,8 +36,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "17.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17.5"
    },
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
@@ -44,8 +46,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "4.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.5"
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
@@ -54,8 +56,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "22.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "22.5"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",

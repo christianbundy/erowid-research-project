@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -42,8 +42,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "Alprazolam",
@@ -52,8 +52,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -62,8 +62,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "9",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "9"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -72,8 +72,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alprazolam",

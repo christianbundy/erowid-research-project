@@ -14,16 +14,18 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "substance": "Syrian Rue"
   },
   {
    "time": "0:45",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "substance": "Diplopterys cabrerana"
   }

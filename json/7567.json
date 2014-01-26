@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -36,8 +36,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

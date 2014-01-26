@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3000"
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Vitamin B-6",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -44,8 +44,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4000"
    },
    "administration": "oral",
    "substance": "Vitamin C"
@@ -53,8 +53,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Vitamin B-6",
@@ -63,8 +63,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -73,8 +73,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "2000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2000"
    },
    "administration": "oral",
    "substance": "Vitamin C"
@@ -82,8 +82,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -92,8 +92,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "2000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2000"
    },
    "administration": "oral",
    "substance": "Vitamin C"
@@ -101,8 +101,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "24",
-    "unit": "g"
+    "unit": "g",
+    "grams": "24",
+    "quantity": "24"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -34,8 +36,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Products",

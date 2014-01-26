@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "2C-T-2",

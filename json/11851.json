@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -34,8 +34,8 @@
   {
    "time": "4:15",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -44,8 +44,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -54,8 +54,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "3",
-    "unit": ""
+    "unit": "",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -64,8 +64,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -74,8 +74,8 @@
   {
    "time": "14:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -84,8 +84,8 @@
   {
    "time": "15:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -94,8 +94,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Ibuprofen"

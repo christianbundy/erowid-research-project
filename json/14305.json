@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "buccal",
    "substance": "25I-NBOMe",
@@ -33,8 +33,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "substance": "Alcohol",
    "specific": "Hard"

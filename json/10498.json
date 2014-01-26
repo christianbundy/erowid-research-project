@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3200"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Caffeine",

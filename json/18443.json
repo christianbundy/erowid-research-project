@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -34,8 +35,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -51,8 +52,9 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",

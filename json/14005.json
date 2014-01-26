@@ -19,8 +19,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mushrooms"
@@ -28,8 +29,9 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "0.6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.6",
+    "quantity": "0.6"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -37,8 +39,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Zolpidem",

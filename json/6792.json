@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "5-MeO-DALT",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "5-MeO-DALT",
@@ -33,8 +33,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "GHB",

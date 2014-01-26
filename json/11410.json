@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -34,8 +34,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -43,8 +43,8 @@
   {
    "time": "14:30",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -60,8 +60,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -76,8 +76,8 @@
   {
    "time": "34:00",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Codeine"

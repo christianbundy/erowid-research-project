@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3333",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "0.3333"
    },
    "administration": "smoked",
    "substance": "Damiana",

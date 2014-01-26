@@ -14,8 +14,8 @@
   {
    "time": "DOSE:0:45",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Pharmaceuticals"
@@ -23,8 +23,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Propylhexedrine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -24,8 +24,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -34,8 +34,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -44,8 +44,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -54,8 +54,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",

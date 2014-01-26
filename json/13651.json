@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "2C-E",
@@ -24,8 +24,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -38,8 +38,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "smoked",
    "substance": "DMT"

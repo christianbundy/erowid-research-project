@@ -14,8 +14,8 @@
   {
    "time": "DOSE:17:00",
    "amount": {
-    "number": "100",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "100"
    },
    "administration": "sublingual",
    "substance": "LSD",
@@ -24,8 +24,9 @@
   {
    "time": "22:00",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

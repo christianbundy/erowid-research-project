@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "5",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Gabapentin",

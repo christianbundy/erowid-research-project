@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "shot"
+    "unit": "shot",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +35,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

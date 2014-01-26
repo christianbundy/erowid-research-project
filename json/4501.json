@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "administration": "IV",
    "substance": "Fentanyl",

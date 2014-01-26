@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
@@ -24,8 +24,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "50",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",

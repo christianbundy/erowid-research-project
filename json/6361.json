@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Paroxetine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -44,8 +44,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -54,8 +55,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",

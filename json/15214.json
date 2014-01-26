@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",

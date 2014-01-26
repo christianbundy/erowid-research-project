@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "155",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "155"
    },
    "administration": "oral",
    "substance": "Oxycodone",

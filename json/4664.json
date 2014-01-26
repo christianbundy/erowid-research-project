@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "buccal",
    "substance": "Salvia divinorum",
@@ -24,8 +25,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

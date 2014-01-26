@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.2",
+    "quantity": "7.2"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

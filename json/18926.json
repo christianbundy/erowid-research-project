@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:15"
+    "unit": "0:15",
+    "quantity": "T+"
    },
    "administration": "1 g",
    "substance": "oral"
@@ -47,8 +48,9 @@
   {
    "time": "1:42",
    "amount": {
-    "number": "60",
-    "unit": "g"
+    "unit": "g",
+    "grams": "60",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Psychotria viridis"
@@ -56,8 +58,8 @@
   {
    "time": "(extract)",
    "amount": {
-    "number": "T+",
-    "unit": "1:42"
+    "unit": "1:42",
+    "quantity": "T+"
    },
    "administration": "60 g",
    "substance": "oral"

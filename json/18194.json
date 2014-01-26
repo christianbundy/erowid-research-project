@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +24,9 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -32,8 +34,9 @@
   {
    "time": "8:15",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -41,8 +44,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "135",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "135"
    },
    "administration": "oral",
    "substance": "Methylone"
@@ -50,8 +53,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -59,8 +62,9 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Piracetam"

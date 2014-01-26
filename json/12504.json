@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Meperidine",
@@ -24,8 +24,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "Meperidine",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Meperidine",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "substance": "Lorazepam",
    "form": "powder/crystals"

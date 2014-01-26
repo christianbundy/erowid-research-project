@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.2"
    },
    "administration": "buccal",
    "substance": "25I-NBOMe",
@@ -34,8 +34,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Clonazepam"
@@ -43,8 +43,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Buprenorphine"
@@ -52,8 +52,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Diphenhydramine"
@@ -61,8 +61,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -71,8 +71,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"

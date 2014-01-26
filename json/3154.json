@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -24,8 +24,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "0.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -34,8 +34,8 @@
   {
    "time": "2:10",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +24,8 @@
   {
    "time": "0:58",
    "amount": {
-    "number": "2",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +34,8 @@
   {
    "time": "3:09",
    "amount": {
-    "number": "3",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -44,8 +44,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "4",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -54,8 +54,8 @@
   {
    "time": "6:01",
    "amount": {
-    "number": "5",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Kratom",

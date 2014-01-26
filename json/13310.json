@@ -34,8 +34,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -53,8 +53,8 @@
   {
    "time": "15:30",
    "amount": {
-    "number": "1/2",
-    "unit": ""
+    "unit": "",
+    "quantity": "1/2"
    },
    "administration": "oral",
    "substance": "Clonidine"
@@ -62,8 +62,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "750",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -72,8 +72,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "sublingual",
    "substance": "Melatonin"

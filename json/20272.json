@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe"
@@ -33,8 +33,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -43,8 +43,9 @@
   {
    "time": "8:45",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",

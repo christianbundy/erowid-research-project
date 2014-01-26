@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -31,8 +31,9 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -41,8 +42,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": ".5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": ".5"
    },
    "administration": "smoked",
    "substance": "DMT",
@@ -51,8 +52,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": ".5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": ".5"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -61,8 +62,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": ".5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": ".5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -71,8 +72,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": ".5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": ".5"
    },
    "administration": "smoked",
    "substance": "Poppies",

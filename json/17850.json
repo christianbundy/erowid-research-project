@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +35,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",

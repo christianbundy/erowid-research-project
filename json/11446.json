@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.4",
+    "quantity": "2.4"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "840",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "840"
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -35,8 +36,9 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "2.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.4",
+    "quantity": "2.4"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -45,8 +47,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "840",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "840"
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -56,8 +58,9 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "2.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.4",
+    "quantity": "2.4"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -66,8 +69,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "840",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "840"
    },
    "administration": "oral",
    "substance": "Vitamins",

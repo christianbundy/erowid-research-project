@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "130",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "130"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "substance": "Methylone",
    "form": "powder/crystals"
@@ -33,8 +33,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "substance": "Methylone",
    "form": "powder/crystals"
@@ -42,8 +42,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

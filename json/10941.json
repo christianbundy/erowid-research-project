@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "8:45",
    "amount": {
-    "number": "325",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "325"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -34,8 +34,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"

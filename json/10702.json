@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "fruit"
+    "unit": "fruit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Capsicum spp.",

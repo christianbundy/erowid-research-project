@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "9"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "9",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "9"
    },
    "administration": "oral",
    "substance": "Cacti",

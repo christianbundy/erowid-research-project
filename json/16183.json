@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "525",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "525"
    },
    "administration": "oral",
    "substance": "Acetaminophen",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -25,8 +25,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "93",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "93"
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -36,8 +36,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "99",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "99"
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -47,8 +47,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "104",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "104"
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -58,8 +58,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "136",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "136"
    },
    "administration": "smoked",
    "substance": "Mushrooms",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "13"
    },
    "administration": "inhaled",
    "substance": "Albuterol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "13"
    },
    "administration": "inhaled",
    "substance": "Albuterol",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "13"
    },
    "administration": "inhaled",
    "substance": "Albuterol",

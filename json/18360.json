@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": ".5"
    },
    "administration": "oral",
    "substance": "DOB",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": ".25",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": ".25"
    },
    "administration": "oral",
    "substance": "DOB",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": ".25",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": ".25"
    },
    "administration": "oral",
    "substance": "DOB",

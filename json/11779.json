@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Heroin",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": ""
+    "unit": "",
+    "quantity": "8"
    },
    "administration": "IV",
    "substance": "Heroin",

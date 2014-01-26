@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3333",
-    "unit": ""
+    "unit": "",
+    "quantity": "0.3333"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -64,8 +64,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Caffeine",

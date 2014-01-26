@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "AMT"
@@ -23,8 +23,8 @@
   {
    "time": "3:45",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "AMT"

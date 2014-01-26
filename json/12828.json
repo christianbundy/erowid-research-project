@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -24,8 +24,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "7",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -44,8 +44,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -54,8 +54,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -64,8 +64,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": ".25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": ".25"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -74,8 +74,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -84,8 +84,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -94,8 +94,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -104,8 +104,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -115,8 +115,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": ".5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": ".5"
    },
    "administration": "oral",
    "substance": "Alprazolam",

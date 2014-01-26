@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,9 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +36,9 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -44,8 +47,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -54,8 +58,9 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -64,8 +69,9 @@
   {
    "time": "2:25",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",

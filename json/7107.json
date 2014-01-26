@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Ephedra sinica",
@@ -24,8 +24,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +35,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -44,8 +45,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "8",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "8"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -54,8 +55,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "Ketamine",

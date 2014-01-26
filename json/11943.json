@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Paroxetine",

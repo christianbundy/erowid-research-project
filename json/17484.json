@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "225",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "225"
    },
    "administration": "oral",
    "substance": "Amitriptyline",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

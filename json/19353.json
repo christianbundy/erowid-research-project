@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -34,8 +36,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "45",
-    "unit": "g"
+    "unit": "g",
+    "grams": "45",
+    "quantity": "45"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -44,8 +47,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -54,8 +58,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "20",
-    "unit": "g"
+    "unit": "g",
+    "grams": "20",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",

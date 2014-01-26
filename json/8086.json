@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -35,8 +35,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -45,8 +45,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -55,8 +55,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -65,8 +65,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -75,8 +75,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -85,8 +85,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -95,8 +95,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "750",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -106,8 +106,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "750",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Alcohol",

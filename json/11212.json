@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -24,8 +24,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "6.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.0",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -34,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "12",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -51,8 +52,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -61,8 +63,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -71,8 +73,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -81,8 +83,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "16",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -92,8 +94,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -102,8 +104,8 @@
   {
    "time": "3:45",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",

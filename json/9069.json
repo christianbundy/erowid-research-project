@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "437.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "437.5",
+    "quantity": "437.5"
    },
    "administration": "oral",
    "substance": "Poppies",
@@ -31,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",

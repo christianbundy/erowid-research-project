@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "55",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "55"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +35,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Cannabis",
@@ -49,8 +51,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Clonazepam"
@@ -64,8 +66,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Clonazepam"
@@ -73,8 +75,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -83,16 +86,17 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8"
    },
    "substance": "Chlorpheniramine Maleate"
   },
   {
    "time": "0:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Cannabis",
@@ -101,8 +105,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "17.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -110,8 +114,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -119,8 +123,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "Diphenhydramine"
@@ -128,8 +132,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Pseudoephedrine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Datura",

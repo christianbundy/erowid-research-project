@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10ml",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "10ml"
    },
    "administration": "IM",
    "substance": "Steroids",

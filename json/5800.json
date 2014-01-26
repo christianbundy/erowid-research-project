@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Belladonna"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "600",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Belladonna"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Belladonna"

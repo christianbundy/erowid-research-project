@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.55",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.55",
+    "quantity": "3.55"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",

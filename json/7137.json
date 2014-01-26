@@ -14,8 +14,8 @@
   {
    "time": "DOSE:0:40",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "AMT",
@@ -24,8 +24,8 @@
   {
    "time": "2:40",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

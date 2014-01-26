@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Oxycodone"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "37.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "37.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Promethazine"
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Various"

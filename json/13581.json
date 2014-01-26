@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "45",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "45"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "105",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "105"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -57,8 +57,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -67,8 +67,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -77,8 +77,8 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -87,8 +87,8 @@
   {
    "time": "16:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -97,8 +97,8 @@
   {
    "time": "20:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -107,8 +107,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -117,8 +117,8 @@
   {
    "time": "27:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -127,8 +127,8 @@
   {
    "time": "31:30",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -137,8 +137,8 @@
   {
    "time": "36:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",

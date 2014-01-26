@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -34,8 +34,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -44,8 +44,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -54,8 +54,8 @@
   {
    "time": "19:15",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -64,8 +64,8 @@
   {
    "time": "24:30",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -74,8 +74,8 @@
   {
    "time": "27:30",
    "amount": {
-    "number": "160",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "160"
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",

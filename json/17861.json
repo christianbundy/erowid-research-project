@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Aripiprazole",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Absinthe"

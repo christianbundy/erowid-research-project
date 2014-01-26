@@ -21,8 +21,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -31,8 +31,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -41,8 +41,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -51,8 +51,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

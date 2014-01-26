@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -30,8 +30,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -40,8 +40,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -50,8 +50,8 @@
   {
    "time": "1:47",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -60,8 +60,8 @@
   {
    "time": "2:22",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Ketamine",

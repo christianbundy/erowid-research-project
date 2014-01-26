@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Duloxetine",
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Diphenyl-2-pyrrolidinemethanol",
@@ -40,8 +40,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diphenyl-2-pyrrolidinemethanol",
@@ -50,8 +50,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Diphenyl-2-pyrrolidinemethanol",

@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Lactuca",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": ""
+    "unit": "",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +34,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "45",
-    "unit": "g"
+    "unit": "g",
+    "grams": "45",
+    "quantity": "45"
    },
    "administration": "oral",
    "substance": "Amanitas",

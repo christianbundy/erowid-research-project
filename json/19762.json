@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "DXM",

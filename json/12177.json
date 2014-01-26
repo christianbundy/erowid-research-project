@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Trazodone",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Reboxetine"
@@ -43,8 +43,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Reboxetine"
@@ -52,8 +52,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Trazodone"
@@ -61,8 +61,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Bupropion"
@@ -70,8 +70,8 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Reboxetine"

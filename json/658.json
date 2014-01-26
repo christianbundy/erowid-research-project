@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "23.3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "23.3"
    },
    "administration": "oral",
    "substance": "TMA-2"

@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -22,8 +22,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "500",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Morning Glory",

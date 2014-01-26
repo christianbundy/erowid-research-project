@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOC"
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"
@@ -46,8 +46,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Oxycodone"

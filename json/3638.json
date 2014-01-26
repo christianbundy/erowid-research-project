@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3600"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Ephedrine",

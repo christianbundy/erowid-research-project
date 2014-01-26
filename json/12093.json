@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "smoked",
    "substance": "2C-P",
@@ -29,8 +29,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "2C-P",

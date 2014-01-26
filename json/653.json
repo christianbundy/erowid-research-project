@@ -26,8 +26,9 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "1.8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.8",
+    "quantity": "1.8"
    },
    "administration": "oral",
    "substance": "Caffeine",

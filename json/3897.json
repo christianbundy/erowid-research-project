@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "17",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17"
    },
    "administration": "oral",
    "substance": "2C-T-2",
@@ -24,8 +24,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +35,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -44,8 +45,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

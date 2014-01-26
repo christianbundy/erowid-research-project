@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "220 mg",
    "substance": "oral"
@@ -53,8 +53,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "5:20"
+    "unit": "5:20",
+    "quantity": "T+"
    },
    "administration": "40 mg",
    "substance": "sublingual"

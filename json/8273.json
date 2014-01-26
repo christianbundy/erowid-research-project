@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
@@ -34,8 +36,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Hops",
@@ -44,8 +47,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",
@@ -55,8 +59,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

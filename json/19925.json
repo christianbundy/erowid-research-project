@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "IV",
    "substance": "Hydromorphone"

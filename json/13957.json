@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Promethazine"
@@ -32,8 +32,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Phenylephrine"
@@ -41,8 +41,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Cannabis"

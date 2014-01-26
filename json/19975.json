@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3200"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -54,8 +54,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -64,8 +64,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -75,8 +75,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "4",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Ephedrine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -44,8 +44,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",

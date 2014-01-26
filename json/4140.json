@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

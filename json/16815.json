@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "in"
+    "unit": "in",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -35,8 +36,9 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3",
+    "quantity": "0.3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

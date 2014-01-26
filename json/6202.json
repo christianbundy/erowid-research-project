@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "Carisoprodol"

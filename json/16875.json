@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -24,8 +24,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -34,8 +34,8 @@
   {
    "time": "1:16",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -44,8 +44,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Damiana",
@@ -54,8 +54,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -64,8 +64,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -74,8 +74,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -84,8 +84,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Damiana",

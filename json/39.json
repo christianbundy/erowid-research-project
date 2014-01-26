@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "36",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "36"
    },
    "administration": "oral",
    "substance": "Methoxetamine "
@@ -23,8 +23,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "127",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "127"
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe"

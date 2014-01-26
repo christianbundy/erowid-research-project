@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "AMT",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "5",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "5"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "AMT",
@@ -44,8 +44,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",

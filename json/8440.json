@@ -21,8 +21,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Fluoxetine",

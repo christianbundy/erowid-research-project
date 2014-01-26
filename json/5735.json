@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Ayahuasca",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Ayahuasca",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "40",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Ayahuasca",

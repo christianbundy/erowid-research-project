@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "300"
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "500",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "500"
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
@@ -34,8 +34,9 @@
   {
    "time": "2:28",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "inhaled",
    "substance": "Cannabis"
@@ -43,8 +44,8 @@
   {
    "time": "2:52",
    "amount": {
-    "number": "500",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "500"
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
@@ -53,8 +54,9 @@
   {
    "time": "3:31",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "inhaled",
    "substance": "Cannabis"

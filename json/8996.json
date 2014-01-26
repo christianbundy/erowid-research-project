@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:15"
+    "unit": "1:15",
+    "quantity": "T+"
    },
    "administration": "1 tablet",
    "substance": "oral"
@@ -55,8 +55,8 @@
   {
    "time": "(plant material)",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "substance": "oral"
   },

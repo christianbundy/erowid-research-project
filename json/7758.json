@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "substance": "Alcohol",
    "specific": "Beer/Wine"
@@ -43,8 +43,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "substance": "Alcohol",
    "specific": "Beer/Wine"
@@ -52,8 +52,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

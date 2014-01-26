@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Absinthe",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "30",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Absinthe",
@@ -34,8 +34,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "30",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Absinthe",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "30",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Absinthe",
@@ -54,8 +54,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "30",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Absinthe",

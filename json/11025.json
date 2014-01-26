@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -35,8 +36,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

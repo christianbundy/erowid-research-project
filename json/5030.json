@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "480",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "480"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "480",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "480"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -40,8 +40,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "256",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "256"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -50,8 +50,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "480",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "480"
    },
    "administration": "oral",
    "substance": "Codeine",

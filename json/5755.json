@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "70",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "70"
    },
    "administration": "oral",
    "substance": "Morphine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Ephedrine",

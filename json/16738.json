@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.5",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "smoked",
    "substance": "Cannabis",

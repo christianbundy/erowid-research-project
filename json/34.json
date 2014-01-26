@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "g"
+    "unit": "g",
+    "grams": "35",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,8 @@
   {
    "time": "0:47",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Mescaline"
@@ -34,8 +35,8 @@
   {
    "time": "1:58",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -43,8 +44,8 @@
   {
    "time": "1:58",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Damiana"
@@ -52,8 +53,8 @@
   {
    "time": "1:58",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Leonotis nepetaefolia"
@@ -61,8 +62,8 @@
   {
    "time": "2:16",
    "amount": {
-    "number": "400",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "400"
    },
    "administration": "insufflated",
    "substance": "25C-NBOMe"
@@ -70,8 +71,8 @@
   {
    "time": "3:35",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -80,8 +81,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -89,8 +90,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Damiana"
@@ -98,8 +99,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Leonotis nepetaefolia"
@@ -107,8 +108,8 @@
   {
    "time": "12:09",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Harmaline",
@@ -117,8 +118,8 @@
   {
    "time": "12:09",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "DMT",

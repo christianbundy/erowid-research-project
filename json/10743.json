@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "531",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "531"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "177",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "177"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "354",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "354"
    },
    "administration": "oral",
    "substance": "DXM",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -24,8 +25,9 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -34,8 +36,9 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -44,8 +47,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -54,8 +58,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -64,8 +69,9 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -74,8 +80,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",

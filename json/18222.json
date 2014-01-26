@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -44,8 +44,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
@@ -54,8 +54,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -64,8 +64,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -74,8 +74,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",

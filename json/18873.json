@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Cannabis",

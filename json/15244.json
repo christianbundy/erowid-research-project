@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "360",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "360"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "634",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "634"
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "211",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "211"
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",

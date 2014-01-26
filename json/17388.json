@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "857.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "857.5"
    },
    "administration": "oral",
    "substance": "Ephedrine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Baclofen",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diazepam",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "IM",
    "substance": "Ketamine"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "110",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "110"
    },
    "administration": "IM",
    "substance": "Ketamine"

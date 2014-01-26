@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "JWH-122"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "JWH-122"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "JWH-122"
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "JWH-122"

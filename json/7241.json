@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

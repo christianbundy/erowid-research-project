@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "5:00"
+    "unit": "5:00",
+    "quantity": "T+"
    },
    "administration": "40 mg",
    "substance": "oral"
@@ -48,8 +48,8 @@
   {
    "time": "30:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Oxycodone"

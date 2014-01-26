@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "64",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "64"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2400"
    },
    "administration": "oral",
    "substance": "Acetaminophen",

@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "3"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

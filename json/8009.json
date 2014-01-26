@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -24,8 +24,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -44,8 +44,8 @@
   {
    "time": "12:30",
    "amount": {
-    "number": "6",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -60,8 +60,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

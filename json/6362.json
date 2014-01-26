@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.75",
+    "quantity": "1.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -44,8 +45,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -54,8 +55,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Bupropion",

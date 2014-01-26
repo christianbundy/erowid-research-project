@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Citalopram",
@@ -30,8 +30,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Mushrooms",

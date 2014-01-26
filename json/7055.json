@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "1:04",
    "amount": {
-    "number": "85",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "85"
    },
    "administration": "oral",
    "substance": "DPT",

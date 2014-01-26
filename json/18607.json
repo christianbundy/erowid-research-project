@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate"

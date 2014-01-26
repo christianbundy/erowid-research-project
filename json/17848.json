@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -24,8 +25,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +36,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -43,8 +45,9 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -53,8 +56,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -62,8 +65,9 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Amanitas",

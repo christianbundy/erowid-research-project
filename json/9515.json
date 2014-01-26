@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +36,9 @@
   {
    "time": "2:55",
    "amount": {
-    "number": "16",
-    "unit": "g"
+    "unit": "g",
+    "grams": "16",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "Ayahuasca",

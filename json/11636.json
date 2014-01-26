@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "114",
-    "unit": "g"
+    "unit": "g",
+    "grams": "114",
+    "quantity": "114"
    },
    "administration": "oral",
    "substance": "Heimia salicifolia",

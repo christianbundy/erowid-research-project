@@ -26,8 +26,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -36,8 +36,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -46,8 +46,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Diazepam",

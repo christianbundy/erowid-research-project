@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "9"
    },
    "administration": "IM",
    "substance": "4-AcO-DMT"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "IM",
    "substance": "Psilocin"

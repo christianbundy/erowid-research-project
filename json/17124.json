@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +25,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -34,8 +36,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

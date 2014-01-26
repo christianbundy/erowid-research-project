@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "236",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "236"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +24,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +35,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -45,8 +46,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

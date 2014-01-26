@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

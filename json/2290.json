@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +35,9 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

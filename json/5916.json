@@ -21,8 +21,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -31,8 +31,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": " Dexmethylphenidate",

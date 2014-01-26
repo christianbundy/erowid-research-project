@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.75",
+    "quantity": "1.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,9 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.75",
+    "quantity": "1.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",

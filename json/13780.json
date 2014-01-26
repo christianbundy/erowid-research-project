@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -25,8 +25,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -36,8 +36,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Products",
@@ -47,8 +47,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Products",

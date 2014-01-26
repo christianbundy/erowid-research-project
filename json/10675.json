@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.2",
+    "quantity": "0.2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

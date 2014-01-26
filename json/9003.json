@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

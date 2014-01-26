@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "14",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "14",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -36,8 +38,9 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -53,8 +56,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Smarts",
@@ -63,8 +67,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -72,8 +77,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements"
@@ -81,8 +86,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Hydergine"

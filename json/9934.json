@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

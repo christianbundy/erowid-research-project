@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "36",
-    "unit": "g"
+    "unit": "g",
+    "grams": "36",
+    "quantity": "36"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -35,8 +37,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Cacti",

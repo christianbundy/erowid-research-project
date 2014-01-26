@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -34,8 +34,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -44,8 +44,8 @@
   {
    "time": "20:00",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

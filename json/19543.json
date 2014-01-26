@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.66",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.66",
+    "quantity": "6.66"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "IV",
    "substance": "2C-T-7",
@@ -24,8 +24,8 @@
   {
    "time": "5:15",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -34,8 +34,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "IM",
    "substance": "Ketamine",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Anadenanthera spp.",

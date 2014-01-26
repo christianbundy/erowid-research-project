@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "g"
+    "unit": "g",
+    "grams": "20",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "330",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "330"
    },
    "administration": "oral",
    "substance": "MDMA",

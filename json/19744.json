@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Lecithin"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "4:00"
+    "unit": "4:00",
+    "quantity": "T+"
    },
    "administration": "0.5 g",
    "substance": "oral"
@@ -38,8 +39,8 @@
   {
    "time": "oral",
    "amount": {
-    "number": "Leonotis",
-    "unit": "leonurus"
+    "unit": "leonurus",
+    "quantity": "Leonotis"
    },
    "administration": "(extract)",
    "substance": "T+ 4:00"
@@ -53,8 +54,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "3",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -63,8 +64,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "4:00"
+    "unit": "4:00",
+    "quantity": "T+"
    },
    "administration": "1 tsp",
    "substance": "buccal"

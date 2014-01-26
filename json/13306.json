@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": ".77",
-    "unit": "g"
+    "unit": "g",
+    "grams": ".77",
+    "quantity": ".77"
    },
    "administration": "oral",
    "substance": "Cannabis",

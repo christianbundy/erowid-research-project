@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Kratom",

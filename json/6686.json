@@ -26,8 +26,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements"

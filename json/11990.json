@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Lecithin"
@@ -32,8 +32,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "32",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Coffee"
@@ -41,8 +41,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
@@ -50,8 +50,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -59,8 +59,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -68,8 +68,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "4-AcO-DMT"
@@ -83,8 +83,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "2",
-    "unit": "bumps"
+    "unit": "bumps",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Ketamine"
@@ -98,8 +98,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -107,8 +107,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alprazolam"

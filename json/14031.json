@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Coleus",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "120",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "120"
    },
    "administration": "oral",
    "substance": "Coleus",

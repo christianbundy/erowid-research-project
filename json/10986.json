@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Brugmansia",
@@ -31,8 +31,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Brugmansia",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3000"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

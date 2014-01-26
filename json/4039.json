@@ -20,8 +20,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.1",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

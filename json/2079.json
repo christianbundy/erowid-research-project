@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "480",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "480"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "32",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "480",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "480"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "32",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",

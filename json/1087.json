@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.0",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",

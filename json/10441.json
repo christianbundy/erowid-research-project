@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "13",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -34,8 +35,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -44,8 +46,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "12",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Morning Glory",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "substance": "Citalopram",
    "form": "daily"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "45",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "45"
    },
    "substance": "Mirtazapine",
    "form": "daily"
@@ -32,8 +32,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1800"
    },
    "substance": "Gabapentin",
    "form": "daily"
@@ -41,8 +41,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -51,8 +51,8 @@
   {
    "time": "0:06",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",

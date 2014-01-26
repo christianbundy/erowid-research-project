@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

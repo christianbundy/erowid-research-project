@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "750",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Aniracetam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": ""
+    "unit": "",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",

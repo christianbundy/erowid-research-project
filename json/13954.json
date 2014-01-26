@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Rhodiola rosea"
@@ -23,8 +23,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "35",
-    "unit": ""
+    "unit": "",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "Amphetamines"

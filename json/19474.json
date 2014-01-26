@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "8"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Alcohol",

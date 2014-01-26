@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "11.3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "11.3"
    },
    "administration": "oral",
    "substance": "DOM",
@@ -24,8 +24,9 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -39,8 +40,8 @@
   {
    "time": "13:30",
    "amount": {
-    "number": "35",
-    "unit": ""
+    "unit": "",
+    "quantity": "35"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

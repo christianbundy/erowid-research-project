@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "36",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "36"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "24",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "24"
    },
    "administration": "oral",
    "substance": "Alcohol",

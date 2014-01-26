@@ -25,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "substance": "Methamphetamine",
    "form": "daily"
@@ -34,8 +35,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "substance": "Cannabis",
    "form": "daily"

@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "42",
-    "unit": "g"
+    "unit": "g",
+    "grams": "42",
+    "quantity": "42"
    },
    "administration": "oral",
    "substance": "Cacti",

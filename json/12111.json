@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.12",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.12",
+    "quantity": "2.12"
    },
    "administration": "oral",
    "substance": "Valerian",

@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8.0",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -23,8 +24,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -33,8 +35,9 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -43,8 +46,9 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",

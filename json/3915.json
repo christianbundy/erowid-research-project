@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "4",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -54,8 +54,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

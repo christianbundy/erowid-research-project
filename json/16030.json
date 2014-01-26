@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -24,8 +24,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",

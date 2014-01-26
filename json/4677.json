@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "5-MeO-MIPT",
@@ -23,8 +23,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "5-MeO-MIPT",
@@ -33,8 +33,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "substance": "5-MeO-MIPT",
    "form": "powder/crystals"
@@ -42,8 +42,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "substance": "5-MeO-MIPT",
    "form": "powder/crystals"

@@ -20,8 +20,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

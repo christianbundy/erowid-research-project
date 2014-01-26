@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "2-Aminoindan",
@@ -31,8 +31,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -48,8 +48,8 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "3.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3.5"
    },
    "administration": "smoked",
    "substance": "Tobacco",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -25,8 +25,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -36,8 +36,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",

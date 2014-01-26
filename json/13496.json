@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "smoked",
    "substance": "MET"
@@ -23,8 +23,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "smoked",
    "substance": "MET"

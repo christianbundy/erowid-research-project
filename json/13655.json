@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "substance": "2C-P"
   },
   {
    "time": "0:45",
    "amount": {
-    "number": "7",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7"
    },
    "administration": "sublingual",
    "substance": "2C-P"

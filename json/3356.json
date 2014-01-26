@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",

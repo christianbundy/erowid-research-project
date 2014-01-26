@@ -27,8 +27,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "smoked",
    "substance": "Lactuca",
@@ -38,8 +38,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "smoked",
    "substance": "Lactuca",

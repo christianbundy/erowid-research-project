@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8"
    },
    "substance": "Buprenorphine",
    "form": "daily"
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alprazolam"

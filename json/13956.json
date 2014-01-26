@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +24,8 @@
   {
    "time": "9:59",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

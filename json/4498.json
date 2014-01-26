@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1050",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1050"
    },
    "administration": "oral",
    "substance": "Carisoprodol",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "g"
+    "unit": "g",
+    "grams": "350",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "Poppies",

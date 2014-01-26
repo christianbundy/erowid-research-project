@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "90",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "76",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "76"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -40,8 +40,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Cannabis"

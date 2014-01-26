@@ -19,8 +19,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:55"
+    "unit": "0:55",
+    "quantity": "T+"
    },
    "administration": "7.5 g",
    "substance": "oral"

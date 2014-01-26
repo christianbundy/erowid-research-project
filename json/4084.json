@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "St. John's Wort",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -40,8 +40,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "rectal",
    "substance": "MDMA"
@@ -54,8 +54,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -64,8 +64,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -74,8 +74,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

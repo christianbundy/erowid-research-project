@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6000"
    },
    "administration": "oral",
    "substance": "Damiana",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "14",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Syrian Rue"
@@ -23,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Mimosa ophthalmocentra"

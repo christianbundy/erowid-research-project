@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -29,8 +29,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -39,8 +39,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -49,8 +49,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -59,8 +59,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Amphetamines",

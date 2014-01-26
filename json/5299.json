@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "600",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "oral",
    "substance": "Promethazine",
@@ -44,8 +44,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -54,8 +55,8 @@
   {
    "time": "6:15",
    "amount": {
-    "number": "1",
-    "unit": "shot"
+    "unit": "shot",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -65,8 +66,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Wormwood",

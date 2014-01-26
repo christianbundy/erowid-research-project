@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "3"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -34,8 +35,8 @@
   {
    "time": "3:20",
    "amount": {
-    "number": "2",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "2"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

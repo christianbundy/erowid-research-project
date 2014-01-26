@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -35,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -51,8 +51,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -61,8 +61,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "14",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Mirtazapine",

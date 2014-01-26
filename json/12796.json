@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "insufflated",
    "substance": "Morphine",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "insufflated",
    "substance": "Morphine",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "insufflated",
    "substance": "Morphine",
@@ -44,8 +44,8 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "insufflated",
    "substance": "Morphine",

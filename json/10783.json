@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "g"
+    "unit": "g",
+    "grams": "20",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -34,8 +35,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "DMT",
@@ -44,8 +45,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "2.25",
-    "unit": ""
+    "unit": "",
+    "quantity": "2.25"
    },
    "administration": "oral",
    "substance": "LSD",

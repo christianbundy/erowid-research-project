@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "MDAI",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Ayahuasca",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "40",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Ayahuasca",
@@ -34,8 +34,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "35",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "Ayahuasca",
@@ -44,8 +44,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

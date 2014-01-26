@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +36,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

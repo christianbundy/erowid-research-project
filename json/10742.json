@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": ""
+    "unit": "",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Turbina corymbosa",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "32",
-    "unit": ""
+    "unit": "",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Turbina corymbosa",
@@ -34,8 +34,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "8",
-    "unit": ""
+    "unit": "",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -54,8 +54,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -64,8 +64,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Zolpidem",

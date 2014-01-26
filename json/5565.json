@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "130",
-    "unit": "g"
+    "unit": "g",
+    "grams": "130",
+    "quantity": "130"
    },
    "administration": "IM",
    "substance": "Ketamine",

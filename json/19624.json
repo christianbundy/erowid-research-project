@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1",
-    "unit": "shot"
+    "unit": "shot",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

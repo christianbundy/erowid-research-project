@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -36,8 +38,8 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "2",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -47,8 +49,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "4",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -58,8 +60,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "2",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -69,8 +71,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": "2",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -80,8 +82,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -91,8 +94,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Amanitas",

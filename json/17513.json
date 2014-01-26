@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Topiramate",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam",

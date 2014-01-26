@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -40,8 +40,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -50,8 +50,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -60,8 +60,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -70,8 +70,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -80,8 +80,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

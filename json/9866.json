@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Hyoscyamine",
@@ -24,8 +24,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "4.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "Hyoscyamine",

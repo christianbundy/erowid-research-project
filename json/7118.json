@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Moclobemide"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "55 mg",
    "substance": "insufflated"
@@ -38,8 +38,8 @@
   {
    "time": "inhaled",
    "amount": {
-    "number": "Nitrous",
-    "unit": "Oxide"
+    "unit": "Oxide",
+    "quantity": "Nitrous"
    },
    "administration": "(gas)",
    "substance": "T+ 0:20"
@@ -53,8 +53,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "smoked",
    "substance": "DMT"
@@ -62,8 +62,8 @@
   {
    "time": "(freebase)",
    "amount": {
-    "number": "T+",
-    "unit": "4:00"
+    "unit": "4:00",
+    "quantity": "T+"
    },
    "administration": "50 mg",
    "substance": "insufflated"

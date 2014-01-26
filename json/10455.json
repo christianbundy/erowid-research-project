@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0:12",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Catnip",
@@ -35,8 +35,8 @@
   {
    "time": "0:31",
    "amount": {
-    "number": "12",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -46,8 +46,8 @@
   {
    "time": "0:41",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Catnip",
@@ -56,8 +56,9 @@
   {
    "time": "1:39",
    "amount": {
-    "number": "12",
-    "unit": "g"
+    "unit": "g",
+    "grams": "12",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Catnip",
@@ -66,8 +67,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "12",
-    "unit": "g"
+    "unit": "g",
+    "grams": "12",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Catnip",

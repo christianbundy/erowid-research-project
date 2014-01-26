@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "200"
    },
    "administration": "sublingual",
    "substance": "25B-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "400",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "400"
    },
    "administration": "sublingual",
    "substance": "25B-NBOMe",

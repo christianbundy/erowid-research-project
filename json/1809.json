@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -24,8 +25,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": ".7",
-    "unit": "g"
+    "unit": "g",
+    "grams": ".7",
+    "quantity": ".7"
    },
    "administration": "oral",
    "substance": "Caffeine",

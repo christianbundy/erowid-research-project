@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.8",
+    "quantity": "1.8"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Hydrocodone",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "DPT",
@@ -30,8 +30,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -46,8 +46,8 @@
   {
    "time": "20:00",
    "amount": {
-    "number": "55",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "55"
    },
    "administration": "oral",
    "substance": "Caffeine",

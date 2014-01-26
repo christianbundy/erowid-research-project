@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Fluoxetine",

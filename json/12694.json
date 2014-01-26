@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -51,8 +51,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Melatonin",

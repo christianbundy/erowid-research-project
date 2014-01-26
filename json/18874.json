@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "IV",
    "substance": "bk-MBDB"
@@ -23,8 +23,8 @@
   {
    "time": "0:02",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "rectal",
    "substance": "bk-MBDB"
@@ -32,8 +32,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "IV",
    "substance": "bk-MBDB"
@@ -41,8 +41,8 @@
   {
    "time": "1:03",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "rectal",
    "substance": "bk-MBDB"

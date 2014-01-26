@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Mescaline",
@@ -24,8 +24,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "insufflated",
    "substance": "Mescaline",

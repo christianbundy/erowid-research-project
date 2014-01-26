@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Valerian"
@@ -22,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Melatonin"
@@ -31,8 +32,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Kava"
@@ -40,8 +42,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "21",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "21"
    },
    "administration": "oral",
    "substance": "Vitamin B-6"

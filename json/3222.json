@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.14",
+    "quantity": "0.14"
    },
    "substance": "Methamphetamine",
    "form": "daily"

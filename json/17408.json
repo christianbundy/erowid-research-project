@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "DOI",
@@ -24,8 +24,8 @@
   {
    "time": "8:15",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Amitriptyline",
@@ -34,8 +34,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",

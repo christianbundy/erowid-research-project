@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "10",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "10",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Oxycodone",

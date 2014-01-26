@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,9 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "insufflated",
    "substance": "Cocaine",

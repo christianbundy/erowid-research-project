@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +24,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +34,8 @@
   {
    "time": "1:12",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -44,8 +44,8 @@
   {
    "time": "1:50",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -54,8 +54,8 @@
   {
    "time": "2:38",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -34,8 +34,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",

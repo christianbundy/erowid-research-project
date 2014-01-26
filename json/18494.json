@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
@@ -24,8 +25,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi",
@@ -34,8 +36,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "45",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "45"
    },
    "administration": "smoked",
    "substance": "DMT"

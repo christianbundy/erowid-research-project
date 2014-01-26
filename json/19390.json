@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Absinthe",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Absinthe",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Vitamin B-6",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "sublingual",
    "substance": "Melatonin",
@@ -34,8 +34,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -44,8 +45,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Catnip",
@@ -54,8 +56,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Valerian",
@@ -64,8 +67,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Vitamin B-6",

@@ -20,8 +20,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "20",
-    "unit": "drops"
+    "unit": "drops",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Salvia divinorum",

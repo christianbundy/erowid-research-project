@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "7",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -34,8 +34,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

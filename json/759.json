@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -32,8 +32,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA",

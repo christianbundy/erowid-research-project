@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "108",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "108"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -24,8 +24,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "54",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "54"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "1:55",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -49,8 +49,8 @@
   {
    "time": "5:23",
    "amount": {
-    "number": "54",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "54"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",

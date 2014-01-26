@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "32",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Diphenhydramine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "substance": "Alprazolam",
    "form": "daily"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "substance": "Clonazepam",
    "form": "daily"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "substance": "Pharmaceuticals",
    "form": "daily"
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",

@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".25",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": ".25"
    },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
@@ -21,8 +21,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": ".25",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": ".25"
    },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2400"
    },
    "administration": "oral",
    "substance": "Damiana",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1575",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1575"
    },
    "administration": "oral",
    "substance": "Various",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Various",

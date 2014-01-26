@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "18",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "4-Acetoxy-DET"
@@ -23,8 +23,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "IM",
    "substance": "Ketamine"

@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "-999.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "-999.0",
+    "quantity": "-999.0"
    },
    "substance": "Ketamine",
    "form": "daily"

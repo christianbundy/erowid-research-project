@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3000"
    },
    "administration": "oral",
    "substance": "Vitamin C"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Unknown"
@@ -41,8 +41,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA"

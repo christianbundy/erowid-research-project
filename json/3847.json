@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "147.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "147.5"
    },
    "administration": "oral",
    "substance": "Promethazine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "236",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "236"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -34,8 +34,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "65",
-    "unit": "g"
+    "unit": "g",
+    "grams": "65",
+    "quantity": "65"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -44,8 +45,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

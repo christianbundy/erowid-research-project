@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -25,8 +25,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -36,8 +36,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -47,8 +47,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -58,8 +58,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -69,8 +69,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -80,8 +80,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -91,8 +91,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -102,8 +102,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -113,8 +113,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -124,8 +124,8 @@
   {
    "time": "8:35",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "MDA"

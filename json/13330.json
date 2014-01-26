@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -24,8 +24,8 @@
   {
    "time": "15:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -35,8 +35,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -46,8 +46,8 @@
   {
    "time": "34:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -57,8 +57,8 @@
   {
    "time": "40:00",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",
@@ -68,8 +68,8 @@
   {
    "time": "50:00",
    "amount": {
-    "number": "1",
-    "unit": "bump"
+    "unit": "bump",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Products",

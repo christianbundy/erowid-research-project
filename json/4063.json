@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "sublingual",
    "substance": "Lorazepam",
@@ -29,8 +29,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -39,8 +39,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "IM",
    "substance": "Ketamine",

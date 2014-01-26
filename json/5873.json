@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "800"
    },
    "administration": "buccal",
    "substance": "Fentanyl"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "25"
    },
    "administration": "transdermal",
    "substance": "Fentanyl"

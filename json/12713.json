@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "insufflated",
    "substance": "bk-MBDB",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "175",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "bk-MBDB",
@@ -34,8 +34,8 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "16.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "16.2",
+    "quantity": "16.2"
    },
    "administration": "oral",
    "substance": "Morning Glory",

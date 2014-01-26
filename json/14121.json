@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -24,8 +24,9 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -34,8 +35,9 @@
   {
    "time": "7:45",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "GHB",

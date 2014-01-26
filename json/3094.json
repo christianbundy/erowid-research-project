@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",

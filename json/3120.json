@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "175",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "225",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "225"
    },
    "administration": "oral",
    "substance": "Mescaline"

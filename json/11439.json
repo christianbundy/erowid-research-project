@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

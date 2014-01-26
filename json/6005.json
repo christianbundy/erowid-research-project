@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Amanitas",

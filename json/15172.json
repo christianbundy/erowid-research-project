@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Triazolam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

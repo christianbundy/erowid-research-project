@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "0.5 joints/cigs",
    "substance": "smoked"
@@ -49,8 +49,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "0.25",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Cannabis"

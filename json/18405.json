@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"
@@ -32,8 +32,8 @@
   {
    "time": "Cannabis",
    "amount": {
-    "number": "(plant",
-    "unit": "material)"
+    "unit": "material)",
+    "quantity": "(plant"
    },
    "administration": "T+ 6:00",
    "substance": "repeated"
@@ -41,8 +41,8 @@
   {
    "time": "smoked",
    "amount": {
-    "number": "Salvia",
-    "unit": "divinorum"
+    "unit": "divinorum",
+    "quantity": "Salvia"
    },
    "administration": "(leaves)",
    "substance": "T+ 0:00"

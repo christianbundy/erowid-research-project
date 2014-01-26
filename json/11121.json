@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "1200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1200"
    },
    "substance": "Tramadol"
   },
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "substance": "Alprazolam"
   }

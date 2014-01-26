@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "berries"
+    "unit": "berries",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Belladonna",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "33",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "33"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -45,8 +45,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Brugmansia",

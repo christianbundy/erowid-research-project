@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "0.5"
    },
    "administration": "IM",
    "substance": "DMT",
@@ -23,8 +23,8 @@
   {
    "time": "0:54",
    "amount": {
-    "number": "1.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1.0"
    },
    "administration": "IM",
    "substance": "DMT",
@@ -33,8 +33,8 @@
   {
    "time": "1:55",
    "amount": {
-    "number": "0.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "0.5"
    },
    "administration": "IM",
    "substance": "DMT",

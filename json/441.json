@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1200"
    },
    "administration": "oral",
    "substance": "Caffeine",

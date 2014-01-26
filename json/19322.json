@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2.5"
    },
    "administration": "buccal",
    "substance": "2C-I-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Products",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -43,8 +43,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Products",
@@ -53,8 +53,8 @@
   {
    "time": "3:15",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "buccal",
    "substance": "2C-I-NBOMe",
@@ -63,8 +63,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -72,8 +72,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Products",

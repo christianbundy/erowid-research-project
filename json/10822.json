@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "130",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "130"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -23,8 +23,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "130",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "130"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -32,8 +32,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "DXM"

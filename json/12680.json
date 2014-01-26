@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -34,8 +34,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -44,8 +44,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -60,8 +60,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -70,8 +70,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "insufflated",
    "substance": "MDPV",

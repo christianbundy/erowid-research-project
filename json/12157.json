@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "37.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "37.5"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "37.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "37.5"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -44,8 +44,8 @@
   {
    "time": "1:33",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -54,8 +54,8 @@
   {
    "time": "2:21",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -64,8 +64,8 @@
   {
    "time": "3:25",
    "amount": {
-    "number": "37.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "37.5"
    },
    "administration": "oral",
    "substance": "Tramadol",

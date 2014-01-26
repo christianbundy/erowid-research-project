@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.1",
+    "quantity": "1.1"
    },
    "administration": "oral",
    "substance": "Casimiroa edulis",

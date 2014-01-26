@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -24,8 +25,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +36,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -45,8 +47,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "inhaled",
    "substance": "Cannabis"

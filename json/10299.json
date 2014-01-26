@@ -22,8 +22,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",

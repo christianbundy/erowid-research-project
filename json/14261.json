@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "IM",
    "substance": "4-AcO-DMT",
@@ -44,8 +44,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alprazolam",

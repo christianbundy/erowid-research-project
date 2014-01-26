@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "9"
    },
    "administration": "inhaled",
    "substance": "Albuterol"

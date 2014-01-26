@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bumps"
+    "unit": "bumps",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Yohimbe",

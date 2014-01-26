@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -30,8 +30,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Codeine",

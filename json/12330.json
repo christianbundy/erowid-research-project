@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "7:00"
+    "unit": "7:00",
+    "quantity": "T+"
    },
    "administration": "1 hit",
    "substance": "oral"

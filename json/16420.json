@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Ephedrine",
@@ -34,8 +34,8 @@
   {
    "time": "4:15",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Various",

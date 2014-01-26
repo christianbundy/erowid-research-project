@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Calamus",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Piperazines",

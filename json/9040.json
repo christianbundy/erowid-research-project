@@ -20,8 +20,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

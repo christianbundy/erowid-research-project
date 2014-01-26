@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -44,8 +44,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -54,8 +54,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -65,8 +65,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

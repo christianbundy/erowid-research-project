@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",

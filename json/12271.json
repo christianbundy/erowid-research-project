@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "1000"
    },
    "substance": "Turbina corymbosa",
    "form": "seeds"
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "750",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "750"
    },
    "substance": "Alcohol",
    "form": "liquid",

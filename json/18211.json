@@ -20,8 +20,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "2C-C",

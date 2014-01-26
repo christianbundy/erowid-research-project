@@ -21,8 +21,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

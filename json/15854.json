@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "8"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -24,8 +24,8 @@
   {
    "time": "5:40",
    "amount": {
-    "number": "4",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -34,8 +34,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "4",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -44,8 +44,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -54,8 +54,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

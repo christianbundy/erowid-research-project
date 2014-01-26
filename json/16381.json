@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "g"
+    "unit": "g",
+    "grams": "13",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

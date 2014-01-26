@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "650",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "650"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -34,8 +34,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -44,8 +44,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -54,8 +54,8 @@
   {
    "time": "2:05",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "2C-D",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "24",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "24"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -40,8 +40,8 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements"

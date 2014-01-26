@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Fentanyl",
@@ -24,8 +24,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

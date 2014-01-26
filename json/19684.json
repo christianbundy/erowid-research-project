@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "167",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "167"
    },
    "administration": "oral",
    "substance": "MBDB",
@@ -24,8 +24,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "66",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "66"
    },
    "administration": "oral",
    "substance": "MBDB",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1000",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "IM",
    "substance": "2C-E"

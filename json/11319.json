@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2100"
    },
    "administration": "oral",
    "substance": "Gabapentin",

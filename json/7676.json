@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

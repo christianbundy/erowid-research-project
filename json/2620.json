@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "IM",
    "substance": "DPT"
@@ -21,8 +21,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "IM",
    "substance": "DPT"

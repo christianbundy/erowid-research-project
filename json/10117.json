@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -44,8 +44,8 @@
   {
    "time": "1:43",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -54,8 +54,8 @@
   {
    "time": "1:49",
    "amount": {
-    "number": "162",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "162"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -64,8 +64,8 @@
   {
    "time": "5:27",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -74,8 +74,8 @@
   {
    "time": "5:27",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -84,8 +84,8 @@
   {
    "time": "6:21",
    "amount": {
-    "number": "81",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "81"
    },
    "administration": "oral",
    "substance": "Ibuprofen",

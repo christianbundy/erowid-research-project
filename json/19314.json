@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "sublingual",
    "substance": "Salvia splendens",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3",
+    "quantity": "0.3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Anadenanthera peregrina",

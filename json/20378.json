@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "IM",
    "substance": "4-AcO-DMT",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "120",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "120"
    },
    "administration": "IM",
    "substance": "Ketamine",

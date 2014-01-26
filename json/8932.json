@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Amphetamines"
@@ -29,8 +29,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Amphetamines"
@@ -38,8 +38,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Amphetamines"

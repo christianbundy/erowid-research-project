@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "7",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -44,8 +44,8 @@
   {
    "time": "1:55",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -54,8 +54,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "8",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8"
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -64,8 +64,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -74,8 +74,8 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -84,8 +84,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -94,8 +94,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -104,8 +104,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

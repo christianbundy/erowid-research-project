@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

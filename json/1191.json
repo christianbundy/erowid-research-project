@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora"

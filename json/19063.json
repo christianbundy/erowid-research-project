@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -31,8 +31,8 @@
   {
    "time": "21:00",
    "amount": {
-    "number": "800",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "800"
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
@@ -41,8 +41,8 @@
   {
    "time": "28:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -51,8 +51,8 @@
   {
    "time": "30:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -61,8 +61,8 @@
   {
    "time": "45:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

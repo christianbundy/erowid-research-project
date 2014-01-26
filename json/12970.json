@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "95",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "95"
    },
    "administration": "smoked",
    "substance": "DMT",

@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "100"
    },
    "administration": "rectal",
    "substance": "Morning Glory",
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Morning Glory",

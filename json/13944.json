@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "substance": "LSD",
    "form": "blotter/tab"
@@ -23,8 +23,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "oral",
    "substance": "MDMA"

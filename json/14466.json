@@ -21,8 +21,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "7",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -32,8 +32,9 @@
   {
    "time": "5:30",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -42,8 +43,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

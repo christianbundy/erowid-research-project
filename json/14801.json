@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "18",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +35,9 @@
   {
    "time": "1:28",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

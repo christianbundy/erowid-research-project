@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "in"
+    "unit": "in",
+    "quantity": "3"
    },
    "administration": "buccal",
    "substance": "Banisteriopsis caapi",

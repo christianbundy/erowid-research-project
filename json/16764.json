@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.0",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -35,8 +37,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -44,8 +46,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "66",
-    "unit": "g"
+    "unit": "g",
+    "grams": "66",
+    "quantity": "66"
    },
    "administration": "oral",
    "substance": "Amanitas",

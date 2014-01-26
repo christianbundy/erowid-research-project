@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
@@ -34,8 +34,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "300",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "300"
    },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
@@ -44,8 +44,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "substance": "MDMA"
   }

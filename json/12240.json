@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Kratom"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:25"
+    "unit": "0:25",
+    "quantity": "T+"
    },
    "substance": "smoked"
   },
@@ -36,8 +36,8 @@
   {
    "time": "smoked",
    "amount": {
-    "number": "CP",
-    "unit": "55,940"
+    "unit": "55,940",
+    "quantity": "CP"
    },
    "administration": "(powder / crystals)",
    "substance": "T+ 0:32"

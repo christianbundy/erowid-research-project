@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Tyrosine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3000"
    },
    "administration": "oral",
    "substance": "Tyrosine",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Tyrosine",

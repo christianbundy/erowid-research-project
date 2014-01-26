@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Cannabis",

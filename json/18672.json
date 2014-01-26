@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +25,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +36,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -44,8 +46,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "600"
    },
    "administration": "oral",
    "substance": "Caffeine",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -36,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "6"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -46,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "8"
    },
    "administration": "smoked",
    "substance": "Cannabis",

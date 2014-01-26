@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "37.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "37.2",
+    "quantity": "37.2"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Vitamin C"
@@ -34,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

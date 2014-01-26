@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "52.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "52.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",

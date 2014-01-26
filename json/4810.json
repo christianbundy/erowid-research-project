@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Valerian"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "St. John's Wort"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Tryptophan"

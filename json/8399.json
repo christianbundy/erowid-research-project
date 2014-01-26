@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -31,8 +31,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -41,8 +41,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "10",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -52,8 +52,8 @@
   {
    "time": "17:50",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -62,8 +62,8 @@
   {
    "time": "27:30",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -72,8 +72,8 @@
   {
    "time": "30:00",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -88,8 +88,8 @@
   {
    "time": "32:00",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -98,8 +98,8 @@
   {
    "time": "37:50",
    "amount": {
-    "number": "4",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "4"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
@@ -108,8 +108,8 @@
   {
    "time": "52:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "substance": "MDMA"
   },
@@ -123,8 +123,8 @@
   {
    "time": "56:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "substance": "MDMA"
   },

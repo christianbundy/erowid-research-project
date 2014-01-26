@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.3",
+    "quantity": "3.3"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +26,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.3",
+    "quantity": "3.3"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -36,8 +38,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.3",
+    "quantity": "3.3"
    },
    "administration": "oral",
    "substance": "Mushrooms",

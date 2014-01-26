@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"
@@ -23,8 +23,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"

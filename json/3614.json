@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "DiPT",
@@ -24,8 +24,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "DiPT",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "DiPT",
@@ -44,8 +44,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "5.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5.0"
    },
    "administration": "insufflated",
    "substance": "DiPT",

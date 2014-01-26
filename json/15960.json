@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "buttons"
+    "unit": "buttons",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -23,8 +23,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "button"
+    "unit": "button",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -33,8 +33,8 @@
   {
    "time": "4:10",
    "amount": {
-    "number": "4",
-    "unit": "buttons"
+    "unit": "buttons",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Peyote",

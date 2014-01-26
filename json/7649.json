@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "450",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "450"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -47,8 +48,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -57,8 +58,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Clonazepam",

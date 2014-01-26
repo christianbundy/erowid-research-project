@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "7"
    },
    "administration": "smoked",
    "substance": "Tobacco",

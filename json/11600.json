@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "11"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -24,8 +24,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "drop"
+    "unit": "drop",
+    "quantity": "1"
    },
    "substance": "LSD",
    "form": "liquid"
@@ -43,8 +43,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "drop"
+    "unit": "drop",
+    "quantity": "1"
    },
    "substance": "LSD",
    "form": "liquid"
@@ -52,8 +52,8 @@
   {
    "time": "9:30",
    "amount": {
-    "number": "12.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12.5"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -62,8 +62,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diazepam"

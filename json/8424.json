@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "450",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "450"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

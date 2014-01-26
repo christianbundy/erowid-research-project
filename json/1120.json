@@ -20,8 +20,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",

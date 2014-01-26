@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Citalopram",
@@ -30,8 +30,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1000",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Morning Glory",

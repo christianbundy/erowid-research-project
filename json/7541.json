@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -30,8 +30,8 @@
   {
    "time": "7:15",
    "amount": {
-    "number": "12",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Datura",

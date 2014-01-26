@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": ".6",
-    "unit": "g"
+    "unit": "g",
+    "grams": ".6",
+    "quantity": ".6"
    },
    "administration": "smoked",
    "substance": "Products",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": ""
+    "unit": "",
+    "quantity": "150"
    },
    "administration": "rectal",
    "substance": "4-Fluoromethcathinone",
@@ -24,8 +24,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "200",
-    "unit": ""
+    "unit": "",
+    "quantity": "200"
    },
    "administration": "rectal",
    "substance": "4-Fluoromethcathinone",
@@ -34,8 +34,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -43,8 +43,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -52,8 +52,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Diazepam"

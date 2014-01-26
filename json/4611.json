@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.33",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.33"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "0:55",
    "amount": {
-    "number": "0.67",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.67"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -34,8 +34,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -44,8 +44,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Lorazepam",

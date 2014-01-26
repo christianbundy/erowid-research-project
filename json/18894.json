@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +23,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "17",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17"
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
@@ -32,8 +32,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
@@ -41,8 +41,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
@@ -57,8 +57,8 @@
   {
    "time": "2:55",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -66,8 +66,8 @@
   {
    "time": "4:35",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -75,8 +75,8 @@
   {
    "time": "5:05",
    "amount": {
-    "number": "7",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7"
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
@@ -84,8 +84,8 @@
   {
    "time": "8:20",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -93,8 +93,8 @@
   {
    "time": "9:35",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "

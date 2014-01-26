@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "g"
+    "unit": "g",
+    "grams": "20",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +36,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "DMT",

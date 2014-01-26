@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6"
    },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
@@ -24,8 +24,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +35,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
@@ -44,8 +45,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",

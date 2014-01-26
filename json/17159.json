@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Morning Glory",

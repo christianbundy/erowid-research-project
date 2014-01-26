@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -24,8 +24,9 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "0.7",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.7",
+    "quantity": "0.7"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +24,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kratom",

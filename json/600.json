@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "550",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "550"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "225",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "225"
    },
    "administration": "oral",
    "substance": "Kava",

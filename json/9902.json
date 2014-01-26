@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

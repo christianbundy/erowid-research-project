@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "24",
-    "unit": "g"
+    "unit": "g",
+    "grams": "24",
+    "quantity": "24"
    },
    "administration": "oral",
    "substance": "Nutmeg"

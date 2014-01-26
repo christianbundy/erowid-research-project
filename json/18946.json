@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.25",
+    "quantity": "1.25"
    },
    "administration": "oral",
    "substance": "Ibogaine",

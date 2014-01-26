@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
@@ -22,8 +22,8 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "5",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",

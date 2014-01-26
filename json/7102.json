@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Valerian"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Melatonin"
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Vitamin B-6"

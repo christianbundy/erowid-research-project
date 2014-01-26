@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Mugwort",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.1",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

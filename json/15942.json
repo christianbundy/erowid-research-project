@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.75",
+    "quantity": "1.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +36,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -53,8 +54,9 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",

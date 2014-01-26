@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.5",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "5.5"
    },
    "administration": "smoked",
    "substance": "Leonotis leonurus",

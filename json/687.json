@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "shot"
+    "unit": "shot",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -34,8 +35,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -44,8 +46,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "1",
-    "unit": "shot"
+    "unit": "shot",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Morning Glory",

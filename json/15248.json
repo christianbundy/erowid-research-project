@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Guarana",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Chocolate",

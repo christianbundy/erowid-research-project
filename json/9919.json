@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "14",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -37,8 +38,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "12",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",

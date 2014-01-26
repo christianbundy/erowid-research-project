@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "75",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -34,8 +34,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "75",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -44,8 +44,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "23",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "23"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

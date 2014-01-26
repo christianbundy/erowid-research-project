@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -35,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -45,8 +45,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -55,8 +55,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -81,8 +81,8 @@
   {
    "time": "4:20",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "substance": "2C-B",
    "form": "powder/crystals"
@@ -23,8 +23,8 @@
   {
    "time": "1:08",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
@@ -32,8 +32,8 @@
   {
    "time": "1:28",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -42,8 +42,8 @@
   {
    "time": "3:23",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -52,8 +52,8 @@
   {
    "time": "4:29",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",

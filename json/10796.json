@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -24,8 +25,9 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -34,8 +36,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -44,8 +47,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -54,8 +57,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -64,8 +67,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -74,8 +77,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -84,8 +87,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "6.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.0",
+    "quantity": "6.0"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -94,8 +98,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "4",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Coffee",
@@ -104,8 +108,8 @@
   {
    "time": "33:00",
    "amount": {
-    "number": "175",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "Methcathinone"

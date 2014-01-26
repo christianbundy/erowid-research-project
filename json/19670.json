@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "17",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17"
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -24,8 +24,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "333",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "333"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "2:25",
    "amount": {
-    "number": "333",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "333"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -44,8 +44,8 @@
   {
    "time": "4:50",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"

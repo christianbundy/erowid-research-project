@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "-999.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "-999.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -34,8 +34,8 @@
   {
    "time": "1:26",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -44,8 +44,8 @@
   {
    "time": "4:18",
    "amount": {
-    "number": "0.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -54,8 +54,8 @@
   {
    "time": "4:29",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -64,8 +64,9 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -73,8 +74,8 @@
   {
    "time": "10:00",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Hydergine"

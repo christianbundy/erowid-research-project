@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "2C-B",
@@ -24,8 +24,8 @@
   {
    "time": "0:04",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "2C-B",
@@ -34,8 +34,8 @@
   {
    "time": "0:08",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "2C-B",

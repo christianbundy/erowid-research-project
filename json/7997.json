@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "administration": "sublingual",
    "substance": "Bromo-Dragonfly",
@@ -30,8 +30,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -39,8 +39,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -48,8 +48,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Acetaminophen"
@@ -57,8 +57,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -67,8 +67,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -76,8 +76,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -85,8 +85,8 @@
   {
    "time": "10:30",
    "amount": {
-    "number": "1000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Acetaminophen"
@@ -94,8 +94,8 @@
   {
    "time": "11:30",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Ibuprofen"
@@ -107,8 +107,8 @@
   {
    "time": "16:30",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Melatonin"

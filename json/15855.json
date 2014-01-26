@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "350",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "350"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "175",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -36,8 +36,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "175",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -47,8 +47,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "175",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "175"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -58,8 +58,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

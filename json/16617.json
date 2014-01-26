@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "2 tablets",
    "substance": "oral"
@@ -48,8 +48,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -57,8 +57,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "inhaled"
@@ -81,8 +81,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -90,8 +90,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "1 line",
    "substance": "insufflated"

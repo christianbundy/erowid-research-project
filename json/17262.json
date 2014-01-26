@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "225",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "225"
    },
    "administration": "oral",
    "substance": "Hops",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "45",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "45"
    },
    "administration": "oral",
    "substance": "Hops",

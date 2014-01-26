@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1100"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -34,8 +34,8 @@
   {
    "time": "60:00",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -44,8 +44,8 @@
   {
    "time": "63:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -54,8 +54,8 @@
   {
    "time": "120:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -64,8 +64,8 @@
   {
    "time": "125:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

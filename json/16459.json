@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "45",
-    "unit": "g"
+    "unit": "g",
+    "grams": "45",
+    "quantity": "45"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -34,8 +36,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cacti",

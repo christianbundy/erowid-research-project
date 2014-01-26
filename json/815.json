@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Pharmaceuticals",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",

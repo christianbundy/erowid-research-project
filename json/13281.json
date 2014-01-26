@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.4"
    },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "Cannabinoid Receptor Agonists"

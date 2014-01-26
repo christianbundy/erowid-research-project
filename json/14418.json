@@ -14,40 +14,40 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "substance": "Venlafaxine"
   },
   {
    "time": "0",
    "amount": {
-    "number": "36",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "36"
    },
    "substance": "Methylphenidate"
   },
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "substance": "Olanzapine"
   },
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "75"
    },
    "administration": "smoked",
    "substance": "AMT"

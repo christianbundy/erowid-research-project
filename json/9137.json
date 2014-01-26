@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.33",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.33",
+    "quantity": "0.33"
    },
    "administration": "insufflated",
    "substance": "Cocaine",

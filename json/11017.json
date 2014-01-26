@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "2C-E",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis"

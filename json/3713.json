@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:50"
+    "unit": "0:50",
+    "quantity": "T+"
    },
    "administration": "5 hits",
    "substance": "oral"
@@ -48,8 +48,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol"
@@ -57,8 +57,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "9:00"
+    "unit": "9:00",
+    "quantity": "T+"
    },
    "administration": "1 repeated",
    "substance": "smoked"

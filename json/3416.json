@@ -20,8 +20,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "MDMA",

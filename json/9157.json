@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.3",
+    "quantity": "4.3"
    },
    "administration": "oral",
    "substance": "Mushrooms",

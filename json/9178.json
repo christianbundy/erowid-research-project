@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "40"
    },
    "administration": "inhaled",
    "substance": "Ether",

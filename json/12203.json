@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Bupropion"
@@ -33,8 +33,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "4",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "4"
    },
    "administration": "vaporized",
    "substance": "Cannabis"
@@ -42,8 +42,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Amphetamines"

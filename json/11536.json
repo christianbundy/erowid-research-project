@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "66",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "66"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "33",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "33"
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -44,8 +44,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Ibuprofen"
@@ -53,8 +53,8 @@
   {
    "time": "6:30",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

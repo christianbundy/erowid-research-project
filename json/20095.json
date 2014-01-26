@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Ginseng",

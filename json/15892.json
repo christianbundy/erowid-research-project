@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -34,8 +36,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -44,8 +47,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -54,8 +58,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "3.6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.6",
+    "quantity": "3.6"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -64,8 +69,9 @@
   {
    "time": "25:00",
    "amount": {
-    "number": "19",
-    "unit": "g"
+    "unit": "g",
+    "grams": "19",
+    "quantity": "19"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "gal"
+    "unit": "gal",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -35,8 +35,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tramadol",

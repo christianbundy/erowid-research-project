@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1000",
+    "quantity": "1000"
    },
    "administration": "sublingual",
    "substance": "Catha edulis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.33",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.33"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "0.17",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.17"
    },
    "administration": "oral",
    "substance": "MDMA",

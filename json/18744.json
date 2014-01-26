@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "20"
    },
    "administration": "IV",
    "substance": "Cerebrolysin"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:10"
+    "unit": "0:10",
+    "quantity": "T+"
    },
    "administration": "16 ug",
    "substance": "oral"
@@ -47,8 +47,9 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Pramiracetam"
@@ -56,8 +57,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:10"
+    "unit": "0:10",
+    "quantity": "T+"
    },
    "administration": "1 g",
    "substance": "oral"

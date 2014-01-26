@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -55,8 +55,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -65,8 +65,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

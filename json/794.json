@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -34,8 +35,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -44,8 +46,9 @@
   {
    "time": "3:05",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -54,8 +57,8 @@
   {
    "time": "11:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -64,8 +67,8 @@
   {
    "time": "18:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

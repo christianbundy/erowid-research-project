@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "210",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "210"
    },
    "administration": "oral",
    "substance": "DXM"
@@ -28,8 +28,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "DXM"
@@ -37,8 +37,8 @@
   {
    "time": "1:50",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

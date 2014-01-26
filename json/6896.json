@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Mushrooms"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:15"
+    "unit": "3:15",
+    "quantity": "T+"
    },
    "administration": "10 carts.",
    "substance": "inhaled"

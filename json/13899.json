@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "26",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "26"
    },
    "administration": "oral",
    "substance": "Psilocin"
@@ -28,8 +28,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "11",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "Psilocin"

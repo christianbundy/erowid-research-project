@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "2C-E"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -32,8 +32,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -41,8 +41,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "1",
-    "unit": "cart."
+    "unit": "cart.",
+    "quantity": "1"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
@@ -50,8 +50,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -38,8 +38,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3333",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.3333",
+    "quantity": "0.3333"
    },
    "administration": "insufflated",
    "substance": "Cocaine",

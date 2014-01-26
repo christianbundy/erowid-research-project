@@ -28,8 +28,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8.0",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Kratom"
@@ -37,8 +38,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "rectal",
    "substance": "Morphine"

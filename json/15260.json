@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:54"
+    "unit": "2:54",
+    "quantity": "T+"
    },
    "administration": "5.0 g",
    "substance": "oral"
@@ -38,8 +39,8 @@
   {
    "time": "smoked",
    "amount": {
-    "number": "Salvia",
-    "unit": "divinorum"
+    "unit": "divinorum",
+    "quantity": "Salvia"
    },
    "administration": "(extract)",
    "substance": "T+ 5:51"

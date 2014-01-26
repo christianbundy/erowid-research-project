@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.5"
    },
    "administration": "smoked",
    "substance": "2C-T-7",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",

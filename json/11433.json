@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -24,8 +24,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "8.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8.0",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -34,8 +35,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

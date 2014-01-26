@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "33",
-    "unit": "g"
+    "unit": "g",
+    "grams": "33",
+    "quantity": "33"
    },
    "administration": "smoked",
    "substance": "Passion Flower",

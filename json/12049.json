@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -35,8 +35,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -45,8 +45,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "1200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1200"
    },
    "administration": "oral",
    "substance": "Modafinil",

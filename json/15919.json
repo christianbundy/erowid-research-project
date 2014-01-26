@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

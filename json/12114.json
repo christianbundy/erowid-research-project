@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4800"
    },
    "administration": "oral",
    "substance": "Caffeine",

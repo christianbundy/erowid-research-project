@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": ""
+    "unit": "",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -35,8 +35,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -45,8 +46,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1.5",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "MDA",

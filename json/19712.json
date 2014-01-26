@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "smoked",
    "substance": "Mushrooms",

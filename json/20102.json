@@ -12,8 +12,9 @@
   {
    "time": "DOSE:4:00",
    "amount": {
-    "number": "8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Amanitas",

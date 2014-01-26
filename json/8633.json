@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Sophora secundiflora",
@@ -35,8 +35,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "2",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Sophora secundiflora",
@@ -45,8 +45,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "2",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Sophora secundiflora",

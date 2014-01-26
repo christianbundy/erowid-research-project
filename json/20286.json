@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "400"
    },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -33,8 +33,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "400",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "400"
    },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
@@ -43,8 +43,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -58,8 +58,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "2C-C",
@@ -68,8 +68,8 @@
   {
    "time": "6:15",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "MDMA"

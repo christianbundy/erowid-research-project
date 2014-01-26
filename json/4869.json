@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",

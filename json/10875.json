@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "32",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "32"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -31,8 +31,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "Clonazepam",

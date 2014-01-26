@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "substance": "Amanitas",
    "form": "extract-10x"
@@ -23,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "0.25",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "0.25"
    },
    "substance": "Ephedra sinica",
    "form": "dried"
@@ -32,8 +33,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

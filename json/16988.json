@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.75"
    },
    "administration": "smoked",
    "substance": "Cannabis",

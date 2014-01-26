@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Trazodone",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Alcohol",

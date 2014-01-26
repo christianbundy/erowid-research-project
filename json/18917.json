@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "3.0"
    },
    "administration": "insufflated",
    "substance": "Butorphanol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Amitriptyline",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1000"
    },
    "administration": "oral",
    "substance": "Divalproex",

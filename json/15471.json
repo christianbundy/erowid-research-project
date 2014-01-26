@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "108",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "108"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -33,8 +33,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "substance": "Amphetamines",
    "form": "capsule"
@@ -42,8 +42,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "substance": "Amphetamines",
    "form": "capsule"

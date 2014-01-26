@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3/8",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "3/8"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "3/8",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "3/8"
    },
    "administration": "oral",
    "substance": "Peyote",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "2C-I",

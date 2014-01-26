@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -34,8 +34,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -44,8 +44,8 @@
   {
    "time": "16:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -60,8 +60,8 @@
   {
    "time": "28:55",
    "amount": {
-    "number": "2",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -71,8 +71,8 @@
   {
    "time": "29:55",
    "amount": {
-    "number": "4",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",

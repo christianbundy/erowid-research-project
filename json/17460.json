@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "240",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "240"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "20",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -35,8 +35,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "20",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -45,8 +45,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Calamus",
@@ -67,8 +68,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "375",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "375"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -46,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -56,8 +56,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "72",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "72"
    },
    "administration": "oral",
    "substance": "Methylphenidate",

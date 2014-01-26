@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.2",
+    "quantity": "1.2"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +25,9 @@
   {
    "time": "18:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",

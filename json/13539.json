@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "g"
+    "unit": "g",
+    "grams": "11",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "Phalaris Grass",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "St. John's Wort",

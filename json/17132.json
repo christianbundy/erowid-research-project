@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "MET",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "MET",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "MET"
@@ -43,8 +43,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "smoked",
    "substance": "MET"
@@ -52,8 +52,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "MET"

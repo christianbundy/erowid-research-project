@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.75",
+    "quantity": "1.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Etizolam"
@@ -33,8 +34,8 @@
   {
    "time": "2:40",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Etizolam"

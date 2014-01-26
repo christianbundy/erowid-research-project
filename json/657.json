@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Vitamin B-6",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -45,8 +46,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "8",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -61,8 +62,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "0.75",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -71,8 +72,8 @@
   {
    "time": "9:45",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -81,8 +82,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -92,8 +93,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "Tryptophan",

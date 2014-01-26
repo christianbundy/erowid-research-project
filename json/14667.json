@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -34,8 +34,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -44,8 +44,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -54,8 +54,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "0.75",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Kava",

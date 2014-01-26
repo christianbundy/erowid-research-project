@@ -14,16 +14,17 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "substance": "Syrian Rue"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:20"
+    "unit": "0:20",
+    "quantity": "T+"
    },
    "administration": "70 g",
    "substance": "oral"

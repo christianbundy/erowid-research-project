@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
@@ -23,8 +23,8 @@
   {
    "time": "0:04",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
@@ -33,8 +33,8 @@
   {
    "time": "0:08",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
@@ -43,8 +43,8 @@
   {
    "time": "0:12",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

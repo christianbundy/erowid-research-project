@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -24,8 +24,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "4",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "4"
    },
    "administration": "smoked",
    "substance": "Crack",
@@ -34,8 +34,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

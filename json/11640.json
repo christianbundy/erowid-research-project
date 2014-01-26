@@ -26,8 +26,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Alcohol",

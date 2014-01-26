@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
@@ -34,8 +35,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi",
@@ -44,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
@@ -54,8 +56,9 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "2.3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.3",
+    "quantity": "2.3"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi"
@@ -63,8 +66,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Calea zacatechichi",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "70",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "70"
    },
    "administration": "oral",
    "substance": "DMT"

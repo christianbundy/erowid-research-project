@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -25,8 +25,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -36,8 +36,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -47,8 +47,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

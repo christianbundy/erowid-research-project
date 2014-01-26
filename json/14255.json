@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "100 mg",
    "substance": "oral"
@@ -49,8 +50,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -58,8 +60,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "4:30"
+    "unit": "4:30",
+    "quantity": "T+"
    },
    "administration": "220 mg",
    "substance": "oral"

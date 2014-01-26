@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "50",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -36,8 +36,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "50",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -47,8 +47,9 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -57,8 +58,9 @@
   {
    "time": "14:30",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "GHB",

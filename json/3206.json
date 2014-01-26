@@ -21,8 +21,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "2C-T-2",

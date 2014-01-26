@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "g"
+    "unit": "g",
+    "grams": "11",
+    "quantity": "11"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -34,8 +35,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -44,8 +45,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -54,8 +55,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -64,8 +65,8 @@
   {
    "time": "5:48",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -74,8 +75,8 @@
   {
    "time": "5:48",
    "amount": {
-    "number": "0.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",

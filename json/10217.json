@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

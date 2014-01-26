@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10.65",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10.65",
+    "quantity": "10.65"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

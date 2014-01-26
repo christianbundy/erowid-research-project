@@ -20,8 +20,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "150",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "150"
    },
    "administration": "oral",
    "substance": "AL-LAD",

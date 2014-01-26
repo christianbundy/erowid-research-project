@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2400"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +35,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -45,8 +45,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "5",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Coffee",

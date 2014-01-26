@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "300",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Adrafinil",

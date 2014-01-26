@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Smarts",
@@ -24,8 +25,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Smarts",
@@ -34,8 +36,9 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Smarts",

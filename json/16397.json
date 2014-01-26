@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "10"
    },
    "administration": "smoked",
    "substance": "Cannabis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "54",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "54"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -24,8 +24,8 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "54",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "54"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -34,8 +34,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "54",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "54"
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -55,8 +55,8 @@
   {
    "time": "2:10",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -66,8 +66,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -77,8 +77,8 @@
   {
    "time": "2:35",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",

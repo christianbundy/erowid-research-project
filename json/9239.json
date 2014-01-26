@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "330",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "330"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +25,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

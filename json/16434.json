@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "sublingual",
    "substance": "Selegeline"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "oral"
@@ -50,8 +50,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Mushrooms"
@@ -59,8 +59,8 @@
   {
    "time": "(ground / crushed)",
    "amount": {
-    "number": "T+",
-    "unit": "0:50"
+    "unit": "0:50",
+    "quantity": "T+"
    },
    "administration": "1 capsl",
    "substance": "oral"

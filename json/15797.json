@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -31,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "5.5"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -41,8 +42,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "28",
-    "unit": "g"
+    "unit": "g",
+    "grams": "28",
+    "quantity": "28"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -51,8 +53,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -61,8 +64,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.875",
-    "unit": "gal"
+    "unit": "gal",
+    "quantity": "1.875"
    },
    "administration": "oral",
    "substance": "Alcohol",

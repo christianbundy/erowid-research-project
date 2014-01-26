@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7200"
    },
    "administration": "oral",
    "substance": "Piracetam",

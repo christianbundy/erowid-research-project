@@ -20,8 +20,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "540",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "540"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -41,8 +41,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "90",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -51,8 +51,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Ephedrine",

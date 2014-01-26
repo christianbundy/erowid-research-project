@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.5",
+    "quantity": "5.5"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -34,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "150",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "150"
    },
    "substance": "Ketamine"
   }

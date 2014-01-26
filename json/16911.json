@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Ginger"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "2 cups",
    "substance": "oral"

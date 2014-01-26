@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.4",
+    "quantity": "9.4"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Vitamin C",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "smoked",
    "substance": "Skullcap",

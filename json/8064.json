@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "17",
-    "unit": "g"
+    "unit": "g",
+    "grams": "17",
+    "quantity": "17"
    },
    "administration": "oral",
    "substance": "Tabernanthe iboga",

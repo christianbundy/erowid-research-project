@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "drops"
+    "unit": "drops",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -35,8 +35,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -46,8 +47,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "8",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -56,8 +57,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",

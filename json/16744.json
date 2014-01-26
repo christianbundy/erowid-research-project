@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.4",
+    "quantity": "1.4"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -24,8 +25,9 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1.225",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.225",
+    "quantity": "1.225"
    },
    "administration": "oral",
    "substance": "Carisoprodol",

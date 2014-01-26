@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Lotus/Lily",

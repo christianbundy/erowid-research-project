@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1/2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1/2",
+    "quantity": "1/2"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:30"
+    "unit": "0:30",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "sublingual"
@@ -48,8 +49,8 @@
   {
    "time": "2:50",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "insufflated",
    "substance": "Ketamine"
@@ -57,8 +58,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "3:55"
+    "unit": "3:55",
+    "quantity": "T+"
    },
    "administration": "1/2 g",
    "substance": "smoked"

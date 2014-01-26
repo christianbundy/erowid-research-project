@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "IM",
    "substance": "DPT"
@@ -23,8 +23,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "12",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "12"
    },
    "administration": "insufflated",
    "substance": "DPT"

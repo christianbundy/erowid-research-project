@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -24,8 +24,9 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +35,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2.33",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.33",
+    "quantity": "2.33"
    },
    "administration": "oral",
    "substance": "Mushrooms",

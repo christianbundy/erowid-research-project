@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "27mg",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "27mg"
    },
    "administration": "insufflated",
    "substance": "2C-I",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "27mg",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "27mg"
    },
    "administration": "insufflated",
    "substance": "2C-T-7",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "27mg",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "27mg"
    },
    "administration": "insufflated",
    "substance": "2C-E",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "27mg",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "27mg"
    },
    "administration": "insufflated",
    "substance": "2C-T-2",

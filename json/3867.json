@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -30,8 +30,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -41,8 +41,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -57,8 +57,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "6.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.5",
+    "quantity": "6.5"
    },
    "administration": "oral",
    "substance": "Cannabis",

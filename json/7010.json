@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Boophone disticha",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Boophone disticha",

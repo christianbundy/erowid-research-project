@@ -19,8 +19,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "0.5 tablets",
    "substance": "oral"
@@ -43,8 +43,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "MDMA"

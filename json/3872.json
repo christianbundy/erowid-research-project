@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "13",
-    "unit": "g"
+    "unit": "g",
+    "grams": "13",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": "g"
+    "unit": "g",
+    "grams": "14",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Morning Glory",

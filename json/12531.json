@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "750",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "750"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -24,8 +24,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "750",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "750"
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",

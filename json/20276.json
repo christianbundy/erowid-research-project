@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "insufflated"
@@ -47,8 +47,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Ethylphenidate"
@@ -56,8 +56,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "5:00"
+    "unit": "5:00",
+    "quantity": "T+"
    },
    "administration": "10 mg",
    "substance": "insufflated"

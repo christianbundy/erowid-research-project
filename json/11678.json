@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:05",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +36,9 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "40",
-    "unit": "g"
+    "unit": "g",
+    "grams": "40",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -44,8 +47,9 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "50",
-    "unit": "g"
+    "unit": "g",
+    "grams": "50",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -54,8 +58,9 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

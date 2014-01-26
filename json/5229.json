@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -34,8 +35,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -44,8 +46,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "4",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -54,8 +56,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "5-MeO-DPT",

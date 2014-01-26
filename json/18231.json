@@ -21,8 +21,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -31,8 +31,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -42,8 +42,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "125",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "125"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -52,8 +52,8 @@
   {
    "time": "2:20",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "oral",
    "substance": "Methylone",

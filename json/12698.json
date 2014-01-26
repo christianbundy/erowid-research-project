@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -23,8 +23,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "8",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "DXM",

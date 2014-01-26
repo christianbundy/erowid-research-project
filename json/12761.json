@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -34,8 +34,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "GABA"
@@ -43,8 +44,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "GABA"
@@ -52,8 +54,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Tyrosine"
@@ -61,8 +64,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Tyrosine"
@@ -70,8 +74,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Phenylalanine"
@@ -79,8 +84,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Phenylalanine"

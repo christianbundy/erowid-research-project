@@ -21,8 +21,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "300",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "300"
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -31,8 +31,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2600"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -41,8 +41,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "2275",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2275"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -51,8 +51,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "262.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "262.5"
    },
    "administration": "oral",
    "substance": "Tramadol",

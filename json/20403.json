@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -24,8 +24,8 @@
   {
    "time": "3:49",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Ginger",
@@ -34,8 +34,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "16",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -44,8 +44,8 @@
   {
    "time": "4:06",
    "amount": {
-    "number": "12",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -61,8 +61,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Caffeine",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "4-HO-DiPT"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:30"
+    "unit": "3:30",
+    "quantity": "T+"
    },
    "administration": "1 hit",
    "substance": "smoked"

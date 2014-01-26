@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "650",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "650"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "Methcathinone",
@@ -44,8 +44,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "65",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "65"
    },
    "administration": "oral",
    "substance": "Methcathinone",
@@ -54,8 +54,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Methcathinone",
@@ -64,8 +64,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -74,8 +74,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "650",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "650"
    },
    "administration": "oral",
    "substance": "Acetaminophen",

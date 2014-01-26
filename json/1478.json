@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate"

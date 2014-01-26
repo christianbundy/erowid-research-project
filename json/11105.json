@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "35"
    },
    "administration": "inhaled",
    "substance": "Ether",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Tobacco",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "20"
    },
    "administration": "inhaled",
    "substance": "Ether",

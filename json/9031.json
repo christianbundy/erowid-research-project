@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2500"
    },
    "administration": "sublingual",
    "substance": "GABA",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.25"
    },
    "administration": "oral",
    "substance": "DOM"
@@ -23,8 +23,8 @@
   {
    "time": "13:30",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Zolpidem"
@@ -32,8 +32,8 @@
   {
    "time": "13:55",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Zolpidem"
@@ -41,8 +41,8 @@
   {
    "time": "14:10",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Zolpidem"

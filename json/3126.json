@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "GBL",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -40,8 +40,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "insufflated",
    "substance": "DPT",
@@ -50,8 +50,8 @@
   {
    "time": "1:46",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "DiPT",
@@ -60,8 +60,8 @@
   {
    "time": "2:02",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -70,8 +70,8 @@
   {
    "time": "3:07",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -80,8 +80,8 @@
   {
    "time": "3:07",
    "amount": {
-    "number": "2.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "GBL",

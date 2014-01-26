@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -30,8 +30,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "MDMA",

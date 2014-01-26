@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Kava"

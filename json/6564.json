@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.75"
    },
    "administration": "insufflated",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.25"
    },
    "administration": "sublingual",
    "substance": "Codeine",
@@ -39,8 +39,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "0.5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -48,8 +48,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

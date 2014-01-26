@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.25",
+    "quantity": "2.25"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",

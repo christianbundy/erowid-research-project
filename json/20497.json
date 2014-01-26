@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "smoked",
    "substance": "2C-E",
@@ -24,8 +24,8 @@
   {
    "time": "4:50",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "smoked",
    "substance": "2C-E",
@@ -34,8 +34,8 @@
   {
    "time": "4:50",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "insufflated",
    "substance": "Alprazolam",

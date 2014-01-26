@@ -21,8 +21,8 @@
   {
    "time": "1:42",
    "amount": {
-    "number": "4",
-    "unit": "shots"
+    "unit": "shots",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.5",
+    "quantity": "3.5"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "12",
-    "unit": "g"
+    "unit": "g",
+    "grams": "12",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -34,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

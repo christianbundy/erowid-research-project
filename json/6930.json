@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    }
   },
   {
@@ -36,8 +36,8 @@
   {
    "time": "oral",
    "amount": {
-    "number": "Ginkgo",
-    "unit": "biloba"
+    "unit": "biloba",
+    "quantity": "Ginkgo"
    },
    "substance": "T+ 0:00"
   },
@@ -56,8 +56,8 @@
   {
    "time": "(tea)",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "38 mg",
    "substance": "insufflated"
@@ -83,8 +83,8 @@
   {
    "time": "12:30",
    "amount": {
-    "number": "9.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Melatonin"

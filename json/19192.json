@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "600",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "600"
    },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -34,8 +34,8 @@
   {
    "time": "8:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Diphenhydramine"

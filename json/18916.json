@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".5",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": ".5"
    },
    "substance": "Kratom",
    "form": "ground/crushed"

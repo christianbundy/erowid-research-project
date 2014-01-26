@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1600",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "1600"
    },
    "administration": "oral",
    "substance": "Fentanyl",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8"
    },
    "substance": "Hydromorphone"
   }

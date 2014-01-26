@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "g"
+    "unit": "g",
+    "grams": "10",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "15",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -34,8 +35,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "0.2"
    },
    "administration": "oral",
    "substance": "Ginger",

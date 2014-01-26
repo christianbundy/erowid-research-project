@@ -13,8 +13,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -22,8 +22,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:30"
+    "unit": "0:30",
+    "quantity": "T+"
    },
    "administration": "1 tablet",
    "substance": "oral"
@@ -47,8 +47,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "1"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
@@ -56,8 +56,8 @@
   {
    "time": "(gas)",
    "amount": {
-    "number": "T+",
-    "unit": "6:00"
+    "unit": "6:00",
+    "quantity": "T+"
    },
    "administration": "1 repeated",
    "substance": "smoked"

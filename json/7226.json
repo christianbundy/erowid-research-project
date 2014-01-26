@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:30"
+    "unit": "0:30",
+    "quantity": "T+"
    },
    "administration": "0.5 g",
    "substance": "oral"
@@ -38,8 +39,8 @@
   {
    "time": "oral",
    "amount": {
-    "number": "Psychotria",
-    "unit": "viridis"
+    "unit": "viridis",
+    "quantity": "Psychotria"
    },
    "administration": "(tea)",
    "substance": "T+ 2:00"

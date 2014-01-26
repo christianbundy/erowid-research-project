@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "800"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "310",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "310"
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "310",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "310"
    },
    "administration": "oral",
    "substance": "Vitamins",

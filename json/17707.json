@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "6"
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
@@ -24,8 +24,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "3",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -44,8 +44,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

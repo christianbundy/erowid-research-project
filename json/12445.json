@@ -20,8 +20,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "1 hit",
    "substance": "smoked"
@@ -35,8 +35,8 @@
   {
    "time": "smoked",
    "amount": {
-    "number": "Salvia",
-    "unit": "divinorum"
+    "unit": "divinorum",
+    "quantity": "Salvia"
    },
    "administration": "(extract - 10x)",
    "substance": "T+ 0:00"

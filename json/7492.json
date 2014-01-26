@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "g"
+    "unit": "g",
+    "grams": "50",
+    "quantity": "50"
    },
    "administration": "buccal",
    "substance": "Catha edulis",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "35",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "35"
    },
    "administration": "oral",
    "substance": "AMT",
@@ -24,8 +24,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "0.3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -34,8 +34,8 @@
   {
    "time": "5:00",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

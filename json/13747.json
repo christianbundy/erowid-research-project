@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "2"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -28,24 +28,24 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "substance": "MDMA"
   },
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "substance": "MDMA"
   },
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "substance": "MDMA"
   }

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "660",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "660"
    },
    "administration": "oral",
    "substance": "Alcohol",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "130",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "130"
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -24,8 +24,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "0.25",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "LSD"
@@ -33,8 +33,8 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

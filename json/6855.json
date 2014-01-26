@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.7",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.7",
+    "quantity": "1.7"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +26,8 @@
   {
    "time": "5:35",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -35,8 +36,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -45,8 +46,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -55,8 +56,8 @@
   {
    "time": "13:20",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "insufflated",
    "substance": "2C-B",

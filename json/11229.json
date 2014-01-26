@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Levmetamfetamine"
@@ -23,8 +23,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -38,8 +38,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Levmetamfetamine"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Methylone"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:00"
+    "unit": "1:00",
+    "quantity": "T+"
    },
    "administration": "50 mg",
    "substance": "insufflated"
@@ -48,8 +48,8 @@
   {
    "time": "13:30",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -57,8 +57,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "13:30"
+    "unit": "13:30",
+    "quantity": "T+"
    },
    "substance": "oral"
   },

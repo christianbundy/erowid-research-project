@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "DOC",
@@ -30,8 +30,8 @@
   {
    "time": "9:38",
    "amount": {
-    "number": "4.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "Hydergine"
@@ -39,8 +39,8 @@
   {
    "time": "9:38",
    "amount": {
-    "number": "1500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1500"
    },
    "administration": "oral",
    "substance": "Piracetam"

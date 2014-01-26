@@ -19,8 +19,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "insufflated"
@@ -34,8 +34,8 @@
   {
    "time": "insufflated",
    "amount": {
-    "number": "Methoxetamine",
-    "unit": ""
+    "unit": "",
+    "quantity": "Methoxetamine"
    },
    "administration": "(powder / crystals)",
    "substance": "T+ 0:07"
@@ -49,8 +49,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "sublingual",
    "substance": "Methoxetamine "

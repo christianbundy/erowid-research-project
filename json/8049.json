@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Hydergine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1200"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1050",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1050"
    },
    "administration": "oral",
    "substance": "Aniracetam",

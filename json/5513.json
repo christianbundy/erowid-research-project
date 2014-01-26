@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "g"
+    "unit": "g",
+    "grams": "30",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -23,8 +24,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "19",
-    "unit": "g"
+    "unit": "g",
+    "grams": "19",
+    "quantity": "19"
    },
    "administration": "oral",
    "substance": "Sassafras",
@@ -39,8 +41,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "28",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "28"
    },
    "administration": "oral",
    "substance": "Alcohol",

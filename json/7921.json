@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "400",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "400"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2600",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2600"
    },
    "administration": "oral",
    "substance": "Acetaminophen",

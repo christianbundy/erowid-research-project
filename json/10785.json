@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "smoked",
    "substance": "DMT",

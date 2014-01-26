@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Unknown",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Unknown",
@@ -34,8 +34,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "0.5",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.3333",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.3333"
    },
    "administration": "smoked",
    "substance": "Cannabis",

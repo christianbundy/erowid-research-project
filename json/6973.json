@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "23",
-    "unit": "g"
+    "unit": "g",
+    "grams": "23",
+    "quantity": "23"
    },
    "administration": "oral",
    "substance": "Kratom",

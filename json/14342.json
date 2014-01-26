@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -22,8 +22,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylone",

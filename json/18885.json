@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "625",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "625"
    },
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

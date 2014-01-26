@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1050",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1050"
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2800",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2800"
    },
    "administration": "oral",
    "substance": "Carisoprodol",

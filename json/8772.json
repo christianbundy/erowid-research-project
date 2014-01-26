@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.03",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.03",
+    "quantity": "0.03"
    },
    "administration": "insufflated",
    "substance": "Heroin",

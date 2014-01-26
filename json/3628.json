@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:00"
+    "unit": "3:00",
+    "quantity": "T+"
    },
    "administration": "3 hits",
    "substance": "smoked"

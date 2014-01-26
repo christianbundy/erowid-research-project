@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "8",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

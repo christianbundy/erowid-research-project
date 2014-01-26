@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.33",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.33"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Kava",

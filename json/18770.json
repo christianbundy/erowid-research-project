@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:30"
+    "unit": "0:30",
+    "quantity": "T+"
    },
    "administration": "150 mg",
    "substance": "oral"
@@ -49,8 +49,8 @@
   {
    "time": "8:40",
    "amount": {
-    "number": "56",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "56"
    },
    "administration": "insufflated",
    "substance": "4-Methylethcathinone"
@@ -58,8 +58,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "9:08"
+    "unit": "9:08",
+    "quantity": "T+"
    },
    "administration": "60 mg",
    "substance": "insufflated"

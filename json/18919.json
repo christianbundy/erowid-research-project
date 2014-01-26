@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "1 line",
    "substance": "insufflated"
@@ -55,8 +56,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "17:00"
+    "unit": "17:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "6"
    },
    "administration": "smoked",
    "substance": "Nutmeg",

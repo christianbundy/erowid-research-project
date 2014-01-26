@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "160",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "160"
    },
    "administration": "oral",
    "substance": "bk-MDEA"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "90 mg",
    "substance": "oral"
@@ -36,8 +36,8 @@
   {
    "time": "inhaled",
    "amount": {
-    "number": "Nitrous",
-    "unit": "Oxide"
+    "unit": "Oxide",
+    "quantity": "Nitrous"
    },
    "substance": "T+ 0:00"
   },
@@ -49,8 +49,8 @@
   {
    "time": "8:15",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"

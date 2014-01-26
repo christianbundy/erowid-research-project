@@ -11,8 +11,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "Nutmeg"

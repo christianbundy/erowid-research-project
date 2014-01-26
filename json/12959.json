@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2"
    },
    "administration": "buccal",
    "substance": "Buprenorphine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": ".5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": ".5"
    },
    "administration": "buccal",
    "substance": "Naloxone",

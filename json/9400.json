@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "2C-T-21",
@@ -24,8 +24,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "smoked",
    "substance": "DMT",

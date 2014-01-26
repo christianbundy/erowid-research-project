@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "750",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -34,8 +34,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "180",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "180"
    },
    "administration": "oral",
    "substance": "Passion Flower",
@@ -44,8 +44,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Melatonin",

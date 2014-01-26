@@ -22,8 +22,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -32,8 +32,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "LSD",

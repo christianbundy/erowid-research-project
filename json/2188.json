@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -34,8 +34,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "650",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "650"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -44,8 +44,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -54,8 +54,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -64,8 +64,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -74,8 +74,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -84,8 +84,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "162.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "162.5"
    },
    "administration": "oral",
    "substance": "Acetaminophen",

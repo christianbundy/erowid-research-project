@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,9 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "65",
-    "unit": "g"
+    "unit": "g",
+    "grams": "65",
+    "quantity": "65"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -35,8 +36,8 @@
   {
    "time": "7:45",
    "amount": {
-    "number": "2.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "1,4-Butanediol",

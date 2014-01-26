@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "1,4-Butanediol",
@@ -24,8 +24,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "1.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "1,4-Butanediol",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "1,4-Butanediol",
@@ -44,8 +44,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",

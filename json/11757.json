@@ -22,8 +22,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -32,8 +32,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -42,8 +42,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",
@@ -52,8 +52,8 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": "Methylphenidate",

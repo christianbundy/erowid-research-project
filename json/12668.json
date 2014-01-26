@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +25,9 @@
   {
    "time": "0:34",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +36,9 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Kratom",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "2C-P"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "2.5 mg",
    "substance": "rectal"
@@ -47,8 +47,8 @@
   {
    "time": "12:30",
    "amount": {
-    "number": "4",
-    "unit": ""
+    "unit": "",
+    "quantity": "4"
    },
    "administration": "smoked",
    "substance": "Salvia divinorum"
@@ -56,8 +56,8 @@
   {
    "time": "(extract)",
    "amount": {
-    "number": "T+",
-    "unit": "14:05"
+    "unit": "14:05",
+    "quantity": "T+"
    },
    "administration": "3.0 mg",
    "substance": "rectal"
@@ -83,8 +83,8 @@
   {
    "time": "17:30",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "rectal",
    "substance": "2C-P"

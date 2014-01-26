@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "75"
    },
    "substance": "LSZ"
   },
   {
    "time": "1:00",
    "amount": {
-    "number": "75",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "75"
    },
    "substance": "LSZ"
   }

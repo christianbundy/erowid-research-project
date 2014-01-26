@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Kava",
@@ -24,8 +24,9 @@
   {
    "time": "0",
    "amount": {
-    "number": ".8725",
-    "unit": "g"
+    "unit": "g",
+    "grams": ".8725",
+    "quantity": ".8725"
    },
    "administration": "oral",
    "substance": "Mushrooms",

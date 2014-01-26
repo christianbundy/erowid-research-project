@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -25,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -35,8 +35,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1",
-    "unit": "cap"
+    "unit": "cap",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -45,8 +45,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",

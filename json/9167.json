@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "40",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "40"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -32,8 +32,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA",

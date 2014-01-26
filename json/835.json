@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -42,8 +43,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -52,8 +53,9 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -62,8 +64,8 @@
   {
    "time": "9:00",
    "amount": {
-    "number": "1",
-    "unit": "drop"
+    "unit": "drop",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "GHB",
@@ -72,8 +74,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -82,8 +84,9 @@
   {
    "time": "14:00",
    "amount": {
-    "number": "0.25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.25",
+    "quantity": "0.25"
    },
    "administration": "smoked",
    "substance": "Methamphetamine",
@@ -92,8 +95,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -102,8 +105,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Diazepam",

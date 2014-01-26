@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate"
@@ -23,8 +23,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "12",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "12"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose"
@@ -32,8 +32,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

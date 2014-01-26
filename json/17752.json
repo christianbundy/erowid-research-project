@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +25,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1",
-    "unit": "cup"
+    "unit": "cup",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "DXM",
@@ -35,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis"

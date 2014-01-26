@@ -21,8 +21,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -30,8 +30,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -39,8 +39,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -48,8 +48,8 @@
   {
    "time": "11:35",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -57,8 +57,8 @@
   {
    "time": "22:00",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -66,8 +66,8 @@
   {
    "time": "22:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -75,8 +75,8 @@
   {
    "time": "32:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -84,8 +84,8 @@
   {
    "time": "32:00",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -93,8 +93,8 @@
   {
    "time": "35:30",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -102,8 +102,8 @@
   {
    "time": "45:30",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -111,8 +111,8 @@
   {
    "time": "45:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "smoked",
    "substance": "2C-I"
@@ -120,8 +120,8 @@
   {
    "time": "45:30",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam"

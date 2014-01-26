@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "37.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "37.5"
    },
    "administration": "oral",
    "substance": "Phentermine",

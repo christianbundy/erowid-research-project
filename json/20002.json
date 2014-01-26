@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Coleus",
@@ -30,8 +30,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "3",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Coleus",
@@ -40,8 +40,8 @@
   {
    "time": "4:45",
    "amount": {
-    "number": "0.0625",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "0.0625"
    },
    "administration": "insufflated",
    "substance": "Silene capensis",

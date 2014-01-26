@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "100",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
@@ -34,8 +34,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "24",
-    "unit": "oz"
+    "unit": "oz",
+    "quantity": "24"
    },
    "administration": "oral",
    "substance": "Alcohol",
@@ -45,8 +45,8 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "100",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",

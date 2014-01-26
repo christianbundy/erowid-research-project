@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "sublingual",
    "substance": "Morning Glory",
@@ -24,8 +25,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "3",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3",
+    "quantity": "3"
    },
    "administration": "sublingual",
    "substance": "Morning Glory",
@@ -40,8 +42,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "9",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9",
+    "quantity": "9"
    },
    "administration": "sublingual",
    "substance": "Morning Glory",
@@ -50,8 +53,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -60,8 +63,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1",
-    "unit": "glass"
+    "unit": "glass",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Alcohol",

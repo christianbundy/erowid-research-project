@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "g"
+    "unit": "g",
+    "grams": "15",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,8 @@
   {
    "time": "10:10",
    "amount": {
-    "number": "1",
-    "unit": "tablet"
+    "unit": "tablet",
+    "quantity": "1"
    },
    "administration": "rectal",
    "substance": "MDMA",

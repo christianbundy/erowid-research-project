@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "100"
    },
    "administration": "transdermal",
    "substance": "Fentanyl",

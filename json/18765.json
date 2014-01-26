@@ -13,16 +13,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "11",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "11"
    },
    "substance": "2C-P"
   },
   {
    "time": "2:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "4-AcO-DMT"

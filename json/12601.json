@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3500"
    },
    "administration": "oral",
    "substance": "Smarts",

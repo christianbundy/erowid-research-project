@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": ""
+    "unit": "",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "3",
-    "unit": ""
+    "unit": "",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -34,8 +34,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "4",
-    "unit": ""
+    "unit": "",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -44,8 +44,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "6",
-    "unit": ""
+    "unit": "",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Valerian",

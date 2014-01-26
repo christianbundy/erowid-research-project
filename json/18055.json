@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.5",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Datura",

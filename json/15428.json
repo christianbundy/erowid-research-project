@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "18",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Diazepam"

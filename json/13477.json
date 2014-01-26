@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "17.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17.5"
    },
    "administration": "IV",
    "substance": "4-AcO-DALT"
@@ -23,8 +23,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "17.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "17.5"
    },
    "administration": "IV",
    "substance": "4-AcO-DALT"

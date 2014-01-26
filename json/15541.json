@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "3.75",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.75"
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -34,8 +34,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "7.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "7.5"
    },
    "administration": "oral",
    "substance": "Hydrocodone",

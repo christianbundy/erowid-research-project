@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "line"
+    "unit": "line",
+    "quantity": "1"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "Ephedrine",
@@ -34,8 +34,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -44,8 +44,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "joints/cigs"
+    "unit": "joints/cigs",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -54,8 +54,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "capsl"
+    "unit": "capsl",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Ephedrine",
@@ -64,8 +64,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "1",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

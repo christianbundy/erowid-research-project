@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Damiana",
@@ -24,8 +24,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
@@ -34,8 +34,8 @@
   {
    "time": "0:15",
    "amount": {
-    "number": "2",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
@@ -44,8 +44,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "3",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "3"
    },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
@@ -54,8 +54,9 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Leonotis leonurus",
@@ -64,8 +65,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "1.5",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Lactuca",
@@ -75,8 +76,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Argemone spp. ",
@@ -85,8 +87,8 @@
   {
    "time": "1:45",
    "amount": {
-    "number": "1",
-    "unit": "bowl"
+    "unit": "bowl",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -95,8 +97,8 @@
   {
    "time": "3:45",
    "amount": {
-    "number": "1/4",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1/4"
    },
    "administration": "oral",
    "substance": "Lotus/Lily",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "seed"
+    "unit": "seed",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:45"
+    "unit": "0:45",
+    "quantity": "T+"
    },
    "administration": "3.0 g",
    "substance": "oral"

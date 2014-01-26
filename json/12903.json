@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "Desoxypipradrol  "
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "administration": "repeated",
    "substance": "smoked"
@@ -53,8 +53,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "10:45"
+    "unit": "10:45",
+    "quantity": "T+"
    },
    "administration": "20 mg",
    "substance": "sublingual"

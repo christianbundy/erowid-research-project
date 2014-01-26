@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -32,8 +32,8 @@
   {
    "time": "0:45",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -42,8 +42,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1/3",
-    "unit": "cig."
+    "unit": "cig.",
+    "quantity": "1/3"
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -52,8 +52,8 @@
   {
    "time": "2:30",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",

@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": ""
+    "unit": "",
+    "quantity": "1"
    },
    "substance": "Herbal Ecstasy"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "3:00"
+    "unit": "3:00",
+    "quantity": "T+"
    },
    "administration": "10 seeds",
    "substance": "oral"

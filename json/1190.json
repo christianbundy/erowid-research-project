@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "315",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "315"
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

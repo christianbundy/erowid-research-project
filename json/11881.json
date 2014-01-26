@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -34,8 +34,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": ".7",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": ".7"
    },
    "administration": "oral",
    "substance": "GBL",
@@ -44,8 +44,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": ".3",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": ".3"
    },
    "administration": "oral",
    "substance": "GBL",

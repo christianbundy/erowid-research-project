@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "LSD",
@@ -24,8 +24,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "240",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "240"
    },
    "administration": "oral",
    "substance": "DXM",

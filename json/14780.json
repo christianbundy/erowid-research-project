@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "110",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "110"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -25,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "60",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -36,8 +36,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Piperazines",
@@ -47,8 +47,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "GHB",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.25",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "0.25"
    },
    "administration": "oral",
    "substance": "MDA"
@@ -23,8 +23,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "administration": "smoked",
    "substance": "Cannabis"

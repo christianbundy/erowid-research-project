@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.5",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -23,8 +24,8 @@
   {
    "time": "2:06",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
@@ -32,8 +33,8 @@
   {
    "time": "2:45",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT"

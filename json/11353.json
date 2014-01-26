@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +24,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "18",
-    "unit": "g"
+    "unit": "g",
+    "grams": "18",
+    "quantity": "18"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",

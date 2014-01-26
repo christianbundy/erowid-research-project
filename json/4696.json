@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Brugmansia",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Brugmansia",
@@ -34,8 +34,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "1",
-    "unit": "flower"
+    "unit": "flower",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Brugmansia",
@@ -44,8 +44,8 @@
   {
    "time": "0:25",
    "amount": {
-    "number": "0.5",
-    "unit": "flowers"
+    "unit": "flowers",
+    "quantity": "0.5"
    },
    "administration": "oral",
    "substance": "Brugmansia",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Cannabis",

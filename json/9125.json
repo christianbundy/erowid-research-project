@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -34,8 +34,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Tabernanthe iboga",

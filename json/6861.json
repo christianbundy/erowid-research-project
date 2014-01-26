@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.65",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.65"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -24,8 +24,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "0.65",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.65"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +34,8 @@
   {
    "time": "48:00",
    "amount": {
-    "number": "0.65",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.65"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -44,8 +44,8 @@
   {
    "time": "72:00",
    "amount": {
-    "number": "0.65",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.65"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -54,8 +54,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Diazepam"
@@ -63,8 +63,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Naltrexone",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": "2C-T-7"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:40"
+    "unit": "1:40",
+    "quantity": "T+"
    },
    "administration": "1 hit",
    "substance": "smoked"
@@ -53,8 +53,8 @@
   {
    "time": "(tea)",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    },
    "substance": "oral"
   }

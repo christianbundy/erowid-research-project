@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.8",
+    "quantity": "9.8"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -23,8 +24,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "2.4",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.4",
+    "quantity": "2.4"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -32,8 +34,8 @@
   {
    "time": "29:30",
    "amount": {
-    "number": "20",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "20"
    },
    "administration": "transdermal",
    "substance": "Fentanyl"
@@ -41,8 +43,8 @@
   {
    "time": "31:30",
    "amount": {
-    "number": "20",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "20"
    },
    "administration": "transdermal",
    "substance": "Fentanyl"
@@ -50,8 +52,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "10"
    },
    "administration": "transdermal",
    "substance": "Fentanyl"
@@ -59,8 +61,8 @@
   {
    "time": "35:20",
    "amount": {
-    "number": "17.5",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "17.5"
    },
    "administration": "transdermal",
    "substance": "Fentanyl"

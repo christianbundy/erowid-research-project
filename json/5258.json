@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "insufflated",
    "substance": "Alprazolam",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -34,8 +34,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -44,8 +44,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "1.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -54,8 +54,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.5"
    },
    "substance": "Alprazolam",
    "form": "pill/tablet"

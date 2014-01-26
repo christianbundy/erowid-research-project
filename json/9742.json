@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "Tbsp"
+    "unit": "Tbsp",
+    "quantity": "0.75"
    },
    "administration": "rectal",
    "substance": "Syrian Rue",
@@ -24,8 +24,9 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "rectal",
    "substance": "Diplopterys cabrerana",

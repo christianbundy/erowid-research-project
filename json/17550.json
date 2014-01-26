@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4500"
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "144",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "144"
    },
    "administration": "oral",
    "substance": "Lecithin",

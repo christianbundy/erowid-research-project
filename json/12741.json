@@ -18,8 +18,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    }
   },
   {
@@ -42,8 +42,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "smoked",
    "substance": "5-MeO-DALT"
@@ -51,8 +51,8 @@
   {
    "time": "(powder / crystals)",
    "amount": {
-    "number": "T+",
-    "unit": "2:20"
+    "unit": "2:20",
+    "quantity": "T+"
    },
    "administration": "10 mg",
    "substance": "smoked"

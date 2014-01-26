@@ -20,8 +20,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "8.0"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

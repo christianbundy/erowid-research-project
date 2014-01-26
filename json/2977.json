@@ -12,8 +12,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "80",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -21,8 +21,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:30"
+    "unit": "2:30",
+    "quantity": "T+"
    },
    "administration": "75 mg",
    "substance": "SC"

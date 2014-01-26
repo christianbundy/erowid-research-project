@@ -20,8 +20,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "3",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -30,8 +30,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "750",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "750"
    },
    "administration": "oral",
    "substance": "Aniracetam",

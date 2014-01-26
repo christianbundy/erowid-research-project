@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "42.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "42.5",
+    "quantity": "42.5"
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -25,8 +26,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "27.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "27.5",
+    "quantity": "27.5"
    },
    "administration": "oral",
    "substance": "Cacti",

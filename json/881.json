@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.75",
+    "quantity": "3.75"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -25,8 +26,9 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.75",
+    "quantity": "3.75"
    },
    "administration": "oral",
    "substance": "Amanitas",
@@ -36,8 +38,9 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "3.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.75",
+    "quantity": "3.75"
    },
    "administration": "oral",
    "substance": "Amanitas",

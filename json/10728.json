@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "5.0",
+    "quantity": "5.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -24,8 +25,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "10",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "H.B. Woodrose",
@@ -40,8 +41,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "13",
-    "unit": "caps"
+    "unit": "caps",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -51,8 +52,8 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "60",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "60"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -61,8 +62,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "17",
-    "unit": "g"
+    "unit": "g",
+    "grams": "17",
+    "quantity": "17"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

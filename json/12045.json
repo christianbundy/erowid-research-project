@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
@@ -35,8 +35,8 @@
   {
    "time": "6:45",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
@@ -45,8 +45,8 @@
   {
    "time": "7:30",
    "amount": {
-    "number": "20",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "20"
    },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
@@ -55,8 +55,8 @@
   {
    "time": "15:15",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
@@ -70,8 +70,8 @@
   {
    "time": "24:15",
    "amount": {
-    "number": "30",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "30"
    },
    "administration": "insufflated",
    "substance": " Dexmethylphenidate",

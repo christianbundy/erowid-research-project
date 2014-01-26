@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "buttons"
+    "unit": "buttons",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -24,8 +24,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "8",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -34,8 +34,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "4",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "4"
    },
    "administration": "oral",
    "substance": "Peyote",
@@ -44,8 +44,8 @@
   {
    "time": "3:00",
    "amount": {
-    "number": "8",
-    "unit": "cups"
+    "unit": "cups",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Peyote",

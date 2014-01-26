@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "6.86",
-    "unit": "g"
+    "unit": "g",
+    "grams": "6.86",
+    "quantity": "6.86"
    },
    "administration": "oral",
    "substance": "Amphetamines",

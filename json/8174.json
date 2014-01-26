@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5.5",
-    "unit": "lines"
+    "unit": "lines",
+    "quantity": "5.5"
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -34,8 +35,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -43,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "9.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

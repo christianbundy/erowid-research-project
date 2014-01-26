@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOI"
@@ -23,8 +23,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -32,8 +33,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "insufflated",
    "substance": "Hydromorphone"
@@ -41,8 +42,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "DOI"
@@ -50,8 +51,9 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -59,8 +61,8 @@
   {
    "time": "7:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "insufflated",
    "substance": "Hydromorphone"
@@ -68,8 +70,9 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "smoked",
    "substance": "Cannabis"
@@ -77,8 +80,8 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "insufflated",
    "substance": "Hydromorphone"

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10g",
-    "unit": "repeated"
+    "unit": "repeated",
+    "quantity": "10g"
    },
    "administration": "smoked",
    "substance": "JWH-018",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "60g",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "60g"
    },
    "administration": "smoked",
    "substance": "JWH-018",

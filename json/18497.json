@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -29,8 +29,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "Dimethocaine",
@@ -39,8 +39,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "insufflated",
    "substance": "Dimethocaine",
@@ -49,8 +49,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "rectal",
    "substance": "Dimethocaine"

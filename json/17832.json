@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "0.5"
    },
    "substance": "MDMA"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "6:00"
+    "unit": "6:00",
+    "quantity": "T+"
    },
    "substance": "oral"
   },

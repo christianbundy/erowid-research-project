@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "44",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "44"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
@@ -24,8 +24,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "44",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "44"
    },
    "administration": "insufflated",
    "substance": "Methoxetamine ",

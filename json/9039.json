@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.5",
+    "quantity": "1.5"
    },
    "administration": "smoked",
    "substance": "Datura",
@@ -24,8 +25,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "75",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -34,8 +35,8 @@
   {
    "time": "2:00",
    "amount": {
-    "number": "75",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -44,8 +45,8 @@
   {
    "time": "3:30",
    "amount": {
-    "number": "100",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Datura",
@@ -54,8 +55,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "50",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "Datura",

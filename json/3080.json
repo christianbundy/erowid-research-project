@@ -27,8 +27,8 @@
   {
    "time": "1:00",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "administration": "oral",
    "substance": "Cacti",

@@ -20,24 +20,24 @@
   {
    "time": "6:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "substance": "LSD"
   },
   {
    "time": "19:00",
    "amount": {
-    "number": "1",
-    "unit": "hit"
+    "unit": "hit",
+    "quantity": "1"
    },
    "substance": "LSD"
   },
   {
    "time": "23:00",
    "amount": {
-    "number": "2",
-    "unit": "hits"
+    "unit": "hits",
+    "quantity": "2"
    },
    "substance": "LSD"
   }

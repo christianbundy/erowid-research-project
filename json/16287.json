@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Coleus",
@@ -24,8 +24,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "30",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "30"
    },
    "administration": "oral",
    "substance": "Coleus",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -24,8 +24,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -40,8 +40,8 @@
   {
    "time": "21:40",
    "amount": {
-    "number": "4.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.5"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -64,8 +64,8 @@
   {
    "time": "94:40",
    "amount": {
-    "number": "1.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -74,8 +74,8 @@
   {
    "time": "100:40",
    "amount": {
-    "number": "3.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -84,8 +84,8 @@
   {
    "time": "111:40",
    "amount": {
-    "number": "2.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.5"
    },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",

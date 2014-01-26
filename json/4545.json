@@ -30,8 +30,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.5"
    },
    "administration": "insufflated",
    "substance": "Triazolam",
@@ -40,8 +40,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "0.3"
    },
    "administration": "insufflated",
    "substance": "Clonidine",

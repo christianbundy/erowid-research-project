@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.5",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.5",
+    "quantity": "2.5"
    },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
@@ -23,8 +24,9 @@
   {
    "time": "0:22",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -33,8 +35,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -43,8 +46,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "oral",
    "substance": "Mushrooms",

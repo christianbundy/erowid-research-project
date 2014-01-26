@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1000",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "1000"
    },
    "substance": "Smarts",
    "specific": "Phenibut"
@@ -23,16 +23,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "substance": "Theanine"
   },
   {
    "time": "0",
    "amount": {
-    "number": "3",
-    "unit": "glasses"
+    "unit": "glasses",
+    "quantity": "3"
    },
    "substance": "Alcohol",
    "specific": "Beer/Wine"

@@ -13,8 +13,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "7.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "7.0",
+    "quantity": "7.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -23,8 +24,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "13",
-    "unit": "g"
+    "unit": "g",
+    "grams": "13",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -33,8 +35,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
@@ -43,8 +46,9 @@
   {
    "time": "0:30",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",

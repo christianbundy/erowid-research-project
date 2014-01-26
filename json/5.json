@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "Wormwood",
@@ -24,8 +24,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "1",
-    "unit": "tsp"
+    "unit": "tsp",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Nutmeg",
@@ -34,8 +34,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "270",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "270"
    },
    "administration": "smoked",
    "substance": "Kava",

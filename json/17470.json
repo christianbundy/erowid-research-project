@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.36",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.36",
+    "quantity": "0.36"
    },
    "administration": "oral",
    "substance": "Brugmansia",

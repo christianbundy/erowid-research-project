@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "4",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -24,8 +24,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "5"
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -34,8 +34,8 @@
   {
    "time": "4:30",
    "amount": {
-    "number": "3",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3"
    },
    "administration": "insufflated",
    "substance": "MDPV",

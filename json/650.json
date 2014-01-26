@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "0.75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "0.75",
+    "quantity": "0.75"
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -24,8 +25,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "5",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "5"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -33,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "16",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "16"
    },
    "administration": "insufflated",
    "substance": "2C-T-7",
@@ -43,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Alprazolam",

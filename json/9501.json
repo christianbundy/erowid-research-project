@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "6",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Kratom"
@@ -23,8 +23,8 @@
   {
    "time": "0:20",
    "amount": {
-    "number": "6",
-    "unit": "capsls"
+    "unit": "capsls",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "Kratom"

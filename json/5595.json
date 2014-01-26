@@ -14,16 +14,16 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "substance": "2C-T-2"
   },
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "1:00"
+    "unit": "1:00",
+    "quantity": "T+"
    },
    "administration": "1 repeated",
    "substance": "smoked"
@@ -31,8 +31,8 @@
   {
    "time": "Cannabis",
    "amount": {
-    "number": "(plant",
-    "unit": "material)"
+    "unit": "material)",
+    "quantity": "(plant"
    },
    "administration": "T+ 1:00",
    "substance": "3 oz"

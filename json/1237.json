@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "8",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "DXM"
@@ -23,8 +23,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "2",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "2"
    },
    "administration": "oral",
    "substance": "DXM"
@@ -32,8 +32,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "6",
-    "unit": "tablets"
+    "unit": "tablets",
+    "quantity": "6"
    },
    "administration": "oral",
    "substance": "DXM"

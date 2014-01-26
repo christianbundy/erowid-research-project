@@ -18,8 +18,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "0:00"
+    "unit": "0:00",
+    "quantity": "T+"
    }
   },
   {
@@ -42,8 +42,8 @@
   {
    "time": "20:00",
    "amount": {
-    "number": "4.0",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "4.0"
    },
    "administration": "sublingual",
    "substance": "Buprenorphine"

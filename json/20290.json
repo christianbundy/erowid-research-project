@@ -26,8 +26,8 @@
   {
    "time": "0:35",
    "amount": {
-    "number": "3.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.25"
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -36,8 +36,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "3.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.25"
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -46,8 +46,8 @@
   {
    "time": "0:50",
    "amount": {
-    "number": "3.25",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "3.25"
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -56,8 +56,8 @@
   {
    "time": "1:25",
    "amount": {
-    "number": "6.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.5"
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -66,8 +66,8 @@
   {
    "time": "1:30",
    "amount": {
-    "number": "6.5",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "6.5"
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -76,8 +76,8 @@
   {
    "time": "2:15",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "insufflated",
    "substance": "3C-E",

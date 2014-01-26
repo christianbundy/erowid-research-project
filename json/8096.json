@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Ibuprofen",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "1.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1.0",
+    "quantity": "1.0"
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -34,8 +36,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "65",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "65"
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -44,8 +46,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",

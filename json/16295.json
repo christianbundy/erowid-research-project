@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
@@ -24,8 +24,9 @@
   {
    "time": "12:00",
    "amount": {
-    "number": "2.2",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.2",
+    "quantity": "2.2"
    },
    "administration": "oral",
    "substance": "Kratom",
@@ -34,8 +35,8 @@
   {
    "time": "13:00",
    "amount": {
-    "number": "250",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",

@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "250",
-    "unit": "seeds"
+    "unit": "seeds",
+    "quantity": "250"
    },
    "administration": "oral",
    "substance": "Morning Glory",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "24",
-    "unit": "carts."
+    "unit": "carts.",
+    "quantity": "24"
    },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",

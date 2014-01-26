@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "90",
-    "unit": "g"
+    "unit": "g",
+    "grams": "90",
+    "quantity": "90"
    },
    "administration": "oral",
    "substance": "Mushrooms",

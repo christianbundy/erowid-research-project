@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "14",
-    "unit": ""
+    "unit": "",
+    "quantity": "14"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -25,8 +25,8 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "7",
-    "unit": ""
+    "unit": "",
+    "quantity": "7"
    },
    "administration": "oral",
    "substance": "Mushrooms",
@@ -36,8 +36,9 @@
   {
    "time": "24:00",
    "amount": {
-    "number": "2.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.0",
+    "quantity": "2.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -46,8 +47,8 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "8",
-    "unit": "in"
+    "unit": "in",
+    "quantity": "8"
    },
    "administration": "oral",
    "substance": "Calamus",

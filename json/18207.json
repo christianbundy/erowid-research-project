@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "700",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "700"
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -24,8 +24,9 @@
   {
    "time": "0:00",
    "amount": {
-    "number": "2.8",
-    "unit": "g"
+    "unit": "g",
+    "grams": "2.8",
+    "quantity": "2.8"
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -33,8 +34,9 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "80",
-    "unit": "g"
+    "unit": "g",
+    "grams": "80",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -42,8 +44,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "13",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "13"
    },
    "administration": "oral",
    "substance": "Amphetamines"
@@ -51,8 +53,9 @@
   {
    "time": "1:40",
    "amount": {
-    "number": "80",
-    "unit": "g"
+    "unit": "g",
+    "grams": "80",
+    "quantity": "80"
    },
    "administration": "oral",
    "substance": "MDMA"

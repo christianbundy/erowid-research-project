@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "140",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "140"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -24,8 +24,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "52",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "52"
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -34,8 +34,8 @@
   {
    "time": "1:15",
    "amount": {
-    "number": "0.5",
-    "unit": "bowls"
+    "unit": "bowls",
+    "quantity": "0.5"
    },
    "administration": "smoked",
    "substance": "Cannabis",

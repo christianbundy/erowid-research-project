@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "500",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "500"
    },
    "administration": "oral",
    "substance": "Calea zacatechichi",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "2",
-    "unit": "leaves"
+    "unit": "leaves",
+    "quantity": "2"
    },
    "administration": "buccal",
    "substance": "Salvia divinorum"

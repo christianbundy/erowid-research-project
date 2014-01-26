@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Kratom",
@@ -24,8 +24,8 @@
   {
    "time": "0:10",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Kratom",
@@ -34,8 +34,8 @@
   {
    "time": "0:40",
    "amount": {
-    "number": "1",
-    "unit": "leaf"
+    "unit": "leaf",
+    "quantity": "1"
    },
    "administration": "smoked",
    "substance": "Kratom",
@@ -50,8 +50,8 @@
   {
    "time": "1:20",
    "amount": {
-    "number": "1.5",
-    "unit": "ml"
+    "unit": "ml",
+    "quantity": "1.5"
    },
    "administration": "oral",
    "substance": "GBL",

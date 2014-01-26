@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -24,8 +24,8 @@
   {
    "time": "1:10",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -34,8 +34,8 @@
   {
    "time": "2:40",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -44,8 +44,8 @@
   {
    "time": "3:20",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -54,8 +54,8 @@
   {
    "time": "4:00",
    "amount": {
-    "number": "10",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "10"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -64,8 +64,8 @@
   {
    "time": "5:10",
    "amount": {
-    "number": "15",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "15"
    },
    "administration": "oral",
    "substance": "Allylescaline",
@@ -74,8 +74,8 @@
   {
    "time": "5:15",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
@@ -84,8 +84,8 @@
   {
    "time": "6:15",
    "amount": {
-    "number": "250",
-    "unit": "ug"
+    "unit": "ug",
+    "quantity": "250"
    },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "85",
-    "unit": "g"
+    "unit": "g",
+    "grams": "85",
+    "quantity": "85"
    },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
@@ -24,8 +25,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "75",
-    "unit": "g"
+    "unit": "g",
+    "grams": "75",
+    "quantity": "75"
    },
    "administration": "oral",
    "substance": "Psychotria viridis",
@@ -34,8 +36,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "25",
-    "unit": "g"
+    "unit": "g",
+    "grams": "25",
+    "quantity": "25"
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -44,8 +47,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "4.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "4.0",
+    "quantity": "4.0"
    },
    "administration": "oral",
    "substance": "Syrian Rue",

@@ -7,8 +7,9 @@ var main = function(e) {
 	if (typeof e.dose !== 'undefined') {
 		for (var i = 0; i < e.dose.length; i++) {
 			if (typeof e.dose[i].amount !== 'undefined') {
-				if (e.dose[i].amount.unit === 'g') {
-					e.dose[i].amount.grams = e.dose[i].amount.number;
+				if (e.dose[i].amount.number !== 'undefined') {
+					e.dose[i].amount.quantity = e.dose[i].amount.number;
+					delete e.dose[i].amount.number;
 				}
 			}
 		};

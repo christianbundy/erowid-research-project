@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Modafinil"
@@ -23,8 +23,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "2:00"
+    "unit": "2:00",
+    "quantity": "T+"
    },
    "administration": "100 mg",
    "substance": "oral"
@@ -47,8 +47,9 @@
   {
    "time": "8:00",
    "amount": {
-    "number": "1",
-    "unit": "g"
+    "unit": "g",
+    "grams": "1",
+    "quantity": "1"
    },
    "administration": "oral",
    "substance": "Smarts",
@@ -57,8 +58,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "T+",
-    "unit": "8:00"
+    "unit": "8:00",
+    "quantity": "T+"
    },
    "administration": "100 mg",
    "substance": "oral"

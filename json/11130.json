@@ -14,8 +14,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "900",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "900"
    },
    "administration": "oral",
    "substance": "Theanine",
@@ -24,8 +24,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "DMAE",
@@ -34,8 +34,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "50",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "50"
    },
    "administration": "oral",
    "substance": "DHEA",
@@ -44,8 +44,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "100",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "100"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -55,8 +55,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "200",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "200"
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -66,8 +66,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "9.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "9.0",
+    "quantity": "9.0"
    },
    "administration": "oral",
    "substance": "Vitamins / Supplements",
@@ -76,8 +77,9 @@
   {
    "time": "0",
    "amount": {
-    "number": "3.0",
-    "unit": "g"
+    "unit": "g",
+    "grams": "3.0",
+    "quantity": "3.0"
    },
    "administration": "oral",
    "substance": "Yerba Mate",
@@ -86,8 +88,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "776",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "776"
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -96,8 +98,8 @@
   {
    "time": "0",
    "amount": {
-    "number": "407",
-    "unit": "mg"
+    "unit": "mg",
+    "quantity": "407"
    },
    "administration": "oral",
    "substance": "Yerba Mate",
