@@ -5,13 +5,11 @@
  "substance": "DXM",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "720 mg",
-   "oral",
-   "DXM",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "720 mg",
+  "oral",
+  "DXM",
+  "(liquid)"
  ],
  "report": "<p>I dosed about 9-10 hrs the night before I had to take a drug test (DOH! What can I say? I was bored and just didn't think.) Probably hit the upper limits of the second plateau. Effects lasted a good portion of the night, and in fact I still felt 'something' on the train ride in the next AM. Drug test was an EMIT urine (aka Tox 5). I came back negative for all, including PCP and Opiates (WHEW!). I have since found that DXM will give a false PCP positive that can be verified as false.</p><p>On a side note, I felt very detached from the world and my life that night, and calmly contemplated suicide and the effects and ramifications that would have on others in my life. I didn't feel sad or unhappy, in fact I didn't feel anything. I recall deciding that now was not the time, but that later in life I should do just that. I do not have a hx of depression or suicidal ideation, and the next day was very disturbed to think about how much of my trip had focused on me ending my life. There were no external stimuli that could have given me the idea (movies, music, etc.). I decided to stop using DXM more from this seeming threat to my life rather than the threat of a false positive drug test.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2003-03-31T08:00:00.000Z",
  "views": "13597",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "720 mg",
-   "administration": "oral",
-   "substance": "DXM",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

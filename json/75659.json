@@ -5,13 +5,11 @@
  "substance": "Salvia Divinorum Tea (5x extract)",
  "bodyweight": "65 kg",
  "header": [
-  [
-   "DOSE:",
-   "0.5 g",
-   "oral",
-   "Salvia divinorum",
-   "(tea)"
-  ]
+  "DOSE:",
+  "0.5 g",
+  "oral",
+  "Salvia divinorum",
+  "(tea)"
  ],
  "report": "<p>I decided to try salvia tea. I put 1g of 5x extract to boiling water kept it boiling for 10 minutes. I made up 2 cups. I gave one to my brother and drank one by myself. I was very bitter, so I put some honey into it.</p><p>After few minutes I felt somehow relaxed and clean-minded. After about 10 next minutes I begin to feel a bit sleepy. But this was weak and could possibly be even produced with placebo effect.</p><p>I expected it to be much stronger.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2011-09-27T07:00:00.000Z",
  "views": "4050",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "0.5 g",
-   "administration": "oral",
-   "substance": "Salvia divinorum",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

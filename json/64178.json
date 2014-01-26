@@ -5,28 +5,26 @@
  "substance": "Valerian & Hops",
  "bodyweight": "80 kg",
  "header": [
-  [
-   "DOSE:",
-   "500 mg",
-   "oral",
-   "Valerian",
-   "(pill / tablet)",
-   "",
-   "225 mg",
-   "oral",
-   "Hops",
-   "(pill / tablet)",
-   "",
-   "100 mg",
-   "oral",
-   "Valerian",
-   "(pill / tablet)",
-   "",
-   "45 mg",
-   "oral",
-   "Hops",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "500 mg",
+  "oral",
+  "Valerian",
+  "(pill / tablet)",
+  "",
+  "225 mg",
+  "oral",
+  "Hops",
+  "(pill / tablet)",
+  "",
+  "100 mg",
+  "oral",
+  "Valerian",
+  "(pill / tablet)",
+  "",
+  "45 mg",
+  "oral",
+  "Hops",
+  "(pill / tablet)"
  ],
  "report": "<p>Yesterday I purchased some tablets, each containing 100 mg Valerian extract and 45 mg Hops extract. I don't have difficulties with sleeping, but I wanted to see if I could fall asleep and awake earlier than I've used to with some herbal aid. I am a university student with a hectic reading schedule for this summer, so I can't afford to continue my disastrous habit of going to sleep at 2-3 am...</p><p>I took 5 tablets last night and went to bed at 11 pm, about an hour after ingesting the tablets. I felt moderately relaxed but I still could not fall asleep very easily, mostly because of the heat. I can't stand the heat of summer. But eventually I managed to accomplish this goal.</p><p>My alarm went off at 5 am (yesterday morning, before buying the Valerian tablets, I had woken at that time without much problems) and decided to sleep for a few more minutes. I woke up again at 5.55 and immediately jumped up not wanting oversleep. I felt very groggy but this passed within an hour.</p><p>Morning was quite normal - coffee in excessive amounts, cigarettes etc... thoughts racing, not wanting to study. So for some reason I took one of the Valerian tablets, 100 mg, and chilled for a while. I can almost swear that an hour later I felt a bit 'stoned' in a way. That was interesting but didn't (fortunately?) last too long. Then I opened the book and started to read. Wow, no problems at all. I could actually concentrate, feeling very calm and relaxed. My motivation seemed also to be slightly increased. I indeed got a lot more reading done in just a couple of hours.</p><p>Now I'm having a break and I wonder if that small amount of Valerian I took this morning had this concentrating, relaxing effect that made me forget about my unimportant interests and focus on the book instead. I'm not sure, but it might be, since my problems with studying don't stem from plain laziness, but more from my overactive, racing mind that just can't get a grip.</p><p>Conclusion:</p><p>I probably won't use Valerian as a sleeping aid, since it didn't seem to help me with that and because I really don't need it. Instead, I will take a pill every morning before starting to study, just to experiment and to see, if it really has these properties so useful for me.</p>",
  "year": "2007",
@@ -35,13 +33,5 @@
  "age": "Not Given",
  "timestamp": "2007-11-13T08:00:00.000Z",
  "views": "25677",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "500 mg",
-   "administration": "oral",
-   "substance": "Valerian",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

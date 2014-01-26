@@ -5,23 +5,21 @@
  "substance": "GHB",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "1.0 g",
-   "oral",
-   "GHB",
-   "(liquid)",
-   " T+ 0:30",
-   "2.0 g",
-   "oral",
-   "GHB",
-   "(liquid)",
-   " T+ 1:00",
-   "2.0 g",
-   "oral",
-   "GHB",
-   "(liquid)"
-  ]
+  "DOSE: T+ 0:00",
+  "1.0 g",
+  "oral",
+  "GHB",
+  "(liquid)",
+  " T+ 0:30",
+  "2.0 g",
+  "oral",
+  "GHB",
+  "(liquid)",
+  " T+ 1:00",
+  "2.0 g",
+  "oral",
+  "GHB",
+  "(liquid)"
  ],
  "report": "<p>With only having done this drug once I can't speak with any knowledge of the drug except its effects on me.  One day my friend Sam visited me from Seattle and brought GHB with him.  He had a prepared solution made from a kit he ordered.  He calculated it to be about 1 gm. of 'GHB' per 1 ml of liquid.  He ingested about 3-4 gm. of the bat, as he was an avid user of the stuff.  I started with just 1 gm. as I had never done it before and had made the mistake of overindulging with unknown substances many times. </p><p>After about 30 min. I experienced no effects, rather dismayed I told Sam to give me 2 more gm.  30 more min. passed with still no effect.  Now I was pissed, I told him to give me 2 more gm.  This was a mistake.  After about 5-10 minutes I began to feel the effects.  I came on slowly and smoothly almost like an opium high.  The main effect was the feeling that I had just drank 15 beers.  I thought to myself ' I love this drug', thinking how I could drink from now on without all the drinking, and eventual hangover.  The high was very warm and inviting, not at all harsh like I have often experience from other man-made drugs.  Then came the bad part.  I started as a slight tingling in my lungs, I thought nothing of it.  It proceeded to get worse, the inside of my lungs were itching like crazy.  It was the most unnerving experience, not being able to remedy the situation, having no way to 'scratch' my lungs.  This was a symptom unlike any I have ever experienced with any drug.  Eventually it went away, and aside from some nausea and vomiting was not a entirely unenjoyable.  I would recommend lower dosage depending on tolerance as there were points in the experience that were somewhat too intense.  Be safe.</p>",
  "year": "1998",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2001-12-24T08:00:00.000Z",
  "views": "26615",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "1.0 g",
-   "administration": "oral",
-   "substance": "GHB",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Cannabis",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE:",
-   "0.5 joints/cigs",
-   "smoked",
-   "Cannabis",
-   "(plant material)"
-  ]
+  "DOSE:",
+  "0.5 joints/cigs",
+  "smoked",
+  "Cannabis",
+  "(plant material)"
  ],
  "report": "<p>I've always enjoyed smoking the occasional bowl for a few years now but all it took was one terrible experience to show me the dangers of strong weed.  I've smoked bowl after bowl with friends but never had an episode like I did last year.  It started with me and my cousin scoring a fat joint from a friend.  We decided to smoke in my car to get really high.  I figured what the hell Im gonna get as much as I can since I could'nt smoke for a while.  We lit the joint and passed it for about 10 minutes or so.  I was holding each toke until I got the joint again or until I coughed.  Then it hit me like a ton of bricks, I instantly felt a disconnection from the things around me.  I opened the car door to get some fresh air but it didnt help.  I felt like I was drunk and the lights around me were blurry so I figured I would go home and lay down. </p><p>When I got home it just got worse.  My heart was beating 100 miles an hour and I could not think clearly at all.  I felt like I was having a panic attack and I couldnt control it.  It was really scary because weed has never done this to me before, ever.  I heard voices once and had the phone in my hand to dial 911.  After about 3 hours of these terrible feelings I began to come down and feel all warm and fuzzy like I do when I normally smoke.  Just goes to show you be careful and know your limits.  Too much of a good thing is not always a good idea.  You won't look at weed the same after something like that happens to you.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-03-30T08:00:00.000Z",
  "views": "7334",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "0.5 joints/cigs",
-   "administration": "smoked",
-   "substance": "Cannabis",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

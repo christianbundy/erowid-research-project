@@ -5,13 +5,11 @@
  "substance": "DHEA",
  "bodyweight": "280 lb",
  "header": [
-  [
-   "DOSE:",
-   "75 mg",
-   "oral",
-   "DHEA",
-   "(daily)"
-  ]
+  "DOSE:",
+  "75 mg",
+  "oral",
+  "DHEA",
+  "(daily)"
  ],
  "report": "<p>I started a more extreme and regimented exercise program about the beginning of the year, and had heard that DHEA could enhance my abilities and results of such. I take 25mg per meal, for a total of 75mg per day. </p><p>Over the last few months, I have noticed an increase in my energy all day long, increased stamina during my workout, and lessened recovery time.  It also seems to have the side effect of increasing my sexual drive, though not to extreme levels, just closer to where they were when I was a teenager. </p><p>It has also seemed to help in overall weight loss. A friend of mine started a DHEA regimen, but started with an attack dose of 300mg, which caused him great stomach pain and nausea.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-10-21T07:00:00.000Z",
  "views": "11975",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 mg",
-   "administration": "oral",
-   "substance": "DHEA",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

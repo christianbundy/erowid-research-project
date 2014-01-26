@@ -5,12 +5,10 @@
  "substance": "Trazodone ",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "75 mg",
-   "",
-   "Pharms - Trazodone"
-  ]
+  "DOSE:",
+  "75 mg",
+  "",
+  "Pharms - Trazodone"
  ],
  "report": "<p>I was coming off heroin one night and I knew it would get bad late at night and wake me up, so I took 75mg of Trazodone to knock me out. I woke up some hours later totally disoriented and sweaty. I walked into the bathroom and collapsed. It was like the most intense head-rush you can possibly have, I couldn't even see. I layed in the bathroom naked for some more hours until I felt better. I'll never use that stuff again.</p>",
  "year": "2008",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2009-08-21T07:00:00.000Z",
  "views": "12688",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 mg",
-   "administration": "",
-   "substance": "Pharms - Trazodone"
-  }
- ]
+ "dose": {}
 }

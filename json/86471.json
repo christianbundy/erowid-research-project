@@ -5,12 +5,10 @@
  "substance": "Flurazepam (Dalmane)",
  "bodyweight": "178 lb",
  "header": [
-  [
-   "DOSE:",
-   "30 mg",
-   "oral",
-   "Pharms - Flurazepam"
-  ]
+  "DOSE:",
+  "30 mg",
+  "oral",
+  "Pharms - Flurazepam"
  ],
  "report": "<p>I rapidly develop tolerance to sedative-hypnotics. My physician and I were troubled when all the traditional sleep aids had failed: Ambien (zolpidem), ProSom (estazolam), Valium (diazepam), Restoril (temazepam), Atarax (hydroxyzine).... I could go on.</p><p>Flurazepam or Dalmane was able to give me just enough sleep on the second night. Strangely, Dalmane has a ~130+ halfhour in the body. So every night you take Dalmane more had subsequently built up hence the action of the drug. I was grateful for the sleep, but the drugs consistent levels in the blood during the day can cause residual sleepiness...</p>",
  "year": "2010",
@@ -19,12 +17,5 @@
  "age": "23",
  "timestamp": "2011-02-15T08:00:00.000Z",
  "views": "5658",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "30 mg",
-   "administration": "oral",
-   "substance": "Pharms - Flurazepam"
-  }
- ]
+ "dose": {}
 }

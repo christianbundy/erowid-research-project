@@ -5,12 +5,10 @@
  "substance": "Valerian",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Valerian"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Valerian"
  ],
  "report": "<p>I grew up with Valerian in Germany. As a very active child I was given Valerian almost every day. I have a heart condition which gave me panic attacks and irregular heartbeat for 25 years. Cardialogists prescribed Inderal and tranquillizers, which made me feel like I was living on another planet. I have been going back to valerian and the results are overwelming. No more panick attacks and my heart beat is more regular, life is normal. I do not believe in prescription drugs, they have too many side effects. Natural products taken in normal doses are the best. Like with anything else, moderation is the key. </p>",
  "year": "",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "24943",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Valerian"
-  }
- ]
+ "dose": {}
 }

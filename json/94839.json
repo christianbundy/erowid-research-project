@@ -5,18 +5,16 @@
  "substance": "Methoxetamine",
  "bodyweight": "80 kg",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "50 mg",
-   "insufflated",
-   "Methoxetamine ",
-   "(powder / crystals)",
-   " T+ 7:00",
-   "70 mg",
-   "insufflated",
-   "Methoxetamine ",
-   "(powder / crystals)"
-  ]
+  "DOSE: T+ 0:00",
+  "50 mg",
+  "insufflated",
+  "Methoxetamine ",
+  "(powder / crystals)",
+  " T+ 7:00",
+  "70 mg",
+  "insufflated",
+  "Methoxetamine ",
+  "(powder / crystals)"
  ],
  "report": "<p>I insufflated exactly 50mg at around 1pm, and tripped regularly as I normally would, as I use MXE a lot. Then later on, about 8pm I had another line of 70 mg. Instead of all the normal signs of tripping, I felt numb and cold, with no euphoria or happiness, just tingly all over and it wasn't pleasant.</p><p>This 'bad trip' lasted about 2 hours and the effects began to wear off. This was the first noteable bad trip from MXE I've ever had, and I've been using it for about 7 months.</p>",
  "year": "2012",
@@ -25,13 +23,5 @@
  "age": "17",
  "timestamp": "2012-03-21T07:00:00.000Z",
  "views": "3972",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "50 mg",
-   "administration": "insufflated",
-   "substance": "Methoxetamine ",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

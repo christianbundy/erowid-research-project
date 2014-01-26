@@ -5,13 +5,11 @@
  "substance": "Methadone",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 mg",
-   "oral",
-   "Methadone",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "20 mg",
+  "oral",
+  "Methadone",
+  "(pill / tablet)"
  ],
  "report": "<p>Well as far as Methadone goes it's fun.  Once I get past the shitty throwing up phase it'll rock my world and kick my ass.  If I take it in the morning it'll last me all damn day.  I take them in pill form, so it's time released.</p><p>The thing w/ Methadone is that when I take them it's normally at night.  I still get a little sick to my stomach, and normally I throw up at one point or another, but once I do I feel great and it won't bother me again.  Anyhow, I usually take them at night and they kick my ass.  LOL...  I'll be sitting there in a weird state of I'm here but I'm not here. It's fun. </p><p>By the next day I get up and basically feel shitty the entire next day.  That kinda sucks.  I think that's just me though.. All of my friends eat them and they have no problem with that.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-10T07:00:00.000Z",
  "views": "11067",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Methadone",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

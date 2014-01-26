@@ -5,13 +5,11 @@
  "substance": "Mirtazapine (Remeron)",
  "bodyweight": "88 lb",
  "header": [
-  [
-   "DOSE:",
-   "7.5 mg",
-   "oral",
-   "Pharms - Mirtazapine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "7.5 mg",
+  "oral",
+  "Pharms - Mirtazapine",
+  "(daily)"
  ],
  "report": "<p>I started taking Remeron for depression two weeks ago. Due to my low body weight and volume, I split every 15mg dose pill and only take half (7.5mg) each day.</p><p>I don't know if it's actually working to combat my depression or it's merely the placebo effect. The side effect of sedation is fairly persistent and forces me to sleep for at least 12 hours a day (originally I sleep for 9) and keeps me disoriented during daytime. I am also constantly hungry, but that may be because of the number of hours that I sleep, which squeezes my meal times closer together. I don't mind constantly eating to satisfy my appetite, because I am underweight anyways.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2010-07-21T07:00:00.000Z",
  "views": "5757",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "7.5 mg",
-   "administration": "oral",
-   "substance": "Pharms - Mirtazapine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

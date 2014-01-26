@@ -5,13 +5,11 @@
  "substance": "Modafinil",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "300 mg",
-   "oral",
-   "Modafinil",
-   "(daily)"
-  ]
+  "DOSE:",
+  "300 mg",
+  "oral",
+  "Modafinil",
+  "(daily)"
  ],
  "report": "<p>Modafanil is advertised for alertness and from my experience seemed selective. No jitters, no palpatations, and most interestingly, did not significantly act on sleep receptors. This creates a peculiar dynamic though when tired, as sleepiness combined with alertness gives a headache-y tension.</p><p>Onset is also fairly slow, taking a few hours to really set in. This can be shortened by crushing the pills. The effect lasts a surprisingly long time, around 12 hours or so on 300mg, and there seems a build-up effect after a few days. After 3 days I can even skip a day and still feel somewhat influenced. I used modafanil for about a week, and over time there are more noticable effects on sleepiness and sleep.</p><p>I didn't find Modafanil to have direct appetite or psychomimetic effects like amphetamines, although the highened focus of the drug resulted in eating less and a little mental instability. As anyone knows, even sleep deprivation can cause psychosis, and the stimulating effect of modafanil seems to bring the whispers from beyond a little closer. I'm surprised actually that people can take this drug for long periods without more untoward effects.</p><p>For me, it was useful for the intense focus I required at the time. Its not anything I'd want to take for long periods. There isn't any euphoria.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-12-17T08:00:00.000Z",
  "views": "12657",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "300 mg",
-   "administration": "oral",
-   "substance": "Modafinil",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

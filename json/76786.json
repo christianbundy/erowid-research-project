@@ -5,18 +5,16 @@
  "substance": "Methocarbamol (Robaxin)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "750 mg",
-   "oral",
-   "Methocarbamol",
-   "(pill / tablet)",
-   " T+ 1:30",
-   "750 mg",
-   "oral",
-   "Methocarbamol",
-   "(pill / tablet)"
-  ]
+  "DOSE: T+ 0:00",
+  "750 mg",
+  "oral",
+  "Methocarbamol",
+  "(pill / tablet)",
+  " T+ 1:30",
+  "750 mg",
+  "oral",
+  "Methocarbamol",
+  "(pill / tablet)"
  ],
  "report": "<p>Took 1 (750mg) late-mid day, felt effects start 1-2 hours later, took 1 more (750mg) hoping it would put me to sleep for the night. Sleepy and nodding out for about 2 hours then suddenly wide awake with groggy head. Cannot sleep. Acidic stomach burns, headache, nausea, dry eyes and mouth, acute loss of appetite, strange taste in mouth. Never had any effect relaxing sore tense muscles.</p>",
  "year": "2009",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2009-02-10T08:00:00.000Z",
  "views": "37248",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "750 mg",
-   "administration": "oral",
-   "substance": "Methocarbamol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

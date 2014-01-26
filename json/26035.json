@@ -5,12 +5,10 @@
  "substance": "DXM",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "345 mg",
-   "oral",
-   "DXM"
-  ]
+  "DOSE:",
+  "345 mg",
+  "oral",
+  "DXM"
  ],
  "report": "<p>Quite interesting, perceptual distortions (e.g. time dilation, aureal enhancement, slighty blurred vision) and a general feeling of well-being.  For the first hour, the phenomenology was similar to that 3-4 drink 'nicely toasted buzz' feeling I get when consuming alcohol.  After about 1.75 hrs, clipping errors (perceptual distortion of vestibular & visual systems, best described as a 'lag' in visual processing--it takes a while for things to catch up after movement) set in.</p><p>Music sounds amazing, I am listing to Radiohead's Kid A and Amnesiac and I am can hear patterns of sound that I have never heard before, despite countless listens.  There is a slight feeling of falling when I lay down, as if I am levitating.  At 2.5 - 3 hours, the falling sensation was replaced with gentle dizziness (not nausiating, kind of fun).  My feet feel heavy and make loud booming noises when I step.  At 4 hours, discrimination from an alcohol induced state is impossible.  Side effects include dry mouth, stale breath, vile taste in back of throat and (quite ironically) coughing.</p>",
  "year": "2003",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "4252",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "345 mg",
-   "administration": "oral",
-   "substance": "DXM"
-  }
- ]
+ "dose": {}
 }

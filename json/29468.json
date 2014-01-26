@@ -5,13 +5,11 @@
  "substance": "Gabapentin (Neurontin)",
  "bodyweight": "154 lb",
  "header": [
-  [
-   "DOSE:",
-   "800 mg",
-   "oral",
-   "Pharms - Gabapentin",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "800 mg",
+  "oral",
+  "Pharms - Gabapentin",
+  "(pill / tablet)"
  ],
  "report": "<p> I, Along with some other friends got a hold of a bottle of Gabapentin (Neurontin).  The first time I did it i took two 400mg pills (800mg). For the first 20 minutes I didn't feel any effects and wondered whether it would work or not. 10 minutes later I felt a small reaction and felt a bit buzzed. 40 minutes after taking the pill I started to feel pretty high; similar to the high of marijuana but yet less as intense.</p><p>A little while afterwards I started to have a weird reaction, when I turned my head in a new direction that side of the room would turn black and then look like it would warp back and become blurry before I could see it clearly. Everything turned as if some objects near me were 3-D and objects farther away were 2-D the effects seemed very similar to Ecstasy (MDMA) I was very calm and relaxed but yet had a very intense inner adrenaline rush. I had absoulutly no paranoia what-so-ever about taking the drug knowing that it is a pharmaceutical and is made clean and safe.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-02-10T08:00:00.000Z",
  "views": "35121",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "800 mg",
-   "administration": "oral",
-   "substance": "Pharms - Gabapentin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

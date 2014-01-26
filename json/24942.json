@@ -5,13 +5,11 @@
  "substance": "Xylazine",
  "bodyweight": "186 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "IV",
-   "Xylazine",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "IV",
+  "Xylazine",
+  "(liquid)"
  ],
  "report": "<p>Being an insomniac, I took up the chance to experiment with tranquilizers when my dealer gave me the remnants of a bottle of xylazine he had procured on a previous pharm run from Mexico.  On the day of the experiment I had smoked some cannabis hours earlier but no real effects remained with me.  A big part of this experience for me was the use of a needle.  This is the first time I was able to be sure that I was getting a sterile product; I didn't really care about the xylazine as much as indulging my fascination with needles.  I had never injected anything because I had never really had anything benign enough for me to feel safe injecting.  I injected, using sterile procedure, about half a cc of the solution (20mg per cc), what I perceived as a small amount.  About five to ten minutes after injection I felt very tired, as if I had been using a lot of vicodin but without the euphoria.  I could have fought the tiredness but I felt that my body was telling me something and I fell fast asleep for about two hours.  When I woke up, I still felt very tired and had very bloodshot eyes and was up only long enough to go to the bathroom and sleep from around 9 pm to 9 am.  I had a slight headache the next day that was alleviated (but not eliminated) by taking some aspirin.  All in all, I would not really recommend the drug.  There are much more controllable and useful sleeping drugs and there were no 'fun' effects to the drug at all, giving it zero recreational value unless sleeping for 12+ hours.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2013-07-15T07:00:00.000Z",
  "views": "2394",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "IV",
-   "substance": "Xylazine",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

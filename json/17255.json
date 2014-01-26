@@ -5,13 +5,11 @@
  "substance": "Marinol (dronabinol)",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 capsl",
-   "oral",
-   "Pharms - Dronabinol",
-   "(capsule)"
-  ]
+  "DOSE:",
+  "1 capsl",
+  "oral",
+  "Pharms - Dronabinol",
+  "(capsule)"
  ],
  "report": "<p>Jack Stoennd received four Marinol capsules from a reliable pharmaceutical source one day in exchange for P. Cubensis mushrooms. Being reasonably curious, Jack decided to try one after school.  At 2:15, Jack Stoennd took one Marinol capsule containing ten milligrams of dronabinol, the main psychoactive cannibinoid present in marijuana.  Jack Stoennd had had little to eat that day.  By 3:00, Jack began to feel a bit high, a bit restless.  By the end of the next hour, he felt a level of intoxication approximately equal to that provided by a gram of good potency cannabis when eaten.  Jack was unable to concentrate clearly on his homework.  His perception of music was enhanced, and his appetite was largely increased.  Around 7:00, Jack's high began to fade.  By 8:00, he was nearly back to baseline.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-09-05T07:00:00.000Z",
  "views": "21104",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 capsl",
-   "administration": "oral",
-   "substance": "Pharms - Dronabinol",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

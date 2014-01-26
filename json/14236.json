@@ -5,13 +5,11 @@
  "substance": "GHB",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "5.0 ml",
-   "oral",
-   "GHB",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "5.0 ml",
+  "oral",
+  "GHB",
+  "(liquid)"
  ],
  "report": "<p>My wife and I experience sores in our mouths when using GHB heavily. On the weekends when we indulge for a couple days straight we develope sores in the front of inside of our mouths where the gum tissue is the softest. My obvious concerns take in the original ingredients and what effects they could have on your insides. The reaction also intrigues me because when ingesting the mixture (with a splash of orange juice) we toss it back as quickly as possible not letting it come in contact with our lips. This leads me to conclude it is an internal reaction. I've scoured the internet for reactions to GHB and GBL taking into consideration that possibly it is a solvent burn but have found nothing. We wonder if there is a toxicity issue with something that has such powerful originating ingredients, and if improper ratios during preparation could have bad results. (I've read where people ingest the GBL straight. Isn't it a corrosive solvent?)</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-11-29T08:00:00.000Z",
  "views": "6909",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "5.0 ml",
-   "administration": "oral",
-   "substance": "GHB",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

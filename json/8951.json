@@ -5,16 +5,14 @@
  "substance": "Cannabis & P semilanceata & P cyanescens (smoked)",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "1.0 g",
-   "smoked",
-   "Mushrooms - P. cyanescens",
-   "",
-   "1.0 g",
-   "smoked",
-   "Mushrooms - P. semilanceata"
-  ]
+  "DOSE:",
+  "1.0 g",
+  "smoked",
+  "Mushrooms - P. cyanescens",
+  "",
+  "1.0 g",
+  "smoked",
+  "Mushrooms - P. semilanceata"
  ],
  "report": "<p>Me and a friend of mine had a grip of libertys and wavys and decided to try and smoke a little with some pot. we took a dried gram of each and crushed it into a powder and started to load a 'pinch' on top of each bowl until it was gone, which took longer than we expected. the experience was very dreamy with sounds being highly pronounced along with flashes of strange geometric patterns with my eyes closed, but nothing intense.my friend said he felt just stoned (this could be because he weighs 45 more pounds than me).  it lasted 2 hours or so. i think it would be more intense if done while already tripping.</p>",
  "year": "2000",
@@ -23,13 +21,5 @@
  "age": "Not Given",
  "timestamp": "2001-10-24T07:00:00.000Z",
  "views": "13316",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1.0 g",
-   "administration": "smoked",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

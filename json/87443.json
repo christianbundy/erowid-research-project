@@ -5,12 +5,10 @@
  "substance": "LSD & Migraines",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "2 hits",
-   "",
-   "LSD"
-  ]
+  "DOSE:",
+  "2 hits",
+  "",
+  "LSD"
  ],
  "report": "<p>I tripped two weeks ago, but I'm suffering a migraine right now.</p>",
  "year": "2010",
@@ -19,12 +17,5 @@
  "age": "30",
  "timestamp": "2010-09-27T07:00:00.000Z",
  "views": "4281",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 hits",
-   "administration": "",
-   "substance": "LSD"
-  }
- ]
+ "dose": {}
 }

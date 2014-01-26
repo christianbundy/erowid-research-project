@@ -5,13 +5,11 @@
  "substance": "Morning Glory",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "",
-   "Morning Glory",
-   "(seeds)"
-  ]
+  "DOSE:",
+  " ",
+  "",
+  "Morning Glory",
+  "(seeds)"
  ],
  "report": "<p>The unripened seed pods of the Morning Glory reveal a white, much larger, soft seed with some green in the middle of the kernel. I have found that this state of the seeds is more than twice as potent as the black dried seeds.  400 dried is similar to a little less than one hit LSD.  400 fresh is like about 2 or three hits.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-04-16T07:00:00.000Z",
  "views": "5026",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "",
-   "substance": "Morning Glory",
-   "form": "(seeds)"
-  }
- ]
+ "dose": {}
 }

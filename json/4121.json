@@ -5,13 +5,11 @@
  "substance": "Amphetamine (Adderall)",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 mg",
-   "oral",
-   "Amphetamines",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "20 mg",
+  "oral",
+  "Amphetamines",
+  "(pill / tablet)"
  ],
  "report": "<p>The only way that I can work is if I take Adderall. When I first take it, (after about 20 minutes) I can feel my body start to wake up, to get all heightened. My heart speeds up and I'm just toally RIPPED and PUMPED to do ANYTHING and EVERYHING. I've cleaned my room, run miles, written papers, gone to parties all psyched up everything. It lasts about three hours before I start to feel really tired and out of it....then, I get really sad and hollow. And finally, I get so depressed that I'm suicidal.  If I can sleep it off, I'm OK...otherwise I just end up curling into a ball for a few hours wishing to die.  Scary stuff.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2000-12-09T08:00:00.000Z",
  "views": "22402",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Amphetamines",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

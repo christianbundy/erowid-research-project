@@ -5,13 +5,11 @@
  "substance": "Tramadol (Ultram)",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "200 mg",
-   "oral",
-   "Pharms - Tramadol",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "200 mg",
+  "oral",
+  "Pharms - Tramadol",
+  "(pill / tablet)"
  ],
  "report": "<p>I have dabbled in opiates for a few years and have tried most of the them from heroin to hydrocodone.  I found the non-opiate tramadol to have had the following distinct effects that I have never experienced with any opiate:</p><p>1) Clearest sinuses ever.  I don't typically take allergy medicine but I have had colds/flu where I take Sudafed or something similar and nothing cleared me out like tramadol.  The extent of the clear sinuses was remarkable. 2 friends of the same gender, age, and weight concurred on this effect.</p><p>2) A little speedy.  I experienced a prolonged version of the upbeat mental clarity/excitement that I usually experience during the first 20 minutes of the onset of dextro-amphetimine.  This lasted for 2.5-3 hours with tramadol.</p><p>Other than that I found it to be pleasant and mildly euphoric, along the lines of a 5-10mg dose of hydrocodone.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-24T07:00:00.000Z",
  "views": "9870",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "200 mg",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

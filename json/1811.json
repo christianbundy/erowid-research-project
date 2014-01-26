@@ -5,12 +5,10 @@
  "substance": "Datura Seeds",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "25 seeds",
-   "oral",
-   "Datura"
-  ]
+  "DOSE:",
+  "25 seeds",
+  "oral",
+  "Datura"
  ],
  "report": "<p>John (170lbs.) took 20-30 Datura stramonium seeds, He was taking a prescription anti-depressant MAO Inhibitor. David (120lbs.) took 20-30 seeds. Bob (160lb.) took 200-300 seeds. And Larry (150lbs.)took 200-300 seeds. John began to feel very dizzy and had slurrred speech within 45 minutes. David reported no effects what so ever. Bob and Larry reported feeling very drunk, dry mouth, and headache after 90 minutes. John began to speak to people who were not there, in very slurred speech. He seemed to think he was elsewhere and addressed the others in the group and inaminate objects as his mother or people he knew. He later reported having gone many places and having long and intresting conversations with many old freinds, yet had forgotton much of what happened. David, Bob, and Larry had no such experiances. Everyone in the group had blurred vision for about three days afterwards. I believe John's extreme reaction was because of the MAOI he was taking. The MAOI acts as a multiplier with datura, perhaps increasing the strength more than ten times. This combonation however may be very dangerous and even deadly, so use extreme caution. </p>",
  "year": "1998",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "41315",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "25 seeds",
-   "administration": "oral",
-   "substance": "Datura"
-  }
- ]
+ "dose": {}
 }

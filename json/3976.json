@@ -5,13 +5,11 @@
  "substance": "Wormwood Leaf",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 leaf",
-   "oral",
-   "Wormwood",
-   "(fresh)"
-  ]
+  "DOSE:",
+  "1 leaf",
+  "oral",
+  "Wormwood",
+  "(fresh)"
  ],
  "report": "<p>I and my good friend Matt had just stopped by the Farmer's market in thousand oaks. We had ordered a good sized wormwood plant (artemisia absinthium) from the lady who works there. We were both very surprised with how easy it is to get wormwood in a yuppie infested suburban area. We later brought the plant home, watered it and waited a few days for everything to settle. I think it was on friday in the month of April..not sure exactly when. We both snapped a single leaf off of the plant (each leaf about the size of a quarter) at about 5:00 and since it was so horribly bitter ate it with half an orange.</p><p>The effects were pretty mild, nothing special...i noticed that bright objects had slight auras...and felt effects similar to small doses of Vicodin. Very small doses. The only side effects were mild stomach cramps..no nausea.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-01-20T08:00:00.000Z",
  "views": "34181",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 leaf",
-   "administration": "oral",
-   "substance": "Wormwood",
-   "form": "(fresh)"
-  }
- ]
+ "dose": {}
 }

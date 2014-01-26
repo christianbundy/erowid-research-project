@@ -5,13 +5,11 @@
  "substance": "Paroxetine",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "25 mg",
-   "oral",
-   "Pharms - Paroxetine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "25 mg",
+  "oral",
+  "Pharms - Paroxetine",
+  "(daily)"
  ],
  "report": "<p>A few months ago, I was put on Paxil CR for general anxiety disorder. For the first few months, it had no effect on me. About 3 months after taking it, I started to notice a change. I don't feel anxious like I used to, I used to be very shy, afraid of being in public, now I almost feel outgoing. It's been a great change for me.</p><p>However, this doesnt come without a cost. I notice wavy lines in my vision now, especially an hour or two after I take it. It's no big deal, but it's noticeable, and now getting annoying. Paxil also gives me headaches, so I have to take ibuprofen a couple times a day, which I dont like to do. Paxil also has taken away much of my sex drive, and my ability to orgasm. Even though the side effects are getting to me now, I dont want to go off, I feel irritable if I dont have my daily dose. I also like the change it has done for me.</p><p>Despite the ill side effects, it has done me a lot of good.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-03-09T08:00:00.000Z",
  "views": "7880",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "25 mg",
-   "administration": "oral",
-   "substance": "Pharms - Paroxetine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

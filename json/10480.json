@@ -5,13 +5,11 @@
  "substance": "GVL",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "2.5 ml",
-   "oral",
-   "GVL",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "2.5 ml",
+  "oral",
+  "GVL",
+  "(liquid)"
  ],
  "report": "<p>Well, a couple of days ago I posted a message to alt.drugs.ghb asking about Tranquilli-G.  It arrived today; I took about 2.5mL after working from 5:30a.m til' 2:00p.m. Before I took it I was feeling agitated achy, and tired.  It took about 20 min. and I felt something, not excatly sure, but it felt good, I drifted off to sleep and slept for about an hour or so and woke up feeling fairly good. (usually after an afternoon nap I wake up feeling terrible.) So it had some effect on me other than sleepiness. It took some of my aches and pains away before falling asleep also. </p><p>I continued to use the Tranquilli-G and found it to be fairly weak.  Although it did definately do something, made ne feel mildly relaxed and helped me sleep.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-11-08T08:00:00.000Z",
  "views": "12746",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2.5 ml",
-   "administration": "oral",
-   "substance": "GVL",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

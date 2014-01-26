@@ -5,13 +5,11 @@
  "substance": "2-Aminoindan",
  "bodyweight": "60 kg",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "insufflated",
-   "2-Aminoindan",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  " ",
+  "insufflated",
+  "2-Aminoindan",
+  "(powder / crystals)"
  ],
  "report": "<p>This was some time ago so I don't remember the specific dosage (below 100 mg), but basically I started snorting very small amounts and titrated upwards. There was a general stimulating effect which kept me awake for all night. I was awoke all of next day without feeling tired and slept normally that night.</p><p>I didn't feel any euphoria (or any toxic effect) despite upping the dosage repeatedly after noticing the first stimulant effects. Increasing the dosage actually didn't seem to do much. There were some body chills/shivers.</p><p>The material seemed quite safe but not very interesting, unless I need something to stay awake on. After conducting some initial experiments I threw out what I had left. Perhaps an ever higher dosage would give some euphoria, however I didn't feel inclined to test, not knowing anything about long-term toxicity.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2005-07-15T07:00:00.000Z",
  "views": "8730",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "insufflated",
-   "substance": "2-Aminoindan",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

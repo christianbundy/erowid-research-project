@@ -5,13 +5,11 @@
  "substance": "Paroxetine",
  "bodyweight": "114 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Pharms - Paroxetine",
-   "(daily)"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Pharms - Paroxetine",
+  "(daily)"
  ],
  "report": "<p>On reduction from 30mg of Seroxate (i.e. trying to come off the medication), I found that I had to reduce them by a 1/4 tablet at a time. Took that dose for about 3-4 weeks, then reduced by another 1/4 tablet. This way side effects were bearable, but were still rather uncomfortable and anoying. They included in my case:</p><p>Dizziness, Nauseousness and balance problems due to eye movement.</p><p>Feelings of going up and down in a lift, irrespective of standing, sitting, laying, eyes open or closed.</p><p>Why do I have these problems, if this drug is as non-addictive as the doctors told me?</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-09-21T07:00:00.000Z",
  "views": "9488",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Pharms - Paroxetine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Buprenorphine",
  "bodyweight": "220 lb",
  "header": [
-  [
-   "DOSE:",
-   "8.0 mg",
-   "sublingual",
-   "Pharms - Buprenorphine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "8.0 mg",
+  "sublingual",
+  "Pharms - Buprenorphine",
+  "(pill / tablet)"
  ],
  "report": "<p>This medication is heaven in an orange flavored candy.  As a former hard core heroin addict, and someone who still enjoys a fine chemical on occasion, let me say that after buying one 8mg sublingual tablet for $10, i was expected to be ripped off.</p><p>Was I ever wrong.</p><p>First of all, just like with the sisters morphine and diacytalmorphine, all my pain was gone in just about 5 minutes.  Them my anxiety about everything melted down to nothing.</p><p>Unlike all my other opiate friends, I did not nod out or get tired on this at all.  Rather I had more energy than I've had scince being 5 years old.  But none, absolutly non of it was nervous energy.  Between writing and errends I got more done is 18 hours than in the last 38 days!</p><p>As for the comedown, it was soft and gradual, and the last part to softly leave me was the blockage of all anxiety and depression.  The total experiance was give or take 36 hours and the first thing I did was call and get on the waiting list of every doctor who prescribes this within a 50 mile radius of my house.  Will I do it again?  The only thing that could stop me would be if every trace of it as well as its formula were wiped off the face of the earth.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2005-10-03T07:00:00.000Z",
  "views": "41695",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "8.0 mg",
-   "administration": "sublingual",
-   "substance": "Pharms - Buprenorphine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

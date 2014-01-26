@@ -5,13 +5,11 @@
  "substance": "Methadone",
  "bodyweight": "475 lb",
  "header": [
-  [
-   "DOSE:",
-   "60 mg",
-   "oral",
-   "Methadone",
-   "(daily)"
-  ]
+  "DOSE:",
+  "60 mg",
+  "oral",
+  "Methadone",
+  "(daily)"
  ],
  "report": "<p>I have severe intractible pain in my back from an injury.  Over the years I have been on Darvocet (about two years), then Norco (about a year and a half) and now Methadone (for over two years now) -- all prescribed.  Without opioids I am in such severe pain I have to stay in bed or in a very soft chair. </p><p>When I first took Methadone (one 10 mg pill), I felt an inadvertent high that was not to be believed, I felt like I could take over the world. This is after being on Norco 10 mg every 4 hours (60 mg daily) for over a year!  Also, talk about no pain -- I thought I was 18 again!  After that, I did not feel that immediate high (thankfully -- I have to function) but the no pain feeling stayed for about six hours each time I took a pill (my doc said it should last 12).  Because the effects did not last long enough, the dose was increased to 20 mg every 12 hours.  For about a year Methadone worked as advertised (keeping pain level below a three) about 80 percent of the time, supplimented with Norco as needed for breakthrough pain.  Slowly, my injury worsened and then the dose would last only 8-10 hours (again at the 80th percentile).  My doc then (at my request) upped the dose to 20 mg every 8 hours, supplemented with Norco as needed.  That is where I currently stand dose-wise, pain level between 1 and 4 about 80 percent of the time.</p><p>One effect I notice is that about once or twice a week, about three hours after my dose (always the second or third dose of the day) I feel drunk -- slightly slurring my speech, slightly stumbling -- about the effect of 10-12 beers when not on Methadone (two drinks and I am out if drinking while on Methadone).  I also notice a slight itchiness on occasion (did not equate to Methadone until reading experience reports).  Please note that I have never used illegal drugs such as heroin, cocaine (may have been used once legally during nose surgery), or pot.  I will take the occasional high (sometimes it even happens at the proper time) in exchange for the massive pain relief offered by Methadone.  I don't know about the recreational use bit, but if you are in severe pain that will last more than a few weeks, ask about it at the doctor's office.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2011-02-11T08:00:00.000Z",
  "views": "13571",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "60 mg",
-   "administration": "oral",
-   "substance": "Methadone",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

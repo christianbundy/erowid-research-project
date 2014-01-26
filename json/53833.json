@@ -5,13 +5,11 @@
  "substance": "Venlafaxine (Effexor)",
  "bodyweight": "65 kg",
  "header": [
-  [
-   "DOSE:",
-   "150 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "150 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)"
  ],
  "report": "<p>After recently attempting to turn my crappy life around, it was suggested that I would be put on medications.</p><p>At first, I was excited about the idea. Then, skeptical. I gave it a shot anyway. First off, I was put on Citalopram at a low dose (20mg). Months of the exact same feelings I had previously been having went on. I was put on Fluoxetine, again - 20mg. My mood was somewhat dysphoric after 48 hours of trying this, but I continued taking this for a further 5 months.</p><p>After an attempted suicide, and being under watch for 2 weeks, I was prescribed Venlafaxine - The Miricle Drug. Indeed, I found Venlafaxine made my depressing feelings and thoughts fade, at a cost. I am addicted. If I miss one day of my pills, I noticeably start to shiver and spasm. After two days they get worse - shocks are not only muscular but also something I can only describe as 'Brain Twitching'.</p><p>Drug Interactions:</p><p>Drinking Alcohol on Venlafaxine - I'm sure this is an individual effect on myself, but after drinking alcohol, I tend to wander or roam places, with full consciousness of what I'm doing but without any rationality.</p><p>Marajuana on Venlafaxine - Increased Euphoria, Feeling of being outside myself etc. No different than usual.</p><p>Anyway, I'm still on the meds, and I know when I eventually need to make my way off them, it will be a hard task.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-10-27T07:00:00.000Z",
  "views": "5760",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "150 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

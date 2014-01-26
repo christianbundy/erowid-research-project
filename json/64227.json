@@ -5,18 +5,16 @@
  "substance": "Yerba Mate & Skullcap",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "2 Tbsp",
-   "oral",
-   "Yerba Mate",
-   "(tea)",
-   " T+ 0:50",
-   "1 cup",
-   "oral",
-   "Skullcap",
-   "(tea)"
-  ]
+  "DOSE: T+ 0:00",
+  "2 Tbsp",
+  "oral",
+  "Yerba Mate",
+  "(tea)",
+  " T+ 0:50",
+  "1 cup",
+  "oral",
+  "Skullcap",
+  "(tea)"
  ],
  "report": "<p>I placed about two tablespoons of Yerba Mate herb that I bought at a local herb store in a coffee press.  I then added near-boiling water and allowed it to steep for about 4 minutes before pressing.  I then added ice and enjoyed it with a cigarette.  It tasted like green tea.</p><p>Within ten minutes I felt stimulation with a very mild caffeine buzz.  The character of the buzz was not much like the buzz that I get from coffee, it was more subtle and did not make me feel 'fucked up.'  It was a mild buzz centered in my forearms and forehead.  I did not feel anxious or jittery.</p><p>About an forty minutes after this, the effects were about the same.  At that time, I ingested a cup of skullcap tea, and the effects became confused with each other, therefore, I cannot say how long the effects lasted.</p><p>I highly recommend Yerba Mate as a coffee alternative, it provides stimulation without excessive anxiety or jitters.</p>",
  "year": "2007",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2010-02-23T08:00:00.000Z",
  "views": "6134",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "2 Tbsp",
-   "administration": "oral",
-   "substance": "Yerba Mate",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

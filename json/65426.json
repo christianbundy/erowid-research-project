@@ -5,12 +5,10 @@
  "substance": "Flunitrazepam (Rohypnol)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "Pharms - Flunitrazepam"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "Pharms - Flunitrazepam"
  ],
  "report": "<p>My personal experience with them is as follows: After the initial rush, it would  slowly put me in a state of blissful forgetfulness. While everything is happening, I think, react and participate. Speach may or may not be slurred and alcohol consumption is definately not advisable. The reason Rohypnol is considered a 'date-rape-drug' is because of the fact that nothing is kept in memory, especially in combination with alcohol. Rohypnol in combination with an opiate such a methadone, morphine sulfate or even something as weak as vicodin or percocet can be rewarding as the overall feeling can mimic heroin. By itself, Rohypnol is not really a recreational drug, in my opinion. It dampens memory too much and the lethargy that often accompanies it is why it is perscribed for sleep and angst. This is more something to take when I want to crash with friends and watch movies.</p>",
  "year": "1993",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-08-29T07:00:00.000Z",
  "views": "8178",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "Pharms - Flunitrazepam"
-  }
- ]
+ "dose": {}
 }

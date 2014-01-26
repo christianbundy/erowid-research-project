@@ -5,13 +5,11 @@
  "substance": "Buprenorphine",
  "bodyweight": "73 kg",
  "header": [
-  [
-   "DOSE:",
-   "1.0 mg",
-   "IV",
-   "Pharms - Buprenorphine",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "1.0 mg",
+  "IV",
+  "Pharms - Buprenorphine",
+  "(liquid)"
  ],
  "report": "<p>A brief summery of the effects of a large dose of Buprenorphine (it does feel like I could have more but I am weary of doing so, even though my heart rate hadn't gone down very much at all).</p><p>It's not as stoning as 600mg of codiene (not that would ever take that much codiene - it's just a comparison), in fact it's actually more of a nothingness feeling where all my troubles are taken away. The effects themselves are noticable for around 10-14 hours, but are only really fun for maybe 6 where upon I want more (I would say this is quite an addictive substance and nothing to be snuffed at, and that's just from dabbling with it, if one were to actually get hooked on the stuff I would bet my bottom dollar that it could quite possibly be a life changing experience). I also enjoy itching myself across my face and body quite a lot, it's not noticable to me because I couldn't care less about anything, but people around me probably think I've got some sort of STD :).</p><p>I also seem to nod on and off with the stuff, where my head will roll back and I could cuddle up right then and there - probably more enjoyable around 0.8mg IV (IM is definately less addictive, but I prefer eeking it out). Occationally it has mixed well with alcohol and weed, but one time I had a few valium with it and I woke up with a very undesirable headache for the rest of the day, one the panadol wouldn't do shit for.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-02-11T08:00:00.000Z",
  "views": "41380",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1.0 mg",
-   "administration": "IV",
-   "substance": "Pharms - Buprenorphine",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

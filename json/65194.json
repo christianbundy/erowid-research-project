@@ -5,23 +5,21 @@
  "substance": "Diphenhydramine & Alcohol",
  "bodyweight": "228 lb",
  "header": [
-  [
-   "DOSE:",
-   "50 mg",
-   "oral",
-   "Diphenhydramine",
-   "(capsule)",
-   "",
-   "50 mg",
-   "oral",
-   "Diphenhydramine",
-   "(capsule)",
-   "",
-   "2/3 cups",
-   "oral",
-   "Alcohol - Hard",
-   ""
-  ]
+  "DOSE:",
+  "50 mg",
+  "oral",
+  "Diphenhydramine",
+  "(capsule)",
+  "",
+  "50 mg",
+  "oral",
+  "Diphenhydramine",
+  "(capsule)",
+  "",
+  "2/3 cups",
+  "oral",
+  "Alcohol - Hard",
+  ""
  ],
  "report": "<p>I got off the computer early that night, since I was scheduled for work at ten in the morning and the drive would take at least forty-five minutes. I had taken a nap earlier that night due to not having much sleep the night before, and when I tried to get to bed again it was impossible, I kept on feeling these weird sensations and thoughts that woke me up. After a couple hours of this, I took a couple benedryl capsules and tried to get to sleep again. That didn't work, so I took a couple more, and tried reading for awhile, but I felt tired and tried to sleep again, which didn't work. I got up and took a few sips of berry brandy from the fridge, then went back to bed and waited for the buzz to kick in and lull me to sleep. Nothing happened, so half an hour or so later, I went back and took a few more sips, right from the bottle. I finally got to sleep a little after 3:30, and woke up a few times. When it was time for me to get ready for work I was so groggy I felt it would be dangerous to drive to work so I called in sick. Then I went back to bed and it took awhile before I went back to sleep again.</p><p>This is the first time benedryl has not helped me sleep, and it may be due to hormonal imbalances signaling an impending period. As I am writing this I still feel the effects a bit but since this is a low dose I doubt I am in any danger. I would recommend not relying on diphenhydramine or alcohol to get to sleep.</p>",
  "year": "2007",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "5894",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "50 mg",
-   "administration": "oral",
-   "substance": "Diphenhydramine",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

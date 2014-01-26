@@ -5,18 +5,16 @@
  "substance": "Melatonin & Vitamin B-6",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Melatonin",
-   "(pill / tablet)",
-   "",
-   " ",
-   "oral",
-   "Vitamin B-6",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Melatonin",
+  "(pill / tablet)",
+  "",
+  " ",
+  "oral",
+  "Vitamin B-6",
+  "(pill / tablet)"
  ],
  "report": "<p>I started taking Melatonin four days ago along with a vitamin B complex in hopes of enhancing my dreams and maybe sleep a little better. I also take OTC Claratin and St. johns wort. I would take 1.5 m.g. of Melatonin and vitamin B at about 9:30 p.m. The first night I fell asleep fast and had some pretty intense dreams. The dreams I can remember were about work and were very vivid, but not worth explaining.</p><p>That day my allergies were horrible and the Claratin I took had no effect at all, so I thought I had come down with a severe cold.That night I took the Melatonin and vitamin B along with some cold medicine. I did not sleep very well and was sneezing all night with a swollen throat.The next to days and nights were the same and I was taking lots of cold medicine to get through. This morning was the worst yet. My nose was runny and my throat and toungue were very swollen.</p><p>I ended up going home after two hours and was thinking about going to the hospital because I was having much difficulty breathing. I found my girlfriends albutoral inhalor and took three puffs. After the swelling subsided I decided to look online for more information on the drugs I was taking. I found out that I am alergic to Melatonin and that I should not take Melatonin since I have seasonal allergies.</p><p>The symptoms I experienced at first were much like that of a common cold with severe seasonal allergies and I had no idea Melatonin was the cause.</p>",
  "year": "2005",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-05T07:00:00.000Z",
  "views": "13545",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Melatonin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

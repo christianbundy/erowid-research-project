@@ -5,13 +5,11 @@
  "substance": "Tramadol",
  "bodyweight": "142 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "oral",
-   "Pharms - Tramadol",
-   "(daily)"
-  ]
+  "DOSE:",
+  " repeated",
+  "oral",
+  "Pharms - Tramadol",
+  "(daily)"
  ],
  "report": "<p>I have been on tramadol consistently (with the exception of a week in 2003) for the past three years. I have previous experience with opioids and opiates, but this is my favorite by far. I have never had a truly negative experience while taking it and think it's great.</p><p>Originally, I was prescribed brand-name tramadol ('Ultram') to deal with the pain of an infected tooth. I was impressed with its effectiveness from the very beginning... no pain, and a delightful, cozy, joyful feeling. This is not just a general 'happy' feeling, but that special kind of warm fuzzy gladness I get when life is perfect and about to get better. I noticed it also makes me more pleasant, talkative, and agreeable (I am naturally a painfully shy person, so this is a definite plus). When taken before bed, it also makes me sleep soundly. I can wake up feeling fully rested on only two or three hours of sleep, and my dreams are superbly interesting. Tramadol also has done a great job of ridding me of depression and insomnia, which I have been affected with since my teen years.</p><p>I now take generic tramadol, as it's cheaper, but it seems to me that the Ultram brand is slightly more effective. This could just be my imagination though. Three in the morning and another two or three at night keep me going, in a great mood.</p><p>The only other minus to tramadol is that I stopped for one week, and was hit with chills, panic attacks, cold sweats, hot flashes, muscle weakness, sleeplessness, weepiness, and a bad headache. According to reports I've read withdrawal is only supposed to last a few days, but I felt it for a week and a half. All in all though, I think this is a marvelous drug that is easy to find and cheap to get online. I really hope they don't make it a controlled substance, it'd be a shame.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "5015",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

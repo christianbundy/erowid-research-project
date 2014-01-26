@@ -5,13 +5,11 @@
  "substance": "Venlafaxine",
  "bodyweight": "111 lb",
  "header": [
-  [
-   "DOSE:",
-   "350 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "350 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)"
  ],
  "report": "<p>This drug should seriously be illegal.  I have been on 350 mg a day for almost 5 years and if I even THINK about not taking them I go through withdrawal symptoms.  I get that electric shock/crazy ass dizzy feeling, nausea and vommiting, a cold sweat, and I start to black out and eventually pass out.  And that's just after not taking it for 2 days.  Yes TWO days.  Without health insurance I would be paying 500 dollars every 3 months to stay on it.  I am TERRIFIED of getting off.  The depression comes back, full speed, much worse than I've had before and I feel like I'm losing my mind if I forget to take it.  It also makes me constantly exhausted.  I feel like I could sleep for days on end.  I'm going to the doctor to get off of this, but I'm afraid of what I will experience in the process. </p><p>I was never told that this was addictive.  I was given it back when it was new, so I feel like I was used as a puppet, to try this out.  Being on 350 mg a day is craziness.  I know that it is killing my liver as I sit here and write this.  Even if I were to take 150 mg or a little more, I go through the same amount of withdrawal symptoms. and if I am even an hour late on taking my meds, I start to feel like crap. This is a horrible drug!  I dont understand why it is even on the market today.  For me, it has caused more harm than good.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "8177",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "350 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

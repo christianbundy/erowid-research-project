@@ -5,28 +5,26 @@
  "substance": "Valerian",
  "bodyweight": "135 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "5 ",
-   "oral",
-   "Valerian",
-   "(capsule)",
-   " T+ 0:15",
-   "3 ",
-   "oral",
-   "Valerian",
-   "(capsule)",
-   " T+ 0:35",
-   "4 ",
-   "oral",
-   "Valerian",
-   "(capsule)",
-   " T+ 0:40",
-   "6 ",
-   "oral",
-   "Valerian",
-   "(capsule)"
-  ]
+  "DOSE: T+ 0:00",
+  "5 ",
+  "oral",
+  "Valerian",
+  "(capsule)",
+  " T+ 0:15",
+  "3 ",
+  "oral",
+  "Valerian",
+  "(capsule)",
+  " T+ 0:35",
+  "4 ",
+  "oral",
+  "Valerian",
+  "(capsule)",
+  " T+ 0:40",
+  "6 ",
+  "oral",
+  "Valerian",
+  "(capsule)"
  ],
  "report": "<p>500 Mg Equiv. 0.8% Valerian Extract (Taken orally)</p><p>Took 5 capsules, waited 15 minutes, then (feeling nothing) took 3 more.</p><p>Felt a little comfortable, and my memory seemed to be a little effected. (Still is)</p><p>Waited 10-20 minutes, took 4 more capsules. Then about 5 minutes after, took 6 more.</p><p>On them right now, I feel very comfortable. Thats about it. My mind also seems a little fuzzy, and my perpective seems a little messed up - edges not lining up rarely.</p><p>Overall, I can see the legitiment uses of this drug but it's recreational use isn't very strong.</p>",
  "year": "2008",
@@ -35,13 +33,5 @@
  "age": "Not Given",
  "timestamp": "2010-01-26T08:00:00.000Z",
  "views": "5247",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "5 ",
-   "administration": "oral",
-   "substance": "Valerian",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

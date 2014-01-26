@@ -5,23 +5,21 @@
  "substance": "Mushrooms, Escitalopram (Lexapro) & Bupropion (Wellbutrin)",
  "bodyweight": "135 lb",
  "header": [
-  [
-   "DOSE:",
-   "2.5 g",
-   "oral",
-   "Mushrooms",
-   "(dried)",
-   "",
-   "10 mg",
-   "oral",
-   "Pharms - Escitalopram",
-   "(daily)",
-   "",
-   "150 mg",
-   "oral",
-   "Pharms - Bupropion",
-   "(daily)"
-  ]
+  "DOSE:",
+  "2.5 g",
+  "oral",
+  "Mushrooms",
+  "(dried)",
+  "",
+  "10 mg",
+  "oral",
+  "Pharms - Escitalopram",
+  "(daily)",
+  "",
+  "150 mg",
+  "oral",
+  "Pharms - Bupropion",
+  "(daily)"
  ],
  "report": "<p>I noticed a request for information reguarding ssri's and mushrooms.  I've been taking lexapro (SSRI)10 mgs and wellbutrin (dopamine / norepenephrine reuptake inhibitors) 150 mgs for about 2 months now, and I took shrooms 2 nights ago.  I was very pleased with my effects, the last time I took shrooms was about a year ago, so I feel that I didn't have any tolerance to them the night I took them.  The effects were alittle diminished, no visuals, aside from walking and seeing the ground sway up and down.  Very relaxed happy feeling though, I have social anxiety disorder, and while on shrooms I went to a party and I was relaxed, had deep conversations with complete strangers, somthing I know I wouldnt be able to do had it not been for the shrooms.  Had a great time, the next day I didn't feel any hang over effects, still felt the happy feeling and I was still able to meet new people very easily.  my friend also took the same dose as I did and he was tripping balls, saw many images and was laughing hysterically for 4 hours straight so I know the shrooms were potent.  Though I didn't trip as hard as he did I'm very glad I did them, SSRI's and Shrooms +++++</p>",
  "year": "2007",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "13288",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2.5 g",
-   "administration": "oral",
-   "substance": "Mushrooms",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

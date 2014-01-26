@@ -5,13 +5,11 @@
  "substance": "Promethazine",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "50 mg",
-   "oral",
-   "Pharms - Promethazine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "50 mg",
+  "oral",
+  "Pharms - Promethazine",
+  "(pill / tablet)"
  ],
  "report": "<p>I took 2 25 mg tabs at 8:30AM.......  By 9:15 I had a pleasant, sedated feeling.  A kind of euphoric side effect as well, but not like the euphoric sensations of an Opioid.</p><p>I noticed if I took this at beditme I slept soundly.  But by taking it while wide awake, it produced a more noticable lightheadedness.  Somewhat like a mix between valium & Soma.</p><p>The effects of the Prometh lasted 3-4 hours with no 'come down' effects. Promethazine produced a drowsy feeling</p><p>I gave a friend 2 25mg tabs today.  He took them & within 45 minutes, he described a relaxed, sedated, almost like having a drink feeling.</p><p>My drugs of choice are Opioids, & I look for other medications that will produce a similar euphoric feeling. Promethazine comes close.  It will brought about a calm, slower state of being, & causes slight giddiness, & disorienting.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-08T07:00:00.000Z",
  "views": "73684",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "50 mg",
-   "administration": "oral",
-   "substance": "Pharms - Promethazine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

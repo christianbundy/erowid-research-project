@@ -5,13 +5,11 @@
  "substance": "Mushrooms (smoked)",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "0.5 g",
-   "smoked",
-   "Mushrooms",
-   "(ground / crushed)"
-  ]
+  "DOSE:",
+  "0.5 g",
+  "smoked",
+  "Mushrooms",
+  "(ground / crushed)"
  ],
  "report": "<p>Well,this being something i've experienced quite a few times ,the effects are generally the same.A mild cerebral high,similar to a toke or two off of some commercial grade bud.slightly more intense body sensations than the same...usually accompanied by some nice colored visuals....lasting 30 mins. to 1 hour....don't waste the caps or stems...use the shake and any dust in the bottom of the bag.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-07-20T07:00:00.000Z",
  "views": "14138",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "0.5 g",
-   "administration": "smoked",
-   "substance": "Mushrooms",
-   "form": "(ground / crushed)"
-  }
- ]
+ "dose": {}
 }

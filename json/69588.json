@@ -5,33 +5,31 @@
  "substance": "Pregabalin (Lyrica) & Alprazolam (Xanax)",
  "bodyweight": "135 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "200 mg",
-   "oral",
-   "Pharms - Pregabalin",
-   "(pill / tablet)",
-   " T+ 1:00",
-   "100 mg",
-   "oral",
-   "Pharms - Pregabalin",
-   "(pill / tablet)",
-   " T+ 2:00",
-   "100 mg",
-   "oral",
-   "Pharms - Pregabalin",
-   "(pill / tablet)",
-   " T+ 3:00",
-   "0.5 mg",
-   "oral",
-   "Pharms - Alprazolam",
-   "(pill / tablet)",
-   " T+ 3:30",
-   "0.5 mg",
-   "oral",
-   "Pharms - Alprazolam",
-   "(pill / tablet)"
-  ]
+  "DOSE: T+ 0:00",
+  "200 mg",
+  "oral",
+  "Pharms - Pregabalin",
+  "(pill / tablet)",
+  " T+ 1:00",
+  "100 mg",
+  "oral",
+  "Pharms - Pregabalin",
+  "(pill / tablet)",
+  " T+ 2:00",
+  "100 mg",
+  "oral",
+  "Pharms - Pregabalin",
+  "(pill / tablet)",
+  " T+ 3:00",
+  "0.5 mg",
+  "oral",
+  "Pharms - Alprazolam",
+  "(pill / tablet)",
+  " T+ 3:30",
+  "0.5 mg",
+  "oral",
+  "Pharms - Alprazolam",
+  "(pill / tablet)"
  ],
  "report": "<p>T-0:00</p><p>I had nothing to do the other night, and I had a old medication sitting in the medicine cabinet. I knew there was some Lyrica in there, and it was scheduled. So I look online, and only found it could have a euphoric effect. I took four of these to make sure I felt something.</p><p>T-1:00</p><p>Not much change, but when I look at lights, the light would stay in my eyes when I looked away. So I take two more.</p><p>T-2:00</p><p>Still nothing more than before, so I take the last two.</p><p>T-3:00</p><p>I thought that would be it so I just went to my bedroom and started spinning a few tracks on my turntables. I found myself dancing, then when I stopped I felt this huge rush of energy flow through my body. I have never felt such a happiness before, I just wanted to dance some more, and get out. I wanted to go out clubbing, so I was looking for some clothes. I thought I was going at 100 miles an hour looking for something, and when I left, I almost fell down the stairs cause I felt so good.</p><p>I eventually got to the club, and took a .5 mg Xanax that I keep in my wallet for my anxiety, and to make me feel at ease, also to fuck me up even more. When we got to the door, I was already dancing like I was at a rave. Then about half an hour later I took another Xanax. I was still hyped up and was dancing everywhere. I even had the balls to go in the DJ booth and chill with the guy who was mixing. I would never do such a thing when I was sober, but this was a special occasion. The night went on, and I met a whole bunch of people and had a great time. The only reason I am saying this, is because I never go clubbing, and when I have, I never wanted to dance or anything.</p>",
  "year": "2008",
@@ -40,13 +38,5 @@
  "age": "Not Given",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "28622",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "200 mg",
-   "administration": "oral",
-   "substance": "Pharms - Pregabalin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

@@ -5,16 +5,14 @@
  "substance": "PCP & Cannabis",
  "bodyweight": "185 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "smoked",
-   "PCP",
-   "",
-   "1 cig.",
-   "smoked",
-   "Cannabis"
-  ]
+  "DOSE:",
+  " ",
+  "smoked",
+  "PCP",
+  "",
+  "1 cig.",
+  "smoked",
+  "Cannabis"
  ],
  "report": "<p>Back when I was in high school, 2 friends and I purchased what we thought to be an 1/8 oz. of pot from our regular dealer. We proceeded to go to a park and roll some joints so as to become high. We felt pretty good about the transaction as we always got good pot from this guy, so here is where the story changes.</p><p>About half-way through smoking the joints (each of us split the pot and rolled our own joint), one of my freinds puked violently. We though nothing of it and laughed about it. After we were done smoking we walked home. The strange thing was is that my legs felt like rubber bands and it seemed like I was walking under water. I remarked to my friends, Holy Shit guys, I think we were dusted! Of course they asked what I meant and I told them that we just smoked PCP. The one guy laughed and kept walking, the other guy freaked out on the spot. The next thing I know he is punching the side of his house. Long story short, his mother took him to hospital and they preformed a drug test. It was in fact PCP, and pot. I found this out the next day. All night long I laid in bed feeling like I was floating out of my body. It was sort of fun at first but it got old really fast. I had to convince myself that whatever I took would wear off sooner or later and that I was not going crazy. I fell asleep after about 4 hours and woke up the next day feeling a little hazy. We never bought any pot off that guy again and never got dusted after that.</p>",
  "year": "1993",
@@ -23,13 +21,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-28T07:00:00.000Z",
  "views": "14495",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "smoked",
-   "substance": "PCP",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

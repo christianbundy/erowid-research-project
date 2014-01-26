@@ -5,12 +5,10 @@
  "substance": "Cannabis",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "transdermal",
-   "Cannabis"
-  ]
+  "DOSE:",
+  " ",
+  "transdermal",
+  "Cannabis"
  ],
  "report": "<p>I cannot smoke any substances, so decided to try to make a topical medical marijuana preparation. I stirred a handful of mixed bud into two thirds of a jar of Nivea Cream (using a fork and the opaque blue jar).</p><p>A small dab rubbed into my sprained ankle gives a localized slightly numb sensation. The systemic effects are subtle and mild.</p><p>I am very satisfied with this lightly analgesic and relaxing preparation. It's just enough to take the edge off.</p><p>Warning: users may smell like a barnyard, with floral overtones.</p>",
  "year": "2008",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2008-08-22T07:00:00.000Z",
  "views": "8067",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "transdermal",
-   "substance": "Cannabis"
-  }
- ]
+ "dose": {}
 }

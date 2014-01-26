@@ -5,13 +5,11 @@
  "substance": "Melatonin",
  "bodyweight": "165 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "oral",
-   "Melatonin",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  " repeated",
+  "oral",
+  "Melatonin",
+  "(pill / tablet)"
  ],
  "report": "<p>Lately, I've been making a rather bad habit of staying up until 3 or 4 in the morning. I couldn't wake up early enough that I could make it through the day without passing out late afternoon. Waking up again around 11, and then staying up until early morning could not go on.</p><p>Went to the drug store, got the melatonin, tried it. Worked like a charm. Within a few days, I'd be in bed by about 12-1am and be up at about 8 or 9.</p><p>However, once sleeping pattern is re-organized, I should have discontinued use. I feel like a can't concentrate at all during the daytime. Dark circles under my eyes, just completely out of it.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-07-19T07:00:00.000Z",
  "views": "12308",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "oral",
-   "substance": "Melatonin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

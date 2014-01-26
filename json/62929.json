@@ -5,12 +5,10 @@
  "substance": "Capsicum spp. (Serrano)",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "2 ",
-   "oral",
-   "Capsicum spp."
-  ]
+  "DOSE:",
+  "2 ",
+  "oral",
+  "Capsicum spp."
  ],
  "report": "<p>Quickly chewed up 2 peppers (Serranos).</p><p>Sweated like mad, and had tingling all over my skin. Once the pain peaked, the coasting began, with a sense of increased focus and slight euphoria. Definitely something there, and it feels great on a really hot day when sweat just douses me.</p>",
  "year": "2007",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-05-23T07:00:00.000Z",
  "views": "13046",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 ",
-   "administration": "oral",
-   "substance": "Capsicum spp."
-  }
- ]
+ "dose": {}
 }

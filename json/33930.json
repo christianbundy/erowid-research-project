@@ -5,13 +5,11 @@
  "substance": "Valerian",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 capsl",
-   "oral",
-   "Valerian",
-   "(capsule)"
-  ]
+  "DOSE:",
+  "1 capsl",
+  "oral",
+  "Valerian",
+  "(capsule)"
  ],
  "report": "<p>I have suffered from chronic anxiety and insomnia for as long as I can remember.  Having tried all manner of traditional treatments for insomnia (e.g. warm glasses of milk, soothing sounds, counting sheep, etc.) I decided to experiment with melatonin as a sleep aid.  While a 6mg dose of melatonin 20 minutes before bedtime did cause increased drowsiness, I found my sleep to be fitful and I often had nightmares.  Whether or not melatonin was responsible for this, I can't say, but the possibility was enough to make me stop taking it.</p><p>So I decided to try valerian root after reading several positive accounts of its use as a sleep and anti-anxiety aid.  For me, valerian has proved to be very effective in reducing the anxiety I often feel at bedtime, with none of the bad dreams I have encountered with melatonin.  It seems to soothe my body and mind and puts me in a comfortable place, where I can relax and drift off to sleep.  In fact, I have found that my dreams with valerian are more vivid and comforting -- lots of back-to-mother imagery and sparkling white castles on fluffy white clouds.  There is nothing powerful or overwhelming about it, in fact it is quite subtle.  I don't imagine it would be entirely effective for those with severe anxiety or insomnia.  But for me it has worked wonderfully over the past two months, and I feel much more in control of my sleep schedule.  There is no grogginess to speak of the next day, and no other noticeable side effects.</p><p>The only minor downside to valerian is the smell and taste.  As others have described, it smells something like dirty socks and tastes like horse manure when you burp (pleasant, huh?)  Well, I've found that taking the capsule with a glass of milk masks the taste nicely and settles your stomach as well.  This combo puts me right to sleep. </p><p>Sweet dreams.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2013-07-20T07:00:00.000Z",
  "views": "916",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 capsl",
-   "administration": "oral",
-   "substance": "Valerian",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

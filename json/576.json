@@ -5,16 +5,14 @@
  "substance": "Codeine",
  "bodyweight": "137 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Codeine",
-   "",
-   " ",
-   "IV",
-   "Codeine"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Codeine",
+  "",
+  " ",
+  "IV",
+  "Codeine"
  ],
  "report": "<p>I have done codeine a good bit through my life, and it is probably my favorite 'mellow' drug other than weed. I was first introduced to it by a high school friend, and I used to trade weed or speed or coke or whatever for it. At first, I would only have a pill or two, but I started taking it more and more. It was cheap so I did it several times a day, which didn't help.</p><p>After a while the pills were too much of a chore to choke down, so I busted them up and dissolved them in (as I recall) ringer's lactate to inject. For several months I shot up increasingly more and more until I was usually a stupefied zombie. What I remember best about this was the way just after I shot up everything white seemed green, desks, walls, paper, etc. Not a dark green, a sort of  day-glo, brighter-at-the-edges green, kind of hard to look at directly. Not suprisingly I did very poorly in school that year.</p><p>Other codeine highlights: Passing out during choir recital on codeine, Liquid Ketocet and Xylezine(sp?) I shot up, and nearly living on the stuff working under the table shoveling gravel last summer. No more green (Or shooting it up) It just made me feel stoned-happy and a couple made it so I could get drunk off a couple beers. A sidenote: A friend almost died that summer from taking Codiene and Vetrinary Epilepsy medicine and driving. be careful mixing with other downers.</p>",
  "year": "2000",
@@ -23,13 +21,5 @@
  "age": "Not Given",
  "timestamp": "2000-09-09T07:00:00.000Z",
  "views": "30889",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Codeine",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

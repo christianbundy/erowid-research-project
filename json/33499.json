@@ -5,18 +5,16 @@
  "substance": "Triazolam (Halcion)",
  "bodyweight": "70 kg",
  "header": [
-  [
-   "DOSE:",
-   "0.75 mg",
-   "oral",
-   "Pharms - Triazolam",
-   "(pill / tablet)",
-   "",
-   "1 cig.",
-   "smoked",
-   "Tobacco - Cigarettes",
-   ""
-  ]
+  "DOSE:",
+  "0.75 mg",
+  "oral",
+  "Pharms - Triazolam",
+  "(pill / tablet)",
+  "",
+  "1 cig.",
+  "smoked",
+  "Tobacco - Cigarettes",
+  ""
  ],
  "report": "<p>T + 0:00  - oral 3 x .25mg</p><p>T + 1:10  - feeling quite tired, has relieved any DT's</p><p>T + 2:30  - Still feeling it, im notably slower than before. A nice doobie would go down pretty well about now.</p><p>T + 4:00  -Mild Effects still felt, felt a little clumsy before</p><p>might go lie down for a ciggie and some tv</p><p>Went to sleep after smoking a cig.</p>",
  "year": "2004",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-27T07:00:00.000Z",
  "views": "8982",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "0.75 mg",
-   "administration": "oral",
-   "substance": "Pharms - Triazolam",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

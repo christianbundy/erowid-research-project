@@ -5,13 +5,11 @@
  "substance": "DXM & Drug Testing",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 oz",
-   "oral",
-   "DXM",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "10 oz",
+  "oral",
+  "DXM",
+  "(liquid)"
  ],
  "report": "<p>I have been ill with bronichitis for 2 weeks and ended up drinking a whole bottle of Dextromehtorphan. I started hallucinting - I had thought the people were trying to feed me metal and turn me into a toy metal robot. I went to the ER and ended up testing positive for PCP - I have not used an illegal drug in 20 years and have NEVER used PCP. The sample was taken through a rapid urine tox screen. I insisted that it couldn't be true and so they sent the specimen out to a lab to have it tested further.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "3540",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 oz",
-   "administration": "oral",
-   "substance": "DXM",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Sertraline (Zoloft)",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "25 mg",
-   "oral",
-   "Pharms - Sertraline",
-   "(daily)"
-  ]
+  "DOSE:",
+  "25 mg",
+  "oral",
+  "Pharms - Sertraline",
+  "(daily)"
  ],
  "report": "<p>After feeling like hell for a few weeks, I was speaking with a co-worker who had just been to see a therapist that day. They told her that she was depressed. That was when it all clicked: this extreme hopelessness burdening my daily existence was probably depression.</p><p>So I went to see a therapist. Within an hour this therapist had determined that I was diagnosably depressed. He then conferred to the resident prescription writer and that same day had about a month's supply of Zoloft. I always said that I would never be reliant upon a synthetic chemical for my happiness, but damn, was I ever feeling like that mysterious molden object in the back of the refrigerator.</p><p>So I began taking the stuff as recommended. I did notice some side-effects like feeling thirsty even though I wasn't and some sexually difficulties, but nothing substantial. But after taking the stuff for about two months, I began having extreme panic atacks. This was the first time I've ever felt so mentally uncomfortable that I would even consider terminally drastic measures. So I quit taking it and the attacks went away. I was no longer at the low I had previously been, so I moved on with my life.</p><p>Then about a year later, my mood was again hijacked and taken for a dive. So I went to another therapist who again, despite my previous account, scribbled out a prescription for Zoloft. Reluctantly, but in the same utter despair as before, I reluctantly followed the directions on the bottle. The next few days were probably the most difficult ever in terms of anxiety. It was like the drug was putting a microphone up to the mouth of my anxiety and amplifying it so that it felt as if I had a piece of string running through my brain that was continously being pulled through. That's pretty abstract, but it's the best way I can describe the feeling.</p><p>So I stopped taking it. Psychiatrists have tried convincing me several times since then that Zoloft is the panacea for my woes, and when I refused, they suggested some other SSRI. Basically I learned that Zoloft(and maybe SSRI's in general) is unequivocally NOT for me.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-10-10T07:00:00.000Z",
  "views": "9593",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "25 mg",
-   "administration": "oral",
-   "substance": "Pharms - Sertraline",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

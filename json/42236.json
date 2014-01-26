@@ -5,18 +5,16 @@
  "substance": "Zolpidem (Ambien)",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "oral",
-   "Pharms - Zolpidem",
-   "(pill / tablet)",
-   "",
-   " ",
-   "oral",
-   "Hydrocodone",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "oral",
+  "Pharms - Zolpidem",
+  "(pill / tablet)",
+  "",
+  " ",
+  "oral",
+  "Hydrocodone",
+  "(pill / tablet)"
  ],
  "report": "<p>Over the last several years, I had become dependent (addicted) to hydrocodone. I had several orthopedic problems and several surgeries, so at first I was using the drug to alleviate my pre and post surgical pain. However, my tolerance quickly grew and I found myself taking more and more hydrocodone everyday. Quitting 'cold turkey' was not an option because the intense withdrawal would hit me quickly if I went even one day without the pills.</p><p>Finally, after many unsuccessful attempts at trying to quit (detox included), I have finally discovered that Ambien is working quite well to alleviate the withdrawal symptoms. When I take the drug during the day, it helps with any cravings I might have to go back to the hydrocodone. On the other hand, when taken at night, it helps me sleep through the night without the 'restless legs syndrome' that most people in opioid withdrawal experience.</p>",
  "year": "2005",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-27T07:00:00.000Z",
  "views": "12818",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "oral",
-   "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

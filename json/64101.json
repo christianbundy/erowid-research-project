@@ -5,13 +5,11 @@
  "substance": "Lady's Slipper",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "1500 ml",
-   "oral",
-   "Lady's Slipper",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "1500 ml",
+  "oral",
+  "Lady's Slipper",
+  "(liquid)"
  ],
  "report": "<p>The name of a flower called 'ladys slipper' caught my attention as I was browsing the internet in search of a herbal remedy to help me fall asleep.  I ordered a bottle of this ladys slipper extract and it arrived at my house in a few days.  Eager to try this natural sleep enhancing herb, I measured 1500 ml in the pipette, which was supplied with the bottle, and carefully emptied the strange aromatic liquid into a small glass of cranberry juice.  I dabbed a little drop of the amber colored syrup onto my finger and smelled it, and then proceeded to taste it.  The lady slipper extract has a similar taste to that of nectar from a honey suckle flower however the smell is completely contradictory to that of the taste which smells like a bizarre chemical.  I picked up my glass of lady slipper spiked cranberry juice and sat down in my comfortable leather computer chair.  I started to drink the glistening crimson cranberry juice and to my surprise this juice has the same taste as before with the only difference of a subtle hint of ladys slipper.</p><p>About 15 minutes after finishing the cranberry-ladys slipper juice I begin to feel a relaxing wave of air radiate throughout my body.  My shoulders, arms, legs, feel incredibly heavy and very relaxed.  My entire body drifts off into a state of relaxation and I feel the strong urge to lie down on my bed.  The feeling of relaxation is similar to how I would feel after a very difficult day of work, and coming home dead tired after a 14 hour shift.  I lie down in my bed and close my eyes, and I was surprised how soothing just a flower root could be.  This feeling is not the typical drunk stupor feeling, it is merely all the relaxing effects of alcohol but none of the loss of coordination, mind clouding, numbing of the body, or slurring of the speech.  I was overcome by the feeling of serenity and tranquility and simply fell asleep.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-07-02T07:00:00.000Z",
  "views": "10360",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1500 ml",
-   "administration": "oral",
-   "substance": "Lady's Slipper",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

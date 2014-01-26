@@ -5,12 +5,10 @@
  "substance": "CP 55,940",
  "bodyweight": "175 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "inhaled",
-   "CP 55,940"
-  ]
+  "DOSE:",
+  " ",
+  "inhaled",
+  "CP 55,940"
  ],
  "report": "<p>The Purpose of this report is inform the recreational community on the effects of CP 55,940:</p><p>This being my second report on CP5, it could be the last. I feel I have learned everything about it I need to. I have gone through withdrawal, overcame it, and now use CP5 as an alternative to Cannabis.</p><p>I ended use of CP5 for 2 weeks to re-evaluate its use from a sober state. This re-evaluation occurred last night, and the effect was identical to that of vaporizing marijuana. And last night, having lost tolerance, I was ultimately high off of only a few milligrams...rather than the 30mg-a-day I was doing before.</p><p>So responsible use is the best way to enjoy this, so I can achieve that 'perfect' high that is found with both marijuana and CP5 when used after a long sobriety-streak. End of report.</p>",
  "year": "2009",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2009-05-09T07:00:00.000Z",
  "views": "9018",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "inhaled",
-   "substance": "CP 55,940"
-  }
- ]
+ "dose": {}
 }

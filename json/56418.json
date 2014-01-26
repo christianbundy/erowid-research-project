@@ -5,13 +5,11 @@
  "substance": "St. John's Wort",
  "bodyweight": "185 lb",
  "header": [
-  [
-   "DOSE:",
-   "600 mg",
-   "oral",
-   "St. John's Wort",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "600 mg",
+  "oral",
+  "St. John's Wort",
+  "(pill / tablet)"
  ],
  "report": "<p>I wanted to try using St. Johns wort for general anxiety. I bought some last night and per the instructions on the bottle took two 300 mg tablets. I'm supposed to do this 3 times a day but I don't see how it wouldn't kill me. My blood pressure skyrocketed to 170 over 95 (I checked it just before this submission) and I've been sweating like a pig.</p><p>Quite unpleasant.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-10-20T07:00:00.000Z",
  "views": "11395",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "600 mg",
-   "administration": "oral",
-   "substance": "St. John's Wort",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

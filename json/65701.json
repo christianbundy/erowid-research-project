@@ -5,13 +5,11 @@
  "substance": "Yerba Mate",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "smoked",
-   "Yerba Mate",
-   "(plant material)"
-  ]
+  "DOSE:",
+  " repeated",
+  "smoked",
+  "Yerba Mate",
+  "(plant material)"
  ],
  "report": "<p>Every now and then I roll up some Yerba Mate in a rolling paper and smoke it.  It tastes and smells decent.  It is far milder than tobacco smoke.  Obviously a less-powdery stock of mate is going to yield a better smoke -- because the powder will go straight into my mouth.  I have no idea if this is dangerous or not -- there is a small accumulation of tar at the tip of the paper, though far less than would be with tobacco. </p><p>One interesting effect is that the smoked Yerba Mate seems to have a prolonged stimulating effect, making it very hard to fall asleep.  I'm not sure if this is the caffeine or something else.  Someone actually reported on smoking caffeine crystals and claims that it 'wears off' very quickly.  I am caffeine sensitive though, after all, but my experiences indicate that caffeine or something is taking effect from this.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2010-02-23T08:00:00.000Z",
  "views": "4297",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "smoked",
-   "substance": "Yerba Mate",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

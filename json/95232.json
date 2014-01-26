@@ -5,13 +5,11 @@
  "substance": "Nabilone (Cesamet)",
  "bodyweight": "240 lb",
  "header": [
-  [
-   "DOSE:",
-   "2 mg",
-   "oral",
-   "Nabilone",
-   "(daily)"
-  ]
+  "DOSE:",
+  "2 mg",
+  "oral",
+  "Nabilone",
+  "(daily)"
  ],
  "report": "<p>I walked into my doctors office, with my hopes high. I was on a mission to get these rare blue and white pills. I told my doctor about my anxiety disorder, OCD and various other things. I told him about how I smoke pot and all my symptoms just disappear. He gave me a little slip of paper saying 'Cesamet 1mg'.</p><p>I take two of these every day. I do not get really high off of 2 mg but I can say that my anxiety melts away. They produce a body feel and a little bit of visual stimulation. However, Thinking is clearer than ever.</p><p>2-4mg with some marijuana smoked is a GREAT combination. It produces an almost mushroom like high. It is simply the greatest pot high.</p>",
  "year": "2012",
@@ -20,13 +18,5 @@
  "age": "18",
  "timestamp": "2012-03-30T07:00:00.000Z",
  "views": "4325",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 mg",
-   "administration": "oral",
-   "substance": "Nabilone",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

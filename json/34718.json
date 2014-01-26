@@ -5,13 +5,11 @@
  "substance": "Venlafaxine (Effexor XR)",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "150 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "150 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)"
  ],
  "report": "<p>I was suffering from depression/combined with anxiety starting college in 2001 and after 4 years in the military.  The nurse practictioner (ARPN, not MD) put me on a beginners dose of efferor xr of 37.5mg.  It really sucked the first few weeks taking it, headaches, nausea, and it made me very tired in the afternoon. (I was taking my dose in the AM) Finally after a month to six weeks we arrived at my dose of 150mg a day.  This stuff worked really great, if you have the insurance or cash to be maintained on it.  I was on it for a year while my ins. paid for 80% cost of the meds, but when that ran out, i couldn't afford to pay $250 a month to stay on their meds. </p><p>I noticed after I had been taking effexor for a while that I damn sure better make sure I bring my meds with me.  My 'doc' never told me about the importance of medication half-life, or how fast it's elimnated from the body.  The active metabolite of Effexor in eliminated fairly quickly, so if I don't feel quite right before my daily fix...that's the beginning of withdrawal.  Anyway, lemme just say, getting off this crap after like, a year and a half of taking it really sux. I have no idea what opiate withdrawal is like, but this has to come pretty close.  DO NOT QUIT COLD-TURKEY!  You could be bed-ridden for weeks. Taper your dose. If you have a really bad week and don't think you can cut down again, stick to your current cut-down dose and ride out the symptoms.  Could feel sick, little energy, depressed of course, and anxious if you suffer from anxiety. And of course there's the famous head/brain shocks.</p><p>I finally switched to Prozac after about 6 months w/o effexor.  It's a SSRI as opposed to effexor which is a SNRI. Anyway, prozac has one of the longest half-lives of the SS(N)RI's so if you miss a pill, no biggie. I make sure I know everything I can about a med before starting anything anymore. Know your source, know your drug, know your body.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-07-28T07:00:00.000Z",
  "views": "5315",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "150 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

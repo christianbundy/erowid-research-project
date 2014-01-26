@@ -5,13 +5,11 @@
  "substance": "Tramadol (Ultram)",
  "bodyweight": "165 lb",
  "header": [
-  [
-   "DOSE:",
-   "350 mg",
-   "oral",
-   "Pharms - Tramadol",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "350 mg",
+  "oral",
+  "Pharms - Tramadol",
+  "(pill / tablet)"
  ],
  "report": "<p>Recently, my doctor prescribed me Ultram for back problems. I've had just about every narcotic analgesic, and figured I'd play around with the Ultram. On a Friday afternoon after work, I took seven 50mg tablets. Most opiates take about 30 minutes to kick in for me. The Ultram took 65 minutes. The effects are the same for me as Vicodin, but it made my mind consider every little thing an emergency. If I dropped a pencil, I'd react like the world was ending, no reason why.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "31430",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "350 mg",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

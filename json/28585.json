@@ -5,23 +5,21 @@
  "substance": "Carbamazepine, Escitalopram & Neurontin",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "800 mg",
-   "oral",
-   "Pharms - Carbamazepine",
-   "(daily)",
-   "",
-   "10 mg",
-   "oral",
-   "Pharms - Escitalopram",
-   "(daily)",
-   "",
-   "1200 mg",
-   "oral",
-   "Pharms - Gabapentin",
-   ""
-  ]
+  "DOSE:",
+  "800 mg",
+  "oral",
+  "Pharms - Carbamazepine",
+  "(daily)",
+  "",
+  "10 mg",
+  "oral",
+  "Pharms - Escitalopram",
+  "(daily)",
+  "",
+  "1200 mg",
+  "oral",
+  "Pharms - Gabapentin",
+  ""
  ],
  "report": "<p>[Gabapentin 1200mg, carbamazapine 800mg, clonazepam .5mg,  liothyronin [thyroid medication) .25mg, escitalopram 10mg]</p><p>I was prescribed Neurontin (gabapentin), 1800mg a day, and Topamax (topiramate), 100mg a day for bipolar disorder. Because I was supposed to take 3 Neurontin a day, I kept a small supply in my purse. The combination did not work as well as my previous mood stabilizer, and was much more expensive. So I went back to taking Tegretol, also known as carbamazepine. </p><p>One day at work, I got an absolutely horrible headache, and found myself without any aspirin or ibuprofren. I was desperate. Because I knew Neurontin can be used to treat pain, I popped a couple of the 600mg pills I had with me. I didn't know if they would work or not, but I was willing to try just about anything. My headache went away in about 30 minutes, and I felt strangely energized. It was like reality was buzzing. I wouldn't say I was 'high' but it was certainly pleasant to get rid of that headache. Work was a little easier that night, too.</p><p>While I was taking Neurontin with Topamax, I didn't experience any sensations like I described above. I was also taking Klonopin (.5 mg) at the time, which I'm sure helped keep things in balance. I had no 'hangover' and everything was fine after the effects had worn off.</p><p>All of the medications I took were prescribed to me by a medical doctor.</p>",
  "year": "2003",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-23T07:00:00.000Z",
  "views": "24114",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "800 mg",
-   "administration": "oral",
-   "substance": "Pharms - Carbamazepine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

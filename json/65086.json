@@ -5,13 +5,11 @@
  "substance": "Turbina Corymbosa seeds",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "75 seeds",
-   "oral",
-   "Turbina corymbosa",
-   "(seeds)"
-  ]
+  "DOSE:",
+  "75 seeds",
+  "oral",
+  "Turbina corymbosa",
+  "(seeds)"
  ],
  "report": "<p>After extensive research about rivea, and extensive experience with LSD, mushrooms, chlorinated inhalents, and other various hallucinagens, aquired 100 seeds of this obscure morning glory cousin.  I took 75 to feel out the dosage, and got a mellow body high for about 4 hours. The seeds are tiny compared to heavenly blue, but about the same # per dose.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-01-10T08:00:00.000Z",
  "views": "7339",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 seeds",
-   "administration": "oral",
-   "substance": "Turbina corymbosa",
-   "form": "(seeds)"
-  }
- ]
+ "dose": {}
 }

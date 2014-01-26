@@ -5,13 +5,11 @@
  "substance": "Guarana",
  "bodyweight": "70 kg",
  "header": [
-  [
-   "DOSE:",
-   "2 tsp",
-   "oral",
-   "Guarana",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  "2 tsp",
+  "oral",
+  "Guarana",
+  "(powder / crystals)"
  ],
  "report": "<p>Guarana is a fruit known in Brazil. I'm from Brazil and i can tell you, here guarana is very well known and it can be found everywhere, drugstores, supermarkets, in soft drinks etc.</p><p>The most commom form is using the ground seeds, in powder.  It can be added to water, or as many students do, mixed with coffee.  Yes that's right, here it's easy to see a student drinking it by the morning or when they feel tired, exhausted from studing too much, it can repair damage caused by stress.</p><p>But don't use too much guarana, because it has too much caffeine (guarine) and it causes tachycardia, nervousness and sometimes insomnia.  Here it costs 4us$ for 1 oz.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "51847",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 tsp",
-   "administration": "oral",
-   "substance": "Guarana",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

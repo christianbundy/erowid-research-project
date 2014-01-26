@@ -5,23 +5,21 @@
  "substance": "Lavandula spp. (Lavender), Cocaine & Alcohol",
  "bodyweight": "115 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "",
-   "Cocaine",
-   "(powder / crystals)",
-   "",
-   "2 shots",
-   "oral",
-   "Alcohol - Hard",
-   "(liquid)",
-   "",
-   "2 glasses",
-   "oral",
-   "Alcohol - Beer/Wine",
-   "(liquid)"
-  ]
+  "DOSE:",
+  " ",
+  "",
+  "Cocaine",
+  "(powder / crystals)",
+  "",
+  "2 shots",
+  "oral",
+  "Alcohol - Hard",
+  "(liquid)",
+  "",
+  "2 glasses",
+  "oral",
+  "Alcohol - Beer/Wine",
+  "(liquid)"
  ],
  "report": "<p>During our night of partying we realized we had no ganja! We had consumed a considerable amount of cocaine. I had two shots and two glasses of champagne. I had just bought a lavendar plant a few days before. My friend suggested smoking it for some odd ball reason, and silly me I was so down to try! We all had small snaps out of our bong. It tasted delightful, a delicious after taste. I wasn't really sure of the effects but everyone agreed that it mellowed us out.</p>",
  "year": "2007",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2009-12-30T08:00:00.000Z",
  "views": "4608",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "",
-   "substance": "Cocaine",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

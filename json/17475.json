@@ -5,13 +5,11 @@
  "substance": "Hydrocodone",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "5.0 mg",
-   "oral",
-   "Hydrocodone",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "5.0 mg",
+  "oral",
+  "Hydrocodone",
+  "(pill / tablet)"
  ],
  "report": "<p>I had surgery a week ago on my testicle. This is not a joke by the way. Since the surgery, walking has been quite a chore. I've been walking bow-legged and it's just WAY uncomfortable. I've been taking hydrocodone [\t5/500tab] as a pain reliever, and wowza, it really does the job. It just numbs it and I feel a-ok. It's like a smooth and sweet high. It's been helping me out. I haven't really had any bad effects from it, other than the dizziness here and there, minor twitching in my legs, etc. It's made me overly emotional for some reason though. Like, I'll lay there feeling pretty good for awhile and then I'll think about something and for no reason, I'll just cry. That's the only strange part of it. Mostly.. it numbs away the aching pains from surgery and I feel good.</p><p>I didn't have any refills on it and when I ran out .. I started taking Ibuprofin thinking it might help (it didn't), so I had the dr call the pharmacy and I have another bottle. But that day or two that I quit taking it, I could feel myself going through a little withdrawal. ie minor chills, feeling mildly feverish. Nothing major.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2005-01-18T08:00:00.000Z",
  "views": "15761",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "5.0 mg",
-   "administration": "oral",
-   "substance": "Hydrocodone",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

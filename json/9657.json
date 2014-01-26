@@ -5,12 +5,10 @@
  "substance": "Kratom Leaves",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "2 leaves",
-   "sublingual",
-   "Kratom"
-  ]
+  "DOSE:",
+  "2 leaves",
+  "sublingual",
+  "Kratom"
  ],
  "report": "<p>I'm writing at T+2 after slowly chewing two medium-sized kratom leaves for the first time. I took them while already high from dancing. Initial very nice exhilaration, but with an unusual ability to focus on minutae of small bands of perception. Perceptions more fluid than baseline. High visual acuity. Changes to sund tones and afterLess chopiness between moments. For an hour i just thought 'pure stimulant'. Then a mild stoning phase. Lying down eyes closed with good sensual unfoldinding. afterwards talkative. (p.s. i am generally sensitive at low doses of stuff, others may require more leaves)</p>",
  "year": "2000",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2001-09-25T07:00:00.000Z",
  "views": "10586",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 leaves",
-   "administration": "sublingual",
-   "substance": "Kratom"
-  }
- ]
+ "dose": {}
 }

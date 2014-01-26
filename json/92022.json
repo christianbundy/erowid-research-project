@@ -5,12 +5,10 @@
  "substance": "Moclobemide",
  "bodyweight": "75 kg",
  "header": [
-  [
-   "DOSE:",
-   "600 mg",
-   "oral",
-   "Moclobemide"
-  ]
+  "DOSE:",
+  "600 mg",
+  "oral",
+  "Moclobemide"
  ],
  "report": "<p>After first week taking moclobemide (Aurorix), I notice quick improvement in mood, sleep, and interest of things.</p><p>Aurorix practically has no anticholinergic effect, no sedative effect, virtually non toxic to the liver.</p><p>As it is a RIMA, with the therapeutic dose, there is no need for food restriction.</p><p>I tried most antidepressants, but found this one works well for me.</p><p>It relieves my dysphoric feeling.</p>",
  "year": "2011",
@@ -19,12 +17,5 @@
  "age": "39",
  "timestamp": "2011-07-20T07:00:00.000Z",
  "views": "3267",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "600 mg",
-   "administration": "oral",
-   "substance": "Moclobemide"
-  }
- ]
+ "dose": {}
 }

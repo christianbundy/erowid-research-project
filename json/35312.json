@@ -5,13 +5,11 @@
  "substance": "DXM (with CPM) & Drug Testing",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "420 mg",
-   "oral",
-   "DXM",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "420 mg",
+  "oral",
+  "DXM",
+  "(pill / tablet)"
  ],
  "report": "<p>I have had a few dxm experiencs with DXM prior to this but hadnt really 'tripped'. So I decided I would take 14 triple c's in order to achieve this. I dosed on a sunday and had a great experience. I won't go into details, bcuz it is not the subject. But the next day I found out I was going to have a drug test (the standard one) and was worried because I had read that DXM can sometimes cause false positives for PCP and/or opiates. I have never done any of that, so having to explain why I tested positive for either one of those to my parents would not be an easy task. A few days passed and I got my results, everything was negative, and what a relief that was.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-22T07:00:00.000Z",
  "views": "3760",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "420 mg",
-   "administration": "oral",
-   "substance": "DXM",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Lactuca spp.",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "3 bowls",
-   "smoked",
-   "Lactuca - L. virosa",
-   "(dried)"
-  ]
+  "DOSE:",
+  "3 bowls",
+  "smoked",
+  "Lactuca - L. virosa",
+  "(dried)"
  ],
  "report": "<p>Bought some of this inexpensive 'herbal alternative' and smoked 3 huge bowls out of a waterpipe. If it had been some quantity of another illegal herb, I would have smoked enough to lose my mind. Smells bad, Very harsh and absolutely NO effect. A perfect waste of cash.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-28T07:00:00.000Z",
  "views": "6542",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "3 bowls",
-   "administration": "smoked",
-   "substance": "Lactuca - L. virosa",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

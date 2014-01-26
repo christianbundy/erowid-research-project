@@ -5,13 +5,11 @@
  "substance": "Cannabis & Drug Testing",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "smoked",
-   "Cannabis",
-   "(plant material)"
-  ]
+  "DOSE:",
+  " repeated",
+  "smoked",
+  "Cannabis",
+  "(plant material)"
  ],
  "report": "<p>The purpose of this post is to provide some small level of support to the previous articles on detection times of cannabis, and to potentially help those who are worried about being drug tested.</p><p>I took a standard urine test (for an extremely important job) recently after abstaining from smoking for 20 days, and thankfully I passed it. I realize that this is a fairly decent length of time for a person to get clean, but I was still worried when I took the test. I thought maybe this information could be useful to someone in a similar position.</p><p>I would also like to mention (for the sake of comparison) that I typically smoked once per week prior to the three weeks of not smoking.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-04-24T07:00:00.000Z",
  "views": "5309",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "smoked",
-   "substance": "Cannabis",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Kava & Toothpaste",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 drops",
-   "transdermal",
-   "Kava",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "10 drops",
+  "transdermal",
+  "Kava",
+  "(liquid)"
  ],
  "report": "<p>Allthough I have only tried this once for myself and my girlfriend, I have found that the aplication of a mixture of kava extract and toothpaste have noticeable effects when applied to a bee sting. While the glycerine in most toothpastes dry out the toxins of the sting, the kava provides relief as a local anasthetic as well a reducer of swelling. Results were within 5-10 miuntes.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-27T07:00:00.000Z",
  "views": "8078",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 drops",
-   "administration": "transdermal",
-   "substance": "Kava",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

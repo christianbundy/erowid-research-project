@@ -5,13 +5,11 @@
  "substance": "Modafinil",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "100 mg",
-   "oral",
-   "Modafinil",
-   "(daily)"
-  ]
+  "DOSE:",
+  "100 mg",
+  "oral",
+  "Modafinil",
+  "(daily)"
  ],
  "report": "<p>I am a 32 year male with a history of ADD; pprimary inattentive type, not the hyperactive type.  I was the brilliant kid in the back of the class in elementary school who didn't have to pay attention to be perfect.  This strategy worked in high school but fell absolutely apart in college. I was only diagnosed after I got a job. I took ritalin for two years, about a decade back.  Recently I developed idiopathic hypersomnia, and was diagnosed by a sleep specialist.  The treatment for hypersomnia and ADD are the same - stimulants.  And I was sleeping most of the day, borderline but not positive for narcolepsy.</p><p>Only this time around Methylphenidate (ritalin) gave me palpitations.  And so did Adderrall (amphetamines).  So my doc prescribed provigil, which has worked wonders for me.  I started at 200 mg and actually worked my dose down to 100.</p><p>I highly recommend that if you have a sleep disorder, find the dosage where you feel the benefit but no euphoria.  You can break these pills in half, even quarters.  Actually, even if you don't have a disorder, and somehow got this drug just to stay awake, I also recommend it.  At this dose I can function like a normal human being.  However, I do need to take a break, no dose or just half a dose, for a day every week or two weeks or I start to have trouble sleeping at night.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-04-02T07:00:00.000Z",
  "views": "9470",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "100 mg",
-   "administration": "oral",
-   "substance": "Modafinil",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

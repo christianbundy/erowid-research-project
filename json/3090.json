@@ -5,12 +5,10 @@
  "substance": "Ecstasy",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "MDMA"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "MDMA"
  ],
  "report": "<p>I've rolled twice, once at Burningman 1999, once at BM 2000.  For a while after the both times, I noticed that whenever I yawned, I'd feel E-like as the yawn finished.</p>",
  "year": "2000",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2000-10-05T07:00:00.000Z",
  "views": "8152",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "MDMA"
-  }
- ]
+ "dose": {}
 }

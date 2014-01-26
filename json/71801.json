@@ -5,12 +5,10 @@
  "substance": "Melatonin ",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "3.0 mg",
-   "oral",
-   "Melatonin"
-  ]
+  "DOSE:",
+  "3.0 mg",
+  "oral",
+  "Melatonin"
  ],
  "report": "<p>I've had trouble sleeping for years, I've taken all kinds of sleep drugs and I have to say this stuff really helps. I never have trouble sleeping once I fall asleep, but I always have trouble getting to sleep. Melatonin solves this.</p><p>About 30 mins after taking this, I felt naturally tired and ready for bed. Works great.</p><p>Only side effect is that the dreams are amazingly vivid. I never usually dream. While taking this drug I've had some amazing dreams and some of the worst nightmares I've ever had. At one point I woke up in the night convinced that someone had broke into the house. Took me several minutes to figure out it was just a dream, it was truly frightening.</p>",
  "year": "2007",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2008-06-15T07:00:00.000Z",
  "views": "5955",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "3.0 mg",
-   "administration": "oral",
-   "substance": "Melatonin"
-  }
- ]
+ "dose": {}
 }

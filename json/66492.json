@@ -5,12 +5,10 @@
  "substance": "Ginkgo biloba ",
  "bodyweight": "165 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Ginkgo biloba"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Ginkgo biloba"
  ],
  "report": "<p>I took this herb to improve my mental processes and the effects were marginal. It made things more 'clear' but this can be misleading since I don't think the effect was very strong to be an advantage (at 150-250 mg). Taking a larger dose of 500mg made me feel buzzed.</p><p>I have to take it for about 1 week to notice the difference. But again the difference for me was marginal. Kind of the same difference as having half a cup of coffee. For others it may be different.</p>",
  "year": "2007",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-11-01T07:00:00.000Z",
  "views": "9070",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Ginkgo biloba"
-  }
- ]
+ "dose": {}
 }

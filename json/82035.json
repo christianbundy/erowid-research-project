@@ -5,18 +5,16 @@
  "substance": "MDMA (Ecstasy) & Escitalopram (Lexapro)",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "oral",
-   "Pharms - Citalopram",
-   "(daily)",
-   "",
-   "1 tablet",
-   "oral",
-   "MDMA",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "oral",
+  "Pharms - Citalopram",
+  "(daily)",
+  "",
+  "1 tablet",
+  "oral",
+  "MDMA",
+  "(pill / tablet)"
  ],
  "report": "<p>I have been on Lexapro 10mg for about 2 months and took ecstasy this past weekend, just one roll.  I did drink a little bit of alcohol, but a negligent amount, and stayed hydrated.  I would just like to advise future Lexapro/SSRI users about the experience; I have taken ecstasy 4 or 5 times before while not on antidepressants and this time the roll was NOT WORTH IT.  It was not necessarily a bad time, but it was disappointing because everyone with me was rolling hard while I was not really feeling it.</p>",
  "year": "2009",
@@ -25,13 +23,5 @@
  "age": "20",
  "timestamp": "2009-11-02T08:00:00.000Z",
  "views": "8410",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "oral",
-   "substance": "Pharms - Citalopram",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

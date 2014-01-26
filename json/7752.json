@@ -5,13 +5,11 @@
  "substance": "DOM",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE:",
-   "6.0 mg",
-   "oral",
-   "DOM",
-   "(capsule)"
-  ]
+  "DOSE:",
+  "6.0 mg",
+  "oral",
+  "DOM",
+  "(capsule)"
  ],
  "report": "<p>4:30pm. White powder in a capsule, ingested orally, known to be 6mg DOM. Setting was a largish private party (~50 ppl) outdoors and indoors, featuring live music and freaky halloween costumes. My partner ingested a similar amount at the same time.</p><p>I feel the slightest effects at T+30 minutes; at T+1 hour I can definitely feel it working: mood elevation mostly.  Then i notice the colors! The trees are magnificent! Well, aren't they always? But more so than usual :). The body load is negligible. I play some baseball, socialize a little, cook dinner. Eating food at T+3 (approx.) feels good. I'm actually hungry, which is unusual for me on psychedelics. Definitely in a nice zoomy headspace, nothing is too intense and it all feels good.</p><p>Socialize at party for the next few hours. At T+7 I can definitely tell that I've come off a peak of a very gradual sort. It's a gradual flow to baseline over the next few hours. I fall asleep at T+11 hours.</p><p>For the next two mornings, it's really difficult to wake up.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-07-01T07:00:00.000Z",
  "views": "16441",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "6.0 mg",
-   "administration": "oral",
-   "substance": "DOM",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

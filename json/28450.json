@@ -5,13 +5,11 @@
  "substance": "Ginkgo biloba",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE:",
-   "120 mg",
-   "oral",
-   "Ginkgo biloba",
-   "(daily)"
-  ]
+  "DOSE:",
+  "120 mg",
+  "oral",
+  "Ginkgo biloba",
+  "(daily)"
  ],
  "report": "<p>As long as I can remember, my memory has been a bit cloudy.  Keeping past and future events in mind has often proved a challenge to me.  Did gingko help?  Tough to know for certain.</p><p>The most obvious effect was that after approximately two weeks I could keep close track of due dates for my assignments without having to write everything down.  Whether or not this was a placebo isn't terribly relevant, from my perspective.  Draw your own conclusions.</p><p>Now there was also an interesting side effect.  I have never heard anyone else speak of this, and I'm not even terribly prone to noting these sorts of effects.  Every morning, around 45 minutes or so after popping the gingko pill at breakfast (along with a multivitamin), I would suddenly feel -- just like Alice -- a certain shrinking feeling.</p><p>It's not that I hunch over, or crawl to the ground; I simply feel small.  (For someone who's almost six feet tall, this is a rather odd sensation.)  There's also a feeling of drawing back slightly, as though I'm suddenly experiencing reality through a slightly altered physical viewpoint.  Perhaps the fact that I tend to be alone and walking outside during this period has something to do with this.  This feeling subsides in as much as two minutes, but usually more like 30 seconds.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "9110",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "120 mg",
-   "administration": "oral",
-   "substance": "Ginkgo biloba",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

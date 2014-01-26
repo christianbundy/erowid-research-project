@@ -5,12 +5,10 @@
  "substance": "Valerian",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "Valerian"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "Valerian"
  ],
  "report": "<p>It does help sometimes with my insomnia, but the most interesting thing is that sometimes when using valerian root extract I get a huge erection, and I am certain after many tests that it is because of the valerian.  We might have in our hands the next viagra, or maybe I'm just weird.  I'm only 24 so I don't use it for erectile dysfunction, but it might be a good idea.</p>",
  "year": "2008",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2008-05-06T07:00:00.000Z",
  "views": "8461",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "Valerian"
-  }
- ]
+ "dose": {}
 }

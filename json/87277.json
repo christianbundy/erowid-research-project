@@ -5,18 +5,16 @@
  "substance": "Chamomile & Tobacco",
  "bodyweight": "120 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "smoked",
-   "Chamomile",
-   "(dried)",
-   "",
-   " ",
-   "smoked",
-   "Tobacco",
-   "(dried)"
-  ]
+  "DOSE:",
+  " ",
+  "smoked",
+  "Chamomile",
+  "(dried)",
+  "",
+  " ",
+  "smoked",
+  "Tobacco",
+  "(dried)"
  ],
  "report": "<p>I got back from work the other day extremely tired. I work at a coffee shop so we carry a variety of loose-leaf teas. I happened to have a bag of chamomile, sunflower and peppermint loose leaf tea and was curious what the effects of smoking it would be. So, I proceeded to mix a few grams of it with shisha (Hypnosis Blueberry Haze) and packed it into my hookah bowl.</p><p>Taste:</p><p>The smoke tasted AMAZING. The blueberry complimented the chamomile and peppermint for a very refreshing smoke. The clouds were extremely thick and voluminous. They were smooth and not harsh at all!</p><p>Effects:</p><p>Heavy physical sedation. It felt as if I took 6mg of Melatonin; my eyes were heavy and I was very relaxed. Smoking it over the next hour was extremely relaxing and stress-reducing. It is interesting to note the chamomile also had an anxiety-lowering effect as well.</p>",
  "year": "2010",
@@ -25,13 +23,5 @@
  "age": "20",
  "timestamp": "2010-09-12T07:00:00.000Z",
  "views": "12074",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "smoked",
-   "substance": "Chamomile",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

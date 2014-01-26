@@ -5,13 +5,11 @@
  "substance": "Datura Stramonium",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "15 ",
-   "oral",
-   "Datura",
-   "(seeds)"
-  ]
+  "DOSE:",
+  "15 ",
+  "oral",
+  "Datura",
+  "(seeds)"
  ],
  "report": "<p>I am in the Coast Guard, assigned to a 270 foot cutter. I get seasick as hell. Dramamine doesn't work. The pills that the corpsman onboard the ship gave me didn't work. Then I found out that Scopolamine is a leading prescription drug for motion sickness, so I decided to try D. Stramonium seeds for the same effect. It works absolutely wonderfully. With a dose as small as 10 seeds, I feel no sickness whatsoever, and there are little to no side effects. The most I ever get is very slight drymouth.</p><p>I'd grind the stuff up and put it in capsules to sell commercially if it weren't for that the FDA has deemed it unfit for human consumption.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-28T07:00:00.000Z",
  "views": "8967",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "15 ",
-   "administration": "oral",
-   "substance": "Datura",
-   "form": "(seeds)"
-  }
- ]
+ "dose": {}
 }

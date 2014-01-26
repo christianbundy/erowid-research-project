@@ -5,13 +5,11 @@
  "substance": "Paroxetine (Paxil)",
  "bodyweight": "55 kg",
  "header": [
-  [
-   "DOSE:",
-   "60 mg",
-   "oral",
-   "Pharms - Paroxetine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "60 mg",
+  "oral",
+  "Pharms - Paroxetine",
+  "(daily)"
  ],
  "report": "<p>I was put on paxil because i was bi polar, showed signs of anxiety and had obssesive complusive tendencies.  The only side effects were naseua and dry mouth, but they didn't last long. Unfortunately it didn't seem to be working, so they upped my dosage to 60mg.  The second day i took it things started to get weird.  i repeated words a lot and had trouble sitting still.  That night, i woke up and chopped off all my hair, leaving me with a military-stle crew cut.  The paxil had intesified my ocd and brought on a manic state that lasted 3 weeks, most of which i spent in a mental hospital.  I later heard bunches of horror stories about the drug and am upset that i had to go through what i did (i loved my hair) before i heard them.</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-07-11T07:00:00.000Z",
  "views": "19471",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "60 mg",
-   "administration": "oral",
-   "substance": "Pharms - Paroxetine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

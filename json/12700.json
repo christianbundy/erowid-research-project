@@ -5,13 +5,11 @@
  "substance": "Chloroform",
  "bodyweight": "215 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "inhaled",
-   "Chloroform",
-   "(gas)"
-  ]
+  "DOSE:",
+  " ",
+  "inhaled",
+  "Chloroform",
+  "(gas)"
  ],
  "report": "<p>I always wanted to smell chloroform so i did alot of studies on how how to use it safely. I turned the bottle over once which I bought online.  I put it on some tissues and sniffed it 2x, but nothing happened.  But when I took 10-15 deep breath I felt very relaxed and dizzy like I was floating and it lasted for one or more hours. I didnt want to inhale enough to knock me out, but i did feel a slight headache after it wore off.  And for some reason late at night i was very rleaxed and felt some of that floating feeling even 15 hours after i sniffed it the 1st time.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-03-03T08:00:00.000Z",
  "views": "28908",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "inhaled",
-   "substance": "Chloroform",
-   "form": "(gas)"
-  }
- ]
+ "dose": {}
 }

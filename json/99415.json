@@ -5,18 +5,16 @@
  "substance": "L-Theanine & Caffeine (Tea)",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "",
-   "Caffeine",
-   "(tea)",
-   "",
-   " ",
-   "",
-   "Theanine",
-   "(tea)"
-  ]
+  "DOSE:",
+  " ",
+  "",
+  "Caffeine",
+  "(tea)",
+  "",
+  " ",
+  "",
+  "Theanine",
+  "(tea)"
  ],
  "report": "<p>I did some research on L-theanine and discovered that it's a gaba antagonist so the opposite of alcohol and it also affects dopamine and ndma receptors so I thought that I would try a ridiculous amount of tea to see the effects.</p><p>I drank 30g in loose leaf green tea so the equipment of 15 to 20 cups. The amount of L-theanine in there I found to be around 750mg and the caffeine about 450 milligrams.</p><p>The effects took about an hour to start but they were very intense I had mind racing and jitters that were way more than when I drink the same amount of caffeine with coffee so it must have been the l theanine.</p><p>After about 5 hours of this it started to slow down and it died out around 3 am when I went to bed.</p>",
  "year": "2013",
@@ -25,13 +23,5 @@
  "age": "15",
  "timestamp": "2013-06-02T07:00:00.000Z",
  "views": "2785",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "",
-   "substance": "Caffeine",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

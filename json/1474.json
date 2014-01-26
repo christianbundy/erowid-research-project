@@ -5,13 +5,11 @@
  "substance": "Nutmeg (smoked)",
  "bodyweight": "185 lb",
  "header": [
-  [
-   "DOSE:",
-   "4 Tbsp",
-   "smoked",
-   "Nutmeg",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  "4 Tbsp",
+  "smoked",
+  "Nutmeg",
+  "(powder / crystals)"
  ],
  "report": "<p>Well I had recently heard about how smoking nutmeg will make you trip, so I got the bright idea to try it.  I smoked about 2 tbspns of the stuff at about 7 at night.  After some how choking that stuff down I sat on my bed waiting for the fun to start.  After about 30 min. I started to develope a raging headache, so I figured maybe I hadn't smoked enough so I smoked another 2 tbsps. </p><p>By this time my lungs felt like I'd smoked a pack and a half of unfiltered Lucky Strikes.  I found that not only had my headache not ceased and my lungs felt like shit, but I also felt like vomiting.  Finally about two hours later( and four aspirin later) my headache was gone.  In short it'll be a cold day in hell before I smoke that crap again.                                                 </p><p>(p.s. I decked my friend for his bright idea)</p>",
  "year": "2000",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2000-10-14T07:00:00.000Z",
  "views": "21954",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "4 Tbsp",
-   "administration": "smoked",
-   "substance": "Nutmeg",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "St. John's Wort",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 drops",
-   "oral",
-   "St. John's Wort",
-   "(extract)"
-  ]
+  "DOSE:",
+  "20 drops",
+  "oral",
+  "St. John's Wort",
+  "(extract)"
  ],
  "report": "<p>After quitting a prescripted ssri for major depression, I started to use St. John's Wort to make sure I won't fall back into depression once again.</p><p>After several month of use I realized that not only my depression was gone, but my summertime - pollen allergies were also missing. (I didnt take any of my prescripted anti-histamins.)</p><p>I searched through the internet, but havent found any mentions of St. Johns Wort having any anti allergy properties, so I started an experiment: I stopped taking it and the next day the good old allergy set in. When I took the alcohol based, over the counter extract again I could feel my allergies diminishing in about a half an hour. The summer and fall passed and I didnt get any allergies again.</p><p>I found it very interesting and looking forward to next summer, when Im planning to experiment on my buddies with allergies also.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-12-07T08:00:00.000Z",
  "views": "11278",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 drops",
-   "administration": "oral",
-   "substance": "St. John's Wort",
-   "form": "(extract)"
-  }
- ]
+ "dose": {}
 }

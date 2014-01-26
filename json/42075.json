@@ -5,13 +5,11 @@
  "substance": "Yerba Mate",
  "bodyweight": "185 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 cup",
-   "oral",
-   "Yerba Mate",
-   "(tea)"
-  ]
+  "DOSE:",
+  "1 cup",
+  "oral",
+  "Yerba Mate",
+  "(tea)"
  ],
  "report": "<p>After quitting my daily coffee habit in an attempt to cessate from, and eventually quit smoking cigarettes, I began experimenting with teas, the 'healthy caffeine' that many people promote for its gentleness on the stomach, plus many antioxidants. I ran across a line of medicinal teas, one labeled 'Tea for Energy'. Intrigued I scanned the list of ingredients which listed only one: Yerba Mate. This was a familiar sounding herb, and since it was new to me, and in tea form, I allowed myself to sample a box!</p><p>That evening I drank the first cup, which produced very mild, yet clearly noticable effects. It was definitely caffienated, but the energy was more calm, without the edgy/jittery/jumpy feelings I associate with other forms of caffeine. I could focus without the constant hyper distraction coffee brings me, and best of all I didn't crave a cigarette! When I drank a cup first thing that morning, the effects were much more potent, and defined as I was naturally refreshed and more alert. I felt productive and able to assert my energy like coffee hadn't helped me in many years (I have drank lots of caffeine since I was about 7, my parents' alternative to giving me ritalin for ADD).</p><p>These days I usually start every working morning with a good hot cup of mate followed by some black tea brewed in the same cup with the yerba mate bag to get every bit of the active ingredients out of the yerba mate (This stuff isn't too cheap, although 6$ for about 20 tea bags isn't *too* steep). A healthier, calmer alternative to the more unpleasent caffeinated standbys.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-03-01T08:00:00.000Z",
  "views": "7079",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 cup",
-   "administration": "oral",
-   "substance": "Yerba Mate",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

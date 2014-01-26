@@ -5,13 +5,11 @@
  "substance": "Wormwood",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "1 cig.",
-   "smoked",
-   "Wormwood",
-   "(plant material)"
-  ]
+  "DOSE:",
+  "1 cig.",
+  "smoked",
+  "Wormwood",
+  "(plant material)"
  ],
  "report": "<p>It has a fragrant smell and taste. It is a soft smoke that has the very noticeable effect of relaxing the body, whilst heightening the concentration, at least that's what I've found. One cigarette delivers the feeling of being slightly stoned, but not sleepy. Of all the ineffectual legal highs around wormwood is one that does have an effect, however mild.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-20T07:00:00.000Z",
  "views": "5864",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 cig.",
-   "administration": "smoked",
-   "substance": "Wormwood",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

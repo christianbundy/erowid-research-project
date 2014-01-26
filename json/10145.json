@@ -5,33 +5,31 @@
  "substance": "Caffeine pills, clonezapam, beer, kava tea",
  "bodyweight": "175 lb",
  "header": [
-  [
-   "DOSE:",
-   "400 mg",
-   "oral",
-   "Caffeine",
-   "(pill / tablet)",
-   "",
-   "0.25 mg",
-   "smoked",
-   "Pharms - Clonazepam",
-   "",
-   "",
-   "0.25 mg",
-   "oral",
-   "Pharms - Clonazepam",
-   "",
-   "",
-   " ",
-   "oral",
-   "Alcohol - Beer/Wine",
-   "(liquid)",
-   "",
-   " ",
-   "oral",
-   "Kava",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "400 mg",
+  "oral",
+  "Caffeine",
+  "(pill / tablet)",
+  "",
+  "0.25 mg",
+  "smoked",
+  "Pharms - Clonazepam",
+  "",
+  "",
+  "0.25 mg",
+  "oral",
+  "Pharms - Clonazepam",
+  "",
+  "",
+  " ",
+  "oral",
+  "Alcohol - Beer/Wine",
+  "(liquid)",
+  "",
+  " ",
+  "oral",
+  "Kava",
+  "(liquid)"
  ],
  "report": "<p>My friend and I decided to venture into a concauction of realtively odd substances.  It started with two 200mg caffeine pills ingested, followed by a beer bong.  Five minutes later we smoked .25mg of clonezapam, then we snorted .25mg of clonezapam.  We then proceeded to take another beer bong, followed by a cup of tension tamer tea with extra kava.  After consuming the potpourri of substances we smoked two cigarettes to complete are intake.  This resulted in a very mellow, yet very satisfying buzz.  A good combination to take if you want to get a sedated feeling, without losing alertness. </p><p>We noticed a slight unsettling feeling in our stomachs due to the alcohol.  A very nasty tasting burp relieved this disturbance, but was cleared up with a glass of water.  No psychodelic activities occured, but then again our mix of substances was only supposed to give us a relaxing buzz, so the effects we seeked were obtained rather nicely.  This combination served us well as far as taking away the stresses of daily life.  I noticed a slight numbing feeling, which reminded me of Pink Floyd's 'Comfortably Numb,' so that's exactely what we listened to.</p><p>Excellent choice for both substances and musical satisfaction.  If you're looking for a chill buzz, this is a perfect combo.  All substances were taking within a few minutes of each other, so the different effects hit us at once to brew up this mellow and relaxing buzz.  The only down side was that sleep was a little hard to reach, because of the caffeine pills, but another cup of kava tea set me straight as the warm liquid calmed my nerves and put me into sleepy state as I nicely passed out after a few hours of relaxation.</p>",
  "year": "2001",
@@ -40,13 +38,5 @@
  "age": "Not Given",
  "timestamp": "2004-02-20T08:00:00.000Z",
  "views": "19286",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "400 mg",
-   "administration": "oral",
-   "substance": "Caffeine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

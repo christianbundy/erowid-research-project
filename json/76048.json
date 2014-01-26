@@ -5,13 +5,11 @@
  "substance": "Zolpidem (Ambien)",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 mg",
-   "oral",
-   "Pharms - Zolpidem",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "20 mg",
+  "oral",
+  "Pharms - Zolpidem",
+  "(pill / tablet)"
  ],
  "report": "<p>I have a very severe case of insomnia. (2) Ambien 10mg have a very negligible effect on my getting to sleep. There may be a very fleeting feeling that sleep should occur, but it quickly wears off. I wouldn't call it 'sedation,' just a very mild drowsy feeling. In fact, because Ambien's effects are so short-lived, I can drive and do all normal functioning without any impairment. [Erowid Note: Driving while intoxicated or tripping is dangerous and irresponsible because it endangers other people. Don't do it!]</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2010-08-22T07:00:00.000Z",
  "views": "5121",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Alcohol",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "48 oz",
-   "oral",
-   "Alcohol - Beer/Wine",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "48 oz",
+  "oral",
+  "Alcohol - Beer/Wine",
+  "(liquid)"
  ],
  "report": "<p>I had been on a booze fast for 10 days because my tolerance had accidently gotten too high basically to the point where I felt nothing off four beers. I had been drinking 12 drinks a week 4 at a time for a month. Usually I only drink 8 a week but it was summer. I have been drinking since I was 14. Anyways I decided to stop for 10 days to try and bring my tolerance back down. This was due to my desire to not drink more.</p><p>Anyways after those ten days I ended up drinking 4 beers over an hour and a half which is pretty slow for me. Surprisingly I was as drunk as I had been when I first started drinking. I felt great and fell asleep after an hour of fun. Basically I'm just curious about how fast one gains and looses alcohol tolerance because it seemed to me as if I had a large change over a short period of time.</p>",
  "year": "2010",
@@ -20,13 +18,5 @@
  "age": "17",
  "timestamp": "2010-08-02T07:00:00.000Z",
  "views": "2779",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "48 oz",
-   "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

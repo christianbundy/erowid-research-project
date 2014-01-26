@@ -5,18 +5,16 @@
  "substance": "Piracetam & Various",
  "bodyweight": "80 kg",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Piracetam",
-   "(powder / crystals)",
-   "",
-   " ",
-   "",
-   "Various",
-   ""
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Piracetam",
+  "(powder / crystals)",
+  "",
+  " ",
+  "",
+  "Various",
+  ""
  ],
  "report": "<p>+Alcohol: if taken 800mg before or during alcohol consumption seems to change character of intoxication a little bit (feeling more 'sober', seems to reduce influence of alcohol on movement) plus reduce hangover dramatically for me.</p><p>+Amphetamine/methamphetamine: seems to induce amphetamine central effects, but make me kind of 'very serious about everything'. Reduce some of the hangover effects (numbness, lack of motivation) if taken next day.</p><p>+MDMA (Ecstasy): increase central effects (even in an experienced user) if taken 2400-3600mg during the day before the experience, but can make it too intense if I want to redose. Make day after a little bit easy.</p><p>+DOM/DOB: intensify and prolong experience if taken after the peak, quite unpleasant for me.</p><p>+Methylone: central effects increased dramatically, my standard dose of methylone is 180-200mg, but if I take 2400mg of piracetam during the day before the experience 120-140 seems to be just fine.</p>",
  "year": "2009",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2012-03-21T07:00:00.000Z",
  "views": "2623",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Piracetam",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

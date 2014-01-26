@@ -5,13 +5,11 @@
  "substance": "Sertraline",
  "bodyweight": "195 lb",
  "header": [
-  [
-   "DOSE:",
-   "50 mg",
-   "insufflated",
-   "Pharms - Sertraline",
-   "(ground / crushed)"
-  ]
+  "DOSE:",
+  "50 mg",
+  "insufflated",
+  "Pharms - Sertraline",
+  "(ground / crushed)"
  ],
  "report": "<p>Tonight I was in one of my more experimental moods, and after determining that my supply of psychedelic substances was quite obviously zilch I decided to try snorting one of my 50mg Zoloft pills.</p><p>To be blunt - aside from the expected mood lift, the experience was rotten. There was a burn that initially was very calm - I have felt a similar burn with insufflated vicodin, and I can deal with it.</p><p>However, as time passed, the burn intensified. Soon my eyes began watering and my nose was running. I began to sneeze and was feeling generally very uncomfortable.</p><p>I decided to take a shower, and sat in there for 30 minutes in the steam to help my nasal passages. I did as much as I could to clean out my nose.</p><p>I am writing this now an hour and a half after insufflation. My nose is still agitated as is my throat. In my experience, insufflation is really a hit and miss crapshoot. I'm writing this on the off chance someone else might decide to take the same path I did - hopefully I'll save them a night of annoying nose problems.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2005-07-08T07:00:00.000Z",
  "views": "27628",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "50 mg",
-   "administration": "insufflated",
-   "substance": "Pharms - Sertraline",
-   "form": "(ground / crushed)"
-  }
- ]
+ "dose": {}
 }

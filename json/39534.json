@@ -5,12 +5,10 @@
  "substance": "MDMA",
  "bodyweight": "68 kg",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "MDMA"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "MDMA"
  ],
  "report": "<p>I've been taking MDMA (and LSD, ketamine, mushrooms, weed, cocaine) for about 5 years now.  I took 800mg in 8 hours and I had no problem. For the past (about) 9 months I've been having serious visual distortions (I cant focus right, I'm seeing weird things, many times I see everything moving slow etc.). </p><p>I havent continued taking any drug since then but my vision is totally wrong. I went to a doctor (one of the best ones in my country) to see my eyes and he said i was ok. But sure thing is that I'm no ok. It's been six months and I cant see anything right.</p>",
  "year": "2004",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2008-02-16T08:00:00.000Z",
  "views": "4922",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "MDMA"
-  }
- ]
+ "dose": {}
 }

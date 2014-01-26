@@ -5,28 +5,26 @@
  "substance": "Topiramate (Topamax) & Alcohol",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "50 mg",
-   "oral",
-   "Pharms - Topiramate",
-   "(pill / tablet)",
-   " T+ 1:00",
-   "50 mg",
-   "oral",
-   "Pharms - Topiramate",
-   "(pill / tablet)",
-   " T+ 2:00",
-   "100 mg",
-   "oral",
-   "Pharms - Topiramate",
-   "(pill / tablet)",
-   " T+ 2:00",
-   "1 glass",
-   "oral",
-   "Alcohol - Beer/Wine",
-   "(liquid)"
-  ]
+  "DOSE: T+ 0:00",
+  "50 mg",
+  "oral",
+  "Pharms - Topiramate",
+  "(pill / tablet)",
+  " T+ 1:00",
+  "50 mg",
+  "oral",
+  "Pharms - Topiramate",
+  "(pill / tablet)",
+  " T+ 2:00",
+  "100 mg",
+  "oral",
+  "Pharms - Topiramate",
+  "(pill / tablet)",
+  " T+ 2:00",
+  "1 glass",
+  "oral",
+  "Alcohol - Beer/Wine",
+  "(liquid)"
  ],
  "report": "<p>I went to a friend's house to hang out and she had these little pills called Topamax, of which I'd never heard of. She said they would make me feel very strange and needed to know a 'street value' for them. So, I tested some.</p><p>I began with 50mg (half of a 100mg tablet) and waited. Nothing happened. An hour or so later I took the other 50mg and began my hour long drive home. [Erowid Note: Driving while intoxicated or tripping is dangerous and irresponsible because it endangers other people. Don't do it!] Half way home, I began feeling very floaty and tingly. The road went 'whoa', but I stayed in the lane so I assumed I was fine. The rest of the drive I was strangely paranoid that my face was tingling and that I felt as if I was flying.</p><p>Later in the evening, maybe 2 hours, I downed another 100mg with a beer. I felt so odd. It's not an upper or a downer, in my opinion, just an alteration. Around 6am (3-4 hours after the last dose) my whole body was pins and needles. I laid in the bed feeling slightly spinny and almost high.</p><p>The feelings wore off midday. Overall the experience was a good one. I have not discovered the street value or possible concoctions to be made from the drug, but I'm willing to keep testing.</p>",
  "year": "2007",
@@ -35,13 +33,5 @@
  "age": "Not Given",
  "timestamp": "2010-07-10T07:00:00.000Z",
  "views": "8183",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "50 mg",
-   "administration": "oral",
-   "substance": "Pharms - Topiramate",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

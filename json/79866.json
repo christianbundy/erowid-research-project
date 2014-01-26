@@ -5,13 +5,11 @@
  "substance": "Zolpidem (Ambien)",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "oral",
-   "Pharms - Zolpidem",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "oral",
+  "Pharms - Zolpidem",
+  "(pill / tablet)"
  ],
  "report": "<p>I took ambien one night and feel asleep. Next thing I know I was hit by a train in my car in a train yard. I was sleep driving. It happened for real and my memory of the event is like a dream. It totalled out my car. I lived to tell the horrible side effect story of ambien. Don't do it. It can cause serious problems.</p>",
  "year": "2009",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-07-11T07:00:00.000Z",
  "views": "4097",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "oral",
-   "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

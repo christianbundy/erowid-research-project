@@ -5,18 +5,16 @@
  "substance": "Duloxetine & Modafinil",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   "120 mg",
-   "oral",
-   "Duloxetine",
-   "(daily)",
-   "",
-   "200 mg",
-   "oral",
-   "Modafinil",
-   "(daily)"
-  ]
+  "DOSE:",
+  "120 mg",
+  "oral",
+  "Duloxetine",
+  "(daily)",
+  "",
+  "200 mg",
+  "oral",
+  "Modafinil",
+  "(daily)"
  ],
  "report": "<p>I have battled chronic depression since my adolescence.  Years of therapy and rigorous exercise helped little until I started taking the new-generation anti-depressants. For the last 15 years or so, I have had (temporary) good results with a series of these: Zoloft worked well for some years, then lost its efficacy.  Effexor likewise, and then Cymbalta.  A couple of years ago, rather than change to a new drug when the Cymbalta started to work less well, my doctor prescribed Provigil as an adjunct to it.  It has been great, on the whole. </p><p>Because my insurance will not cover the drug for off-label use (I don't have narcolepsy, just depression), the cost of the prescription drug is prohibitive, so I have been buying modafinil from overseas pharmacies, and have mostly had good luck with these sources (once, the product delivered seemed inert).</p><p>I take 120 mg Cymbalta and 200 mg modafinil daily. </p><p>I find myself not depressed, have normal levels of energy (like other people, instead of feeling barely able to get out of bed), have little in the way of side effects.  I am more prone to motion sickness or other nausea than when not taking the drugs, but the problem is mild.</p><p>The one concern I have is that I have found that cutting the dose (as I did once for several days when I didn't place the online order in time) seems to have a dramatic negative  effect.  A couple of days at 100 mg/day instead of 200mg/day had me sleeping 12 or 14 hours/night and dragging myself around feeling exhausted, and after 3 or 4 days at the lower dose, I experienced a  pretty serious bout of depression (uncontrollable weeping; ruminative, self-lacerating thoughts; generally excruciating misery).  A day or so back on the full dose put me right, but it has left me a bit nervous about the prospect of ever getting completely off the drugs.</p>",
  "year": "2010",
@@ -25,13 +23,5 @@
  "age": "48",
  "timestamp": "2012-02-08T08:00:00.000Z",
  "views": "3273",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "120 mg",
-   "administration": "oral",
-   "substance": "Duloxetine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

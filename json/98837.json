@@ -5,13 +5,11 @@
  "substance": "Galangal",
  "bodyweight": "115 lb",
  "header": [
-  [
-   "DOSE:",
-   "2 oz",
-   "oral",
-   "Galangal",
-   "(tea)"
-  ]
+  "DOSE:",
+  "2 oz",
+  "oral",
+  "Galangal",
+  "(tea)"
  ],
  "report": "<p>I brewed some tea with 2oz of galangal root following others' recipes. I ground it up in a coffee grinder and steeped the powdered root it in a french press with 2c boiled water for 15min. I consumed it all at once and experienced no effects. Nothing after 30min, 2hrs later....still nothing. No warmth, no visuals, nothing happened.</p>",
  "year": "2013",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2013-01-07T08:00:00.000Z",
  "views": "1080",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 oz",
-   "administration": "oral",
-   "substance": "Galangal",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

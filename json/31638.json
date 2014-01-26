@@ -5,12 +5,10 @@
  "substance": "Betel Nut",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 nuts",
-   "oral",
-   "Betel Nut"
-  ]
+  "DOSE:",
+  "1 nuts",
+  "oral",
+  "Betel Nut"
  ],
  "report": "<p>After living in Taiwan for a month and trying the betel nut on several occasions without significant effect, I started reading websites to see what the big deal about betel nut is. I read that in order to be psychoactive, betel must be taken with lime.  I had bought the lime and leaf bound nut several times from street vendors in Taipei, but had always discarded it, thinking it just a preservative sheath. </p><p>In a net cafe, with a small pack in my pocket and an empty juice bottle to spit in, I started chewing a nut, leaf, lime, and all.  The effect was boisterous and immediate.  Tasting lightly of roasted peppers, it gave me a feeling similar to that of laughing gas and ephedrine.  A lovely buzz, and it comes on strong, tapering gently off over a period of some half hour.  Now that I know how to use the betel nut.</p>",
  "year": "2004",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "12679",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 nuts",
-   "administration": "oral",
-   "substance": "Betel Nut"
-  }
- ]
+ "dose": {}
 }

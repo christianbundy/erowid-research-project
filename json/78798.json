@@ -5,18 +5,16 @@
  "substance": "Milk Thistle (Silymarin) & Alcohol",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE:",
-   "900 mg",
-   "",
-   "Milk Thistle",
-   "(daily)",
-   "",
-   " ",
-   "",
-   "Alcohol",
-   "(daily)"
-  ]
+  "DOSE:",
+  "900 mg",
+  "",
+  "Milk Thistle",
+  "(daily)",
+  "",
+  " ",
+  "",
+  "Alcohol",
+  "(daily)"
  ],
  "report": "<p>Quick history:  I've been drinking nearly every day since 2003, with periods (months) of sobriety in between.  Using Silymarin seems to help with getting more bilirubin out of my system quicker, thereby getting that nasty acetaldehyde out of my system.  Also, I use L-Cysteine supplements to help mop more of that crap up.</p><p>Conclusion is that it seems like a decent investment for a few months, especially if you want to take all precautions, whether convoluted or not.  I do notice that hangovers are less intense when taken with Silymarin (milk thistle extract) and L-Cysteine.</p>",
  "year": "2009",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2009-05-19T07:00:00.000Z",
  "views": "7217",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "900 mg",
-   "administration": "",
-   "substance": "Milk Thistle",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

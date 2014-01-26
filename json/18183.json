@@ -5,13 +5,11 @@
  "substance": "DMAE",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "340 mg",
-   "oral",
-   "DMAE",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  "340 mg",
+  "oral",
+  "DMAE",
+  "(powder / crystals)"
  ],
  "report": "<p>Having been diagnosed with ADD, and unable to use Ritalin properly without becoming hopelessly addicted, I decided to try alternative methods of medicating myself.</p><p>I went to my local health food store, asking for DMAE, and after being questioned as to whether I was a cop (the stuff is illegal to sell in Canada), the guy reached under the counter and pulled out a bottle.</p><p>I got home and took a single pill as directed.</p><p>Basically, the effects i felt were:</p><p>- an unpleasant physical stimulation, like drinking way too much coffee</p><p>- slight nausea, chills, and sweating (I presume these are cholinergic side effects, as DMAE is supposed to raise levels of acetylcholine within the brain)</p><p>- a general feeling of 'sketchiness' similar to the comedown from MDMA or one of the amphetamines.</p><p>It's been three hours since I took the stuff, and the symptoms aren't getting any better.</p><p>Thousands of web sites sell this stuff, touting it as a 'smart drug'. I call it a complete waste of money, and will not be repeating this experience.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-10-14T07:00:00.000Z",
  "views": "19097",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "340 mg",
-   "administration": "oral",
-   "substance": "DMAE",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Fluoxetine",
  "bodyweight": "165 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 mg",
-   "oral",
-   "Pharms - Fluoxetine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "20 mg",
+  "oral",
+  "Pharms - Fluoxetine",
+  "(daily)"
  ],
  "report": "<p>After years of depression being an introverted child, I finally started taking Prozac. After A few days I began to feel confidence in myself and become more social and uncaring of how I seemed to others. I understand now that my brain is more balanced and I am a happier person for I feel freed from my own mind.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2010-01-26T08:00:00.000Z",
  "views": "17158",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Pharms - Fluoxetine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

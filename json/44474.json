@@ -5,12 +5,10 @@
  "substance": "DXM & Drug Testing",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "200 mg",
-   "",
-   "DXM"
-  ]
+  "DOSE:",
+  "200 mg",
+  "",
+  "DXM"
  ],
  "report": "<p>I'm on probation. I get drug tested regularly and was nervous when it came to DXM because I have heard it can cause false positives. One night I personally ingested around 200 mg of DXM to catch a buzz. Little did I know I was to be drug tested the very next MORNING!!! The result of 100% clean surprised me, and I was very pleased.</p>",
  "year": "2005",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-21T07:00:00.000Z",
  "views": "3134",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "200 mg",
-   "administration": "",
-   "substance": "DXM"
-  }
- ]
+ "dose": {}
 }

@@ -5,12 +5,10 @@
  "substance": "Absinthe",
  "bodyweight": "97 lb",
  "header": [
-  [
-   "DOSE:",
-   "1.5 oz",
-   "oral",
-   "Absinthe"
-  ]
+  "DOSE:",
+  "1.5 oz",
+  "oral",
+  "Absinthe"
  ],
  "report": "<p>I was offered imported Absinthe by a friend with a flask. I had roughly one shot. I went on to have a bit of bourbon and then went to bed for the night.</p><p>I woke up the next morning completely blind, and it took me almost 12hrs to regain my full eyesight.</p><p>Turns out Wormwood is in the same family as Menthol, which is something I'm mildly allergic to -- Wormwood I'm more severely allergic to. I literally could not see behind the length of my arm all day.</p>",
  "year": "2010",
@@ -19,12 +17,5 @@
  "age": "21",
  "timestamp": "2011-12-16T08:00:00.000Z",
  "views": "5050",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1.5 oz",
-   "administration": "oral",
-   "substance": "Absinthe"
-  }
- ]
+ "dose": {}
 }

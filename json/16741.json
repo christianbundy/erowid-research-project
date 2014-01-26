@@ -5,13 +5,11 @@
  "substance": "Tramadol",
  "bodyweight": "220 lb",
  "header": [
-  [
-   "DOSE:",
-   "1.0 g",
-   "oral",
-   "Pharms - Tramadol",
-   "(daily)"
-  ]
+  "DOSE:",
+  "1.0 g",
+  "oral",
+  "Pharms - Tramadol",
+  "(daily)"
  ],
  "report": "<p>[Erowid Note: 1 gram of tramadol is considered a high dose, see Tramadol Dosage]</p><p>I've been taking a minimum of 1000mg. of tramadol hcl daily for 3 years. I live in Indonesia. My occupation is such that I'm forced to use my hands in spite of extreme tendonitis and arthritis. Tramadol hcl is the most effective medication I've found. It allows me to work in reasonable comfort with the added bonus of keeping me stoned to the hooves. It is ,unfortunately, most positively physically addictive. I take it at lower dosages during periods of not working to avoid having withdrawal symptoms begin, even though there is no therapeutic need.</p><p>These symptoms are typical opiate style, last for weeks and begin in earnest around 30 hours after cessation of normal dose. I've had one very dramatic seizure resulting from absent mindedly double dosing. I lost all recollection of a 2 day period and suffered from horrendous muscle pain and a knot on my head the size of a plum. Tramadol hcl is not a gourmet opiate by any description. It does get me high though and has cute nod to it if dosed about 2 hours previous to turning in.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "5389",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1.0 g",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

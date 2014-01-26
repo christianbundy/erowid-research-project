@@ -5,13 +5,11 @@
  "substance": "Fentanyl",
  "bodyweight": "330 lb",
  "header": [
-  [
-   "DOSE:",
-   "100 ug",
-   "transdermal",
-   "Pharms - Fentanyl",
-   "(patch)"
-  ]
+  "DOSE:",
+  "100 ug",
+  "transdermal",
+  "Pharms - Fentanyl",
+  "(patch)"
  ],
  "report": "<p>I am a cancer survivor with continuing severe postop pain which gradually led to successively stronger pain medications being prescribed.  The sustained-release opiates have been a literal Godsend, as are the MDs at the pain clinic who were patient enough to work with me until we were able to arrive at treatment that works.</p><p>While being treated at the pain clinic, I started using fentanyl as a 'rescue' medication on occasions when my regular oral Oxycontin (sustained-release oxycodone) regimen failed to control my pain.  Last year my doc and I tried Actiq (sort of a fentanyl lollipop which is supposed to introduce the dose sublingually), which worked OK at first, but soon (2-3 months) became ineffective. Tolerance?   Don't know.  Other noticeable effects were a decided (and scary) depression of my respiratory reflex during the first few doses.  I was able to consciously breathe, but it seemed for a while as though I'd damn well better work at it.  That went away after a few weeks, but in a few more weeks, so did Actiq's effectiveness as a 'rescue' pain medication.</p><p>No more Actiq because of its ineffectiveness, but on recovery from surgery early this year, I had the nurses and my surgeon worried because of my extremely high tolerance for opiate analgesics, so my surgeon tried a Duragesic (transdermal fentanyl) patch, which did wonders for the postop and my other pain.  My regular pain doc and I talked it over, and he agreed to switch me from Oxycontin to Duragesic.</p><p>Unfortunately, after a few months of decent (not perfect, but pretty good) pain management with t/d fentanyl, our home was flooded out, we had to move to another state, and with this and that (poverty, mainly) I was unable to get a doctor's appointment early enough to remain on opioid pain relief (meds ran out before appointment). </p><p>I went from 100mcg of fentanyl/hr transdermal to nothing, and the boot dropped about 3-4 days later - torrential diarrhea that Lomotil wouldn't touch, finally about 8 doses of Pepto Bismol did the trick or I ran out of crap, something. </p><p>Flu-like muscular pain and extreme, generalized weakness, which lasted about 3-4 days after onset, went away, then relapsed full force 3 days later.  I actually had an undulating fever during the first bout with diarrhea, whether due to dehydration (I tried to hydrate orally as best I could despite some nausea), a concomitant infection of some sort, or some other reason, I can't say. </p><p>After all of this, the 'malaise' which PDR describes as the effect of Narcan on opiate dependent people kicked in (or maybe only then stood out from the previous symptoms).  Big lot of no fun, AND the pain for which I was taking the stuff in the first place decks me (as in lying in bed crying like a baby) whenever the weather changes, or sometimes just for the hell of it.  Looking forward to the next appointment with my new MD.</p><p>Oh, and if you're looking for a euphoric (or any other sort of) high from transdermal fentanyl, sorry, but it doesn't work.  Just thought I'd share that.  It's just a kick-ass pain management system, which works for me.  I personally get high when the Pacers beat the fuckhead Knicks and/or the Lakers.  Some minor transient catecholamine surges there, but nothing I can't handle :-)</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-07-24T07:00:00.000Z",
  "views": "54381",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "100 ug",
-   "administration": "transdermal",
-   "substance": "Pharms - Fentanyl",
-   "form": "(patch)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Mushrooms",
  "bodyweight": "152 lb",
  "header": [
-  [
-   "DOSE:",
-   "1.75 g",
-   "oral",
-   "Mushrooms",
-   "(plant material)"
-  ]
+  "DOSE:",
+  "1.75 g",
+  "oral",
+  "Mushrooms",
+  "(plant material)"
  ],
  "report": "<p>I begin to lose contact</p><p>From my so familiar scene</p><p>Objects begin to become real</p><p>'Could this be only a dream?'</p><p>Clouds are moving around me</p><p>Familiar faces are peeking</p><p>But in the void lies the noble truth</p><p>In which we are seeking.</p><p>But once more I ask myself,</p><p>'Could this be only a dream?'</p><p>There was no warning</p><p>No call considered fair</p><p>I must magnify my vision</p><p>And remove myself from care.</p><p>And in these moments</p><p>So amazingly beautiful</p><p>We are at peace with the Universe</p><p>Ambitious and in control.</p><p>But once more I ask myself,</p><p>'Could this be only a dream?'</p><p>As the void is obtained</p><p>and the noble truth in hand</p><p>I shed a tear in fear</p><p>This won't happen again.</p><p>But I am very certain</p><p>There's a journey see</p><p>But once more I ask myself,</p><p>'Could this be only a dream?'</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2003-11-21T08:00:00.000Z",
  "views": "6582",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1.75 g",
-   "administration": "oral",
-   "substance": "Mushrooms",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

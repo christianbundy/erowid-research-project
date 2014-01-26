@@ -5,13 +5,11 @@
  "substance": "Inhalants - Nitrites",
  "bodyweight": "8.5 kg",
  "header": [
-  [
-   "DOSE:",
-   "1 hit",
-   "inhaled",
-   "Inhalants - Nitrites",
-   "(gas)"
-  ]
+  "DOSE:",
+  "1 hit",
+  "inhaled",
+  "Inhalants - Nitrites",
+  "(gas)"
  ],
  "report": "<p>Just a general note about my experience with poppers (Amyl Nitrite / Butyl Nitrite), the quality differs greatly, with 'liquid gold' being the best in my experience. Sometimes I get really bad banging headaches, always my heartrate goes through the roof, loss of bodily control (similar to being drunk, but less severe) the effects wear off after 5 minutes, and it's possible to continue my normal day. I've heard that if a person does too much at once their lips turn blue for a while, but I've never experienced this myself. Good when mixed with caffeine and alcohol. In the UK they're cheap and legal (2.50 to 5 for a small bottle)..</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2003-03-07T08:00:00.000Z",
  "views": "13367",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 hit",
-   "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "(gas)"
-  }
- ]
+ "dose": {}
 }

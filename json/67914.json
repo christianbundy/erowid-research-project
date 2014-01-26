@@ -5,23 +5,21 @@
  "substance": "Cannabis, Melatonin, Herbal Mix (Tea, Catnip & Nutmeg)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "1 bowl",
-   "smoked",
-   "Cannabis",
-   "(plant material)",
-   " T+ 2:00",
-   "6.0 mg",
-   "oral",
-   "Melatonin",
-   "",
-   " T+ 2:00",
-   " ",
-   "smoked",
-   "Various",
-   ""
-  ]
+  "DOSE: T+ 0:00",
+  "1 bowl",
+  "smoked",
+  "Cannabis",
+  "(plant material)",
+  " T+ 2:00",
+  "6.0 mg",
+  "oral",
+  "Melatonin",
+  "",
+  " T+ 2:00",
+  " ",
+  "smoked",
+  "Various",
+  ""
  ],
  "report": "<p>I have done each of these things separately with mixed results but this is my experience last night with a nice mix.  I started smoking pot at around 8:00pm.  By 10:00, my friend and I had smoked two bowls between us.  That's when I took 6mg of melatonin and started smoking my herbal mixture, which was one Sleepytime Extra tea bag, mixed with catnip (50/50 ratio) and a couple pinches of ground nutmeg.  After smoking pot, the herbs were really smooth to smoke and the peppermint in the tea felt nice on my throat.  Once the melatonin kicked in and the herbs started making me buzz, it was really nice and mellow.  I took a bubble bath and then had the best night of sleep I've had in months!</p>",
  "year": "2007",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2008-01-06T08:00:00.000Z",
  "views": "11846",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "1 bowl",
-   "administration": "smoked",
-   "substance": "Cannabis",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

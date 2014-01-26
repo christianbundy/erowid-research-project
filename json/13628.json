@@ -5,12 +5,10 @@
  "substance": "Selegiline",
  "bodyweight": "210 lb",
  "header": [
-  [
-   "DOSE:",
-   "22 mg",
-   "oral",
-   "Pharms - Selegeline"
-  ]
+  "DOSE:",
+  "22 mg",
+  "oral",
+  "Pharms - Selegeline"
  ],
  "report": "<p> I'll be 60 years old next month and have been using Deprenyl for about the past 10 years. In most respects it's difficult to quantify the effects of this compound: in terms of its reputed anti-aging benefits I can say that I am very active, never get sick and am still alive. As a cognition enhancer it leaves me fairly unimpressed; my short-term memory isn't nearly what it once was and I seem to suffer the same CRS (Can't Remember Shit) syndrome as most or all of my peers.</p><p>What keeps me coming back year after year is Deprenyl's aphrodisiac property. At the risk of seeming indelicate, I have to say that the erections are there on demand, whenever, wherever, regardless. For those lads on the happy side of 50 years, this may not seem like a big deal, but wait a few years and you may change your tune.</p><p>Apart from this, I have noticed that Deprenyl in the doses I use is a fairly good mood enhancer and is completely without any undesireable side-effects. Of the many interesting plants and pharmaceuticals I've experienced over the past 40 years, this seems to be one of the most unequivocally helpful and benign.</p>",
  "year": "2002",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2003-05-06T07:00:00.000Z",
  "views": "49278",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "22 mg",
-   "administration": "oral",
-   "substance": "Pharms - Selegeline"
-  }
- ]
+ "dose": {}
 }

@@ -5,18 +5,16 @@
  "substance": "Tramadol (Tramacet) ",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "oral",
-   "Pharms - Tramadol",
-   "(pill / tablet)",
-   "",
-   " repeated",
-   "oral",
-   "Acetaminophen",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  " repeated",
+  "oral",
+  "Pharms - Tramadol",
+  "(pill / tablet)",
+  "",
+  " repeated",
+  "oral",
+  "Acetaminophen",
+  "(pill / tablet)"
  ],
  "report": "<p>As of 4 months ago, my doctor has been giving me a prescription for Tramacet for chronic pain. Tramacet contains 325mg acetaminophen (which does nothing for me, alone or in conjunction), and 37.5mg Tramadol in each caplet. I take it 2x a week, usually 2 pills (75mg), or 4 pills (150mg) if I'm having one of my more painful days. Every time I take them the effects are consistent.</p><p>I know it seems like a long time, but usually the drug kicks in fully after 2.5 - 3 hours, with a total duration of 6-8 hours. Sometimes with 150mg doses it kicks in after only 1 hour.</p><p>The most immediate effect, of course, is analgesia (painkilling) which usually works relatively well. Depending on the size of the dose, there's a definite, (mild-moderate) slowing of reflexes. I find there's a mild euphoria at 75mg, a moderate euphoria at higher doses. I get a sensation of pleasure that seems to be running through my veins throughout my entire body as well.</p><p>Oddly enough, there's also one downside to the effects. I get very irritable. I don't actually feel irritated during the course of the drug in and of itself, but when people talk to me, it takes only the fact that they are talking to me to make me feel very annoyed. The slightest little things somebody might say will irritate me immensely and often result in me biting their heads off at something that would otherwise cause no irritation at all. Also, last night I had tramacets in conjunction with cough-syrup that had codeine in it, which seemed to increase this effect a good deal.</p>",
  "year": "2006",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-30T07:00:00.000Z",
  "views": "14021",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

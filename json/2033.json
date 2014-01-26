@@ -5,12 +5,10 @@
  "substance": "Ecstasy",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "MDMA"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "MDMA"
  ],
  "report": "<p>Speeding. Nervousness. Loss of desire, partly ability, to speak. Sensitivity to sound. Confusion, increasing fear. It all happens very suddenly. Great fear, shaking, things look & seem the same yet totally different. Senses heightened & perspective badly altered. Sense of rushing out badly. Terror, sudden heat & sweating. Inability to move or speak. Unwillingness to look around - world too strange - very frightening. Sudden vomiting - easy, not unpleasant, but not supressable. Feel better, but world different, not like acid where hallucinations seperable from reality, things more part of your own thoughts. Few more minutes of fear, decreasing. Then - +/- 6hrs of starnge, gentle joy & affection. Hug trees! Even pain decreases gradually. Feel slightly strange (quite lethargic) for +/- 24hrs. 1st time Ecstacy user.</p>",
  "year": "1994",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "3438",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "MDMA"
-  }
- ]
+ "dose": {}
 }

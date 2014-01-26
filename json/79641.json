@@ -5,13 +5,11 @@
  "substance": "Wormwood (Oil)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 ml",
-   "oral",
-   "Wormwood",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "10 ml",
+  "oral",
+  "Wormwood",
+  "(liquid)"
  ],
  "report": "<p>Drank it all.  I still taste it now after 2.5 hours.  It tasted pretty bad but I brushed my teeth and it gets better.  I've done everything out there and this is fun.  It made me feel giddy and happy and I'm glad I did it.</p>",
  "year": "2009",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-06-28T07:00:00.000Z",
  "views": "3585",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 ml",
-   "administration": "oral",
-   "substance": "Wormwood",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

@@ -5,12 +5,10 @@
  "substance": "Diazepam (Valium)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "Pharms - Diazepam"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "Pharms - Diazepam"
  ],
  "report": "<p>One of the greatest drugs known to man.  They should give it away at the convenience store.  Possibly one of the greatest to snort, too: Valium slides down like a sugary pixie stick with little or no pain to the nostril.</p><p>10mg, blue (snorted)</p><p>Euphoric, purple hues, no pain, lots of love, desire to sleep standing up, funny grin, bugs bunny cartoons playing in reverse slowly in my head.</p><p>5mg, yellow (ingested)</p><p>A tease.  Mild visuals, desire to sleep or lie down to increase its potency.</p><p>Next day: possibly a slight hangover.  Far less so than many other 'modern' painkillers.  This is probably the reason why Valium was so popular: aside from brain damage, there was only a little bit of catalepsy or the shakes.  Truly a classic drug and hard to find.</p>",
  "year": "1997",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2008-01-22T08:00:00.000Z",
  "views": "38732",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "Pharms - Diazepam"
-  }
- ]
+ "dose": {}
 }

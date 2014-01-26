@@ -5,13 +5,11 @@
  "substance": "Salvia divinorum",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "smoked",
-   "Salvia divinorum",
-   "(dried)"
-  ]
+  "DOSE:",
+  " ",
+  "smoked",
+  "Salvia divinorum",
+  "(dried)"
  ],
  "report": "<p>Citation: Anonymous. 'Reality Fishing'. The Entheogen Review. Winter Solstice 1998;7(4):92.</p><p>There have been a few times when I smoked Salvia divinorum and was not sure (and still am not sure) that I really returned to the same reality I left from. Funny little details--like all the people I know being acquainted with an advertising cartoon called Charlie the Tuna that I seem to have no recollection of whatsoever. -- Anonymous</p>",
  "year": "1998",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-03-13T07:00:00.000Z",
  "views": "3156",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "smoked",
-   "substance": "Salvia divinorum",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

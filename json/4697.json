@@ -5,13 +5,11 @@
  "substance": "Paroxetine (Paxil)",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "oral",
-   "Pharms - Paroxetine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "oral",
+  "Pharms - Paroxetine",
+  "(pill / tablet)"
  ],
  "report": "<p>In 1999 I began taking 10mg of Paxil per day, just before bedtime, to treat depression.  Within a few days I began seeing a visual motion blur of high contrast objects for a few minutes after waking each morning (I call them 'trailers').  I often paint my nails with intentionally intense colors so that I can virtually paint the ceiling with the smearing effect that I see from my moving fingertips.  I also enjoy watching birds streak through the sky.</p><p>A few minutes after waking the effect completely disappears only to return the next morning.  During 1999 I gradually increased my dosage to 40mg per day, and the effect continued every morning.  In early 2000 I ceased taking Paxil, and the 'trailer' effect disappeared by the time withdrawl symptoms ended.</p><p>I returned to Paxil in late 2000, and as soon as I began taking 10mg per day the morning trailers resumed.  I presently take 30mg per day, just before bed, and see the motion blurred 'trailer' effect every morning.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-01-21T08:00:00.000Z",
  "views": "19426",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "oral",
-   "substance": "Pharms - Paroxetine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

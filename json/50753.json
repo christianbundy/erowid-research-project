@@ -5,18 +5,16 @@
  "substance": "Tramadol",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "100 mg",
-   "oral",
-   "Pharms - Tramadol",
-   "(pill / tablet)",
-   " T+ 0:30",
-   "50 mg",
-   "oral",
-   "Pharms - Tramadol",
-   "(pill / tablet)"
-  ]
+  "DOSE: T+ 0:00",
+  "100 mg",
+  "oral",
+  "Pharms - Tramadol",
+  "(pill / tablet)",
+  " T+ 0:30",
+  "50 mg",
+  "oral",
+  "Pharms - Tramadol",
+  "(pill / tablet)"
  ],
  "report": "<p>I have a mild tolerance to opiates - I had taken 22.5 mg of hydrocodone in solution with guifanesin (Vi-Q Tussin) 2 days previous.</p><p>T+0:00</p><p>I took orally (no chewing) 2 generic Tramadol pills, 50mg each for a total of 100mg. It was 8:05 PM. I hadn't eaten in 7 hours.</p><p>T+0:20</p><p>I began feeling a tingling/massaging sensation in the back of my head, between my ears. The sensation was very mild, but spread to my ears and neck. It wavered in and out of perceptibility.</p><p>T+0:30</p><p>At this point I took the third 50mg orally.</p><p>T+0:30</p><p>I connected my headphones to my computer and put on some My Bloody Valentine. Shoegazing is my favorite for opioid induced dazes.</p><p>T+0:50</p><p>I began at this point to experience some stomach discomfort. Light waves of nausea (similar to the nausea felt when taking 300mg+ of DXM) swept my body occasionally, but I did not vomit. I felt like I had to move my bowels, but couldn't.</p><p>T+1:10</p><p>I guess this is where the first 2 pills leveled out. I started feeling very relaxed, and in a conservatively upbeat mood. Sort of like the normal opiate feeling, but it 'meshed' better...it's hard to explain something like this feeling. It felt very natural to be this way, not 'fucked up' at all.</p><p>T+2:00</p><p>I had been listening to My Bloody Valentine, but at this point the music seemed very powerful, enough to put me into a daze. I just let the iTunes visualizer sweep me away.</p><p>T+2:40</p><p>At this point I felt very social, like I should be talking to lots of people. I signed in on all of my messaging clients and got on the phone with my girlfriend. She told me the next day that I was very slightly slurring my words - apparently I have trouble making the 's' sound. 'Stop' became 'schtop,' 'sex' became 'schecks.' Overall, I continued to feel very social.</p><p>T+3:50</p><p>I decided to stop talking to people and try to get to bed. I put on headphones and a bit of Dandy Warhols, turned out the lights, and tried to get to sleep.</p><p>Sleep was rough. I spent the night in a dreamy daze - not exactly sure whether Im dreaming or awake, in a state between those two areas of being. I had that old 'naked in school' dream. I woke up around 6 am, unable to continue attempting to sleep. I was still feeling the Tramadol at this point. I got onto World of Warcraft and amused myself for a while. I was very open and talked to lots of people; I was very social where normally I am not.</p><p>Overall, I would say Tramadol is a fun experience. I was mildly constipated for the next day or so, but nothing ex-lax couldn't fix.</p>",
  "year": "2006",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2008-01-17T08:00:00.000Z",
  "views": "64568",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "100 mg",
-   "administration": "oral",
-   "substance": "Pharms - Tramadol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Piracetam",
  "bodyweight": "220 lb",
  "header": [
-  [
-   "DOSE:",
-   "2400 mg",
-   "oral",
-   "Piracetam",
-   "(daily)"
-  ]
+  "DOSE:",
+  "2400 mg",
+  "oral",
+  "Piracetam",
+  "(daily)"
  ],
  "report": "<p>I had been interested in some of the various smart drugs for quite a while, and piracetam was one of the top ones I wanted to try.</p><p>Ordering some from an online vendor, I got 800mg orange 'Nootropil' tablets manufactured by UCB Pharma.  The tablets contain 800mg per unit and  the tablets themselves weigh ~850mg.  I was surprised that 800mg of active compound could fit into a tablet weighing only 850mg, but after weighing a few more commercial tablets (acetaminophen, ibuprofen, etc) it seems as if it is quite likely.</p><p>For the first week, my partner and I tried taking 3 per day (2400mg per day at the dosage marked on the packaging).  The effects were not detectable and definitely not above possible placebo.  We continued taking 3 per day for about a week, a couple days we took 4 per day, spread out with at least 3 hours between each dose.  No effects of any kind were reliably noted.</p><p>A couple times I wondered if perhaps I was less foggy-minded that I normally am, but this never rose to a level at which I could discern any real effects.  I will continue to take them for another few weeks to see if I can detect anything further and will also try pushing the dose up.</p><p>I think next week I'll try two tablets per dose.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-11-29T08:00:00.000Z",
  "views": "32064",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2400 mg",
-   "administration": "oral",
-   "substance": "Piracetam",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

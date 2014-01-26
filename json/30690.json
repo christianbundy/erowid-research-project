@@ -5,16 +5,14 @@
  "substance": "Cyclobenzaprine",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "insufflated",
-   "Pharms - Cyclobenzaprine",
-   "",
-   "5.0 mg",
-   "oral",
-   "Pharms - Cyclobenzaprine"
-  ]
+  "DOSE:",
+  "10 mg",
+  "insufflated",
+  "Pharms - Cyclobenzaprine",
+  "",
+  "5.0 mg",
+  "oral",
+  "Pharms - Cyclobenzaprine"
  ],
  "report": "<p>DO NOT sniff cyclobenzaprine.  It hurts more than you can imagine.  It sucks ass!!!!  But, it did make the onset quicker-basically as hit my mucous membrane, I was high.  It was no more intense than taking 10mg orally.  I also swallowed 5 mgs at the same time.  Good body buzz, muscles relaxed, and uphoric happiness.  Great pharmy-the best muscle relaxant and comparible to perc and vics.</p>",
  "year": "2004",
@@ -23,13 +21,5 @@
  "age": "Not Given",
  "timestamp": "2004-02-09T08:00:00.000Z",
  "views": "62332",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "insufflated",
-   "substance": "Pharms - Cyclobenzaprine",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

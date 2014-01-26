@@ -5,18 +5,16 @@
  "substance": "Mirtazapine (Remeron) & Venlafaxine (Effexor)",
  "bodyweight": "135 lb",
  "header": [
-  [
-   "DOSE:",
-   "30 mg",
-   "oral",
-   "Pharms - Mirtazapine",
-   "(daily)",
-   "",
-   "150 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "30 mg",
+  "oral",
+  "Pharms - Mirtazapine",
+  "(daily)",
+  "",
+  "150 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)"
  ],
  "report": "<p>Very soon after I first smoked cannabis the positive effects degraded into a world of anxiety and paranoia.  Never having been the biggest fan of it I quit it altogether.  I could never pretend that I know for certain that this was why I started having panic attacks almost daily while under the influence of no substance.  But in the end I was diagnosed with anxiety/depression and was eventually put on Effexor.  Later, Remeron was added because I had a terribly irregular sleep cycle and the doctor didn't want to give me another course of Ambien. </p><p>What I'm really concerned with in this writing is Remeron in particular, and the subtle ways in which it affected me as an individual. In my experience the effect was not so glaringly obvious, but at the same time perhaps no less striking.</p><p>Specifically, Remeron at first helped me to sleep like the dead.  The fact that I became irresistably sleep an hour and a half after taking it, and that the next day I was more calm and subdued did not strike me as over-the-top or distressing.  A month later when I began my first semester of college and didn't spend harldy any time socializing, I put this down to not being able to drink publicly because of the way it would influence me on top of so much SSRI.  Then I began having weird dreams.  Yeah, they're mentioned in the side effects but it's hard to conceptualize what the impact of that sort of thing is, when 'strange dreams' is all it says on the lable.  Let me put it this way.  Over most of last month I would wake up from a deep sleep and begin my day doing whatever tasks and not taking much time to contemplate myself. </p><p>What ended up happening is that I would dream a strange dream, invariably negative in nature, wake up still mostly asleep, and proceed through an hour of two of my day with a nagging feeling of sadness in the back of my mind.  Not until some time later would I  identify this phenomenon as my mind taking as true some event which had happened in my dream until I actively remembered this hadn't happened. I would dream some complex and patently weird dream, most of which I would forget, which would include, say, the death of a friend who only existed in that dream.  Then I would begin my day deeply depressed until I realized what the fuck I was thinking.  Once I identified this, and its likely cause in the medication I decided to halve my own dose.  Over the course of the next three days, however, was when I really began to see how much the Remeron had affected me. </p><p>I had taken it as normal to be sleeping 13 hours a day, sometimes more.  I had taken it as normal to have indescribably strange and unnerving dreams which affected me emotionally while awake.  I had taken it as normal to ignore my social life (probably as a result of being drowsy 20 hours a day).</p>",
  "year": "2005",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-05T07:00:00.000Z",
  "views": "14930",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "30 mg",
-   "administration": "oral",
-   "substance": "Pharms - Mirtazapine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

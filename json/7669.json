@@ -5,13 +5,11 @@
  "substance": "Opium",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "smoked",
-   "Opium",
-   "(tar / resin)"
-  ]
+  "DOSE:",
+  " ",
+  "smoked",
+  "Opium",
+  "(tar / resin)"
  ],
  "report": "<p>Partaking of Opium, for me, is almost like meditation. Tinctures aside, smoking opium can be one of the most relaxing experiences one can ever encounter. However, as with all substances, it must be done with care. As opium can be addictive one must never forget its dangers, thereby loosing respect for the drug.</p><p>The first time I tried opium I had bought a small ball of sticky, sweet smelling black/purple resin from a friend. Never having tried the drug before, I didn't know what to expect. I rolled a small ball, threw it into my normal glass pipe and began to smoke. The physical effects are actually fairly unremarkable but the mental effects can be astounding. When smoked by itself, it calms the mind and can take minor aches and pains out of the body.</p><p>Half the fun with opium is purely the process of smoking it. The wonderful smell, sweet taste and thick, white smoke are delights to the senses. Unlike weed, its not a substance which should be smoked quickly. One should take their time and enjoy it. But, as I said earlier, one must remember opium's addictive potential in reverence. After moderate, responsible use of the drug it becomes easy to see why people like Thomas Edison, Edgar Allen Poe and countless other scholars, artists, writers and scientists loved to indulge in this substance from time to time. Many times I have used opium to relax before undertaking a long study or writing sessions. If used properly, opium can actually help the mind focus on creative tasks. Needless to say it took me awhile to go through the 1 gram stash I originally had.</p><p>The main key to enjoying opium (or any drug for that matter) is moderation. Just remember: Everything in moderation except for moderation itself.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2003-06-24T07:00:00.000Z",
  "views": "23400",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "smoked",
-   "substance": "Opium",
-   "form": "(tar / resin)"
-  }
- ]
+ "dose": {}
 }

@@ -5,12 +5,10 @@
  "substance": "DXM & Drug Testing",
  "bodyweight": "146 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "DXM"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "DXM"
  ],
  "report": "<p>I regularly used DXM recreationally on almost a daily basis (sometimes a day in between trips) for about two weeks, and upon discovery of my cannabis use by my mother, I was urine tested using a standard SAMHSA-5 drug test purchased at a drug store three times over the next week, during which time I continued to use DXM, in doses anywhere from 600 mg up to 1000 mg.</p><p>I do not remember the actual cutoff levels for the other four drugs in the test, but I do remember that cannabis was cutoff at 20 ng, a measurement that struck me as unusually low for a home test (the tests I have to do now for parole have the cannabis cutoff at 15 ng.) I passed all three urine tests, other than the cannabis portion of course, coming up negative on the PCP and opiate sections, even though during two of the tests I was actually under the influence of DXM as I gave the sample.</p><p>I continue to use DXM recreationally, on a regular basis (probably twice a week), and continue to pass my court ordered drug tests, which actually test for more than the standard five drugs, showing that at least for me, DXM causes no false positives on any drugs.</p>",
  "year": "2009",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2009-08-03T07:00:00.000Z",
  "views": "7778",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "DXM"
-  }
- ]
+ "dose": {}
 }

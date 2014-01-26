@@ -5,12 +5,10 @@
  "substance": "Promethazine",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "100 mg",
-   "oral",
-   "Pharms - Promethazine"
-  ]
+  "DOSE:",
+  "100 mg",
+  "oral",
+  "Pharms - Promethazine"
  ],
  "report": "<p>Once I found some Promethazine at a friends house. I took like 100mg and went to sleep. Woke up feeling like a zombie, no thoughts in my head, no nothing up there. I remember driving into like freakin Tucson for some coupon for beer-battered cod. Just stared out the window for 2 hours thinking NOTHING. It was horrible.</p>",
  "year": "2008",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2009-08-16T07:00:00.000Z",
  "views": "14865",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "100 mg",
-   "administration": "oral",
-   "substance": "Pharms - Promethazine"
-  }
- ]
+ "dose": {}
 }

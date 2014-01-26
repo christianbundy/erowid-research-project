@@ -5,13 +5,11 @@
  "substance": "Vasopressin",
  "bodyweight": "75 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "inhaled",
-   "Vasopressin",
-   "(liquid)"
-  ]
+  "DOSE:",
+  " ",
+  "inhaled",
+  "Vasopressin",
+  "(liquid)"
  ],
  "report": "<p>Back a long while ago I was a bed-wetter. In the fourth grade I had to go on a field trip and so my parents had me go to the doctor to get Vasopressin in the form of a nasal spray.</p><p>It worked well as I remember. Except that is the cool part. I remember so much from that night and the few days after. I remember things that were carved in the wood of the bunk bed. I remember some kid fell out of a top bunk. Some other kid named Robbie started hallucinating little cars driving on his bed they called his parents and sent him home. Turns out he had scarlet fever. I remember everything I did the following day.</p><p>Anyways, why do I remember such detail? This drug works, that is why. Btw I am twenty now and do not remember such great detail about most of my childhood.</p>",
  "year": "1998",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "5444",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "inhaled",
-   "substance": "Vasopressin",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

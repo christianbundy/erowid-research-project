@@ -5,13 +5,11 @@
  "substance": "Gabapentin",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   "1200 mg",
-   "oral",
-   "Pharms - Gabapentin",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "1200 mg",
+  "oral",
+  "Pharms - Gabapentin",
+  "(pill / tablet)"
  ],
  "report": "<p>I take 2 600mg of the white oval kinda chalky pills at a time. I have anxiety problems and Gabby helps me to chill the f out.</p><p>Pros: helps me chill out, more social</p><p>Cons: shakiness, weird thoughts like worrying I'll get addicted to the shit</p><p>I have a 2 year old girl and I play with her and take care of her just as well on it as I do off of it, but it's not something I would or do take every day, just when I feel I need to chill out.</p>",
  "year": "2011",
@@ -20,13 +18,5 @@
  "age": "22",
  "timestamp": "2011-11-04T07:00:00.000Z",
  "views": "16262",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1200 mg",
-   "administration": "oral",
-   "substance": "Pharms - Gabapentin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

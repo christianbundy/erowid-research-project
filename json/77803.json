@@ -5,13 +5,11 @@
  "substance": "DXM & Drug Testing",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "60 mg",
-   "oral",
-   "DXM",
-   "(daily)"
-  ]
+  "DOSE:",
+  "60 mg",
+  "oral",
+  "DXM",
+  "(daily)"
  ],
  "report": "<p>I just tested positive for trace amounts of opiates, which I have not taken for at least a few months. However, for 4-5 days before the test I had 60mg/d DXM (dextromethorphan). I suspect this to be the culprit, otherwise I had only consumed some phenethylamines and 2cb.</p>",
  "year": "2009",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-04-02T07:00:00.000Z",
  "views": "4469",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "60 mg",
-   "administration": "oral",
-   "substance": "DXM",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

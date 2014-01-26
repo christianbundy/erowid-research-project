@@ -5,13 +5,11 @@
  "substance": "Methadone",
  "bodyweight": "115 lb",
  "header": [
-  [
-   "DOSE:",
-   "40 mg",
-   "oral",
-   "Methadone",
-   "(daily)"
-  ]
+  "DOSE:",
+  "40 mg",
+  "oral",
+  "Methadone",
+  "(daily)"
  ],
  "report": "<p>I have been taking 20 mgs of Methadone twice a day for the past four years.</p><p>I have experienced no side effects, no 'high,' no 'low,' no anything except pain relief.</p><p>I have two other family members who take Methadone for pain, and neither have any side effects or 'highs.'</p><p>We all receive our Methadone via prescriptions.</p><p>I have found Methadone to be a safe effective pain reliever with no side effects.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "10698",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "40 mg",
-   "administration": "oral",
-   "substance": "Methadone",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

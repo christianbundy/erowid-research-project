@@ -5,12 +5,10 @@
  "substance": "Spice Product ('Gold')",
  "bodyweight": "120 lb",
  "header": [
-  [
-   "DOSE:",
-   "800 mg",
-   "smoked",
-   "Products - Spice and Synthetic Cannabinoids"
-  ]
+  "DOSE:",
+  "800 mg",
+  "smoked",
+  "Products - Spice and Synthetic Cannabinoids"
  ],
  "report": "<p>My wife and I live in a town that's been dry of anything illicit and nice to smoke for over two weeks. We read reports, in the newspaper, suggesting that 'spice gold' was not going to be legal for long, and that it contained cannabinoids. We decided to give it a try.</p><p>We put some in a joint with a little tobacco, and twenty minutes later we both knew that we wouldn't be smoking too much of this.</p><p>An hour later we knew that we would never smoke this again: The paranoia and heart palpitations that I had were awful, I felt floaty but not in a nice way, it felt like influenza without the joint pain.</p><p>The effects lasted much longer than cannabis, and even a couple of hours later I didn't feel well, even with the comparatively low dose that I had taken, I felt a general malaise and suffered a persistent aphasia for hours. This wasn't the happy smoke that we missed. The rest of the 30 sachet we bought is still untouched, even though we're still dry here.</p><p>I would not recommend this to anyone.</p>",
  "year": "2009",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2009-05-20T07:00:00.000Z",
  "views": "19471",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "800 mg",
-   "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Venlafaxine (Effexor)",
  "bodyweight": "135 lb",
  "header": [
-  [
-   "DOSE:",
-   "75 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "75 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(pill / tablet)"
  ],
  "report": "<p>I was taking 20mg of Paxil daily for a period of 4 months, and initially had positive effects.  In the end however, the side effects (sexual disfunction, nervousness) were offsetting the benefits.</p><p>I spoke with my doc about this and he recommended switching to Effexor.  Effexor is different from other SSRIs in that it effects both seratonin and dopamine levels, sort of like a two for one.  Won't go into explaining the full benefits of this, but it is helpful for me.  I have been taking 75mg daily of Effexor for 4 months now and feel great.  It has taken away so much anxiety that I am now able to work on myself properly.  In other words, it is doing its job.</p><p>What antidepressants can allow is the ability to focus on what the real issues are with my personality and my life situation without being tortured by unnecessary anxiety, panic attacks, and the like.</p><p>Be leery of a doc who wants to prescribe benzodiazepenes (clorazepam, seroquel, etc.) unless this is strictly on the short term.  These will surely decrease your anxiety, but they are sedative/hypnotics.  You won't be feeling anxiety because you won't really be feeling anything.  I had to learn that one from experience.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-11-17T08:00:00.000Z",
  "views": "10882",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

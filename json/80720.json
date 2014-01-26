@@ -5,33 +5,31 @@
  "substance": "Zolpidem (Ambien) & Caffeine (Coffee)",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "20 mg",
-   "oral",
-   "Pharms - Zolpidem",
-   "(pill / tablet)",
-   " T+ 0:00",
-   "10 mg",
-   "insufflated",
-   "Pharms - Zolpidem",
-   "(ground / crushed)",
-   " T+ 0:15",
-   "1 cig.",
-   "smoked",
-   "Tobacco - Cigarettes",
-   "(leaves)",
-   " T+ 0:15",
-   "1 cup",
-   "oral",
-   "Coffee",
-   "(liquid)",
-   " T+ 0:30",
-   "1 cup",
-   "oral",
-   "Coffee",
-   "(liquid)"
-  ]
+  "DOSE: T+ 0:00",
+  "20 mg",
+  "oral",
+  "Pharms - Zolpidem",
+  "(pill / tablet)",
+  " T+ 0:00",
+  "10 mg",
+  "insufflated",
+  "Pharms - Zolpidem",
+  "(ground / crushed)",
+  " T+ 0:15",
+  "1 cig.",
+  "smoked",
+  "Tobacco - Cigarettes",
+  "(leaves)",
+  " T+ 0:15",
+  "1 cup",
+  "oral",
+  "Coffee",
+  "(liquid)",
+  " T+ 0:30",
+  "1 cup",
+  "oral",
+  "Coffee",
+  "(liquid)"
  ],
  "report": "<p>T+00 I injested 2 ambien 10mg pills and snorted one 10mg pill.             </p><p>T+0015 begininng to feel slightly euphoric so I decide its time to light up a smoke as well as injest 1 cup of coffee. The tobacco smoked cleaner than usual in my inebriated state.</p><p>T+0030 I'm beginning to feel a bit light headed and seem to be dragging ass so I injest a second cup of my colombian brew only to bring myself back to the euphoric state.</p><p>T+0045 I have the irresistable urge to take the Cosby kids down to the river the act was more explosive then most of my past trials.</p><p>T+0130 I'm begginng to notice the walls breathing and things going on in my periphrael I decide to try to sleep.</p><p>I woke up at 5am with to recollection how I made it upstairs to bed probably the amnesia affects. In short I find out that ambien really doesn't do a whole lot for me though I will still routinely take this amount in hopes of something interesting happening</p>",
  "year": "2008",
@@ -40,13 +38,5 @@
  "age": "20",
  "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "8018",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Pharms - Zolpidem",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

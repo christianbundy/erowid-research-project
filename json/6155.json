@@ -5,13 +5,11 @@
  "substance": "5-MeO-DiPT",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "20 mg",
-   "oral",
-   "5-MeO-DiPT",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  "20 mg",
+  "oral",
+  "5-MeO-DiPT",
+  "(powder / crystals)"
  ],
  "report": "<p>An interesting note on Methoxy. During my first dose over 25 mg, I noticed all sounds had a lower pitch. Much lower. During most trips where I dosed over 20 mgs, and all trips where I dose over 30 mgs, I have noticed the same effect. Two other people that I know experienced the same thing. None of the reports or faqs on Methoxy reported this, which I found it strange, thus I am writing this little note. Minutes ago, while reading the TiHKAL entry on DIPT, I saw reported that it is a common effect with that drug. I suppose that's what is happening to me and my friends.</p>",
  "year": "1998",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-02-14T08:00:00.000Z",
  "views": "5400",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "5-MeO-DiPT",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

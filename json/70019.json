@@ -5,13 +5,11 @@
  "substance": "Voacanaga africana",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "5.0 g",
-   "oral",
-   "Voacanga africana",
-   "(tea)"
-  ]
+  "DOSE:",
+  "5.0 g",
+  "oral",
+  "Voacanga africana",
+  "(tea)"
  ],
  "report": "<p>Made tea from 5 grams of voacanga africana root. I let it steep for an hour. Smells like ginseng, tastes fiery, awful.</p><p>1:00 - Finished drinking the tea.</p><p>2:30 - Mild stimulant effect, similar to caffeine. Not much else as far as I can tell.</p><p>5:00 - Still feel the effect. It's not a bad caffeine substitute if not for the flavour.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-01-04T08:00:00.000Z",
  "views": "7533",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "5.0 g",
-   "administration": "oral",
-   "substance": "Voacanga africana",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Kratom",
  "bodyweight": "115 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 g",
-   "oral",
-   "Kratom",
-   "(tea)"
-  ]
+  "DOSE:",
+  "10 g",
+  "oral",
+  "Kratom",
+  "(tea)"
  ],
  "report": "<p>This is my third time trying Kratom and my first time with a really great result. The first time, I bought Super Kratom powder and made a tea, following the usual recipe. Maybe it was because weaning myself off of Percocets and I still had the drug in my system. Maybe the Kratom just wasn't powerful enough.</p><p>The second time, I purchased one ounce of Kratom leaves. I proceeded to make a tea again, this time trying to boil the leaves longer. I used about half an ounce of leaves, but still, nothing. Now, I'm sitting here in pure bliss. The warmth consumes me and I recognize the familiar floating that opiates give you. This time, I made the tea the usual way, but with less water. The total time that I boiled the leaves was about one hour.</p><p>From my experience I have gathered a few facts that I believe were the reason for my first two unsuccessful encounters with Kratom. One, I believe alcohol inhibits the Kratom. I made sure NOT to drink this time. Also, I think consuming the tea on an empty stomach may help. Maybe its just me and my body chemistry, but I'm glad I finally got a result.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-03-02T08:00:00.000Z",
  "views": "8900",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 g",
-   "administration": "oral",
-   "substance": "Kratom",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

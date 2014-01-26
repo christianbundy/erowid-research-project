@@ -5,13 +5,11 @@
  "substance": "Propranolol",
  "bodyweight": "250 lb",
  "header": [
-  [
-   "DOSE:",
-   "60 mg",
-   "oral",
-   "Pharms - Propranolol",
-   "(daily)"
-  ]
+  "DOSE:",
+  "60 mg",
+  "oral",
+  "Pharms - Propranolol",
+  "(daily)"
  ],
  "report": "<p>I've had serious social and performance anxiety since I can remember. My doctor put me on propranolol (20mg three times daily = 60mg/day) six months ago for headaches but instead it significantly improved my anxiety.</p><p>I used to experience shaking hands, trembling voice, blushing, sweating, and trouble keeping my thoughts focused any time I was in a social situation or had to perform (music major). After being on propranolol, my hands don't shake, I don't feel as hot and sweaty (though still a bit), my voice doesn't shake, and my head is clearer/I can think and remember things better.</p><p>This has made a huge difference in my everyday life and really helped me as a musician. I  still have situation-specific anxieties but this drug has helped immensely. Best of all, no negative side effects!</p>",
  "year": "2012",
@@ -20,13 +18,5 @@
  "age": "27",
  "timestamp": "2013-04-30T07:00:00.000Z",
  "views": "3729",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "60 mg",
-   "administration": "oral",
-   "substance": "Pharms - Propranolol",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Crack Cocaine",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "smoked",
-   "Crack",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  " repeated",
+  "smoked",
+  "Crack",
+  "(powder / crystals)"
  ],
  "report": "<p>Just wanted to remind you all that crack does kill.  Crack is not prejudice.  It does not matter what color your skin is, what sex you are, whether you are rich or poor - crack knows no boundaries!  I found this out all too well when I lost my fiance of five years to a sudden death after his fight with crack addiction.  He was a mere 25 years of age at the time of his death.  It just isn't worth hurting yourself or those around you who care and/or love you.  And, yes, all of us have someone out there who really cares about our well-being.  Get help before you become a statistic too.</p><p>In memory of Christopher M. Coalson</p><p>  born: 08/02/73   died: 11/12/98</p><p>You will remain in my heart and soul for eternity.</p><p>You are missed by many...</p>",
  "year": "1998",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-02-27T08:00:00.000Z",
  "views": "57249",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "smoked",
-   "substance": "Crack",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

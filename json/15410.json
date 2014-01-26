@@ -5,13 +5,11 @@
  "substance": "Ketamine",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "30 mg",
-   "IM",
-   "Ketamine",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "30 mg",
+  "IM",
+  "Ketamine",
+  "(liquid)"
  ],
  "report": "<p>Welcome everyone. I just had my first experience with Ketamine yesterday. I intentionally dosed myself very lightly because I was alone, and I've never done it before (i.e., I was nervous), so this was just a pilot study. I plan to double the dose this afternoon.</p><p>What this report is really about is how to give an IM injection. Surprisingly, it's hard to find documentation on the correct IM injection method, I had to search the Internet for several hours. So, I would like to describe it here for others who are not sure about how to give an IM injection.</p><p>An excellent website (in PDF format) is given at the webpage for the Ohio State University Medical Center. These are the direction given to medical students. The page itself has diagrams, and the URL is:</p><p>http://www.acs.ohio-state.edu/units/osuhosp/patedu/homedocs.pdf/medicatn.pdf/geninfo.pdf/intrainj.pdf [This is no longer a valid URL -Editor]</p><p>There are several possible locations given. However, the easiest one to administer to yourself (and I was surprised that I felt almost no pain whatsoever) is on the top of your thigh. Basically, you want to draw (either imaginary or with marker...I used marker!) a long rectangle on the top of your leg. One hand's width below the groin becomes the upper boarder of the box. One hand's width above the top of the knee becomes the lower border. The center of the top of your leg becomes one of the side borders of the box. The center of the OUTSIDE of your leg becomes the other side border. In the middle of this imaginary box are the best injection sites (notice that there are several available, it's a big box.) I like the one near the top of the box, as it's meatier up there. I also know that the sides of the box sound a little confusing. What it amounts to is that the injection site will be one and a half inches or so lateral (to the outside of the leg) to the vertical center line of the leg. Oh yes, don't give more than 2ml in one injection here. If you want to use more, use other leg, or a different site in the box.</p><p>Okay, that sounded a little long, but I hope it's descriptive enough. Some other little precautions: clean the area to be injected with an alcohol swab, clean the rubber stopper of the bottle with an alcohol swab, when you put the needle in, pull back on the plunger to see if you get blood in the syringe (i.e., you hit a vein or artery). There should be NO blood. If there is, change needles (and syringes if you have enough K, to be safe)and choose a different injection site. And inject at a moderate rate, not too quickly or you will cause unnecessary pain. I'd say it should take at least 5-7 sec to fully depress the plunger.</p><p>Sit back and relax, or whatever it is that you do.</p><p>Take care everyone.</p><p>Nothing is permanent; there is no self. Aum...</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-10-09T07:00:00.000Z",
  "views": "32660",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "30 mg",
-   "administration": "IM",
-   "substance": "Ketamine",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

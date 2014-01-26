@@ -5,13 +5,11 @@
  "substance": "Mucuna pruriens",
  "bodyweight": "70 kg",
  "header": [
-  [
-   "DOSE:",
-   "1 tsp",
-   "oral",
-   "Mucuna pruriens",
-   "(tea)"
-  ]
+  "DOSE:",
+  "1 tsp",
+  "oral",
+  "Mucuna pruriens",
+  "(tea)"
  ],
  "report": "<p>I was recommended powdered mucuna as a study aid to improve concentration and focus. I have tried other things for study before, such as meditation, caffeine, Ritalin, all with varying degrees of effectiveness, so I was open to the effects of this powdered bean.</p><p>I mixed 1 teaspoon of the powder with 1 cup of hot water to make a tea. It wasnt unpleasant; I likened it to drinking herbal tea. I began studying straight away. About half an hour into my reading, I noticed how concentrated I was on it, and actually felt myself absorbing the information. I knew it was working, maybe on some level as a placebo, but usually have quite a short attention span when it comes to reading long textbook extracts. I was absorbed in my reading, wasnt getting distracted, and was actively thinking on the subject and making connections to other study materials. The effects lasted maybe 2 hours, when I noticed my attention span dwindling.</p><p>I have used it again for the same purpose and definitely recommend it as an alternative to using chemical study aids.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "20",
  "timestamp": "2011-02-23T08:00:00.000Z",
  "views": "15395",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 tsp",
-   "administration": "oral",
-   "substance": "Mucuna pruriens",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

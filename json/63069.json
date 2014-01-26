@@ -5,13 +5,11 @@
  "substance": "Cannabis & Drug Testing",
  "bodyweight": "125 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "smoked",
-   "Cannabis",
-   "(plant material)"
-  ]
+  "DOSE:",
+  " ",
+  "smoked",
+  "Cannabis",
+  "(plant material)"
  ],
  "report": "<p>I just wanted to corroborate the use of Visine as a false negative producer when faced with a drug test. I smoked May 13 rather heavily then took my test 9am the next morning, adding approximately 5mL Visine to a 60mL urine sample. I was stunned when the test came back negative. I did not drink copious amounts of water of do anything different other than the adulterant. I also do not use any other drugs.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-27T07:00:00.000Z",
  "views": "8448",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "smoked",
-   "substance": "Cannabis",
-   "form": "(plant material)"
-  }
- ]
+ "dose": {}
 }

@@ -5,18 +5,16 @@
  "substance": "Alcohol",
  "bodyweight": "80 kg",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   " ",
-   "oral",
-   "Alcohol - Hard",
-   "(liquid)",
-   " T+ 1:05",
-   " ",
-   "oral",
-   "Alcohol",
-   "(liquid)"
-  ]
+  "DOSE: T+ 0:00",
+  " ",
+  "oral",
+  "Alcohol - Hard",
+  "(liquid)",
+  " T+ 1:05",
+  " ",
+  "oral",
+  "Alcohol",
+  "(liquid)"
  ],
  "report": "<p>Amount Ingested at 10-minute intervals over a 30-minute period:</p><p>2 shots Jack Daniels Whiskey.</p><p>1 1/2 glasses of white wine.</p><p>030 minutes-- Feeling of happiness, an overall feeling of life is good. An urge to do random things such as watching a favorite movie. Deeper thought, my thoughts are -- how shall I say -- more emotional. I think of loved ones and my emotions are magnified about 5 times. Easier to be happy or easier to be sad, whichever one I am feeling. A feeling of warmth in my chest and my belly. Full of love and more relaxed physically, mentally, and emotionally. Every time I breathe it's like breathing a sigh of relief, a sigh that symbolizes contentment and enjoyment. All problems feel like yesterday's news.</p><p>040 minutes-- Just checked my face for physical effects. Most noticeable effect is shiny eyes. Face is slightly more red.</p><p>050 minutes-- More internal effects. Increased confidence, inhibitions are lowering, sense of well-being and contentment is continuing.</p><p>060 minutes-- Effects beginning to wear off. I will now ingest some more alcohol to continue the experiment. The amounts will be listed.</p><p>065 minutes-- Ingested immediately one after the other: 2 shot Jack Daniels whiskey, 1/2 glass of wine, 1/2 glass of water to avoid any dehydration because of the alcohol.</p><p>065 minutes-- As soon as the shot of Jack was ingested the feelings of contentment and happiness continued almost immediately. This may be a psychological response as I have had experience with alcohol before. Strange effect is that in my mind, I remember moments when I was a child and I was viewing people who were intoxicated. It is as if now I realize what I was viewing as a child. I finally 'understand' their intoxication and why they did it. An identification with all alcohol drinkers in history. Motor skills beginning to deteriorate and a slight feeling of tiredness. I will now lay down and continue writing the experience in a little while.</p><p>090 minutes-- Time seems to go by faster than when in normal consciousness. What was really 25 minutes seemed to me like 5 minutes. The wonderful feelings of contentment and happiness are continuing now to a high degree. My mind seems more clear and I am remembering a dream that I had last night. I can seriously describe this feeling as euphoria, I am wishing that this bliss will never end, however I know in my mind that it cannot continue. I am now remembering childhood memories long forgotten.</p><p>105 minutes-- Feelings of happiness still here, however fading quickly. My thoughts are more charged with emotion. I had the urge to look through a family photo album and did for a while. Time dilation continuing. What is in reality 15 minutes seems like 5 minutes. Effects beginning to wear off.</p><p>120 minutes-- Effects almost totally wearing off, however motor skill deterioration still remains to a slight degree. A feeling of slight regret for drinking is occurring within me. One thing that I would like to state is that the effects of alcohol creep up on you. You realize the emotional and internal feelings however you do not realize your motor skills are deficient until you knock something over. Anyway my experiment is done and I will now write a few sentences in retrospect.</p><p>I believe that alcohol CAN be an escape IF you use it wisely. It can help you if you use it with that intent. However always remember that in the end you will have to face the real world and that NO DRUG can help you do that. Have fun and drink responsibly.</p>",
  "year": "2001",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2001-08-07T07:00:00.000Z",
  "views": "32501",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

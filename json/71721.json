@@ -5,13 +5,11 @@
  "substance": "Melatonin ",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "18 mg",
-   "oral",
-   "Melatonin",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "18 mg",
+  "oral",
+  "Melatonin",
+  "(pill / tablet)"
  ],
  "report": "<p>I looked around this site for sleep aids. I came across Melatonin, having tried everything else; I figured I would give it a go. I walked down to the store and picked up a bottle for 12 dollars. I took six 3mg pills last night; just to clarify, I am an insomniac. I still havent fallen asleep. I have a natural high tolerance to everything, so it could just be me. It was a waste of money. It had absolutely no effect on me.</p>",
  "year": "2008",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-06-15T07:00:00.000Z",
  "views": "9690",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "18 mg",
-   "administration": "oral",
-   "substance": "Melatonin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

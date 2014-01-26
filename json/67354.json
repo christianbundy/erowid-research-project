@@ -5,13 +5,11 @@
  "substance": "Black Cohosh",
  "bodyweight": "133 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 tablet",
-   "oral",
-   "Black Cohosh",
-   "(extract)"
-  ]
+  "DOSE:",
+  "1 tablet",
+  "oral",
+  "Black Cohosh",
+  "(extract)"
  ],
  "report": "<p>I've bought this in supplement form for my mother who was going through menopause. I was a bit interested in its sedative properties, because I occasionally have transient insomnia.</p><p>So I popped one pill, and awaited its effects. The effects came on relatively quickly. I felt slightly sedated, so I plopped on my bed for a nap.</p><p>I looked at the ceiling and the walls seem to be moving slightly, and it looked like my rods and cones were more visible than usual. Just minor benadryl-like hallucinations.</p><p>It reminded me of kava kava herb which is a sedative and mild psychadelic.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-01-11T08:00:00.000Z",
  "views": "16221",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 tablet",
-   "administration": "oral",
-   "substance": "Black Cohosh",
-   "form": "(extract)"
-  }
- ]
+ "dose": {}
 }

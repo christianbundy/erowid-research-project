@@ -5,18 +5,16 @@
  "substance": "Amphetamines (Adderall)",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "30 mg",
-   "oral",
-   "Amphetamines",
-   "(capsule)",
-   " T+ 4:00",
-   "30 mg",
-   "oral",
-   "Amphetamines",
-   "(capsule)"
-  ]
+  "DOSE: T+ 0:00",
+  "30 mg",
+  "oral",
+  "Amphetamines",
+  "(capsule)",
+  " T+ 4:00",
+  "30 mg",
+  "oral",
+  "Amphetamines",
+  "(capsule)"
  ],
  "report": "<p>I was introduced to the drug during the last semester of my senior year in high school--to tell the truth, I wish I had discovered the drug months before during SAT season. The AP tests were bearing down on all of us at the time, and one friend allowed me to partake in his prescription for 30 mg extended-release capsules. That was an extremely high dose for me: after kicking in, the drug had me jittery with sweating palms for nearly nine hours straight.</p><p>I used the same dosage for six separate AP tests that year, and managed perfect or near-perfect scores on all of them. I did not study on the drug--rather, I took the pills for the actual exam. In a moment of brilliance (uncharacteristic of me at that age) I chose the last two AP tests of the year to be a drug-free control group. Of course, I scored much lower on these tests (though I honestly felt I was the most prepared in those subjects). The drug had allowed me to remain focussed, process information faster, and above all, think in the structured fashion that is required for most standardized or semi-standardized tests.</p><p>Three years later, and I was buckling under the pressure of the LSATs. By then I had had other experiences with Adderall since high school, but with only mixed results: often I found that I was able to complete long essays or study an impossible amount of material in short periods of time, but seemed to fare only slightly, if at all, better grade-wise than I would have with the proper preparation/adequate sleep. I had taken the LSATs once before and done decently (within the third quartile), however, seeking more in my choices for law school, I opted for a second try.</p><p>Of course I revived the old Adderall hookup for this go-around, so on the morning of the test I was set to go (sweaty palms and all). As expected, the portions of the exam which had previously tried my concentration now seemed routine, and I managed to breeze through the exam on two 30 mg extended release capsules. When my score came back, I was shocked: I had improved my score substantially more than two friends who had taken prep courses since their last attempt. I was thankful for the drug's 'boost' on this and previous tests, but vowed to abstain for the duration of law school. I haven't broken that vow and have since only become firmer in my opposition to the drug's use.</p><p>These experiences confirmed what I had heard all along, from friends who abandoned their prescriptions in childhood: Adderall is a stimulant for structured thinking only. It is not a recipe for brilliance. Brilliance involves a degree of originality or creativity. With this drug, I think linearly. I become calculating and conservative. In the words of one friend, I think 'inside the box'.</p>",
  "year": "20036",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-08-31T07:00:00.000Z",
  "views": "3666",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "30 mg",
-   "administration": "oral",
-   "substance": "Amphetamines",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

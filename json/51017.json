@@ -5,23 +5,21 @@
  "substance": "Psychotria viridis, Nicotiana rustica & Cannabis",
  "bodyweight": "260 lb",
  "header": [
-  [
-   "DOSE:",
-   "1/3 bowl",
-   "smoked",
-   "Psychotria viridis",
-   "(dried)",
-   "",
-   "1/3 bowl",
-   "smoked",
-   "Tobacco",
-   "(dried)",
-   "",
-   "1/3 bowl",
-   "smoked",
-   "Cannabis",
-   "(dried)"
-  ]
+  "DOSE:",
+  "1/3 bowl",
+  "smoked",
+  "Psychotria viridis",
+  "(dried)",
+  "",
+  "1/3 bowl",
+  "smoked",
+  "Tobacco",
+  "(dried)",
+  "",
+  "1/3 bowl",
+  "smoked",
+  "Cannabis",
+  "(dried)"
  ],
  "report": "<p>This is an amazingly calming smoke with the ability to take the negative feelings of a situation and turn them around completly with the first hit.  Plus, the nicotiana rustica provides an awsome boost of energy which gets rid of those lethargic feeling sometimes associated with weed.  On the other hand the psychotria viridis and the weed alone make for a great sleep aid to be used with calea zacatechichi (dream herb).</p>",
  "year": "5",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2010-02-22T08:00:00.000Z",
  "views": "8660",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1/3 bowl",
-   "administration": "smoked",
-   "substance": "Psychotria viridis",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

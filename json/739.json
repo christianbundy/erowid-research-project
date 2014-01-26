@@ -5,23 +5,21 @@
  "substance": "TMA-2",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "33 mg",
-   "oral",
-   "TMA-2",
-   "(powder / crystals)",
-   " T+ 2:40",
-   "4.0 mg",
-   "insufflated",
-   "TMA-2",
-   "(powder / crystals)",
-   " T+ 3:30",
-   "5.0 mg",
-   "insufflated",
-   "TMA-2",
-   "(powder / crystals)"
-  ]
+  "DOSE: T+ 0:00",
+  "33 mg",
+  "oral",
+  "TMA-2",
+  "(powder / crystals)",
+  " T+ 2:40",
+  "4.0 mg",
+  "insufflated",
+  "TMA-2",
+  "(powder / crystals)",
+  " T+ 3:30",
+  "5.0 mg",
+  "insufflated",
+  "TMA-2",
+  "(powder / crystals)"
  ],
  "report": "<p>While helping a friend clean his house the other day, all of a sudden a brown, extremely dirty envelope fell out of the chimney, labeled 'STUFF FROM LAB'.  The envelope had previously been used for mailing something else, and had a postmark of September 22, 1967.  Inside was a sheaf of mostly boring documents about military radar systems, but as I emptied the envelope on the table a tiny black square fell out.  It was a piece of microfilm! It said:</p><p>TO: Boris</p><p>FROM: Natasha</p><p>SUBJECTSKY: Recent experiments with chemical warfare agent TMA-2</p><p>Boris, I have been most intrigued by this newly procured compound, TMA-2. Per our orders, I consumed 33 mg of the hydrochloride salt of 2,4,5-trimethoxyamphetamine at 9 pm Friday night.</p><p>Shulgin describes the effects as unthreatening and as a somewhat 'archetypal' psychedelic.  Knowing this, I expected that it would not be suitable for our chemical warfare experiments, yet to advance science for Mother Russia, I have still done my best to document this substance.</p><p>I began to feel the effects after about 30 minutes.  They increased slowly over the next 45 minutes or so, and manifested themselves mostly as a body awareness similar to the waning hours of MDA.  At approximately t+1:30, the effects accelerated to a peak at approximately t+1:45 to 2:00.  During this period I felt nausea develop, which was easily relieved by vomiting.</p><p>Having read Shulgin's comments about visual and audio enhancement, I had high expectations for this experiment.  Unfortunately, hardly any visual effects manifested themselves, except for the very slight appearance of faces behind my eyelids and on the wall in a dark room, which began to slowly melt.  Music was enjoyable but in an 'ordinary' psychedelic way.</p><p>At t+2:40 I chose to snort 4 mg more.  I believe I felt some kind of kick fairly quickly, but I did not notice any real increase in effects. (Snorting was not painful).  At t+3:30, I snorted 5 mg more and felt essentially nothing.  Somewhat disappointed, I smoked some marijuana, which may have increased the visuals somewhat, but not much.</p><p>Comrade Ivan had also consumed a sample of two 'tabs' of d-lysergic acid diethylamide tartrate at the same time as I.  He proceeded to continue work on a digital electronics project he had begun slightly earlier; he wished to see how this 'LSD' substance affected his ability to think logically and to properly execute his wiring.</p><p>He began with very neatly cut, perfectly bent wires which he inserted into his protoboard.  At approximately t+1:30 he decided to abandon his project in favor of discussing our experiments together, while listening to a new English band, 'Pink Floyd'.  He found it very enjoyable (he said that it seemed to go well with the LSD), while as I said earlier, I was somewhat unimpressed with the music effects of the TMA-2.</p><p>Some time later, while I continued to relax, Ivan returned to his project. I later joined him to find that there was a veritable rat's nest of intertwined, excessively long and poorly cut wires above his circuit. Clearly, the LSD substance was having a profound effect on both his thought processes and his concentration, for when I arrived he was staring directly at a blank wall.</p><p>At this point, the most prominent feature of the TMA-2 seemed to be the body sensations.  Mostly a general awareness of the functioning of the muscles, and a slow, deliberate movement.  I could feel individual muscles actuating to perform different motions of my limbs.  When I reclined on a sofa, I felt my body blur and dissolve into the sofa.</p><p>Later on, Ivan needed some assistance dealing with some strange thoughts that came up during his LSD experiment, and despite my having eaten a psychotomimetic, I found it easy to sensibly and logically talk him out of his thought patterns.  The TMA-2 did not really interfere with normal thought processes, though if I let my mind wander, it would occasionally make some interesting jumps and leaps.</p><p>The effects of the substance slowly subsided from a very short peak, which probably lasted no more than two hours, even with the snorted supplements.  I fell asleep approximately 10 hours after consuming the initial dose.  I felt somewhat 'fried' during the comedown as one might on MDA, I suspect because of the amphetamine characteristic of both drugs, but I was completely normal the following day, unlike with MDA.</p><p>Though I really have only scant evidence to base this opinion on, I would agree with Shulgin that TMA-2 is 'archetypal'.  Unfortunately, in this case it means that TMA-2 doesn't seem to stand out at all from what one would consider to be an 'average' psychedelic experience.  There was just nothing special about it.  I am anxious to try a higher dose, perhaps 42 mg, to see if more interesting effects manifest themselves.  Currently I am unimpressed by TMA-2, but I wish to emphasize that I need to explore it further.  Some people have made comparisons to mescaline, which is also a subtle substance that needs experience to be truly appreciated.</p><p>Unfortunately I must conclude that it is not a viable weapon in the Motherland's chemical arsenal, at least not for directly incapacitating the Americans.  However, the Kremlin's plan of distracting America's youth by sending these agents to 'San Francisco' and 'Berkeley' in their province of California seems to be working well.  Perhaps we should send our remaining kilogram of TMA-2 their way.</p><p>                                            Yours,</p><p>                                            Natasha</p>",
  "year": "2000",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2000-08-02T07:00:00.000Z",
  "views": "22425",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "33 mg",
-   "administration": "oral",
-   "substance": "TMA-2",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

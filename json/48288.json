@@ -5,13 +5,11 @@
  "substance": "Ginkgo biloba",
  "bodyweight": "70 kg",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Ginkgo biloba",
-   "(daily)"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Ginkgo biloba",
+  "(daily)"
  ],
  "report": "<p>I started taking ginkgo because my bud smoking was doing mean things to my short term memory (actually Im stoned now). 2 capsules  a day. a month later Im able to recall childhood memories in way more detail(Im 20), concentration has definitely improved and I feel Im using a broader vocabulary in normal daily conversations (acid was the one who made me read the dictionary in the first place). Short term memory is still fucked, especially when I forget to take ginkgo for a day or maybe my keys just like playing hide and seek.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-02-27T08:00:00.000Z",
  "views": "8273",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Ginkgo biloba",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

@@ -5,18 +5,16 @@
  "substance": "Red Rock & Alcohol",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "2.0 g",
-   "smoked",
-   "Red Rock",
-   "",
-   "",
-   " ",
-   "oral",
-   "Alcohol",
-   "(liquid)"
-  ]
+  "DOSE:",
+  "2.0 g",
+  "smoked",
+  "Red Rock",
+  "",
+  "",
+  " ",
+  "oral",
+  "Alcohol",
+  "(liquid)"
  ],
  "report": "<p>I read up on the internet about 'red-rock' opium before hooking up. It's been available for God knows how long. I will admit it has no attributes related to heroin or oxy-cots, but it fucked me and my boys up last weekend. We usually can't chug a half-gallon of vodka - each! And then go to work 3 hours later.</p><p>I whipped out the smoke as we drank and talked shit until sunrise. Our memories and energy levels contradicted each other. No matter what I read about red-rock, I maintain my own opinion. Every time I fuck with it, weird shit happens and I regret it the next day! I seriously doubt the stuff I get is dragons blood, it's more effective than 'chronic'. In fact everyone that smoked the red-rock, the next day thought they smoked high-grade pot. I can guarantee you they didn't. We never know with red-rock.</p>",
  "year": "2002",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-28T07:00:00.000Z",
  "views": "5201",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2.0 g",
-   "administration": "smoked",
-   "substance": "Red Rock",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

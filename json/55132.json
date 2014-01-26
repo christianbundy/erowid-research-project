@@ -5,13 +5,11 @@
  "substance": "Wormwood Extract",
  "bodyweight": "205 lb",
  "header": [
-  [
-   "DOSE:",
-   "2 shots",
-   "oral",
-   "Wormwood",
-   "(extract)"
-  ]
+  "DOSE:",
+  "2 shots",
+  "oral",
+  "Wormwood",
+  "(extract)"
  ],
  "report": "<p>A couple weeks ago I came into a generous supply of dried wormwood, and after my experiences, have begun to grow my own. Using a simple distillation recipe found online, I made some home made absinthe with the wormwood and some other herbs for taste (anise seed, spearmint, cardomon, carraway... etc.). I had also boiled a couple ounces of wormwood in water for thirty minutes with a pinch of a few other herbs, then chilled the strained 'tea.'</p><p>Last night around ten oclock my good friend and myself took a shot of the absinthe, and chased with a full beer. The taste was terrible (during the distillation, we left the wormwood in for eight days, recommended is four or five), and there were no immediate effects. We went out for an hour, and came back for another shot and more beer. We knew we we're supposed to dilute absinthe, but wanted to just shoot it and get it down the hatch. After this we began to feel mild effects within about half an hour. Lights became brighter, conversation easier. I then felt the need to take a double shot of the 'tea' I had made, which topped off the night for me.</p><p>Normally I can drink up to a twelve pack, easily (big body, plenty of tolerance) without becoming truly drunk. Last night I had three beers and the two shots of absinthe, which was made with 151 Rum. Normally this would not get me drunk at all, but I found myself in a clear-headed, stumbling state. The experience was truly exciting. I went to bed, and got up 6 hours later for work STILL FEELING EFFECTS! I'm actually at work right now, and when I came in my manager looked at me and asked if I was alright, and I just told him I had a late night.</p><p>In all, the ingredients for each of these drinks were easy to acquire, and the process was quite easy. The effects were definately worth it. I've also extracted thujone from some wormwood with great success, but am yet to ball up and smoke or swallow it. I will report on this at a later time.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2009-03-04T08:00:00.000Z",
  "views": "12484",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2 shots",
-   "administration": "oral",
-   "substance": "Wormwood",
-   "form": "(extract)"
-  }
- ]
+ "dose": {}
 }

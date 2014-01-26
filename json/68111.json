@@ -5,13 +5,11 @@
  "substance": "Vitamin C",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "210 mg",
-   "oral",
-   "Vitamin C",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "210 mg",
+  "oral",
+  "Vitamin C",
+  "(pill / tablet)"
  ],
  "report": "<p>This morning I was feeling a little bit sick. Nothing serious, just some coughing and a runny nose. I took one Vitamin C pill and now I feel fine.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-01-03T08:00:00.000Z",
  "views": "158311",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "210 mg",
-   "administration": "oral",
-   "substance": "Vitamin C",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

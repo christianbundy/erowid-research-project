@@ -5,13 +5,11 @@
  "substance": "Kratom",
  "bodyweight": "120 lb",
  "header": [
-  [
-   "DOSE:",
-   "14 g",
-   "oral",
-   "Kratom",
-   "(tea)"
-  ]
+  "DOSE:",
+  "14 g",
+  "oral",
+  "Kratom",
+  "(tea)"
  ],
  "report": "<p>A friend and I recently bought Kratom leaves online.  We had just tried Salvia Dinorum and were psyched to try other legal drugs.  We prepared the tea by adding an ounce of the leaves to a liter of boiling water.  We let it boil down for a while and then strained out the leaves.  We put them in another liter of water and boiled that for a while, then strained it and combined the water from both.  We boiled this down until there was only enough to fill two glasses, and then we drank it.  It tasted bitter, but we chugged it and chased it with a lot of water. </p><p>After about 15 minutes we started to feel some dizziness and lightheadedness, accompanied by a pleasant mellow feeling.  We felt contented and were completely unmotivated to move.  Before long, though, we started to feel queasy. I went to the bathroom to vomit but only spat up a little phlem.  It was like my stomach couldn't muster the energy to surrender its contents.  It must have gotten its second wind though, because I vomited a little while later.  We found that lying down helped ease the nausea.  Whenever we got up and moved around, though, we would start to feel sick.  Now, six hours later, the mellow feeling is long gone, and I still start feeling sick if I'm too active.  I have been taking breaks to close my eyes and recover every so often while typing this. </p><p>All in all this was one of the more unpleasant experiences I've had with drugs.  I wouldn't recommend Kratom to anyone.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2005-03-18T08:00:00.000Z",
  "views": "23238",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "14 g",
-   "administration": "oral",
-   "substance": "Kratom",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

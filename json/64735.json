@@ -5,13 +5,11 @@
  "substance": "Cloves",
  "bodyweight": "118 lb",
  "header": [
-  [
-   "DOSE:",
-   "4 hits",
-   "smoked",
-   "Cloves",
-   "(dried)"
-  ]
+  "DOSE:",
+  "4 hits",
+  "smoked",
+  "Cloves",
+  "(dried)"
  ],
  "report": "<p>I got bored one night and was out of whipped cream, so I decided to smoke some clove. I put it in some rolling paper and rolled a clove ciggie, lit it, and took a mouthful. My mouth went numb, my eyes teared slightly, and my nose burned. I took 3 more mouthfuls, maintaining the mouth numbness but the burning in my eyes and mouth subsided. I felt sort of tired about 1 minute after the 4th toke. Not the most fun substance, but good if I have a mouth sore or oral pain.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "15624",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "4 hits",
-   "administration": "smoked",
-   "substance": "Cloves",
-   "form": "(dried)"
-  }
- ]
+ "dose": {}
 }

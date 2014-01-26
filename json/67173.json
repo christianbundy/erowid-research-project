@@ -5,18 +5,16 @@
  "substance": "Venlafaxine & Buspirone",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   "75 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)",
-   "",
-   " ",
-   "oral",
-   "Pharms - Buspirone",
-   "(daily)"
-  ]
+  "DOSE:",
+  "75 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)",
+  "",
+  " ",
+  "oral",
+  "Pharms - Buspirone",
+  "(daily)"
  ],
  "report": "<p>In 2005 when I was at a wilderness program for substance abuse, I went on a visit with my parents. After consuming large amounts of nutmeg (which doesnt show up on a drug test) in order to get high and taking my normal dose of effexor and buspar, I failed a drug test 2 weeks in a row for pcp. The second week the program knew I wasnt lieing because I was living in a tent in the mountains of colorado and it would have been imposible for me to get pcp, which I've never used. Ever.\r[Erowid Note: Venlafaxine (Effexor) can cause false positives for PCP on urinalysis tests.]</p>",
  "year": "2007",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-12-11T08:00:00.000Z",
  "views": "22197",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

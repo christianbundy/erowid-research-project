@@ -5,13 +5,11 @@
  "substance": "DXM & Drug Testing",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "oral",
-   "DXM",
-   "(liquid)"
-  ]
+  "DOSE:",
+  " repeated",
+  "oral",
+  "DXM",
+  "(liquid)"
  ],
  "report": "<p>At a work-related drug screen this past Wednesday at the Texas Health Center in Victoria, Texas, my urinalysis showed a false-positive for PCP. Having never ingested PCP in my life, I must assume that the cough syrup I had been regularly-and responsibly-taking for about three days caused me to fail the test. The nurse explained to me that cold medicines would only test positive for opiates, yet further research on my part greatly muddied the issue.</p><p>Since the test performed was a simple strip-screen, I am still awaiting the actual urinalysis. I know that there is not, nor has ever been, a single micron of PCP in my system, and that the only drugs I was taking at the time were ibuprofen and DXM-based cough syrup. At that, the dosage of DXM was substantially lower than the usual recreational effect threshold.</p><p>Even if one considers the possibility of PCP-contaminated marijuana, it has been more than a year since I've smoked any marijuana, and did not test positive for it. Perhaps it was a malfunction in the grossly inaccurate strip-test that caused the failing, I can't be sure. I can only assume that the more in-depth analysis will show what is, and what isn't, in my system.</p><p>I'm thankful that, if nothing else, I at least failed a drug screen for a prospective employer, and not one for, say, a probation officer. That would have been much harder to explain, and I would not currently have anything remotely resembling an answer to my query.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-11-20T08:00:00.000Z",
  "views": "12436",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "oral",
-   "substance": "DXM",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

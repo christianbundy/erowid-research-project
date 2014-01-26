@@ -5,18 +5,16 @@
  "substance": "Modafinil (Provigil)",
  "bodyweight": "175 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "200 mg",
-   "oral",
-   "Modafinil",
-   "(pill / tablet)",
-   " T+ 2:30",
-   "200 mg",
-   "oral",
-   "Modafinil",
-   "(pill / tablet)"
-  ]
+  "DOSE: T+ 0:00",
+  "200 mg",
+  "oral",
+  "Modafinil",
+  "(pill / tablet)",
+  " T+ 2:30",
+  "200 mg",
+  "oral",
+  "Modafinil",
+  "(pill / tablet)"
  ],
  "report": "<p>I am recovering from minor depression, I have been for quite some time.  I also used to have some 'anxiety issues'.  So, technically I have been diagnosed with 'generalized anxiety disorder/ depression'.  Effexor XR at 300 mg really helped out with the anxiety and depression, I still feel better today.  But, I felt still slow (my demanding school schedule requires me to study, study, study).  So, my psychiatrist prescribed me Adderall.  At first I tried the XR.  In a few months, I was up to 30 mg XR (2 times a day x 15 mg).  But, I was displaying symptoms of minor manic behavior (more irritable, over aggressive, eating more than usual, needing to stretch a lot more than usual).  Then, I switched to 30 mg of generic Adderall (10 mg, 3x day).  But, still had manic symptoms.</p><p>My shrink thought I was 'minorly bipolar' which means that I get a little depressed without some stimulation.  But, I go overboard when given amphetamines or caffeine.</p><p>So, I wanted to try Provigil.  I cut out the amphetamines 'cold turkey' (that was quite hard to do).  Yesterday, and the day before that, I had 200 mg.  Today, I did a little more (I still was feeling quite drowsy in class).</p><p>I admit, I did feel very alert.  I did not feel 'restless' as with Adderall.  I did not feel the compulsive 'need to accomplish'.  I did not feel my body temperature rise and a desire to eat everything in sight.  Let's see what the results are.  That's what truly matters.</p><p>It did not raise my IQ (mine stays the same no matter how many times I take the IQ test), the drugs did not increase test scores (I actually had a 4.0 before taking any of this stuff), and I feel more distracted when studying.</p>",
  "year": "2006",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
  "views": "10611",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "200 mg",
-   "administration": "oral",
-   "substance": "Modafinil",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

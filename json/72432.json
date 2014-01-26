@@ -5,18 +5,16 @@
  "substance": "Wormwood & Ephedra",
  "bodyweight": "110 lb",
  "header": [
-  [
-   "DOSE:",
-   "0.5 cups",
-   "oral",
-   "Wormwood",
-   "(tea)",
-   "",
-   " ",
-   "oral",
-   "Ephedra sinica",
-   "(tea)"
-  ]
+  "DOSE:",
+  "0.5 cups",
+  "oral",
+  "Wormwood",
+  "(tea)",
+  "",
+  " ",
+  "oral",
+  "Ephedra sinica",
+  "(tea)"
  ],
  "report": "<p>I can't pay for weed its too expensive. So I found some wormwood and some ephedra navedensis in my pasture and I brewed a tea. I drank half a cup it tasted pretty bitter one hour later nothing except a headache, I prefer ephedra alone.</p>",
  "year": "2008",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2008-12-08T08:00:00.000Z",
  "views": "5816",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "0.5 cups",
-   "administration": "oral",
-   "substance": "Wormwood",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

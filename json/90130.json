@@ -5,13 +5,11 @@
  "substance": "Gabapentin (Neurontin)",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "60 mg",
-   "oral",
-   "Pharms - Gabapentin",
-   "(daily)"
-  ]
+  "DOSE:",
+  "60 mg",
+  "oral",
+  "Pharms - Gabapentin",
+  "(daily)"
  ],
  "report": "<p>I've been suffering migraines for as long as I can remember. I've tried all sorts of aspirin and drugs, but the only thing that seems to help is a lot of sleep. And even that only works when I have 7-8 hours to devote.</p><p>I finally got fed up and went to my doctor who prescribed me Gabapentin, which I had never heard of.  She warned me, since I had a history of suicide attempts, that this medication is extremely dangerous to overdose on. I was to take one 300mg capsule before bed every night for a week, and if that didn't help, I was to take 2 capsules.</p><p>Since I had been taking this before bed, I never really felt the side effects. But the first night I took it, I felt like I was having a little trouble breathing. I just figured it was my mind and went to sleep. One pill a night wasn't helping so a couple weeks ago I upped to two pills. I forgot to take them one night and took them before work when I remembered. When I got to work, I was feeling a little dizzy. (Luckily I work as a receptionist and sit all day.) But I noticed I was feeling a sort of opiate high. My body felt good, I was very talkative and friendly.</p><p>I have tried almost all the common drugs out there (with the exception of meth, PCP and speed), and I was growing quite fond of pain pills. But taking Gabapentin gets rid of my cravings. And I am now migraine free!</p>",
  "year": "2011",
@@ -20,13 +18,5 @@
  "age": "21",
  "timestamp": "2011-03-23T07:00:00.000Z",
  "views": "5703",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "60 mg",
-   "administration": "oral",
-   "substance": "Pharms - Gabapentin",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

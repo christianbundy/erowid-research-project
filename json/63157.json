@@ -5,13 +5,11 @@
  "substance": "Tobacco",
  "bodyweight": "170 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 cig.",
-   "oral",
-   "Tobacco",
-   "(tea)"
-  ]
+  "DOSE:",
+  "1 cig.",
+  "oral",
+  "Tobacco",
+  "(tea)"
  ],
  "report": "<p>I read the report of the guy who took three cigarettes and made tea, I think he overdosed. So I decided to try just one cigarette.</p><p>I got a Marlboro Light from my friend 'A'. I got home and cut it open and put the tobacco into a tea ball (a metal mesh thing for making tea) and brewed it with almost boiling water. The tea smelled great. I took sips of it and noticed that it burnt my throat. Halfway through the cup, I began to feel nauseous. But I forced myself to drink it and went to take a shower.</p><p>While I was taking a shower, I felt even worse. I got out and went downstairs to dinner, I began to feel better. After I finished eating I felt the nicotine buzz come on. It was like a mild buzz, but still good! So the tea took about 30 minutes to take effect. Then the feeling grew stronger and I was very relaxed but focused. I called my friend 'B' and told him that it was great!</p><p>I would advise anyone that wants to try this to start out with small amounts of tobacco because it is very easy to overdose. I think my initial nausea was from the taste of the tea, which doesn't make sense because, it tasted very good! I will try this again with a regular cigarette instead of a Light.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-15T07:00:00.000Z",
  "views": "16604",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 cig.",
-   "administration": "oral",
-   "substance": "Tobacco",
-   "form": "(tea)"
-  }
- ]
+ "dose": {}
 }

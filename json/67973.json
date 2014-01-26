@@ -5,13 +5,11 @@
  "substance": "Phentermine",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE:",
-   "37.5 mg",
-   "insufflated",
-   "Pharms - Phentermine",
-   "(capsule)"
-  ]
+  "DOSE:",
+  "37.5 mg",
+  "insufflated",
+  "Pharms - Phentermine",
+  "(capsule)"
  ],
  "report": "<p>Opened up a 37.5 mg phentermine capsule and snorted it in a series of 6 lines.  The first 'bump' was like a very dull version of cocaine.  It does not have the numbing properties of coke so it burns the nose a bit.</p><p>The phentermine made me feel awake and talkative and it totally suppresses my appetite.  The good feeling lasted roughly 15 - 20 minutes.  Then I took one line about every 15 minutes to keep it up.  The feeling became more awake then high though.  Not nearly as fun as coke, but I would do it again maybe before work as it really wakes me up.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-12-27T08:00:00.000Z",
  "views": "15075",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "37.5 mg",
-   "administration": "insufflated",
-   "substance": "Pharms - Phentermine",
-   "form": "(capsule)"
-  }
- ]
+ "dose": {}
 }

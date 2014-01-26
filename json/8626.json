@@ -5,13 +5,11 @@
  "substance": "Caffeine",
  "bodyweight": "167 lb",
  "header": [
-  [
-   "DOSE:",
-   "200 mg",
-   "insufflated",
-   "Caffeine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "200 mg",
+  "insufflated",
+  "Caffeine",
+  "(pill / tablet)"
  ],
  "report": "<p>It was at the last big meet of the swimming season.  The whole year was coming down to this.  We wanted to win.  We needed to win.  It could be done without chemical help, but we wanted the 'edge.'  Afterall, caffeine is the only legal performance-enhancing drug in High School Swimming.  The coach told us to drink coffee in the mornings before meets.  I had a better idea.</p><p>I went out and bought some caffeine pills.  I was sure to get the ones that were not gel-coated, as they would not grind up very well.  About a week before the meet, my friend and I went to lunch and I ground up the pills while we ate.  Then, we each snorted about half of a pill.  The effects were instantanous.  I got the wrist-shaking, the ultra-bright lights, and most important, the sudden rush of energy.</p><p>When the meet came around, my friend and I went to the back room and snorted before our events.  We each had four different events that we had swam all year long.  Between us, we got six best times.  One thing that should be noted is that our events were mostly short sprints, the longest race being just over two minutes and the shortest less than thirty seconds.</p><p>In a short sprint, the body actually cannot naturally release all of it's potentional energy.  The race is simply too short and your subconscious mind always forces you to keep some fuel in reserve.  The caffeine helps you to use more of your potentional energy.</p><p>In the 100 yard races (about 1 minute long) the caffeine's effects were most beneficial.  On the last twenty-five yards of the race, I usually experience pain in my muscles due to lactic acid buildup.  Usually, I tend to slow down because of this.  With the caffeine, however, the race seemed like I was constantly accelerating.  And my time showed it.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2004-05-21T07:00:00.000Z",
  "views": "23376",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "200 mg",
-   "administration": "insufflated",
-   "substance": "Caffeine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

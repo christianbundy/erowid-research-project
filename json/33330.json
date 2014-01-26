@@ -5,13 +5,11 @@
  "substance": "DHEA",
  "bodyweight": "190 lb",
  "header": [
-  [
-   "DOSE:",
-   "100 mg",
-   "oral",
-   "DHEA",
-   "(daily)"
-  ]
+  "DOSE:",
+  "100 mg",
+  "oral",
+  "DHEA",
+  "(daily)"
  ],
  "report": "<p>After reading about DHEA for a while I decided to try it. I noticed an increase in concentration ability within an hour or two, and was initially very impressed with the results. By the second day, I noticed my body temperature had gone up a small amount.</p><p>The third day the concentration effects had gone away, only to be replaced with a nagging headache. Nothing bad, I could ignore it, but it was very annoying. This usually signifies a bad reaction of some sort. I tried several combinations of vitamin/mineral supplements to see if the headache was caused by some deficiency, with no result.</p><p>After 1 week, I stopped the use of DHEA as I only noticed marginal results, and plenty of side effects. Within a couple of days, the side effects listed below have disappeared.</p><p>Pros: Increased mental clarity (marginal)</p><p>Increased stamina/strength to some degree.</p><p>Cons: Headache</p><p>Poor sleep quality resulting in being continually tired.</p>",
  "year": "2004",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-10-21T07:00:00.000Z",
  "views": "13354",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "100 mg",
-   "administration": "oral",
-   "substance": "DHEA",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

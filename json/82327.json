@@ -5,13 +5,11 @@
  "substance": "Cyclobenzaprine (Flexeril)",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "10 mg",
-   "oral",
-   "Pharms - Cyclobenzaprine",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "10 mg",
+  "oral",
+  "Pharms - Cyclobenzaprine",
+  "(pill / tablet)"
  ],
  "report": "<p>I had taken this drug before without any problems, in fact I used to take 3 at a time.</p><p>On Satuarday night I decided to pop a Flexeril, 45 mins later, I felt very peaceful, and relaxed. I was really enjoying the music I was playing. My body felt heavy yet good, and I thought to myself I like this, I don't feel any tension in my body at all.</p><p>That night I went to sleep and my mouth felt odd, kinda weird like it didn't fit right in my mouth. The next night it felt even worse and was stuck to the bottom of my mouth with no saliva, I rinsed my mouth and it felt somewhat better, Monday it was the same, and last night (Tuesday) it was huge ! swollen and it hurt to talk, my b/f wanted to take me to the emergency room, but I said ok lets try an antihistimine pill, wait 20 mins and if it goes down I'll be ok. I took a Clarinex pill and it worked to reduce the size. Right now its nearly back to normal size, but I will never take Flexeril again!</p>",
  "year": "2009",
@@ -20,13 +18,5 @@
  "age": "30",
  "timestamp": "2009-11-20T08:00:00.000Z",
  "views": "8635",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "10 mg",
-   "administration": "oral",
-   "substance": "Pharms - Cyclobenzaprine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

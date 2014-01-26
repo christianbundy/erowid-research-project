@@ -5,18 +5,16 @@
  "substance": "Triazolam (Halcion) & Alprazolam (Xanax)",
  "bodyweight": "150 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 mg",
-   "oral",
-   "Pharms - Triazolam",
-   "(pill / tablet)",
-   "",
-   "2 mg",
-   "oral",
-   "Pharms - Alprazolam",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "1 mg",
+  "oral",
+  "Pharms - Triazolam",
+  "(pill / tablet)",
+  "",
+  "2 mg",
+  "oral",
+  "Pharms - Alprazolam",
+  "(pill / tablet)"
  ],
  "report": "<p>I am a total insomniac and was prescribed to several benzodiazepines. The Halcion did nothing on it's own at the recommended .5 mg dosage so I upped it to 1 mg and still no results. So after weeks of trying it alone I added Xanax to the mix and it helped me sleep very well with no hangover effects due to the short half-life of both drugs. But all in all triazolam is worthless on it's own. However, on several forums I have read about people taking as little as .125 mg with it working wonders for their insomnia, maybe I just have a higher tolerance.</p>",
  "year": "2008",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2009-07-08T07:00:00.000Z",
  "views": "6465",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 mg",
-   "administration": "oral",
-   "substance": "Pharms - Triazolam",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

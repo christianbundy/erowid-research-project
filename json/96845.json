@@ -5,12 +5,10 @@
  "substance": "Methoxetamine",
  "bodyweight": "232 lb",
  "header": [
-  [
-   "DOSE:",
-   "300 mg",
-   "",
-   "Methoxetamine "
-  ]
+  "DOSE:",
+  "300 mg",
+  "",
+  "Methoxetamine "
  ],
  "report": "<p>I recently received another gram of MXE and did WAY too much within a small amount of time. My mother came into my room and found me laying in bed, barely conscious, sweating profusely. I can't remember anything between taking it and going to get a shower and coming to in the ER getting my second shot of ativan. Apparently my heart rate was at 180 (possibly higher, don't know for sure) at one point.</p><p>I ended up having to get 3 or 4 shots of ativan in during my 8 hours at the hospital, of which I was awake for 3 or 4. I'm fine now, but my short-term memory is a little weird (I'll walk down the hall and grab something and as I'm walking back I won't remember walking there to begin with)</p><p>I guess this was just to say DON'T BE STUPID WITH YOUR DRUGS!</p>",
  "year": "2012",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2012-08-16T07:00:00.000Z",
  "views": "4410",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "300 mg",
-   "administration": "",
-   "substance": "Methoxetamine "
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Venlafaxine (Effexor)",
  "bodyweight": "65 kg",
  "header": [
-  [
-   "DOSE:",
-   "75 mg",
-   "oral",
-   "Pharms - Venlafaxine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "75 mg",
+  "oral",
+  "Pharms - Venlafaxine",
+  "(daily)"
  ],
  "report": "<p>I have a history of clinical depression and I've been on a number of SSRIs - Zoloft (sertraline), Prozac (fluoxetine) and Effexor (venlafaxine), the most recent and by far the worst in terms of withdrawal.</p><p>I started on a dose of 75mg (which from what I've read is higher than usual) and this was gradually increased to 150mg and then 225mg.  I was suprised by the lack of side effects whilst going on the medication, but I after increasing the daily dose to 225mg and still noticing no change in my mood I decided to stop taking it.  I gradually decreased the dose back down to 75mg over a period of a couple of weeks and then quit cold at that point.  Whilst the initial side effects were non-existant, the withdrawal was an entirely different matter.</p><p>It took roughly 24 hours before I noticed anything.  At that point I began to get a headache and felt quite dizzy when I moved.  This happened at night, so I decided to go to bed at that point.</p><p>I woke up a few hours later and I could barely stand up.  I was so dizzy and nauseous that any kind of movement at all nearly caused me to collapse.  I was just barely able to get out of bed and turn the light on but I fell over and came very close to hitting my head on the door frame.  I went straight back to bed but couldn't sleep (I felt extremely alert and hyperactive).</p><p>By morning I was no better - I had a pretty bad headache, severe nausea and dizzyness, upset stomach, insomnia, muscle aches, and a fever/temperature.</p><p>This was bad enough that I immediately took 75mg of Efexor, and after a couple of hours I was feeling a lot better.  Several days later I went and saw a doctor (a different one from the one who prescribed it) and he gave me 37.5mg tablets.  I've been on those since, and if I try missing a dose again within 24 hours I'm feeling dizzy and getting headaches again, so I've learned to just keep taking it for now.  My next move will be to try cutting these in half to see if that helps me get off this awful stuff for good.</p><p>My advice to anyone whose doctor suggests Venlafaxine (Efexor) - make sure you are aware of the side effects and withdrawal problems this drug can cause.  Particularly the withdrawal symptoms, as I've heard many stories like mine from other people.</p>",
  "year": "2003",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2003-12-19T08:00:00.000Z",
  "views": "14540",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "75 mg",
-   "administration": "oral",
-   "substance": "Pharms - Venlafaxine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

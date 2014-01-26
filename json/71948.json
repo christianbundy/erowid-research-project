@@ -5,18 +5,16 @@
  "substance": "Quetiapine (Seroquel) & MDMA (Ecstasy)",
  "bodyweight": "140 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "",
-   "MDMA",
-   "",
-   "",
-   "200 mg",
-   "oral",
-   "Pharms - Quetiapine",
-   "(daily)"
-  ]
+  "DOSE:",
+  " repeated",
+  "",
+  "MDMA",
+  "",
+  "",
+  "200 mg",
+  "oral",
+  "Pharms - Quetiapine",
+  "(daily)"
  ],
  "report": "<p>Once I was the kind of guy to sample and try any drug I could get my hands on. I've done just about every drug you can name except meth and crack. I usually just stick with weed and psychedelics since they aren't really that bad for you. But one summer I ventured to Vancouver for 2 months. Little did I realize that I would soon become a daily ecstacy user. Beforehand I had never even tried such a substance, but because it was soo cheap ($5 a tab) it was becoming a ritual.</p><p>Well after my fun summer of ecstacy, weed, hash, lsd-25 and mushrooms I returned to my home state of Georgia. The following months after I was becoming more and more depressed. I went to my doctor and was diagnosed with Bipolar Disorder. So he prescribed me Seroquel 200 mg. The first 2 months I just took it before bed because it knocked me the hell out. But after that it didn't make me drowsy any more, but instead made me feel how I used to! I'm doing just fine now. After I take it, it just makes me feel just dandy!:)</p>",
  "year": "2008",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2008-06-18T07:00:00.000Z",
  "views": "19753",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "",
-   "substance": "MDMA",
-   "form": ""
-  }
- ]
+ "dose": {}
 }

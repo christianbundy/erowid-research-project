@@ -5,23 +5,21 @@
  "substance": "Amanitas - A. muscaria (10x extract), Syrian Rue & Cannabis",
  "bodyweight": "70 kg",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "1.0 g",
-   "",
-   "Syrian Rue",
-   "(extract - 10x)",
-   " T+ 0:20",
-   "1.0 g",
-   "",
-   "Amanitas - A. muscaria",
-   "(extract - 10x)",
-   " T+ 0:00",
-   "1 cig.",
-   "smoked",
-   "Cannabis",
-   ""
-  ]
+  "DOSE: T+ 0:00",
+  "1.0 g",
+  "",
+  "Syrian Rue",
+  "(extract - 10x)",
+  " T+ 0:20",
+  "1.0 g",
+  "",
+  "Amanitas - A. muscaria",
+  "(extract - 10x)",
+  " T+ 0:00",
+  "1 cig.",
+  "smoked",
+  "Cannabis",
+  ""
  ],
  "report": "<p>Having a free and rather dull evening I thought I would try a gram of 10x Amanita extract I bought a while back. I dosed on some syrian rue extract 20 minutes before hand as it may enhance the effects. After dosing withe extract I waited. And waited. nothing happened.</p><p>I ran a bath a rolled a strong joint hoping it would boost any amanita effects (they are meant to go very well together). nothing though. I was spaced out, yes, but it was due to the syrian rue and strong joint combined.</p><p>Picking and preparing ones from the wild are my best bet (trust me, they do the trick).</p>",
  "year": "2005",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2008-02-28T08:00:00.000Z",
  "views": "5894",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "1.0 g",
-   "administration": "",
-   "substance": "Syrian Rue",
-   "form": "(extract - 10x)"
-  }
- ]
+ "dose": {}
 }

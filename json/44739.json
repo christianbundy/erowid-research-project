@@ -5,13 +5,11 @@
  "substance": "Quetiapine (Seroquel)",
  "bodyweight": "200 lb",
  "header": [
-  [
-   "DOSE:",
-   "225 mg",
-   "oral",
-   "Pharms - Quetiapine",
-   "(daily)"
-  ]
+  "DOSE:",
+  "225 mg",
+  "oral",
+  "Pharms - Quetiapine",
+  "(daily)"
  ],
  "report": "<p>The doctors have had me perscribed to seroquel for the past 2 years. I finally against medical advice stopped taking it for many reasons.</p><p>1. I was building a tolerance to it</p><p>2. It made my blood pressure go way up and slow it down too</p><p>3. I fucking hate the effects. Pretty much the effects I got from it were drowsiness, difficult motor skills (hard to walk), slurred speach, difficulty concentrating, mild hallucinations, and loss of concentration. I would take 25 mgs in the morning for anxiety and 230 at night for sleep. For awhile it worked as an alright sleep aid. But when I took it during the day it made anything really hard to do. The most i took was 2400mgs. Not a very good experience. But didn't overdose. In fact I didn't think I could overdose off it. Its not very fun recreationally and sucks.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2006-04-03T07:00:00.000Z",
  "views": "11662",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "225 mg",
-   "administration": "oral",
-   "substance": "Pharms - Quetiapine",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

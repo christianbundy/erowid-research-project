@@ -5,13 +5,11 @@
  "substance": "Diethyl Ether",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "inhaled",
-   "Ether",
-   "(gas)"
-  ]
+  "DOSE:",
+  " ",
+  "inhaled",
+  "Ether",
+  "(gas)"
  ],
  "report": "<p>Dr. Holmes [of Harvard Medical School] inhaled ether at a time when it was popularly supposed to produce mystical or 'mind-expanding' experiences, much as LSD is supposed to produce such experiences today.  Here is his account of what happened:</p><p>'I once inhaled a pretty full dose of ether, with the determination to put on record, at the earliest moment of regaining consciousness, the thought I should find uppermost in my mind. The mighty music of the triumphal march into nothingness reverberated through my brain, and filled me with a sense of infinite possibilities, which made me an archangel for a moment. The veil of eternity was lifted. The one great truth which underlies all human experience and is the key to all the mysteries that philosophy has sought in vain to solve, flashed upon me in a sudden revelation. Henceforth all was clear: a few words had lifted my intelligence to the level of the knowledge of a cherubim. As my natural condition returned, I remembered my resolution; and, staggering to my desk, I wrote, in ill-shaped, straggling characters, the all-embracing truth still glimmering in my consciousness. The words were these (children may smile; the wise ponder): 'A strong smell of turpentine prevails throughout'</p><p>Oliver Wendell Holmes, Mechanism in Thought and Morals, Phi Beta Kappa address, Harvard Univeristy, June 29, 1870 (Boston: J.R. Osgood and Company, 1871).</p><p>as cited in\rLicit & Illicit Drugs: The Consumers Union Report on Narcotics, Stimulants, Depressants, Inhalants, Hallucinogens & Marijuana - including Caffeine, Nicotine and Alcohol.</p>",
  "year": "1870",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2002-02-23T08:00:00.000Z",
  "views": "58829",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "inhaled",
-   "substance": "Ether",
-   "form": "(gas)"
-  }
- ]
+ "dose": {}
 }

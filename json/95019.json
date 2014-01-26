@@ -5,16 +5,14 @@
  "substance": "Methoxetamine",
  "bodyweight": "74 kg",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "1 tablet",
-   "oral",
-   "Methoxetamine ",
-   " T+ 2:00",
-   "1 bowl",
-   "smoked",
-   "Cannabis"
-  ]
+  "DOSE: T+ 0:00",
+  "1 tablet",
+  "oral",
+  "Methoxetamine ",
+  " T+ 2:00",
+  "1 bowl",
+  "smoked",
+  "Cannabis"
  ],
  "report": "<p>I started taking drugs just before I started going to University, and although I only managed to get hold of some weed and some mushrooms I really enjoyed the experiences. When I started living somewhere with decent dealers and a head shop down the road I decided to be a little more adventurous. I tried out LSD, MDMA, NOS and Salvia. Then one day I went in and asked the guy behind the counter if there was anything he had in that I could afford. He replied that something called MXE was selling really well and made everything a bit wobbly. I bought a pill, looked it up and took it at 10am the next morning.</p><p>Within 20 minutes things were definitely starting to change: edges seemed clearer; speaking was slightly inhibited and music seemed much more accessible. Feeling that discretion was the better part of valour, I left part of my sandwich on the plate and went up to my room with my sitter.</p><p>The next 3 hours were a wonderful transdimensional whirl during which I had a profound sense of being disconnected from the moment  as if I had taken a step back and could view my life so far at will. It was an enjoyable sensation that peaked after decided to fill up a MONSTER of a bowl about 2 hours in.</p><p>The weed moved the experience onward to a different level. For the next 90 minutes I lay comfortably in my bed and enjoyed the adventures I could have just by shutting my eyes. The effects lingered comfortably for another few hours (though I had a slight headache at one point) before dissipating entirely.</p><p>Overall, I really enjoyed high I got off MXE, and intend to give it another go at a club or party sometime to see how the synesthesia develops.</p><p>P.S Im quite aware that as I forgot to weigh the pill I cannot provide an accurate measurement. Sorry!</p>",
  "year": "2012",
@@ -23,13 +21,5 @@
  "age": "20",
  "timestamp": "2012-03-01T08:00:00.000Z",
  "views": "4206",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "1 tablet",
-   "administration": "oral",
-   "substance": "Methoxetamine ",
-   "form": " T+ 2:00"
-  }
- ]
+ "dose": {}
 }

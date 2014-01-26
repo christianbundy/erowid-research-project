@@ -5,23 +5,21 @@
  "substance": "Clonazepam (Klonopin), Alcohol & Cannabis",
  "bodyweight": "120 lb",
  "header": [
-  [
-   "DOSE:",
-   "32 oz",
-   "oral",
-   "Alcohol - Beer/Wine",
-   "(liquid)",
-   "",
-   " ",
-   "smoked",
-   "Cannabis",
-   "(plant material)",
-   "",
-   "15 mg",
-   "insufflated",
-   "Pharms - Clonazepam",
-   "(ground / crushed)"
-  ]
+  "DOSE:",
+  "32 oz",
+  "oral",
+  "Alcohol - Beer/Wine",
+  "(liquid)",
+  "",
+  " ",
+  "smoked",
+  "Cannabis",
+  "(plant material)",
+  "",
+  "15 mg",
+  "insufflated",
+  "Pharms - Clonazepam",
+  "(ground / crushed)"
  ],
  "report": "<p>I was at a party last night, and my friend told me he had some Klonopin to snort, so I agreed. I was already slightly drunk (2 tall cans) and moderately high on weed. We went to the host's room and snorted 5 little green pills between 3 people, and I got the biggest line first (about 3 pills worth).</p><p>I was surprised at how pleasant it felt. It was rather minty and cold-feeling, and almost painless compared to most of the other pharmaceuticals I had snorted. We returned downstairs, and at first I couldn't tell what the effects were because everyone was drunk, and the usual party atmosphere was too chaotic for me to focus on my state of mind. When I went outside for a cigarette, I noticed a mild feeling of comfort and euphoria, as well as a slight movement impairment in addition to the effects of the alcohol. Also, my head felt stuffy. I'm not sure how else to describe it; it was similar to the head pressure I get after the first hit of high grade marijuana.</p><p>Other than that, the effects weren't too noticeable until the next day, when I realized that I was having a really hard time remembering what I did after I snorted the medicine. I could remember bits and pieces, but the medicine seems to have impaired me much more than that amount of alcohol usually does. Also, I've been drowsy all day and I've been moving like I'm slightly drunk. Nothing severe, I'm just clumsy and I stumble now and again. Ah well, I've never expected much from pharms anyways.</p>",
  "year": "2007",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2009-09-27T07:00:00.000Z",
  "views": "30445",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "32 oz",
-   "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

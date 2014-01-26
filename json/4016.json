@@ -5,18 +5,16 @@
  "substance": "5-HTP & Cannabis",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "500 mg",
-   "oral",
-   "Tryptophan",
-   "(pill / tablet)",
-   " T+ 2:59",
-   " ",
-   "smoked",
-   "Cannabis",
-   "(plant material)"
-  ]
+  "DOSE: T+ 0:00",
+  "500 mg",
+  "oral",
+  "Tryptophan",
+  "(pill / tablet)",
+  " T+ 2:59",
+  " ",
+  "smoked",
+  "Cannabis",
+  "(plant material)"
  ],
  "report": "<p>[Erowid Note: In the following report, the author doesn't mention that 500 mg of 5-HTP is a huge dose.  Many people report significant negative effects from this high a dose, including nausea, dizziness, and vomiting.]</p><p>That night we were going to roll and knowing this we ingested 500 mg of some 5-HTP I had lying around, in our experience 5-HTP makes Ecstacy use more potent,we took that around 3 hours before we were supposed to get the Esctacy, but the deal fell through and me and my friend were left with nothing to do for the night, We were both feeling down but noticed a mild effect of the 5-HTP, both our heads felt like they were buzzing and we had difficulty concentrating on anything.</p><p>I had some marijuana from the previous weekend and we decided to smoke it, and then something magical happened. After a bowl or two we had entered a state of mind that we both have never experienced. Normally weed makes you happy but we were super duper happy, giddy even. I felt very hot and we both were laughing the hardest we've ever laughed before. And we were excited and I felt like running around. Usually marijuana makes us both happy but tired and lethargic. As we smoked more weed it suprised me the intensity of it and the fact that thoughts were rushing through my head at a million miles an hour. It was definitely different than smoking marijuana by itself. After a few hours we were back down and talking about what just happened.</p><p>We both think that the Marijuana reacted with the large amount of seratonin in our brains and made that event happen. I plan to experiment more with the combination and will post again if I figure anything out.</p>",
  "year": "2000",
@@ -25,13 +23,5 @@
  "age": "Not Given",
  "timestamp": "2001-03-03T08:00:00.000Z",
  "views": "17091",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "500 mg",
-   "administration": "oral",
-   "substance": "Tryptophan",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

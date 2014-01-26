@@ -5,13 +5,11 @@
  "substance": "Betel Nut",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 nuts",
-   "sublingual",
-   "Betel Nut",
-   "(seeds)"
-  ]
+  "DOSE:",
+  "1 nuts",
+  "sublingual",
+  "Betel Nut",
+  "(seeds)"
  ],
  "report": "<p>I've practically eaten Betel Nuts every day of my life. It is very popular in India (Where I'm from). I've eaten the normal kind and I've eaten the sweetened Betel Nut Shavings. It is slowly chewed and kept in the mouth. It really doesn't do any strong sort of stimulation at all!! I don't understand how some of these people got a *HIGH* off of it. It really stimulates you only if taken in very large potent doses. The stimulation is somewhat nauseating. I felt like laying down and sleeping.</p><p>Other than that, it really doesn't do much. It is gentle and short-lived. Betel Nuts grow on trees in a hard, rock-like form. They are like a dryfruit. Their natural color is light brown to dark brown. The sweetened kind are orange or auburn in color (They are not naturally sweet). Naturally, they are a bit bitter. They can mess up your throat if you eat loads of the sweetened kind. Betel Nuts can also be ROASTED just like almonds or other dryfruit. Also, they tend to form a clog in your esophagus, but it can be cleared up with water. Daily eating of Betel Nuts can be habit-forming, and can lead to mouth diseases, but they are acually less dangerous than alcohol or tobacco.</p>",
  "year": "2001",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2001-02-27T08:00:00.000Z",
  "views": "33028",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 nuts",
-   "administration": "sublingual",
-   "substance": "Betel Nut",
-   "form": "(seeds)"
-  }
- ]
+ "dose": {}
 }

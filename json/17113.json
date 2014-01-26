@@ -5,13 +5,11 @@
  "substance": "Calamus ",
  "bodyweight": "160 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Calamus",
-   "(leaves)"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Calamus",
+  "(leaves)"
  ],
  "report": "<p>I was walking through the fields one day in my search for plants containing Tropane alkaloids when I came across some A.calamus at the side of a stream. Since I didn't have anything to dig up the root I decided that if the alkaloid is in the root it must be in the leaves as well. So I chewed this up keeping the chewed mass between my lips and gums for maximum absorption. I could say that an hour later I felt a bit more energetic and maybe a bit light-headed. This lasted for only 1/2 hour. Twelve hours later I could feel the taste of the leaves in my stomach at an intensified effect at about 3:1.I am sure if I did something stupid and ate 5 or 6 grams at this point I would be puking my guts out.</p>",
  "year": "2002",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-03-12T07:00:00.000Z",
  "views": "7874",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Calamus",
-   "form": "(leaves)"
-  }
- ]
+ "dose": {}
 }

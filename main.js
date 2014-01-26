@@ -5,20 +5,21 @@ dive(__dirname + '/json', function (err, file) {
 	fs.readFile(file, function (err, contents) {
 		if (err) throw err;
 		var obj = JSON.parse(contents);
-		obj.dose = [];
+		
+		obj.dose = {};
 
-		if (typeof obj.header[0] !== 'undefined') {
-			for (var i = 0; i < obj.dose[0].length; i++) {
-				x = 4 * i;
-				obj.dose[0+i] = {
-					time: obj.header[0][0+x],
-					amount: obj.header[0][1+x],
-					administration: obj.header[0][2+x],
-					substance: obj.header[0][3+x],
-					form: obj.header[0][4+x] 
-				};
+		/*for (var i = 0; i < Math.floor(obj.header.length / 4); i++) {
+			round = i * 4;
+			obj.dose[i] = {
+				time: obj.header[0 + round],
+				amount: obj.header[1 + round],
+				administration: obj.header[2 + round],
+				substance: obj.header[3 + round],
+				form: obj.header[4 + round]
 			};
-		}
+		};
+*/
+		obj.header = obj.header[0]
 
 		fs.writeFile(file, JSON.stringify(obj, null, 1) + "\r\n", function(err) {
 			if (err) throw err;

@@ -5,12 +5,10 @@
  "substance": "Cannabis",
  "bodyweight": "165 lb",
  "header": [
-  [
-   "DOSE:",
-   "1 bowl",
-   "smoked",
-   "Cannabis"
-  ]
+  "DOSE:",
+  "1 bowl",
+  "smoked",
+  "Cannabis"
  ],
  "report": "<p>Ok so this has happened to me 3 times now. My friends and I rip a bowl out of a really nice bong and we are just chilling, they are all high but I'm tripping like crazy. I start hallucinating the same thing, where everything I see is a flickering rough outline of its shape in all different colors with a black backdrop.</p><p>This is the third time this has happened and it really freaks me out. Every time I blink I hear the sound of an old television turning off. In the most recent one I thought that my lips were made of peanut butter and when I rubbed them I thought I was rolling the dough up into little balls. It sounds cool but its more scary. At first I thought it was laced, but none of my friends are hallucinating or anything.</p>",
  "year": "2010",
@@ -19,12 +17,5 @@
  "age": "15",
  "timestamp": "2011-07-15T07:00:00.000Z",
  "views": "2160",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1 bowl",
-   "administration": "smoked",
-   "substance": "Cannabis"
-  }
- ]
+ "dose": {}
 }

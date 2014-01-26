@@ -5,13 +5,11 @@
  "substance": "Calamus",
  "bodyweight": "",
  "header": [
-  [
-   "DOSE:",
-   "7 in",
-   "oral",
-   "Calamus",
-   "(roots)"
-  ]
+  "DOSE:",
+  "7 in",
+  "oral",
+  "Calamus",
+  "(roots)"
  ],
  "report": "<p>This is also known as Sweet Flag.  Native peoples of Southern Canada (I believe the Cree) used to chew it as for its tonic, stimulant, and alleged hallucinogenic properties.  It contains beta-asarone, which is related to the phenylethylamine family of hallucinogens.  The proper dosage is six to eight inches of the plant. </p><p>I bought an ounce of this stuff, and tried it out.  The first couple pieces, aside from the burning sensation in my mouth, tasted sort of neat.  The rest was *very* nasty (something that seems to be a prerequisite for any natural hallucinogen).  I managed to get it all down, and it stayed there for about half an hour, then came back up for about four hours.  No fun. </p><p>I did feel something, but it was more of a feverish state than anything else.  I have since tried grinding it up and making a tea, putting it in capsules, but with no real effects.  and nothing could get rid of the smell and taste, which reminded me of rotting pine needles.  Just the smell of it made me gag for months afterwards.  Not recomended, although if you could extract it somehow...</p>",
  "year": "1994",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2000-07-15T07:00:00.000Z",
  "views": "19290",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "7 in",
-   "administration": "oral",
-   "substance": "Calamus",
-   "form": "(roots)"
-  }
- ]
+ "dose": {}
 }

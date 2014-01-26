@@ -5,13 +5,11 @@
  "substance": "Kratom",
  "bodyweight": "125 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "oral",
-   "Kratom",
-   "(daily)"
-  ]
+  "DOSE:",
+  " repeated",
+  "oral",
+  "Kratom",
+  "(daily)"
  ],
  "report": "<p>I've used kratom tea since about spring of 2004 in an attempt to stop a drinking habit that had gotten out of hand. I found kratom to completely mute alcohol cravings -- something that had always beaten prior attempts to moderate or stop drinking. I have to give kratom total credit for my not drinking, or even really wanting to drink, since then.</p><p>However, on the down side, I broke the rules of kratom use and began to drink it every day. So, of course, I became addicted to kratom. I've decided to give it up entirely since I can't seem to moderate well. I'm now going through the withdrawal which so far has been only slightly miserable. At the end of week one I've had mild craving (though not for alcohol, just kratom), extreme fatigue, some depression. According to other reports I've seen, I can expect worse depression next week. But so far, my experience in quitting kratom has been easier than the others I've read about.</p><p>Anyhow, I would do it again -- use kratom to quit drinking. If I ever decide to use it again (assuming it remains legal), I will not let myself use it more than once a week at most.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-27T07:00:00.000Z",
  "views": "14378",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "oral",
-   "substance": "Kratom",
-   "form": "(daily)"
-  }
- ]
+ "dose": {}
 }

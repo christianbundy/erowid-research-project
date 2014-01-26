@@ -5,13 +5,11 @@
  "substance": "Amitriptyline (Elavil)",
  "bodyweight": "130 lb",
  "header": [
-  [
-   "DOSE:",
-   "150 mg",
-   "oral",
-   "Pharms - Amitriptyline",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "150 mg",
+  "oral",
+  "Pharms - Amitriptyline",
+  "(pill / tablet)"
  ],
  "report": "<p>This happened my first day of class my senior year. I was not a heavy drug user and pretty easily effected by anything I took. I was given 6 25mg pills of Elavil from a friend and thought I would experiment with them. I took all 6 about 15 minutes before I went to school and could not have been any stupider.</p><p>By the time I figured out which class I was supposed to go to first, (which was difficult considering the fog my mind was already in) it was clear to me that it was going to be a bad day. My eyelids were heavy and my hearing was not functioning correctly. I could hear my teacher and my friends but nothing made sense and I didn't have the ability to respond. Shortly before the first hour was over I was nodding off and the rest of the day was a giant blur. I am not sure how I made it from class to class because I did not know my schedule yet. I must have had a friend helping me but I'm not sure who.  The only thing I remember is waking up at every bell and falling back asleep in a new class room.</p><p>I have no idea what I did at lunch (or where I slept) and the only mildly interesting thing that happened was I saw the science lab skeleton walking in the hallway at one point. After the day was over I somehow survived the ride home with out interrogation from my parents and slept the rest of the night until the next morning. I still felt groggy but was able to function and nothing was ever said about my strange behavior on the first day of school.</p>",
  "year": "1997",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "14990",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "150 mg",
-   "administration": "oral",
-   "substance": "Pharms - Amitriptyline",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

@@ -5,12 +5,10 @@
  "substance": "Caffeine",
  "bodyweight": "112 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "IV",
-   "Caffeine"
-  ]
+  "DOSE:",
+  " ",
+  "IV",
+  "Caffeine"
  ],
  "report": "<p>2 days after having a baby, I continued to have what i refer to as the headache from hell.  My doc decided he was going to start a caffeine drip to try to knock the pain down. The nurse that start the drip said that caffine was harmless and they use it all the time for headaches.It was started at 250cc/hr. AFTER 10 minutes I felt a wheeze in my chest so I insisted she turn the rate down to 125cc/hr. Within 5 minutes I had her turn the drip completely off because I could not breath.</p><p>I knew I was in congestive heart failure because I happen to be a nurse. My oxygen saturation dropped to 72% and heart function fell somewhere around 40-45%. I can not prove that the caffine caused me to have heart failure, nor will anyone (doctors) say it did.  I will always believe that the caffeine played a part in my messed up heart. SO all you freaks be careful what your ingesting even something as harmless as caffine...it might screw your world up.</p>",
  "year": "1999",
@@ -19,12 +17,5 @@
  "age": "Not Given",
  "timestamp": "2001-04-11T07:00:00.000Z",
  "views": "21469",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "IV",
-   "substance": "Caffeine"
-  }
- ]
+ "dose": {}
 }

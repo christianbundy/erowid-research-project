@@ -5,23 +5,21 @@
  "substance": "Carisoprodol & Clonazepam",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   "1050 mg",
-   "oral",
-   "Pharms - Carisoprodol",
-   "(pill / tablet)",
-   "",
-   "1.0 mg",
-   "oral",
-   "Pharms - Clonazepam",
-   "(pill / tablet)",
-   "",
-   "2800 mg",
-   "oral",
-   "Pharms - Carisoprodol",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "1050 mg",
+  "oral",
+  "Pharms - Carisoprodol",
+  "(pill / tablet)",
+  "",
+  "1.0 mg",
+  "oral",
+  "Pharms - Clonazepam",
+  "(pill / tablet)",
+  "",
+  "2800 mg",
+  "oral",
+  "Pharms - Carisoprodol",
+  "(pill / tablet)"
  ],
  "report": "<p>Although Soma (Carisoprodal) is unscheduled, it can be a dangerous drug, especially when combined with alcohol. I was prescribed Soma for cramping of lower back muscles & insomnia at night.  One morning when I was alone in the house I took three 350 mg Somas & 1 mg of Klonopin (clonazepam) so I could get a nice, long restful sleep. Soon after I blacked out & somehow ended up taking 8 more 350 mg Soma tablets.  My brother came home around 5 hours later & found me in my underwear, passed out on the hard tile floor of the kitchen, flat on my back.  He thought I was dead but managed bring me to consciousness.  I was extremely incoherent, speaking gibberish, and passing in and out of consciousness. </p><p>Before my brother could pick me up to carry me to the hospital I had a seizure (I have never before had a seizure in my life).  In the emergency room at the hospital I had two more seizures & then they stuck a tube down my throat where charcoal was administered. Memory blackout lasted from 9 am the day of the overdose to the afternoon of the next day. The 1st thing I remember is waking up in intensive care with a large tube in my urethra. I was also sh*ting black charcoal for 3 days.  Finally, I was required to complete an intensive drug abuse/severe depression program at a mental hospital which lasted 8 hours a day for 4 weeks (a real drag) because they thought I had tried to commit suicide even though I was really just trying to get a nice restful sleep & blacked out.  Luckily I didn't combine the Soma with alcohol because that most likely would have resulted in respiratory depression & death.</p>",
  "year": "2001",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2002-10-07T07:00:00.000Z",
  "views": "38308",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "1050 mg",
-   "administration": "oral",
-   "substance": "Pharms - Carisoprodol",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

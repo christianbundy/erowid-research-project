@@ -5,13 +5,11 @@
  "substance": "Alcohol",
  "bodyweight": "145 lb",
  "header": [
-  [
-   "DOSE:",
-   " ",
-   "oral",
-   "Alcohol - Hard",
-   "(liquid)"
-  ]
+  "DOSE:",
+  " ",
+  "oral",
+  "Alcohol - Hard",
+  "(liquid)"
  ],
  "report": "<p>I've been an alcoholic for about 6 months or so and it just seems like no matter how much I try to pull away from the stuff it just reels me back in. It's just recently gotten worse. I started off the night with a 14 oz glass of straight alcohol (gin, tequila,  and vodka mixed). I know, it sounds nasty, but I loved the feeling of it all going down my throat. And it makes you drunk faster -- that's what I was aiming for.</p><p>I finished the glass rather quickly, like it was orange juice, or so. I was pretty tipsy at that point. I was on the computer, surfing the web, chatting online. I could still function yet I found that I would misspell alot of words, or I'd mix them up. It got worse as the booze soaked in. I was feeling great, and light, like a feather - haha. And all the things on my mind before didn't seem to matter, which was the reason I poured myself such a large glass.</p><p>I then went back for more. I was chugging out of each bottle of hard liquor. I just kept on drinking, and taking more and more. I don't remember much past that. I blacked out for sure, for I woke up in my bed upstairs when the last thing I remember was being in the kitchen downstairs.</p><p>I woke up surrounded in my own urine (gross, I know). I felt discusting and almost as if I were still a bit drunk. Needless to say, the hangover was HORRIBLE. It was my stomach that was aching. I was very, very miserable.</p>",
  "year": "2007",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2008-04-28T07:00:00.000Z",
  "views": "3656",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " ",
-   "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "(liquid)"
-  }
- ]
+ "dose": {}
 }

@@ -5,13 +5,11 @@
  "substance": "Methylphenidate (Ritalin)",
  "bodyweight": "180 lb",
  "header": [
-  [
-   "DOSE:",
-   " repeated",
-   "insufflated",
-   "Pharms - Methylphenidate",
-   "(ground / crushed)"
-  ]
+  "DOSE:",
+  " repeated",
+  "insufflated",
+  "Pharms - Methylphenidate",
+  "(ground / crushed)"
  ],
  "report": "<p>From april 04 through january 05, I experienced a heavy period of alcoholism which climaxed with large scale abuse of pure everclear which left me unable to stop for more than a day or two without being hostile, flustered, incredibly shaky and feeling like my head was crushed with a sledgehammer. These effects would continue for approximately two weeks after they began before beginning to subside. Some say that the anti-anxiety med (effexor) I am rx'ed made it worse, and I wouldn't be surprised if it did.</p><p>Anyway, a friend of mine was horrified by the effects of ritalin psychosis, so he gave me his ritalin. I crushed them up and blew some in hope that it would offer some escape from the withdrawal. Upon insufflation, many of the psychological effects that plagued me were greatly dulled to a functionable level. I was safe to drive again, I could think, I wasn't hostile, the headache felt more like a normal hammer than a sledgehammer. I was a human being again, no longer an animal fed by alcohol's hand.</p><p>I kept at medicinal doses until the alcohol's effects had subsided enough that I could deal with them, and when this time came, I quit the ritalin without a hint of trouble and lived life again. I hope that anyone else who reaches the state I did can benefit from this and recover without relapse.</p>",
  "year": "2005",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-10-03T07:00:00.000Z",
  "views": "10651",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": " repeated",
-   "administration": "insufflated",
-   "substance": "Pharms - Methylphenidate",
-   "form": "(ground / crushed)"
-  }
- ]
+ "dose": {}
 }

@@ -5,23 +5,21 @@
  "substance": "Cyclobenzaprine (Flexeril)",
  "bodyweight": "250 lb",
  "header": [
-  [
-   "DOSE: T+ 0:00",
-   "20 mg",
-   "oral",
-   "Pharms - Cyclobenzaprine",
-   "(pill / tablet)",
-   " T+ 0:45",
-   "20 mg",
-   "oral",
-   "Pharms - Cyclobenzaprine",
-   "(pill / tablet)",
-   " T+ 3:45",
-   "20 mg",
-   "oral",
-   "Pharms - Cyclobenzaprine",
-   "(pill / tablet)"
-  ]
+  "DOSE: T+ 0:00",
+  "20 mg",
+  "oral",
+  "Pharms - Cyclobenzaprine",
+  "(pill / tablet)",
+  " T+ 0:45",
+  "20 mg",
+  "oral",
+  "Pharms - Cyclobenzaprine",
+  "(pill / tablet)",
+  " T+ 3:45",
+  "20 mg",
+  "oral",
+  "Pharms - Cyclobenzaprine",
+  "(pill / tablet)"
  ],
  "report": "<p>Every year my school band does a field trip to a local waterpark. This year I had obtained 70 mg of flexeril the day before going an the anual trip and decide I should take a few.</p><p>8:30a I ate 2 10mg flexerils before boarding the bus</p><p>9:15a I began to feel relaxed both phisically and mentaly and decided to have another 2 pills and ate those on the bus</p><p>10:30a I felt extremely relaxed mentally and was having some difficulty walking on the wet floor and decided to get off my feet so I laid down on a few rafts in the lazy river and Started to float around</p><p>12:15p I went and got lunch from the restaurant and ate another 2 flexerils and smoked a couple of ciggaretes</p><p>1:00p I was feeling extremely relaxed and at ease with my suroundings but walking was almost impossible. allthough I knew I was intoxicated I didnt really feel intoxicated in my mind.(a few weeks after this I saw some of the pictures of me taken at around this time showing me laying on about 6 rafts and completely oblivious to my surroundings)</p><p>4:00p I was still extremely relaxed when we left the park and started heading back to the school. I slept most of the return trip.</p><p>6:00p after the bus driver took the longest route possible we finally arived back at the schooland I then started for home. during my drive I had to pull off the road a few times to prevent an accident</p><p>9:00p I finally passed out and slept for 15 hours straight</p>",
  "year": "2004",
@@ -30,13 +28,5 @@
  "age": "Not Given",
  "timestamp": "2006-04-21T07:00:00.000Z",
  "views": "92103",
- "dose": [
-  {
-   "time": "DOSE: T+ 0:00",
-   "amount": "20 mg",
-   "administration": "oral",
-   "substance": "Pharms - Cyclobenzaprine",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }

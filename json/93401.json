@@ -5,13 +5,11 @@
  "substance": "MDMA ('Molly')",
  "bodyweight": "125 lb",
  "header": [
-  [
-   "DOSE:",
-   "400 mg",
-   "oral",
-   "MDMA",
-   "(powder / crystals)"
-  ]
+  "DOSE:",
+  "400 mg",
+  "oral",
+  "MDMA",
+  "(powder / crystals)"
  ],
  "report": "<p>I took molly 2 nights ago and went to a concert. For the past 2 days my body has been extremely sore and stiff. My hips pop every time I stand up, my knees crack when I go up the stairs, my neck is very sore and my throat hurts and all the muscles in my back are tender. Every thing hurts and it isn't getting better. I'm also feeling slight depression and absolutely no motivation to study. Or get out of bed really.</p>",
  "year": "2011",
@@ -20,13 +18,5 @@
  "age": "18",
  "timestamp": "2011-11-04T07:00:00.000Z",
  "views": "3729",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "400 mg",
-   "administration": "oral",
-   "substance": "MDMA",
-   "form": "(powder / crystals)"
-  }
- ]
+ "dose": {}
 }

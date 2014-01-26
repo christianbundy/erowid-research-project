@@ -5,13 +5,11 @@
  "substance": "Melatonin",
  "bodyweight": "155 lb",
  "header": [
-  [
-   "DOSE:",
-   "2.0 mg",
-   "oral",
-   "Melatonin",
-   "(pill / tablet)"
-  ]
+  "DOSE:",
+  "2.0 mg",
+  "oral",
+  "Melatonin",
+  "(pill / tablet)"
  ],
  "report": "<p>I regularly work night shifts in broadcast media. Shifts can be up to 12 hours long, and last until 9 a.m., compounding this is the fact that the most intense part of work, the on-air time, comes at the end of the shift.  Not only is sleep disrupted, but it is often very difficult to get to sleep after the adrenalin-packed final hours of work. Sleep (lack of and how to obtain more) is an endless source of conversation in the office.</p><p>During a particularly trying stretch this summer I went to my doctor, who didn't do much - I brought up melatonin but was told it was not available on prescription in the country where I live.</p><p>To the internet then, and 2mg doses about 1 hour before artificial bedtime.  The results were immediate and impressive - longer and better-quality sleep, and a more refreshed feeling the following day.  On the last shift of a stretch I tend to eschew the drug, as it helps to adjust as quickly as possible to natural light (ie be tired the next day and go to bed early the next night).  The hormone seems to be both effective and lacking in side effects.</p>",
  "year": "2006",
@@ -20,13 +18,5 @@
  "age": "Not Given",
  "timestamp": "2007-06-21T07:00:00.000Z",
  "views": "13357",
- "dose": [
-  {
-   "time": "DOSE:",
-   "amount": "2.0 mg",
-   "administration": "oral",
-   "substance": "Melatonin",
-   "form": "(pill / tablet)"
-  }
- ]
+ "dose": {}
 }
