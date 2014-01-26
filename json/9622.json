@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "900"
+    "quantity": "900",
+    "grams": 0.9
    },
    "administration": "oral",
    "substance": "Adrafinil",

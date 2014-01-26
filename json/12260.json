@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "160"
+    "quantity": "160",
+    "grams": 0.16
    },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
@@ -25,7 +26,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "580"
+    "quantity": "580",
+    "grams": 0.58
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -35,7 +37,8 @@
    "time": "1:25",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",

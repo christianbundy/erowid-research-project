@@ -27,7 +27,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Phenazepam"

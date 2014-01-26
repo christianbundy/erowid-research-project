@@ -35,7 +35,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Meclizine",
@@ -45,7 +46,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -55,7 +57,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "37.5"
+    "quantity": "37.5",
+    "grams": 0.0375
    },
    "administration": "oral",
    "substance": "Ephedrine",

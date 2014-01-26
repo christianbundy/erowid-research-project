@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -25,7 +26,8 @@
    "time": "8:50",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -35,7 +37,8 @@
    "time": "10:09",
    "amount": {
     "unit": "mg",
-    "quantity": "27.5"
+    "quantity": "27.5",
+    "grams": 0.0275
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -45,7 +48,8 @@
    "time": "11:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -55,7 +59,8 @@
    "time": "11:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Modafinil",
@@ -65,7 +70,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "oral",
    "substance": "Paroxetine",

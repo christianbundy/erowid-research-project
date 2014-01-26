@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Ibogaine"
@@ -24,7 +25,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "270"
+    "quantity": "270",
+    "grams": 0.27
    },
    "administration": "oral",
    "substance": "Ibogaine"

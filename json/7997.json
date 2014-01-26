@@ -40,7 +40,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -49,7 +50,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Acetaminophen"
@@ -77,7 +79,8 @@
    "time": "10:30",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "oral",
    "substance": "Codeine"
@@ -86,7 +89,8 @@
    "time": "10:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Acetaminophen"
@@ -95,7 +99,8 @@
    "time": "11:30",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Ibuprofen"
@@ -108,7 +113,8 @@
    "time": "16:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Melatonin"

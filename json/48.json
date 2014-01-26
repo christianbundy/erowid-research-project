@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"
@@ -24,7 +25,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"

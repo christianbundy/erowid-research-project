@@ -47,7 +47,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "IV",
    "substance": "5-MeO-DMT"
@@ -63,7 +64,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "IM",
    "substance": "DPT"
@@ -72,7 +74,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "IV",
    "substance": "5-MeO-DMT"
@@ -81,7 +84,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "IV",
    "substance": "5-MeO-DMT"

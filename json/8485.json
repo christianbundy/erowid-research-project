@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "4.0"
+    "quantity": "4.0",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "Hydromorphone",
@@ -35,7 +37,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Oxycodone",

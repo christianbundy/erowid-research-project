@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "IV",
    "substance": "MDA"

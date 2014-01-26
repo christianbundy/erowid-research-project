@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -35,7 +36,8 @@
    "time": "8:00",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -55,7 +57,8 @@
    "time": "13:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",

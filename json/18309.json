@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -35,7 +37,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -63,7 +66,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -73,7 +77,8 @@
    "time": "4:15",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -90,7 +95,8 @@
    "time": "4:45",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

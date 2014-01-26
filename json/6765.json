@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1700"
+    "quantity": "1700",
+    "grams": 1.7
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -40,7 +41,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Cacti",

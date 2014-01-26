@@ -32,7 +32,8 @@
    "time": "8:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Melatonin"

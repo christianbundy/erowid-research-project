@@ -128,7 +128,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "sublingual",
    "substance": "Anadenanthera spp.",
@@ -160,7 +161,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "sublingual",
    "substance": "Anadenanthera spp.",

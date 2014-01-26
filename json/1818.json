@@ -20,7 +20,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -29,7 +30,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "700"
+    "quantity": "700",
+    "grams": 0.7
    },
    "administration": "oral",
    "substance": "DXM"

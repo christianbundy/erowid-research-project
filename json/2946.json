@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4.0"
+    "quantity": "4.0",
+    "grams": 0.004
    },
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
@@ -45,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "insufflated",
    "substance": "MDMA",

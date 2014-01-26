@@ -15,7 +15,8 @@
    "time": "DOSE:0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "AMT",

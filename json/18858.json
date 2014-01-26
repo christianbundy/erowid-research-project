@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Amphetamines"
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Nortriptyline"

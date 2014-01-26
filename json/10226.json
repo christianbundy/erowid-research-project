@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -32,7 +33,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "4-HO-MiPT",
@@ -42,7 +44,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -52,7 +55,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "4-HO-MiPT",

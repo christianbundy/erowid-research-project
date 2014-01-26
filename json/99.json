@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "MDA",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "MDAI",
@@ -35,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "MDA",
@@ -45,7 +48,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "MDAI",
@@ -55,7 +59,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "MDA",
@@ -65,7 +70,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "MDAI",
@@ -75,7 +81,8 @@
    "time": "9:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Etizolam",

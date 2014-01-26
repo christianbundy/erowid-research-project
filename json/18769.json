@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "sublingual",
    "substance": "Methoxetamine ",
@@ -25,7 +26,8 @@
    "time": "1:10",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "sublingual",
    "substance": "Methoxetamine ",

@@ -21,7 +21,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "smoked",
    "substance": "Codeine",
@@ -31,7 +32,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "Codeine",

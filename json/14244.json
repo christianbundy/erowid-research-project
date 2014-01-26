@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -29,7 +30,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -38,7 +40,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "

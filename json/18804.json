@@ -46,7 +46,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "oral",
    "substance": "Buprenorphine"
@@ -55,7 +56,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Phenazepam"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "IV",
    "substance": "Methylone",
@@ -25,7 +26,8 @@
    "time": "0:25",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "IV",
    "substance": "Methylone",
@@ -35,7 +37,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "IV",
    "substance": "Methylone",
@@ -45,7 +48,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IV",
    "substance": "Methylone",

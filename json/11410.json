@@ -35,7 +35,8 @@
    "time": "14:00",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -77,7 +78,8 @@
    "time": "34:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Codeine"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "5-MeO-DALT",
@@ -25,7 +26,8 @@
    "time": "2:10",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "smoked",
    "substance": "5-MeO-DALT",

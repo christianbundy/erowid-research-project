@@ -21,7 +21,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
@@ -31,7 +32,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Sceletium tortuosum",

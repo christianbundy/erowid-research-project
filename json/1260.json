@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "AMT",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "AMT",
@@ -35,7 +37,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "AMT",
@@ -45,7 +48,8 @@
    "time": "2:10",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "AMT",

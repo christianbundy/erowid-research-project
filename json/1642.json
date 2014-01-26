@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "AMT",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "AMT",
@@ -45,7 +47,8 @@
    "time": "3:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Amitriptyline",

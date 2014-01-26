@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "24"
+    "quantity": "24",
+    "grams": 0.024
    },
    "administration": "oral",
    "substance": "Buprenorphine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Naloxone",

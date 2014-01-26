@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Citalopram",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -35,7 +37,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "750"
+    "quantity": "750",
+    "grams": 0.75
    },
    "administration": "oral",
    "substance": "Kava",
@@ -45,7 +48,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "smoked",
    "substance": "Cannabis",

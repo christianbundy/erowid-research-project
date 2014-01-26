@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2400"
+    "quantity": "2400",
+    "grams": 2.4
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -33,7 +35,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "oral",
    "substance": "MDMA"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -26,7 +27,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -37,7 +39,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -48,7 +51,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -59,7 +63,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -70,7 +75,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -81,7 +87,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -92,7 +99,8 @@
    "time": "3:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -103,7 +111,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -114,7 +123,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -125,7 +135,8 @@
    "time": "8:35",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "administration": "oral",
    "substance": "MDA"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "750"
+    "quantity": "750",
+    "grams": 0.75
    },
    "administration": "smoked",
    "substance": "Wormwood",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

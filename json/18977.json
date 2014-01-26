@@ -25,7 +25,8 @@
    "time": "1:18",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -35,7 +36,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Diazepam",

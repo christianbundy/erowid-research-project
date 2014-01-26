@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "IM",
    "substance": "2C-C",
@@ -43,7 +44,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "IM",
    "substance": "2C-C",
@@ -53,7 +55,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "IM",
    "substance": "2C-C",
@@ -63,7 +66,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "IM",
    "substance": "2C-C",

@@ -13,7 +13,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "95"
+    "quantity": "95",
+    "grams": 0.095
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -23,7 +24,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "9.0"
+    "quantity": "9.0",
+    "grams": 0.009
    },
    "administration": "oral",
    "substance": "Melatonin",

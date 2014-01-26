@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "smoked",
    "substance": "DMT"
@@ -24,7 +25,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "smoked",
    "substance": "DMT"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -31,7 +32,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -40,7 +42,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam"

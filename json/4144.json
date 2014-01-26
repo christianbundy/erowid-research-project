@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Vitamin B-6",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Melatonin",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "oral",
    "substance": "Olanzapine",

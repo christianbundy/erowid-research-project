@@ -37,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Lamotrigine ",
@@ -47,7 +48,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "oral",
    "substance": "Lithium",

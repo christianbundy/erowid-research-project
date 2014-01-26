@@ -26,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -36,7 +37,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -46,7 +48,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1200"
+    "quantity": "1200",
+    "grams": 1.2
    },
    "administration": "oral",
    "substance": "Modafinil",

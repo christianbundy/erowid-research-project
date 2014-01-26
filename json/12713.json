@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "insufflated",
    "substance": "bk-MBDB",
@@ -25,7 +26,8 @@
    "time": "0:05",
    "amount": {
     "unit": "mg",
-    "quantity": "175"
+    "quantity": "175",
+    "grams": 0.175
    },
    "administration": "oral",
    "substance": "bk-MBDB",

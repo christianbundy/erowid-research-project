@@ -26,7 +26,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "110"
+    "quantity": "110",
+    "grams": 0.11
    },
    "administration": "oral",
    "substance": "DPT",

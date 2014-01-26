@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Pharmaceuticals",

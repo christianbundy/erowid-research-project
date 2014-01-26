@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -35,7 +37,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "insufflated",
    "substance": "Bupropion",

@@ -26,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "22"
+    "quantity": "22",
+    "grams": 0.022
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -41,7 +42,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -51,7 +53,8 @@
    "time": "3:15",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "oral",
    "substance": "2C-B",
@@ -61,7 +64,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam"

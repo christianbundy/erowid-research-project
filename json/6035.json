@@ -21,7 +21,8 @@
    "time": "9:30",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "oral",
    "substance": "2C-E",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "IV",
    "substance": "Midazolam",
@@ -41,7 +42,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "IV",
    "substance": "Morphine",
@@ -51,7 +53,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Oxycodone",

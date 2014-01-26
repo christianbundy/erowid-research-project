@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "95"
+    "quantity": "95",
+    "grams": 0.095
    },
    "administration": "oral",
    "substance": "Mescaline",
@@ -25,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "130"
+    "quantity": "130",
+    "grams": 0.13
    },
    "administration": "oral",
    "substance": "Mescaline",
@@ -35,7 +37,8 @@
    "time": "1:10",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "administration": "oral",
    "substance": "Mescaline",

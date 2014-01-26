@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "650"
+    "quantity": "650",
+    "grams": 0.65
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -45,7 +48,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -55,7 +59,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -65,7 +70,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -75,7 +81,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -85,7 +92,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "162.5"
+    "quantity": "162.5",
+    "grams": 0.1625
    },
    "administration": "oral",
    "substance": "Acetaminophen",

@@ -25,7 +25,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "substance": "4-Fluoroamphetamine"
   },
@@ -33,7 +34,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "substance": "4-Fluoroamphetamine"
   },
@@ -41,7 +43,8 @@
    "time": "3:30",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "substance": "4-Fluoroamphetamine"
   },
@@ -49,7 +52,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "substance": "4-Fluoroamphetamine"
   },

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -35,7 +37,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -45,7 +48,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -55,7 +59,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -65,7 +70,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -75,7 +81,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -85,7 +92,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "70"
+    "quantity": "70",
+    "grams": 0.07
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -95,7 +103,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "Clonazepam",

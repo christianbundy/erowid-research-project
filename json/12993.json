@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "Morphine",
@@ -25,7 +26,8 @@
    "time": "1:20",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -35,7 +37,8 @@
    "time": "1:55",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "insufflated",
    "substance": "Hydromorphone",
@@ -51,7 +54,8 @@
    "time": "7:03",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "insufflated",
    "substance": "Hydromorphone",

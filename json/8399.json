@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "DOC",
@@ -32,7 +33,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "DOC",
@@ -53,7 +55,8 @@
    "time": "17:50",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "DOC",
@@ -63,7 +66,8 @@
    "time": "27:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "DOC",
@@ -89,7 +93,8 @@
    "time": "32:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "administration": "oral",
    "substance": "DOC",

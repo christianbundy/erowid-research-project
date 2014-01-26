@@ -23,7 +23,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -33,7 +34,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -43,7 +45,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -53,7 +56,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
@@ -63,7 +67,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",

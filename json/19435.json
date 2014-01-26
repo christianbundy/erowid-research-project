@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -25,7 +26,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "465"
+    "quantity": "465",
+    "grams": 0.465
    },
    "administration": "oral",
    "substance": "Catuaba",
@@ -40,7 +42,8 @@
    "time": "7:30",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Sildenafil",

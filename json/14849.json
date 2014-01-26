@@ -21,7 +21,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -31,7 +32,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Codeine",

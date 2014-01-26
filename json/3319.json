@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Mirtazapine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Trazodone",

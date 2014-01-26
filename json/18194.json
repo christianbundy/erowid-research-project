@@ -45,7 +45,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "135"
+    "quantity": "135",
+    "grams": 0.135
    },
    "administration": "oral",
    "substance": "Methylone"

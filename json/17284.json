@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -45,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -55,7 +59,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -81,7 +86,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -91,7 +97,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -101,7 +108,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -111,7 +119,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1050"
+    "quantity": "1050",
+    "grams": 1.05
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -121,7 +130,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -131,7 +141,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

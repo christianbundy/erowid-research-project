@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "rectal",
    "substance": "2C-T-21",
@@ -32,7 +33,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "rectal",
    "substance": "2C-T-21",
@@ -42,7 +44,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "22"
+    "quantity": "22",
+    "grams": 0.022
    },
    "administration": "rectal",
    "substance": "2C-C",

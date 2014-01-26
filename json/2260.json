@@ -13,7 +13,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "insufflated",
    "substance": "AMT",
@@ -23,7 +24,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "insufflated",
    "substance": "AMT",

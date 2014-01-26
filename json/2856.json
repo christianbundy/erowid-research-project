@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -36,7 +37,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

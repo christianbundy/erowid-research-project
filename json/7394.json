@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -35,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1600"
+    "quantity": "1600",
+    "grams": 1.6
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -55,7 +57,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Caffeine",

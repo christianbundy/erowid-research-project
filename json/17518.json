@@ -102,7 +102,8 @@
    "time": "5:30",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "substance": "2C-I"
   }

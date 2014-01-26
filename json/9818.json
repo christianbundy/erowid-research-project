@@ -26,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "13"
+    "quantity": "13",
+    "grams": 0.013
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -36,7 +37,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
@@ -50,7 +52,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Diphenhydramine"

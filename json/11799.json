@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Metaxalone",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Metaxalone",
@@ -35,7 +37,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "800"
+    "quantity": "800",
+    "grams": 0.8
    },
    "administration": "oral",
    "substance": "Metaxalone",
@@ -45,7 +48,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "2400"
+    "quantity": "2400",
+    "grams": 2.4
    },
    "administration": "oral",
    "substance": "Metaxalone",

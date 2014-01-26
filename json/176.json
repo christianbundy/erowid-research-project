@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.4"
+    "quantity": "5.4",
+    "grams": 0.0054
    },
    "administration": "oral",
    "substance": "TCB-2",
@@ -25,7 +26,8 @@
    "time": "15:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Acetaminophen"
@@ -34,7 +36,8 @@
    "time": "15:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Caffeine"
@@ -43,7 +46,8 @@
    "time": "15:00",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "oral",
    "substance": "Codeine"

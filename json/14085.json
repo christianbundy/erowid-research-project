@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "bk-MBDP",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "bk-MBDP",
@@ -35,7 +37,8 @@
    "time": "1:45",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "bk-MBDP",
@@ -45,7 +48,8 @@
    "time": "3:15",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "bk-MBDP",
@@ -55,7 +59,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "bk-MBDP",

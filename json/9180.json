@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "160"
+    "quantity": "160",
+    "grams": 0.16
    },
    "administration": "oral",
    "substance": "bk-MDEA"
@@ -50,7 +51,8 @@
    "time": "8:15",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam"

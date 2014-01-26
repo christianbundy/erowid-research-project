@@ -56,7 +56,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Paroxetine"

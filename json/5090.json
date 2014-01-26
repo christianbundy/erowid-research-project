@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Paroxetine",
@@ -30,7 +31,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "insufflated",
    "substance": "2C-T-2"
@@ -39,7 +41,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam"

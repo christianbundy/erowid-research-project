@@ -26,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "insufflated",
    "substance": "Hydromorphone",
@@ -36,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -77,7 +79,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -93,7 +96,8 @@
    "time": "5:30",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -134,7 +138,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -144,7 +149,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Meperidine",

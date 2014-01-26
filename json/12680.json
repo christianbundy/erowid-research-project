@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -45,7 +46,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -61,7 +63,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -71,7 +74,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "insufflated",
    "substance": "MDPV",

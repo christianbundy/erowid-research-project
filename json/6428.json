@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "140"
+    "quantity": "140",
+    "grams": 0.14
    },
    "administration": "oral",
    "substance": "MDA",
@@ -25,7 +26,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "160"
+    "quantity": "160",
+    "grams": 0.16
    },
    "administration": "IM",
    "substance": "Ketamine",

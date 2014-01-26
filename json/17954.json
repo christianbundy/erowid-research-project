@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2400"
+    "quantity": "2400",
+    "grams": 2.4
    },
    "administration": "oral",
    "substance": "Valerian",

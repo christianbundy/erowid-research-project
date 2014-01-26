@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -25,7 +26,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "IV",
    "substance": "Ethylphenidate",

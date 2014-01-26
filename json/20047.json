@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -35,7 +37,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -45,7 +48,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "130"
+    "quantity": "130",
+    "grams": 0.13
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "substance": "Methylone",
    "form": "powder/crystals"
@@ -34,7 +36,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "substance": "Methylone",
    "form": "powder/crystals"

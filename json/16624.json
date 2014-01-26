@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Oxycodone",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "325"
+    "quantity": "325",
+    "grams": 0.325
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -77,7 +79,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Oxycodone",

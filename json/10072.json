@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1440"
+    "quantity": "1440",
+    "grams": 1.44
    },
    "administration": "oral",
    "substance": "Kava",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1440"
+    "quantity": "1440",
+    "grams": 1.44
    },
    "administration": "oral",
    "substance": "Valerian",

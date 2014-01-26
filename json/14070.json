@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "sublingual",
    "substance": "3-MeO-PCP",
@@ -25,7 +26,8 @@
    "time": "5:20",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "sublingual",
    "substance": "3-MeO-PCP",
@@ -35,7 +37,8 @@
    "time": "6:35",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "sublingual",
    "substance": "3-MeO-PCP",

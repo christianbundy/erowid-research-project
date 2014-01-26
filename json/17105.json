@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "900"
+    "quantity": "900",
+    "grams": 0.9
    },
    "administration": "oral",
    "substance": "Phenytoin"
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3000"
+    "quantity": "3000",
+    "grams": 3
    },
    "administration": "oral",
    "substance": "Phenytoin"

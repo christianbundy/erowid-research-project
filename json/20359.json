@@ -20,7 +20,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "13.5"
+    "quantity": "13.5",
+    "grams": 0.0135
    },
    "administration": "oral",
    "substance": "2C-B",
@@ -30,7 +31,8 @@
    "time": "1:05",
    "amount": {
     "unit": "mg",
-    "quantity": "13.5"
+    "quantity": "13.5",
+    "grams": 0.0135
    },
    "administration": "oral",
    "substance": "2C-B",

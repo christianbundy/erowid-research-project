@@ -15,7 +15,8 @@
    "time": "DOSE:2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "BDB "
@@ -24,7 +25,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "BDB "

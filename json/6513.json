@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Methcathinone",
@@ -25,7 +26,8 @@
    "time": "0:05",
    "amount": {
     "unit": "mg",
-    "quantity": "0.075"
+    "quantity": "0.075",
+    "grams": 0.000075
    },
    "administration": "oral",
    "substance": "Clonidine",

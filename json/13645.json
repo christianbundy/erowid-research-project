@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "6-APB",
@@ -25,7 +26,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "rectal",
    "substance": "6-APB"

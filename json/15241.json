@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -35,7 +37,8 @@
    "time": "16:15",
    "amount": {
     "unit": "mg",
-    "quantity": "650"
+    "quantity": "650",
+    "grams": 0.65
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -45,7 +48,8 @@
    "time": "18:38",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -55,7 +59,8 @@
    "time": "19:41",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -65,7 +70,8 @@
    "time": "36:18",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

@@ -35,7 +35,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -45,7 +46,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Diazepam",

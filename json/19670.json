@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "17"
+    "quantity": "17",
+    "grams": 0.017
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -25,7 +26,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "333"
+    "quantity": "333",
+    "grams": 0.333
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -35,7 +37,8 @@
    "time": "2:25",
    "amount": {
     "unit": "mg",
-    "quantity": "333"
+    "quantity": "333",
+    "grams": 0.333
    },
    "administration": "smoked",
    "substance": "Cannabis",

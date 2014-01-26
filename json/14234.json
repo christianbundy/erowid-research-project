@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -53,7 +54,8 @@
    "time": "4:15",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam"

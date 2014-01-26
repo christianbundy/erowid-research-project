@@ -37,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "smoked",
    "substance": "DMT"

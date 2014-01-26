@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -24,7 +25,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -34,7 +36,8 @@
    "time": "1:18",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -44,7 +47,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -54,7 +58,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Diazepam",
@@ -64,7 +69,8 @@
    "time": "4:45",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",

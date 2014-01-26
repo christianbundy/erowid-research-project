@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1600"
+    "quantity": "1600",
+    "grams": 1.6
    },
    "administration": "oral",
    "substance": "Caffeine",

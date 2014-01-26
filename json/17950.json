@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1600"
+    "quantity": "1600",
+    "grams": 1.6
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -35,7 +36,8 @@
    "time": "1:20",
    "amount": {
     "unit": "mg",
-    "quantity": "800"
+    "quantity": "800",
+    "grams": 0.8
    },
    "administration": "oral",
    "substance": "Valerian",

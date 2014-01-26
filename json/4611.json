@@ -35,7 +35,8 @@
    "time": "6:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -45,7 +46,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Lorazepam",

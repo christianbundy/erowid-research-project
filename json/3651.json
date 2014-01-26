@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "administration": "insufflated",
    "substance": "DPT"
@@ -24,7 +25,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "insufflated",
    "substance": "DPT"

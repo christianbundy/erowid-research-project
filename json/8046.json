@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "DOC"
@@ -47,7 +48,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Oxycodone"

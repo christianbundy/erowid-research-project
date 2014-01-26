@@ -21,7 +21,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Methadone",
@@ -31,7 +32,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "36"
+    "quantity": "36",
+    "grams": 0.036
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -41,7 +43,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Paroxetine",
@@ -51,7 +54,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -61,7 +65,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Risperidone",

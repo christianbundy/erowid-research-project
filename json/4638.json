@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.25"
+    "quantity": "0.25",
+    "grams": 0.00025
    },
    "administration": "IV",
    "substance": "Triazolam",

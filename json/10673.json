@@ -25,7 +25,8 @@
    "time": "1:40",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -35,7 +36,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "DXM"
@@ -24,7 +25,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "14"
+    "quantity": "14",
+    "grams": 0.014
    },
    "administration": "IV",
    "substance": "2C-I"

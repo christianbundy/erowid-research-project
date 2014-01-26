@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -26,7 +27,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -37,7 +39,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -48,7 +51,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "0.25"
+    "quantity": "0.25",
+    "grams": 0.00025
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -64,7 +68,8 @@
    "time": "5:20",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",

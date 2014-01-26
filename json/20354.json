@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "70"
+    "quantity": "70",
+    "grams": 0.07
    },
    "administration": "oral",
    "substance": "6-APB",
@@ -35,7 +36,8 @@
    "time": "6:45",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "2C-D",

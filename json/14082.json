@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "96"
+    "quantity": "96",
+    "grams": 0.096
    },
    "administration": "oral",
    "substance": "Codeine"

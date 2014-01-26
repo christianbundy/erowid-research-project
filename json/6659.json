@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "800"
+    "quantity": "800",
+    "grams": 0.8
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -35,7 +37,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -45,7 +48,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -55,7 +59,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "800"
+    "quantity": "800",
+    "grams": 0.8
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -65,7 +70,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Vitamin C",
@@ -75,7 +81,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -85,7 +92,8 @@
    "time": "9:30",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

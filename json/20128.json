@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "900"
+    "quantity": "900",
+    "grams": 0.9
    },
    "administration": "oral",
    "substance": "Kava",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Theanine"
@@ -34,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -44,7 +47,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Tryptophan"
@@ -53,7 +57,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Phosphatidylserine"
@@ -62,7 +67,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Ginseng"
@@ -71,7 +77,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2000"
+    "quantity": "2000",
+    "grams": 2
    },
    "administration": "oral",
    "substance": "Tea",
@@ -81,7 +88,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Ginkgo biloba"
@@ -90,7 +98,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "St. John's Wort"

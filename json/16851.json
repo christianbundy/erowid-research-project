@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "700"
+    "quantity": "700",
+    "grams": 0.7
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "350"
+    "quantity": "350",
+    "grams": 0.35
    },
    "administration": "insufflated",
    "substance": "Carisoprodol",
@@ -35,7 +37,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "175"
+    "quantity": "175",
+    "grams": 0.175
    },
    "administration": "oral",
    "substance": "Carisoprodol",

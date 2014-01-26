@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "235"
+    "quantity": "235",
+    "grams": 0.235
    },
    "administration": "oral",
    "substance": "DXM",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "235"
+    "quantity": "235",
+    "grams": 0.235
    },
    "administration": "oral",
    "substance": "DXM",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1600"
+    "quantity": "1600",
+    "grams": 1.6
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Vitamins",
@@ -43,7 +45,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4.5"
+    "quantity": "4.5",
+    "grams": 0.0045
    },
    "administration": "oral",
    "substance": "Hydergine",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.5"
+    "quantity": "3.5",
+    "grams": 0.0035
    },
    "administration": "smoked",
    "substance": "DOB",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.5"
+    "quantity": "3.5",
+    "grams": 0.0035
    },
    "administration": "smoked",
    "substance": "DOB",

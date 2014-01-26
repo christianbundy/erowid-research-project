@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "21"
+    "quantity": "21",
+    "grams": 0.021
    },
    "administration": "buccal",
    "substance": "Psilocin",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7.0"
+    "quantity": "7.0",
+    "grams": 0.007
    },
    "administration": "buccal",
    "substance": "Psilocin",

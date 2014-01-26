@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -25,7 +26,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -35,7 +37,8 @@
    "time": "0:46",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -45,7 +48,8 @@
    "time": "1:03",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -55,7 +59,8 @@
    "time": "1:24",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -65,7 +70,8 @@
    "time": "1:54",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Ketamine",
@@ -75,7 +81,8 @@
    "time": "2:22",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ketamine",

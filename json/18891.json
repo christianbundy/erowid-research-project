@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3600"
+    "quantity": "3600",
+    "grams": 3.6
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "2C-T-2"

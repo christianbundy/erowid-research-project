@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "substance": "2C-B",
    "form": "powder/crystals"
@@ -24,7 +25,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "17"
+    "quantity": "17",
+    "grams": 0.017
    },
    "administration": "rectal",
    "substance": "Psilocin",

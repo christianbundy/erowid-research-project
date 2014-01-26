@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Pregabalin",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -56,7 +59,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "bk-MBDB",

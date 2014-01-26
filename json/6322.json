@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "2C-T-2",
@@ -36,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "2C-T-2",
@@ -46,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "insufflated",
    "substance": "2C-T-2",
@@ -56,7 +59,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "insufflated",
    "substance": "2C-T-2",

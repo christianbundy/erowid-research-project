@@ -36,7 +36,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "4-HO-MiPT",

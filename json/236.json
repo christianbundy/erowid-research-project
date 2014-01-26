@@ -34,7 +34,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "oral",
    "substance": "Ibuprofen"
@@ -43,7 +44,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "St. John's Wort"
@@ -52,7 +54,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "135"
+    "quantity": "135",
+    "grams": 0.135
    },
    "administration": "oral",
    "substance": "Kava"

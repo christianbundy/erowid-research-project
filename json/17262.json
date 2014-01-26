@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "225"
+    "quantity": "225",
+    "grams": 0.225
    },
    "administration": "oral",
    "substance": "Hops",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -45,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "oral",
    "substance": "Hops",

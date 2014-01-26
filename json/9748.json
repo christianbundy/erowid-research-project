@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -25,7 +26,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -35,7 +37,8 @@
    "time": "0:56",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

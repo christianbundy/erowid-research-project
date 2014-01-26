@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Morphine",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Morphine",
@@ -35,7 +37,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "105"
+    "quantity": "105",
+    "grams": 0.105
    },
    "administration": "oral",
    "substance": "Morphine",

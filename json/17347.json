@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "oral",
    "substance": "Mirtazapine",

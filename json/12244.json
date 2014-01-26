@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "750"
+    "quantity": "750",
+    "grams": 0.75
    },
    "administration": "oral",
    "substance": "Methocarbamol",
@@ -25,7 +26,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "750"
+    "quantity": "750",
+    "grams": 0.75
    },
    "administration": "oral",
    "substance": "Methocarbamol",

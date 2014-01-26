@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "52.5"
+    "quantity": "52.5",
+    "grams": 0.0525
    },
    "administration": "oral",
    "substance": "Hydrocodone",

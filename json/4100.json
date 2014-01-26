@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -25,7 +26,8 @@
    "time": "0:05",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -35,7 +37,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -45,7 +48,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -55,7 +59,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "130"
+    "quantity": "130",
+    "grams": 0.13
    },
    "administration": "oral",
    "substance": "DMT",
@@ -65,7 +70,8 @@
    "time": "1:05",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "oral",
    "substance": "DMT",

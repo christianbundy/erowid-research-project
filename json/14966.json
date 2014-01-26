@@ -20,7 +20,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "32"
+    "quantity": "32",
+    "grams": 0.032
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -29,7 +30,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -38,7 +40,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "26"
+    "quantity": "26",
+    "grams": 0.026
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -47,7 +50,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "IM",
    "substance": "Ketamine"

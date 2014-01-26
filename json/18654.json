@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
@@ -55,7 +56,8 @@
    "time": "7:30",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Melatonin",

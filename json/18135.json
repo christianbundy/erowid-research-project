@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1100"
+    "quantity": "1100",
+    "grams": 1.1
    },
    "administration": "oral",
    "substance": "Ginger",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1100"
+    "quantity": "1100",
+    "grams": 1.1
    },
    "administration": "oral",
    "substance": "Ginger",

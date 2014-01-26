@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "185"
+    "quantity": "185",
+    "grams": 0.185
    },
    "administration": "oral",
    "substance": "MBDB",

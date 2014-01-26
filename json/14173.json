@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -25,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -35,7 +37,8 @@
    "time": "5:05",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "Methylone",

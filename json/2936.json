@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "162.5"
+    "quantity": "162.5",
+    "grams": 0.1625
    },
    "administration": "oral",
    "substance": "Propoxyphene",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1625"
+    "quantity": "1625",
+    "grams": 1.625
    },
    "administration": "oral",
    "substance": "Acetaminophen",

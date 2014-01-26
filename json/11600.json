@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "11"
+    "quantity": "11",
+    "grams": 0.011
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -25,7 +26,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -53,7 +55,8 @@
    "time": "9:30",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -63,7 +66,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Diazepam"

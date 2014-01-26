@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Memantine",
@@ -25,7 +26,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Memantine",
@@ -35,7 +37,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Memantine",
@@ -45,7 +48,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "70"
+    "quantity": "70",
+    "grams": 0.07
    },
    "administration": "oral",
    "substance": "Memantine",
@@ -55,7 +59,8 @@
    "time": "1:20",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Memantine",

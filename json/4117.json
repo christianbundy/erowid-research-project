@@ -25,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Divalproex",
@@ -35,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Venlafaxine",
@@ -45,7 +47,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Risperidone",

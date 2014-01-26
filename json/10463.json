@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -36,7 +38,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "240"
+    "quantity": "240",
+    "grams": 0.24
    },
    "administration": "oral",
    "substance": "Barbiturates",

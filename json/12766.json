@@ -30,7 +30,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "750"
+    "quantity": "750",
+    "grams": 0.75
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -41,7 +42,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -52,7 +54,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -63,7 +66,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Cacti",
@@ -74,7 +78,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "oral",
    "substance": "2C-E",

@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "115"
+    "quantity": "115",
+    "grams": 0.115
    },
    "administration": "insufflated",
    "substance": "DPT",

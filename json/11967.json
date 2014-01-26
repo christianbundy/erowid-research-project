@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -35,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "215"
+    "quantity": "215",
+    "grams": 0.215
    },
    "administration": "oral",
    "substance": "Mirtazapine",

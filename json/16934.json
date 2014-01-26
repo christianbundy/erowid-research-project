@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "147.5"
+    "quantity": "147.5",
+    "grams": 0.1475
    },
    "administration": "oral",
    "substance": "Promethazine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "236"
+    "quantity": "236",
+    "grams": 0.236
    },
    "administration": "oral",
    "substance": "Codeine",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2000"
+    "quantity": "2000",
+    "grams": 2
    },
    "administration": "oral",
    "substance": "Divalproex",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "oral",
    "substance": "Fluvoxamine",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Risperidone",
@@ -45,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "oral",
    "substance": "Mirtazapine",
@@ -60,7 +64,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "11.25"
+    "quantity": "11.25",
+    "grams": 0.01125
    },
    "administration": "oral",
    "substance": "Zopiclone"
@@ -69,7 +74,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "oral",
    "substance": "Zopiclone"

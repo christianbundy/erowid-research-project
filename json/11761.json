@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -31,7 +32,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -40,7 +42,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -49,7 +52,8 @@
    "time": "11:35",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -58,7 +62,8 @@
    "time": "22:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -67,7 +72,8 @@
    "time": "22:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -76,7 +82,8 @@
    "time": "32:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -85,7 +92,8 @@
    "time": "32:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -94,7 +102,8 @@
    "time": "35:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Alprazolam"
@@ -103,7 +112,8 @@
    "time": "45:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "2C-I"
@@ -112,7 +122,8 @@
    "time": "45:30",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "smoked",
    "substance": "2C-I"
@@ -121,7 +132,8 @@
    "time": "45:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam"

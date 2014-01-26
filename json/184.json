@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "JWH-200",
@@ -35,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "smoked",
    "substance": "JWH-200"

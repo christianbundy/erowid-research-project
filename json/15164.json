@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "18"
+    "quantity": "18",
+    "grams": 0.018
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -25,7 +26,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1050"
+    "quantity": "1050",
+    "grams": 1.05
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -35,7 +37,8 @@
    "time": "9:45",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Alprazolam",

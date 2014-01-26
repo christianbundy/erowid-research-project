@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "175"
+    "quantity": "175",
+    "grams": 0.175
    },
    "administration": "smoked",
    "substance": "DMT",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

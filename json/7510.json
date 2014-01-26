@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "bk-MDEA",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "bk-MDEA",
@@ -45,7 +47,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "bk-MDEA",
@@ -55,7 +58,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -65,7 +69,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -75,7 +80,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -85,7 +91,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "Venlafaxine",

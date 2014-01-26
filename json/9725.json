@@ -21,7 +21,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "540"
+    "quantity": "540",
+    "grams": 0.54
    },
    "administration": "oral",
    "substance": "DXM",
@@ -42,7 +43,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "90"
+    "quantity": "90",
+    "grams": 0.09
    },
    "administration": "oral",
    "substance": "DXM",
@@ -52,7 +54,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Ephedrine",

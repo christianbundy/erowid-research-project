@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "substance": "Cocaine"
   },
@@ -23,7 +24,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "substance": "L-DOPA"
   },
@@ -31,7 +33,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "substance": "Carbidopa"
   }

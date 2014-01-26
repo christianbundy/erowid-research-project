@@ -25,7 +25,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -35,7 +36,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "350"
+    "quantity": "350",
+    "grams": 0.35
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -45,7 +47,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -55,7 +58,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -65,7 +69,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "175"
+    "quantity": "175",
+    "grams": 0.175
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -85,7 +90,8 @@
    "time": "3:20",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -95,7 +101,8 @@
    "time": "3:20",
    "amount": {
     "unit": "mg",
-    "quantity": "87.5"
+    "quantity": "87.5",
+    "grams": 0.0875
    },
    "administration": "oral",
    "substance": "Carisoprodol",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -25,7 +26,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",
@@ -35,7 +37,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",
@@ -54,7 +57,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -64,7 +68,8 @@
    "time": "8:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -74,7 +79,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-AMT",

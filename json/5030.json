@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "480"
+    "quantity": "480",
+    "grams": 0.48
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "480"
+    "quantity": "480",
+    "grams": 0.48
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -41,7 +43,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "256"
+    "quantity": "256",
+    "grams": 0.256
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -51,7 +54,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "480"
+    "quantity": "480",
+    "grams": 0.48
    },
    "administration": "oral",
    "substance": "Codeine",

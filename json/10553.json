@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "175"
+    "quantity": "175",
+    "grams": 0.175
    },
    "administration": "oral",
    "substance": "Zolpidem",

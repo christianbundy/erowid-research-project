@@ -21,7 +21,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "smoked",
    "substance": "DPT",

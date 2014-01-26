@@ -25,7 +25,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -49,7 +50,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -58,7 +60,8 @@
    "time": "1:55",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -68,7 +71,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "2C-B"

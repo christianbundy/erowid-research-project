@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "350"
+    "quantity": "350",
+    "grams": 0.35
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -25,7 +26,8 @@
    "time": "32:00",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "administration": "oral",
    "substance": "Methamphetamine",
@@ -35,7 +37,8 @@
    "time": "39:00",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "administration": "oral",
    "substance": "Methamphetamine",

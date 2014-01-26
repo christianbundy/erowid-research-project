@@ -49,7 +49,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "MDAI"

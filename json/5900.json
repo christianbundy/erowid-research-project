@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "TMA-2",
@@ -25,7 +26,8 @@
    "time": "3:05",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",

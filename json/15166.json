@@ -34,7 +34,8 @@
    "time": "0:55",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -49,7 +50,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -59,7 +61,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -69,7 +72,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1500"
+    "quantity": "1500",
+    "grams": 1.5
    },
    "administration": "oral",
    "substance": "Divalproex",

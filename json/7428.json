@@ -36,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "DXM",
@@ -46,7 +47,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Melatonin"

@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -40,7 +41,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -50,7 +52,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Amphetamines",
@@ -60,7 +63,8 @@
    "time": "8:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "Amphetamines",

@@ -25,7 +25,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "325"
+    "quantity": "325",
+    "grams": 0.325
    },
    "administration": "oral",
    "substance": "Ephedra sinica",

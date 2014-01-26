@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "insufflated",
    "substance": "2C-P",
@@ -25,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "2C-P",
@@ -35,7 +37,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -45,7 +48,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "insufflated",
    "substance": "2C-P",
@@ -55,7 +59,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -65,7 +70,8 @@
    "time": "4:20",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "insufflated",
    "substance": "MDMA",

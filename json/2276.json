@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "smoked",
    "substance": "Ginkgo biloba",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "370"
+    "quantity": "370",
+    "grams": 0.37
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",

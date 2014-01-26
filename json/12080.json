@@ -45,7 +45,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "900"
+    "quantity": "900",
+    "grams": 0.9
    },
    "administration": "oral",
    "substance": "Gabapentin",

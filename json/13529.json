@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "smoked",
    "substance": "4-Fluoroamphetamine",
@@ -25,7 +26,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "70"
+    "quantity": "70",
+    "grams": 0.07
    },
    "administration": "insufflated",
    "substance": "4-Fluoroamphetamine",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
@@ -45,7 +48,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",

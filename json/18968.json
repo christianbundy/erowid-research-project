@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "insufflated",
    "substance": "2C-C",
@@ -25,7 +26,8 @@
    "time": "0:28",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "2C-C",
@@ -35,7 +37,8 @@
    "time": "0:32",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "2C-C",
@@ -45,7 +48,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "2C-C",

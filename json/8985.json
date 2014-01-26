@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Venlafaxine",
@@ -36,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -46,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -56,7 +59,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "smoked",
    "substance": "Cannabis",

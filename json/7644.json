@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7.0"
+    "quantity": "7.0",
+    "grams": 0.007
    },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
@@ -56,7 +58,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Diazepam",

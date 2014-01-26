@@ -25,7 +25,8 @@
    "time": "5:30",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "substance": "MDMA",
    "form": "powder/crystals"

@@ -95,7 +95,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Methamphetamine",
@@ -105,7 +106,8 @@
    "time": "6:30",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "2C-T-7",
@@ -115,7 +117,8 @@
    "time": "9:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "insufflated",
    "substance": "Ketamine",

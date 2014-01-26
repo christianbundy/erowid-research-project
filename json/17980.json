@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "32.5"
+    "quantity": "32.5",
+    "grams": 0.0325
    },
    "administration": "oral",
    "substance": "2C-T-2",
@@ -91,7 +92,8 @@
    "time": "7:30",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",

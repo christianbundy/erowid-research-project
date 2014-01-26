@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -25,7 +26,8 @@
    "time": "0:33",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -108,7 +110,8 @@
    "time": "3:47",
    "amount": {
     "unit": "mg",
-    "quantity": "6.5"
+    "quantity": "6.5",
+    "grams": 0.0065
    },
    "administration": "oral",
    "substance": "Doxylamine"
@@ -117,7 +120,8 @@
    "time": "3:47",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "DXM"
@@ -133,7 +137,8 @@
    "time": "5:07",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "DXM"
@@ -142,7 +147,8 @@
    "time": "5:07",
    "amount": {
     "unit": "mg",
-    "quantity": "13"
+    "quantity": "13",
+    "grams": 0.013
    },
    "administration": "oral",
    "substance": "Doxylamine"

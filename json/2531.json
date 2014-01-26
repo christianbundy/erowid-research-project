@@ -25,7 +25,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -35,7 +36,8 @@
    "time": "7:30",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "substance": "MDMA",
    "form": "powder/crystals"
@@ -44,7 +46,8 @@
    "time": "9:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -54,7 +57,8 @@
    "time": "10:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -64,7 +68,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -74,7 +79,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "MDMA",

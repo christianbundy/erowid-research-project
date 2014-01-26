@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "insufflated",
    "substance": "Amphetamines",
@@ -32,7 +33,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Flunitrazepam",
@@ -42,7 +44,8 @@
    "time": "11:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "insufflated",
    "substance": "Flunitrazepam",

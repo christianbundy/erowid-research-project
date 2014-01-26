@@ -25,7 +25,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "MDMA",

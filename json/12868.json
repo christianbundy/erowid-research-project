@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "4-HO-MiPT",
@@ -42,7 +44,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "180"
+    "quantity": "180",
+    "grams": 0.18
    },
    "administration": "oral",
    "substance": "Pseudoephedrine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",

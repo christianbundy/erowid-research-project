@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2000"
+    "quantity": "2000",
+    "grams": 2
    },
    "administration": "IM",
    "substance": "DXM",

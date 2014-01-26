@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "220"
+    "quantity": "220",
+    "grams": 0.22
    },
    "administration": "oral",
    "substance": "bk-MBDB",
@@ -25,7 +26,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "insufflated",
    "substance": "MDMA",
@@ -35,7 +37,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "insufflated",
    "substance": "MDMA",

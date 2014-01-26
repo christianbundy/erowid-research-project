@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -35,7 +37,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "600"
+    "quantity": "600",
+    "grams": 0.6
    },
    "administration": "oral",
    "substance": "Gabapentin",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "225"
+    "quantity": "225",
+    "grams": 0.225
    },
    "administration": "IV",
    "substance": "4-Methylethcathinone",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "IV",
    "substance": "4-Methylethcathinone",

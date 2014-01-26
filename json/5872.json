@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "48"
+    "quantity": "48",
+    "grams": 0.048
    },
    "administration": "oral",
    "substance": "Tiagabine",

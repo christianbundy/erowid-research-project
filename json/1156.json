@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "administration": "insufflated",
    "substance": "2C-D",
@@ -25,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "2C-D",
@@ -35,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "2C-D",

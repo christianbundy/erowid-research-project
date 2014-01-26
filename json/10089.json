@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "14"
+    "quantity": "14",
+    "grams": 0.014
    },
    "administration": "transdermal",
    "substance": "Nicotine",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "22"
+    "quantity": "22",
+    "grams": 0.022
    },
    "administration": "oral",
    "substance": "2C-I",

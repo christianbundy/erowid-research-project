@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.2"
+    "quantity": "0.2",
+    "grams": 0.0002
    },
    "administration": "insufflated",
    "substance": "Buprenorphine",

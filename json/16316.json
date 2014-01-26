@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "49"
+    "quantity": "49",
+    "grams": 0.049
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -25,7 +26,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "insufflated",
    "substance": "DPT",
@@ -35,7 +37,8 @@
    "time": "1:35",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "insufflated",
    "substance": "DPT",
@@ -45,7 +48,8 @@
    "time": "9:40",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Lorazepam",

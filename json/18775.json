@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "insufflated",
    "substance": "Methiopropamine",
@@ -25,7 +26,8 @@
    "time": "0:05",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "insufflated",
    "substance": "Methiopropamine",
@@ -35,7 +37,8 @@
    "time": "1:20",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "Methiopropamine",
@@ -45,7 +48,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "insufflated",
    "substance": "Methiopropamine",
@@ -55,7 +59,8 @@
    "time": "2:10",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "insufflated",
    "substance": "Methiopropamine",

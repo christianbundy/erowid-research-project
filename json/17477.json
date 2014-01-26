@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2500"
+    "quantity": "2500",
+    "grams": 2.5
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -24,7 +25,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Quetiapine"
@@ -33,7 +35,8 @@
    "time": "3:15",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -42,7 +45,8 @@
    "time": "6:15",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Quetiapine"

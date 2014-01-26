@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Trazodone",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "Reboxetine"
@@ -44,7 +47,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "4.0"
+    "quantity": "4.0",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "Reboxetine"
@@ -53,7 +57,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Trazodone"
@@ -62,7 +67,8 @@
    "time": "14:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Bupropion"
@@ -71,7 +77,8 @@
    "time": "14:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "Reboxetine"

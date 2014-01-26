@@ -21,7 +21,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1000"
+    "quantity": "1000",
+    "grams": 1
    },
    "administration": "IV",
    "substance": "Phenytoin",

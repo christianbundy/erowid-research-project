@@ -21,7 +21,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
@@ -31,7 +32,8 @@
    "time": "4:02",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "187.5"
+    "quantity": "187.5",
+    "grams": 0.1875
    },
    "administration": "oral",
    "substance": "Tramadol",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1625"
+    "quantity": "1625",
+    "grams": 1.625
    },
    "administration": "oral",
    "substance": "Acetaminophen",

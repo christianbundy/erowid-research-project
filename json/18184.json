@@ -25,7 +25,8 @@
    "time": "8:32",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Temazepam"
@@ -34,7 +35,8 @@
    "time": "13:31",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Loperamide"
@@ -43,7 +45,8 @@
    "time": "15:58",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Loperamide"
@@ -52,7 +55,8 @@
    "time": "15:58",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Ibuprofen"

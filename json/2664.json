@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Moclobemide"
@@ -23,7 +24,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "140"
+    "quantity": "140",
+    "grams": 0.14
    },
    "administration": "oral",
    "substance": "DPT"
@@ -32,7 +34,8 @@
    "time": "3:15",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "insufflated",
    "substance": "DPT"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -43,7 +44,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "Alprazolam",
@@ -53,7 +55,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -63,7 +66,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "9"
+    "quantity": "9",
+    "grams": 0.009
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -73,7 +77,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "6"
+    "quantity": "6",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Alprazolam",

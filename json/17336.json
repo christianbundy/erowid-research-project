@@ -21,7 +21,8 @@
    "time": "35:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1200"
+    "quantity": "1200",
+    "grams": 1.2
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -38,7 +39,8 @@
    "time": "58:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1200"
+    "quantity": "1200",
+    "grams": 1.2
    },
    "administration": "oral",
    "substance": "Valerian",

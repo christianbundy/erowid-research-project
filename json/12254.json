@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Zolpidem",
@@ -49,7 +51,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "oral",
    "substance": "Oxycodone"
@@ -58,7 +61,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "insufflated",
    "substance": "Oxycodone"
@@ -67,7 +71,8 @@
    "time": "2:50",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "insufflated",
    "substance": "Hydrocodone"

@@ -35,7 +35,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "substance": "DPT"
   },

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "11"
+    "quantity": "11",
+    "grams": 0.011
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",

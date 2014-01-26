@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "24.7"
+    "quantity": "24.7",
+    "grams": 0.0247
    },
    "administration": "oral",
    "substance": "DMMDA",

@@ -35,7 +35,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "smoked",
    "substance": "2C-T-7",

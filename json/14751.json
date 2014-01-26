@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "111.7"
+    "quantity": "111.7",
+    "grams": 0.11170000000000001
    },
    "administration": "IV",
    "substance": "Ketamine",

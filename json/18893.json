@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7"
+    "quantity": "7",
+    "grams": 0.007
    },
    "administration": "insufflated",
    "substance": "2C-B",
@@ -35,7 +37,8 @@
    "time": "5:15",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "insufflated",
    "substance": "2C-B",

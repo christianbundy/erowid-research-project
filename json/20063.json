@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "180"
+    "quantity": "180",
+    "grams": 0.18
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Barbiturates",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "240"
+    "quantity": "240",
+    "grams": 0.24
    },
    "administration": "oral",
    "substance": "Caffeine",

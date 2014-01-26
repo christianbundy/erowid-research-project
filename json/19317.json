@@ -22,7 +22,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "900"
+    "quantity": "900",
+    "grams": 0.9
    },
    "administration": "oral",
    "substance": "DXM"
@@ -31,7 +32,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "DXM"

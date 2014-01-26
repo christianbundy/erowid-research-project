@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "-999.0"
+    "quantity": "-999.0",
+    "grams": -0.999
    },
    "administration": "insufflated",
    "substance": "Ketamine",

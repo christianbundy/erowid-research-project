@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "345"
+    "quantity": "345",
+    "grams": 0.345
    },
    "administration": "oral",
    "substance": "DXM"

@@ -29,7 +29,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Venlafaxine",
@@ -39,7 +40,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Venlafaxine",

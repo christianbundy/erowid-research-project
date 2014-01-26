@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "rectal",
    "substance": "AMT",
@@ -25,7 +26,8 @@
    "time": "5:45",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "rectal",
    "substance": "2C-B",
@@ -35,7 +37,8 @@
    "time": "6:35",
    "amount": {
     "unit": "mg",
-    "quantity": "18"
+    "quantity": "18",
+    "grams": 0.018
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -45,7 +48,8 @@
    "time": "7:02",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",
@@ -55,7 +59,8 @@
    "time": "7:30",
    "amount": {
     "unit": "mg",
-    "quantity": "16"
+    "quantity": "16",
+    "grams": 0.016
    },
    "administration": "oral",
    "substance": "4-AcO-DMT",

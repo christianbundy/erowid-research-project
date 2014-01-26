@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.75"
+    "quantity": "0.75",
+    "grams": 0.00075
    },
    "administration": "oral",
    "substance": "Triazolam",

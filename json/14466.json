@@ -44,7 +44,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

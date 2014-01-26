@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "450"
+    "quantity": "450",
+    "grams": 0.45
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "St. John's Wort",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "885"
+    "quantity": "885",
+    "grams": 0.885
    },
    "administration": "oral",
    "substance": "DXM"

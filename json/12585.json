@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3000"
+    "quantity": "3000",
+    "grams": 3
    },
    "administration": "oral",
    "substance": "Caffeine",

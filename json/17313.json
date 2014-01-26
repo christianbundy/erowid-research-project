@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.2"
+    "quantity": "3.2",
+    "grams": 0.0032
    },
    "administration": "oral",
    "substance": "DOI",
@@ -47,7 +48,8 @@
    "time": "10:20",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -57,7 +59,8 @@
    "time": "12:20",
    "amount": {
     "unit": "mg",
-    "quantity": "2.0"
+    "quantity": "2.0",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -77,7 +80,8 @@
    "time": "14:20",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "oral",
    "substance": "Zopiclone",

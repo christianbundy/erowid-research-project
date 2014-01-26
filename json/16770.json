@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "insufflated",
    "substance": "Hydromorphone",
@@ -25,7 +26,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "Hydromorphone",
@@ -35,7 +37,8 @@
    "time": "4:15",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "substance": "Amphetamines"
   }

@@ -50,7 +50,8 @@
    "time": "3:30",
    "amount": {
     "unit": "mg",
-    "quantity": ".5"
+    "quantity": ".5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Alprazolam"

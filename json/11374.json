@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4.0"
+    "quantity": "4.0",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "CP 55,940",
@@ -24,7 +25,8 @@
    "time": "2:05",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "CP 55,940",

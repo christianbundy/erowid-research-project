@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "98"
+    "quantity": "98",
+    "grams": 0.098
    },
    "administration": "oral",
    "substance": "Methylphenidate",
@@ -30,7 +31,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "98"
+    "quantity": "98",
+    "grams": 0.098
    },
    "administration": "oral",
    "substance": "Methylphenidate",

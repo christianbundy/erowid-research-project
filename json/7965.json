@@ -27,7 +27,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.1"
+    "quantity": "0.1",
+    "grams": 0.0001
    },
    "administration": "oral",
    "substance": "Clonidine",
@@ -37,7 +38,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam",

@@ -37,7 +37,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "17.5"
+    "quantity": "17.5",
+    "grams": 0.0175
    },
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
@@ -47,7 +48,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "4.5"
+    "quantity": "4.5",
+    "grams": 0.0045
    },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
@@ -57,7 +59,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "22.5"
+    "quantity": "22.5",
+    "grams": 0.0225
    },
    "administration": "smoked",
    "substance": "5-MeO-DMT",

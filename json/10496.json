@@ -25,7 +25,8 @@
    "time": "1:05",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "2C-C",
@@ -41,7 +42,8 @@
    "time": "5:10",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "smoked",
    "substance": "DPT",
@@ -51,7 +53,8 @@
    "time": "5:20",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "smoked",
    "substance": "DPT",

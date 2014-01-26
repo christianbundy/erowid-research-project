@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Trazodone",
@@ -32,7 +33,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Trazodone",
@@ -42,7 +44,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "substance": "Melatonin"
   }

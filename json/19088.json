@@ -45,7 +45,8 @@
    "time": "8:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "substance": "MDMA"
   }

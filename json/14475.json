@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "sublingual",
    "substance": "Moclobemide",
@@ -25,7 +26,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "smoked",
    "substance": "DMT",
@@ -35,7 +37,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "smoked",
    "substance": "Salvia divinorum",

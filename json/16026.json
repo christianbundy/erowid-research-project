@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.8"
+    "quantity": "0.8",
+    "grams": 0.0008
    },
    "administration": "oral",
    "substance": "Clonidine",

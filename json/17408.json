@@ -25,7 +25,8 @@
    "time": "8:15",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Amitriptyline",

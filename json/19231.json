@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
@@ -25,7 +26,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "4-HO-MET",
@@ -35,7 +37,8 @@
    "time": "0:55",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "4-HO-MET",
@@ -51,7 +54,8 @@
    "time": "1:10",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "smoked",
    "substance": "DMT",

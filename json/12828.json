@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -25,7 +26,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -35,7 +37,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7"
+    "quantity": "7",
+    "grams": 0.007
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -45,7 +48,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -55,7 +59,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -65,7 +70,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": ".25"
+    "quantity": ".25",
+    "grams": 0.00025
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -75,7 +81,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -85,7 +92,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",
@@ -95,7 +103,8 @@
    "time": "10:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "Melatonin",
@@ -116,7 +125,8 @@
    "time": "10:30",
    "amount": {
     "unit": "mg",
-    "quantity": ".5"
+    "quantity": ".5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Alprazolam",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Paroxetine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Lorazepam",
@@ -42,7 +44,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "27.5"
+    "quantity": "27.5",
+    "grams": 0.0275
    },
    "administration": "oral",
    "substance": "Lorazepam",

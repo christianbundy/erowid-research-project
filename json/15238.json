@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "2C-T-2"
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4800"
+    "quantity": "4800",
+    "grams": 4.8
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -33,7 +35,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "Picamilon"
@@ -42,7 +45,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2400"
+    "quantity": "2400",
+    "grams": 2.4
    },
    "administration": "oral",
    "substance": "Piracetam"
@@ -51,7 +55,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "oral",
    "substance": "Picamilon"

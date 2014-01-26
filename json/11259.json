@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "2C-B-Fly",
@@ -30,7 +31,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "2C-B-Fly",
@@ -60,7 +62,8 @@
    "time": "8:50",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "2C-B",

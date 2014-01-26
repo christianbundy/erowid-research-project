@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Diazepam",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "insufflated",
    "substance": "Acetaminophen",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "insufflated",
    "substance": "Codeine",
@@ -45,7 +48,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -55,7 +59,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1950"
+    "quantity": "1950",
+    "grams": 1.95
    },
    "administration": "insufflated",
    "substance": "Acetaminophen",

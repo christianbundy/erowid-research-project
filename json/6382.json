@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1200"
+    "quantity": "1200",
+    "grams": 1.2
    },
    "administration": "oral",
    "substance": "Piracetam"

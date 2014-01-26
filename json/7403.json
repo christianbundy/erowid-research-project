@@ -43,7 +43,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1500"
+    "quantity": "1500",
+    "grams": 1.5
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",
@@ -53,7 +54,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1500"
+    "quantity": "1500",
+    "grams": 1.5
    },
    "administration": "oral",
    "substance": "Ginseng",

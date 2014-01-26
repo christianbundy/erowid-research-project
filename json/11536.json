@@ -25,7 +25,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "66"
+    "quantity": "66",
+    "grams": 0.066
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -35,7 +36,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "33"
+    "quantity": "33",
+    "grams": 0.033
    },
    "administration": "oral",
    "substance": "Quetiapine",
@@ -45,7 +47,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Ibuprofen"

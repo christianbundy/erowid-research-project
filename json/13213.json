@@ -25,7 +25,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "Mescaline",
@@ -55,7 +56,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7.0"
+    "quantity": "7.0",
+    "grams": 0.007
    },
    "administration": "IM",
    "substance": "Heroin",
@@ -75,7 +77,8 @@
    "time": "14:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "IM",
    "substance": "Heroin",

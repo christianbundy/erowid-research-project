@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.6"
+    "quantity": "0.6",
+    "grams": 0.0006
    },
    "administration": "oral",
    "substance": "Scopolamine",

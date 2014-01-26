@@ -27,7 +27,8 @@
    "time": "0:35",
    "amount": {
     "unit": "mg",
-    "quantity": "3.25"
+    "quantity": "3.25",
+    "grams": 0.00325
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -37,7 +38,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "3.25"
+    "quantity": "3.25",
+    "grams": 0.00325
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -47,7 +49,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "3.25"
+    "quantity": "3.25",
+    "grams": 0.00325
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -57,7 +60,8 @@
    "time": "1:25",
    "amount": {
     "unit": "mg",
-    "quantity": "6.5"
+    "quantity": "6.5",
+    "grams": 0.0065
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -67,7 +71,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "6.5"
+    "quantity": "6.5",
+    "grams": 0.0065
    },
    "administration": "insufflated",
    "substance": "3C-E",
@@ -77,7 +82,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "insufflated",
    "substance": "3C-E",

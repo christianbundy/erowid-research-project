@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",
@@ -84,7 +85,8 @@
    "time": "12:30",
    "amount": {
     "unit": "mg",
-    "quantity": "9.0"
+    "quantity": "9.0",
+    "grams": 0.009
    },
    "administration": "oral",
    "substance": "Melatonin"

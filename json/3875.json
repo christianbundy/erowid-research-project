@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Sildenafil",
@@ -31,7 +32,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "125"
+    "quantity": "125",
+    "grams": 0.125
    },
    "administration": "oral",
    "substance": "MDMA"
@@ -40,7 +42,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "65"
+    "quantity": "65",
+    "grams": 0.065
    },
    "administration": "oral",
    "substance": "MDMA"

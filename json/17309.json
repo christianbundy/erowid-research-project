@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "sublingual",
    "substance": "Buprenorphine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.25"
+    "quantity": "0.25",
+    "grams": 0.00025
    },
    "administration": "sublingual",
    "substance": "Naloxone",

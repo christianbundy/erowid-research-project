@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "360"
+    "quantity": "360",
+    "grams": 0.36
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "360"
+    "quantity": "360",
+    "grams": 0.36
    },
    "administration": "oral",
    "substance": "Yohimbe",
@@ -35,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "Tryptophan",

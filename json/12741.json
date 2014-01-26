@@ -43,7 +43,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "smoked",
    "substance": "5-MeO-DALT"

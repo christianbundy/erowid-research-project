@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "162.5"
+    "quantity": "162.5",
+    "grams": 0.1625
    },
    "administration": "oral",
    "substance": "Propoxyphene",

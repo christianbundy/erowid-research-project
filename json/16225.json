@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "bk-MDEA",
@@ -31,7 +32,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "42"
+    "quantity": "42",
+    "grams": 0.042
    },
    "administration": "oral",
    "substance": "Methylone"
@@ -40,7 +42,8 @@
    "time": "3:40",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Methylone"

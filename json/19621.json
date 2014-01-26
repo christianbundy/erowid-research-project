@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "625"
+    "quantity": "625",
+    "grams": 0.625
    },
    "administration": "oral",
    "substance": "Diphenhydramine",

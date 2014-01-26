@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2.8"
+    "quantity": "2.8",
+    "grams": 0.0028
    },
    "administration": "oral",
    "substance": "DOC",

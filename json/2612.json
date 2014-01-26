@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "225"
+    "quantity": "225",
+    "grams": 0.225
    },
    "administration": "oral",
    "substance": "Moclobemide",
@@ -25,7 +26,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "8.0"
+    "quantity": "8.0",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -41,7 +43,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -51,7 +54,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Alprazolam",

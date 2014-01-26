@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "160"
+    "quantity": "160",
+    "grams": 0.16
    },
    "administration": "oral",
    "substance": "Atomoxetine",

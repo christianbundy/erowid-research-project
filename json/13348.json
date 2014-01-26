@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "7500"
+    "quantity": "7500",
+    "grams": 7.5
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",
@@ -36,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "450"
+    "quantity": "450",
+    "grams": 0.45
    },
    "administration": "oral",
    "substance": "DXM",

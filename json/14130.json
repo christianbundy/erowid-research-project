@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "insufflated",
    "substance": "DPT",
@@ -25,7 +26,8 @@
    "time": "0:15",
    "amount": {
     "unit": "mg",
-    "quantity": "165"
+    "quantity": "165",
+    "grams": 0.165
    },
    "administration": "oral",
    "substance": "Methylone",

@@ -22,7 +22,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "65"
+    "quantity": "65",
+    "grams": 0.065
    },
    "administration": "oral",
    "substance": "4-HO-DiPT",
@@ -32,7 +33,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "6.0"
+    "quantity": "6.0",
+    "grams": 0.006
    },
    "administration": "oral",
    "substance": "Melatonin",

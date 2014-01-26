@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Methylone",
@@ -25,7 +26,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "insufflated",
    "substance": "Methylone",
@@ -45,7 +47,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "13"
+    "quantity": "13",
+    "grams": 0.013
    },
    "administration": "oral",
    "substance": "2C-E",

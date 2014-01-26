@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "22.5"
+    "quantity": "22.5",
+    "grams": 0.0225
    },
    "administration": "oral",
    "substance": "Hydrocodone",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2250"
+    "quantity": "2250",
+    "grams": 2.25
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -35,7 +37,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Hydroxyzine",
@@ -45,7 +48,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Amitriptyline",
@@ -55,7 +59,8 @@
    "time": "0:50",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "oral",
    "substance": "Pharmaceuticals",

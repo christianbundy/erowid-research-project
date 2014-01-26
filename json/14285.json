@@ -25,7 +25,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
@@ -35,7 +36,8 @@
    "time": "2:45",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "smoked",
    "substance": "DMT",

@@ -25,7 +25,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1800"
+    "quantity": "1800",
+    "grams": 1.8
    },
    "administration": "oral",
    "substance": "Valerian",

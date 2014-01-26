@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "MAOI"
@@ -24,7 +25,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "DXM"
@@ -33,7 +35,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "DXM"
@@ -42,7 +45,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "DXM"
@@ -51,7 +55,8 @@
    "time": "5:30",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "DXM"
@@ -60,7 +65,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "45"
+    "quantity": "45",
+    "grams": 0.045
    },
    "administration": "oral",
    "substance": "DXM"
@@ -69,7 +75,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "90"
+    "quantity": "90",
+    "grams": 0.09
    },
    "administration": "oral",
    "substance": "DXM"
@@ -78,7 +85,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "MAOI"

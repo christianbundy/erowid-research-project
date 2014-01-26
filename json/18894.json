@@ -24,7 +24,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "17"
+    "quantity": "17",
+    "grams": 0.017
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
@@ -33,7 +34,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
@@ -42,7 +44,8 @@
    "time": "1:45",
    "amount": {
     "unit": "mg",
-    "quantity": "3"
+    "quantity": "3",
+    "grams": 0.003
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
@@ -58,7 +61,8 @@
    "time": "2:55",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -67,7 +71,8 @@
    "time": "4:35",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -76,7 +81,8 @@
    "time": "5:05",
    "amount": {
     "unit": "mg",
-    "quantity": "7"
+    "quantity": "7",
+    "grams": 0.007
    },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
@@ -85,7 +91,8 @@
    "time": "8:20",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "
@@ -94,7 +101,8 @@
    "time": "9:35",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "insufflated",
    "substance": "Methoxetamine "

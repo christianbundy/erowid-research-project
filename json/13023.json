@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "550"
+    "quantity": "550",
+    "grams": 0.55
    },
    "administration": "oral",
    "substance": "Ginger",
@@ -25,7 +26,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "2C-C",
@@ -35,7 +37,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "5-MeO-DALT",

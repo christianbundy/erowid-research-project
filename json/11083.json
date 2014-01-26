@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "0.5"
+    "quantity": "0.5",
+    "grams": 0.0005
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2100"
+    "quantity": "2100",
+    "grams": 2.1
    },
    "administration": "oral",
    "substance": "Piracetam",
@@ -50,7 +53,8 @@
    "time": "24:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2800"
+    "quantity": "2800",
+    "grams": 2.8
    },
    "administration": "oral",
    "substance": "Piracetam",

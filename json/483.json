@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "80"
+    "quantity": "80",
+    "grams": 0.08
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -26,7 +27,8 @@
    "time": "0:05",
    "amount": {
     "unit": "mg",
-    "quantity": "93"
+    "quantity": "93",
+    "grams": 0.093
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -37,7 +39,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "99"
+    "quantity": "99",
+    "grams": 0.099
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -48,7 +51,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "104"
+    "quantity": "104",
+    "grams": 0.104
    },
    "administration": "smoked",
    "substance": "Mushrooms",
@@ -59,7 +63,8 @@
    "time": "0:40",
    "amount": {
     "unit": "mg",
-    "quantity": "136"
+    "quantity": "136",
+    "grams": 0.136
    },
    "administration": "smoked",
    "substance": "Mushrooms",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "270"
+    "quantity": "270",
+    "grams": 0.27
    },
    "substance": "Dihydrocodeine"
   },
@@ -23,7 +24,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "270"
+    "quantity": "270",
+    "grams": 0.27
    },
    "substance": "Vitamins / Supplements"
   },
@@ -31,7 +33,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "67"
+    "quantity": "67",
+    "grams": 0.067
    },
    "substance": "Chlorpheniramine Maleate"
   }

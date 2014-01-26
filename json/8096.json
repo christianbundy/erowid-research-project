@@ -37,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "65"
+    "quantity": "65",
+    "grams": 0.065
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -47,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Ginkgo biloba",

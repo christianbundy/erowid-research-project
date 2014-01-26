@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "substance": "Oxycodone"
   },
@@ -23,7 +24,8 @@
    "time": "4:00",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "substance": "Naltrexone"
   }

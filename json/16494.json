@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "60"
+    "quantity": "60",
+    "grams": 0.06
    },
    "administration": "oral",
    "substance": "Fluoxetine",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "oral",
    "substance": "DXM"
@@ -34,7 +36,8 @@
    "time": "15:00",
    "amount": {
     "unit": "mg",
-    "quantity": "190"
+    "quantity": "190",
+    "grams": 0.19
    },
    "administration": "oral",
    "substance": "DXM"
@@ -43,7 +46,8 @@
    "time": "20:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1080"
+    "quantity": "1080",
+    "grams": 1.08
    },
    "administration": "oral",
    "substance": "DXM"

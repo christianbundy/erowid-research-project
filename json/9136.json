@@ -13,7 +13,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "850"
+    "quantity": "850",
+    "grams": 0.85
    },
    "administration": "oral",
    "substance": "Quetiapine",

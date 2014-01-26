@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "2C-I",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "3.0"
+    "quantity": "3.0",
+    "grams": 0.003
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -35,7 +37,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "13"
+    "quantity": "13",
+    "grams": 0.013
    },
    "administration": "oral",
    "substance": "2C-I",

@@ -47,7 +47,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "450"
+    "quantity": "450",
+    "grams": 0.45
    },
    "administration": "oral",
    "substance": "DXM",

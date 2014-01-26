@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "112.5"
+    "quantity": "112.5",
+    "grams": 0.1125
    },
    "administration": "oral",
    "substance": "Venlafaxine",

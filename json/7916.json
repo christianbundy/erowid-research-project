@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "38"
+    "quantity": "38",
+    "grams": 0.038
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"
@@ -24,7 +25,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "76"
+    "quantity": "76",
+    "grams": 0.076
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"
@@ -33,7 +35,8 @@
    "time": "2:20",
    "amount": {
     "unit": "mg",
-    "quantity": "38"
+    "quantity": "38",
+    "grams": 0.038
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"
@@ -42,7 +45,8 @@
    "time": "3:10",
    "amount": {
     "unit": "mg",
-    "quantity": "38"
+    "quantity": "38",
+    "grams": 0.038
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"
@@ -51,7 +55,8 @@
    "time": "3:45",
    "amount": {
     "unit": "mg",
-    "quantity": "38"
+    "quantity": "38",
+    "grams": 0.038
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"
@@ -60,7 +65,8 @@
    "time": "5:00",
    "amount": {
     "unit": "mg",
-    "quantity": "76"
+    "quantity": "76",
+    "grams": 0.076
    },
    "administration": "oral",
    "substance": "Dihydrocodeine"

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
@@ -31,7 +32,8 @@
    "time": "1:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -41,7 +43,8 @@
    "time": "3:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -58,7 +61,8 @@
    "time": "11:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -68,7 +72,8 @@
    "time": "12:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -78,7 +83,8 @@
    "time": "14:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -88,7 +94,8 @@
    "time": "15:30",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IM",
    "substance": "Ketamine",
@@ -98,7 +105,8 @@
    "time": "28:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Clonazepam",

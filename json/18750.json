@@ -48,7 +48,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "2C-B"
@@ -84,7 +85,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "smoked",
    "substance": "5-MeO-MIPT"

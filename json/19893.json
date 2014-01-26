@@ -36,7 +36,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7.0"
+    "quantity": "7.0",
+    "grams": 0.007
    },
    "administration": "oral",
    "substance": "MDMA",
@@ -46,7 +47,8 @@
    "time": "1:08",
    "amount": {
     "unit": "mg",
-    "quantity": "12"
+    "quantity": "12",
+    "grams": 0.012
    },
    "administration": "oral",
    "substance": "MDMA",

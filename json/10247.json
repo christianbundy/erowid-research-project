@@ -25,7 +25,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "90"
+    "quantity": "90",
+    "grams": 0.09
    },
    "administration": "oral",
    "substance": "Piperazines",

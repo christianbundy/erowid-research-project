@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "IV",
    "substance": "bk-MBDB"
@@ -24,7 +25,8 @@
    "time": "0:02",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "rectal",
    "substance": "bk-MBDB"
@@ -33,7 +35,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "IV",
    "substance": "bk-MBDB"
@@ -42,7 +45,8 @@
    "time": "1:03",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "rectal",
    "substance": "bk-MBDB"

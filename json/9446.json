@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "insufflated",
    "substance": "Zopiclone",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Citalopram",
@@ -35,7 +37,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Citalopram",
@@ -45,7 +48,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "3.75"
+    "quantity": "3.75",
+    "grams": 0.00375
    },
    "administration": "oral",
    "substance": "Zopiclone",
@@ -65,7 +69,8 @@
    "time": "6:30",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "insufflated",
    "substance": "Zopiclone",
@@ -75,7 +80,8 @@
    "time": "6:30",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "insufflated",
    "substance": "Citalopram",
@@ -85,7 +91,8 @@
    "time": "8:00",
    "amount": {
     "unit": "mg",
-    "quantity": "7.5"
+    "quantity": "7.5",
+    "grams": 0.0075
    },
    "administration": "oral",
    "substance": "Zopiclone",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -36,7 +37,8 @@
    "time": "0:09",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -57,7 +59,8 @@
    "time": "0:31",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "Oxycodone",
@@ -78,7 +81,8 @@
    "time": "0:49",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "Oxycodone",

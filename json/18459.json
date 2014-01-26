@@ -25,7 +25,8 @@
    "time": "7:00",
    "amount": {
     "unit": "mg",
-    "quantity": "120"
+    "quantity": "120",
+    "grams": 0.12
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -35,7 +36,8 @@
    "time": "16:00",
    "amount": {
     "unit": "mg",
-    "quantity": "210"
+    "quantity": "210",
+    "grams": 0.21
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -45,7 +47,8 @@
    "time": "18:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Alprazolam",
@@ -55,7 +58,8 @@
    "time": "18:30",
    "amount": {
     "unit": "mg",
-    "quantity": "2.5"
+    "quantity": "2.5",
+    "grams": 0.0025
    },
    "administration": "oral",
    "substance": "Alprazolam",

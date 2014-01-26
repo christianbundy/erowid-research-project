@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "administration": "IV",
    "substance": "DPT"

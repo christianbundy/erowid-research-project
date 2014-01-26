@@ -13,7 +13,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -23,7 +24,8 @@
    "time": "0:10",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -33,7 +35,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -43,7 +46,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -53,7 +57,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "5.0"
+    "quantity": "5.0",
+    "grams": 0.005
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
@@ -63,7 +68,8 @@
    "time": "48:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "5-MeO-DiPT"

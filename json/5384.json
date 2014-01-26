@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "11.3"
+    "quantity": "11.3",
+    "grams": 0.011300000000000001
    },
    "administration": "oral",
    "substance": "DOM",

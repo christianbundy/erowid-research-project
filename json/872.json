@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1050"
+    "quantity": "1050",
+    "grams": 1.05
    },
    "administration": "oral",
    "substance": "Carisoprodol",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.0"
+    "quantity": "1.0",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Clonazepam",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2800"
+    "quantity": "2800",
+    "grams": 2.8
    },
    "administration": "oral",
    "substance": "Carisoprodol",

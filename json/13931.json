@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "165"
+    "quantity": "165",
+    "grams": 0.165
    },
    "administration": "oral",
    "substance": "Harmine"
@@ -24,7 +25,8 @@
    "time": "0:25",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "MET"
@@ -33,7 +35,8 @@
    "time": "0:25",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "oral",
    "substance": "Harmine"
@@ -42,7 +45,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "18"
+    "quantity": "18",
+    "grams": 0.018
    },
    "administration": "oral",
    "substance": "MET"
@@ -51,7 +55,8 @@
    "time": "0:45",
    "amount": {
     "unit": "mg",
-    "quantity": "40"
+    "quantity": "40",
+    "grams": 0.04
    },
    "administration": "oral",
    "substance": "Harmine"
@@ -70,7 +75,8 @@
    "time": "2:35",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "smoked",
    "substance": "MET"
@@ -79,7 +85,8 @@
    "time": "2:35",
    "amount": {
     "unit": "mg",
-    "quantity": "20"
+    "quantity": "20",
+    "grams": 0.02
    },
    "administration": "smoked",
    "substance": "Harmine"

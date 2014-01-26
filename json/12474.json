@@ -14,7 +14,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "105"
+    "quantity": "105",
+    "grams": 0.105
    },
    "administration": "oral",
    "substance": "Zopiclone",
@@ -24,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Paroxetine",
@@ -34,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4500"
+    "quantity": "4500",
+    "grams": 4.5
    },
    "administration": "oral",
    "substance": "Quetiapine",

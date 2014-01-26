@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "180"
+    "quantity": "180",
+    "grams": 0.18
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1800"
+    "quantity": "1800",
+    "grams": 1.8
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -35,7 +37,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

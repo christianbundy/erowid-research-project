@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",
@@ -25,7 +26,8 @@
    "time": "1:15",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",
@@ -35,7 +37,8 @@
    "time": "6:42",
    "amount": {
     "unit": "mg",
-    "quantity": "210"
+    "quantity": "210",
+    "grams": 0.21
    },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",

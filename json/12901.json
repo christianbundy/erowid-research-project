@@ -26,7 +26,8 @@
    "time": "1:45",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "sublingual",
    "substance": "Salvia divinorum",

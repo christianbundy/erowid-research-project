@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "320"
+    "quantity": "320",
+    "grams": 0.32
    },
    "administration": "oral",
    "substance": "Fluoxetine",

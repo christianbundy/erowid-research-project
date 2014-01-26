@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -25,7 +26,8 @@
    "time": "0:20",
    "amount": {
     "unit": "mg",
-    "quantity": "7"
+    "quantity": "7",
+    "grams": 0.007
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -35,7 +37,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -45,7 +48,8 @@
    "time": "1:55",
    "amount": {
     "unit": "mg",
-    "quantity": "5"
+    "quantity": "5",
+    "grams": 0.005
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -55,7 +59,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
@@ -65,7 +70,8 @@
    "time": "2:15",
    "amount": {
     "unit": "mg",
-    "quantity": "800"
+    "quantity": "800",
+    "grams": 0.8
    },
    "administration": "oral",
    "substance": "Gabapentin",
@@ -85,7 +91,8 @@
    "time": "4:45",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
@@ -95,7 +102,8 @@
    "time": "6:45",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -105,7 +113,8 @@
    "time": "6:45",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "Dimenhydrinate",

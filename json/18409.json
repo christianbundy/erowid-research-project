@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -31,7 +32,8 @@
    "time": "2:30",
    "amount": {
     "unit": "mg",
-    "quantity": "9"
+    "quantity": "9",
+    "grams": 0.009
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -41,7 +43,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "1500"
+    "quantity": "1500",
+    "grams": 1.5
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -51,7 +54,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -61,7 +65,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "15"
+    "quantity": "15",
+    "grams": 0.015
    },
    "administration": "oral",
    "substance": "Mirtazapine",
@@ -87,7 +92,8 @@
    "time": "12:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "MDPV",
@@ -97,7 +103,8 @@
    "time": "16:00",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "insufflated",
    "substance": "MDPV",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1.25"
+    "quantity": "1.25",
+    "grams": 0.00125
    },
    "administration": "insufflated",
    "substance": "Butorphanol",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "3.75"
+    "quantity": "3.75",
+    "grams": 0.00375
    },
    "administration": "insufflated",
    "substance": "Butorphanol",

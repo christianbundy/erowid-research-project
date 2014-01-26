@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "100"
+    "quantity": "100",
+    "grams": 0.1
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -25,7 +26,8 @@
    "time": "2:00",
    "amount": {
     "unit": "mg",
-    "quantity": "11"
+    "quantity": "11",
+    "grams": 0.011
    },
    "administration": "oral",
    "substance": "2C-E"
@@ -47,7 +49,8 @@
    "time": "32:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "oral",
    "substance": "Sertraline",
@@ -57,7 +60,8 @@
    "time": "36:00",
    "amount": {
     "unit": "mg",
-    "quantity": "11"
+    "quantity": "11",
+    "grams": 0.011
    },
    "administration": "oral",
    "substance": "2C-E",
@@ -67,7 +71,8 @@
    "time": "38:00",
    "amount": {
     "unit": "mg",
-    "quantity": "11"
+    "quantity": "11",
+    "grams": 0.011
    },
    "administration": "oral",
    "substance": "2C-E",

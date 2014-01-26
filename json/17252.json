@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "145"
+    "quantity": "145",
+    "grams": 0.145
    },
    "substance": "Methadone",
    "form": "daily"

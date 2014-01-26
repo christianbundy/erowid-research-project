@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "42"
+    "quantity": "42",
+    "grams": 0.042
    },
    "administration": "oral",
    "substance": "AMT",

@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "700"
+    "quantity": "700",
+    "grams": 0.7
    },
    "administration": "oral",
    "substance": "St. John's Wort",

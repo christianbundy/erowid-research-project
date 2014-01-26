@@ -31,7 +31,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Acetaminophen",
@@ -47,7 +48,8 @@
    "time": "20:00",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "administration": "oral",
    "substance": "Caffeine",

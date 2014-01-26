@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "7"
+    "quantity": "7",
+    "grams": 0.007
    },
    "administration": "oral",
    "substance": "Zolpidem",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "160"
+    "quantity": "160",
+    "grams": 0.16
    },
    "administration": "oral",
    "substance": "Pharmaceuticals",

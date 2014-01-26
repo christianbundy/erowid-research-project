@@ -66,7 +66,8 @@
    "time": "3:33",
    "amount": {
     "unit": "mg",
-    "quantity": "30"
+    "quantity": "30",
+    "grams": 0.03
    },
    "administration": "oral",
    "substance": "AMT"
@@ -75,7 +76,8 @@
    "time": "4:15",
    "amount": {
     "unit": "mg",
-    "quantity": "25"
+    "quantity": "25",
+    "grams": 0.025
    },
    "administration": "oral",
    "substance": "5-MeO-DALT"
@@ -84,7 +86,8 @@
    "time": "10:40",
    "amount": {
     "unit": "mg",
-    "quantity": "50"
+    "quantity": "50",
+    "grams": 0.05
    },
    "administration": "oral",
    "substance": "AMT"

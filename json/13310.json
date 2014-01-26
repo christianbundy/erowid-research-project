@@ -35,7 +35,8 @@
    "time": "6:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1500"
+    "quantity": "1500",
+    "grams": 1.5
    },
    "administration": "oral",
    "substance": "Gabapentin"
@@ -73,7 +74,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "1.5"
+    "quantity": "1.5",
+    "grams": 0.0015
    },
    "administration": "sublingual",
    "substance": "Melatonin"

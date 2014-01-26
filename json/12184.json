@@ -25,7 +25,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "1"
+    "quantity": "1",
+    "grams": 0.001
    },
    "administration": "oral",
    "substance": "Risperidone",
@@ -47,7 +48,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Methylphenidate"
@@ -56,7 +58,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "47.5"
+    "quantity": "47.5",
+    "grams": 0.0475
    },
    "administration": "oral",
    "substance": "Metoprolol"
@@ -65,7 +68,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "10"
+    "quantity": "10",
+    "grams": 0.01
    },
    "administration": "oral",
    "substance": "Methylphenidate"
@@ -74,7 +78,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "47.5"
+    "quantity": "47.5",
+    "grams": 0.0475
    },
    "administration": "oral",
    "substance": "Metoprolol"

@@ -24,7 +24,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -34,7 +35,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "oral",
    "substance": "Bupropion",
@@ -44,7 +46,8 @@
    "time": "0:30",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "insufflated",
    "substance": "Bupropion",
@@ -54,7 +57,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "200"
+    "quantity": "200",
+    "grams": 0.2
    },
    "administration": "insufflated",
    "substance": "Bupropion",

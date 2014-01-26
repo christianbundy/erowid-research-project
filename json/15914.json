@@ -25,7 +25,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "240"
+    "quantity": "240",
+    "grams": 0.24
    },
    "administration": "oral",
    "substance": "DPT",

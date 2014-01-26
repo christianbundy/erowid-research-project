@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "2758"
+    "quantity": "2758",
+    "grams": 2.758
    },
    "administration": "oral",
    "substance": "Valerian",
@@ -25,7 +26,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "258"
+    "quantity": "258",
+    "grams": 0.258
    },
    "administration": "oral",
    "substance": "Catnip"
@@ -34,7 +36,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "130"
+    "quantity": "130",
+    "grams": 0.13
    },
    "administration": "oral",
    "substance": "Hops"

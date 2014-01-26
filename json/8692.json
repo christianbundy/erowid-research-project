@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "375"
+    "quantity": "375",
+    "grams": 0.375
    },
    "administration": "oral",
    "substance": "Diphenhydramine",
@@ -25,7 +26,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "150"
+    "quantity": "150",
+    "grams": 0.15
    },
    "administration": "oral",
    "substance": "Pseudoephedrine",
@@ -35,7 +37,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "165"
+    "quantity": "165",
+    "grams": 0.165
    },
    "administration": "oral",
    "substance": "Caffeine",
@@ -45,7 +48,8 @@
    "time": "1:00",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "smoked",
    "substance": "Cannabis",
@@ -55,7 +59,8 @@
    "time": "4:20",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "smoked",
    "substance": "Cannabis",

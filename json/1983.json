@@ -22,7 +22,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "rectal",
    "substance": "DXM",
@@ -32,7 +33,8 @@
    "time": "1:50",
    "amount": {
     "unit": "mg",
-    "quantity": "300"
+    "quantity": "300",
+    "grams": 0.3
    },
    "administration": "rectal",
    "substance": "DXM",
@@ -42,7 +44,8 @@
    "time": "2:45",
    "amount": {
     "unit": "mg",
-    "quantity": "500"
+    "quantity": "500",
+    "grams": 0.5
    },
    "administration": "rectal",
    "substance": "DXM",

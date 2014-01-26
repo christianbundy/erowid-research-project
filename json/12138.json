@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "55"
+    "quantity": "55",
+    "grams": 0.055
    },
    "administration": "oral",
    "substance": "Codeine",
@@ -52,7 +53,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "4"
+    "quantity": "4",
+    "grams": 0.004
    },
    "administration": "oral",
    "substance": "Clonazepam"
@@ -67,7 +69,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "2"
+    "quantity": "2",
+    "grams": 0.002
    },
    "administration": "oral",
    "substance": "Clonazepam"
@@ -87,7 +90,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "8"
+    "quantity": "8",
+    "grams": 0.008
    },
    "substance": "Chlorpheniramine Maleate"
   },
@@ -106,7 +110,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "17.5"
+    "quantity": "17.5",
+    "grams": 0.0175
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -115,7 +120,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "12.5"
+    "quantity": "12.5",
+    "grams": 0.0125
    },
    "administration": "oral",
    "substance": "Hydrocodone"
@@ -124,7 +130,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "35"
+    "quantity": "35",
+    "grams": 0.035
    },
    "administration": "oral",
    "substance": "Diphenhydramine"
@@ -133,7 +140,8 @@
    "time": "0:00",
    "amount": {
     "unit": "mg",
-    "quantity": "75"
+    "quantity": "75",
+    "grams": 0.075
    },
    "administration": "oral",
    "substance": "Pseudoephedrine"

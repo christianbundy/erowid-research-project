@@ -15,7 +15,8 @@
    "time": "0",
    "amount": {
     "unit": "mg",
-    "quantity": "4000"
+    "quantity": "4000",
+    "grams": 4
    },
    "administration": "oral",
    "substance": "Guarana",

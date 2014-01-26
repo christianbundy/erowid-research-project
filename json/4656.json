@@ -33,7 +33,8 @@
    "time": "4:30",
    "amount": {
     "unit": "mg",
-    "quantity": "250"
+    "quantity": "250",
+    "grams": 0.25
    },
    "administration": "insufflated",
    "substance": "Cocaine",
@@ -53,7 +54,8 @@
    "time": "6:15",
    "amount": {
     "unit": "mg",
-    "quantity": "400"
+    "quantity": "400",
+    "grams": 0.4
    },
    "administration": "insufflated",
    "substance": "Ketamine",
