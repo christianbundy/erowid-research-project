@@ -23,6 +23,10 @@ for (var i in files) {
           Experience[id].author = $('.author a').text();
           Experience[id].citation = $('.ts-citation').text();
           Experience[id].substance = $('.substance').text();
+          Experience[id].bodyweight = $('.bodyweight-amount').text();
+          //todo doseage
+          //todo footer
+          //todo report
           fs.writeFile(config.output + id + '.json', JSON.stringify(Experience[id], null, 1), function(err) {
             if(err) {
               console.log(err);
