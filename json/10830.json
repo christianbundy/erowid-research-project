@@ -12,13 +12,13 @@
  },
  "dose": [
   {
-   "time": "DOSE: T+ 2:00",
+   "time": "DOSE:2:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "BDB "
   },
   {
-   "time": " T+ 0:00",
+   "time": "0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "BDB "

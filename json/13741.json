@@ -12,14 +12,14 @@
  },
  "dose": [
   {
-   "time": "DOSE: T+ 3:00",
+   "time": "DOSE:3:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(capsule)"
   },
   {
-   "time": " T+ 0:00",
+   "time": "0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "MDMA",

@@ -12,14 +12,14 @@
  },
  "dose": [
   {
-   "time": "DOSE: T+ 17:00",
+   "time": "DOSE:17:00",
    "amount": "10 hits",
    "administration": "oral",
    "substance": "DOI",
    "form": "(blotter / tab)"
   },
   {
-   "time": " T+ 17:00",
+   "time": "17:00",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

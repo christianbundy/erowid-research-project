@@ -12,14 +12,14 @@
  },
  "dose": [
   {
-   "time": "DOSE: T+ 1:00",
+   "time": "DOSE:1:00",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": " T+ 0:00",
+   "time": "0:00",
    "amount": "300 ug",
    "administration": "insufflated",
    "substance": "Bromo-Dragonfly",
