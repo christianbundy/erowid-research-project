@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Vitamins - Niacin",
-   "form": "capsule"
+   "substance": "Vitamins",
+   "form": "capsule",
+   "specific": "Niacin"
   }
  ],
  "report": [

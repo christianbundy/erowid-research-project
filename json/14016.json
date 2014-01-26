@@ -28,8 +28,9 @@
   {
    "time": "2:15",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": ""
+   "substance": "Inhalants",
+   "form": "",
+   "specific": "Nitrites"
   },
   {
    "time": "2:35",
@@ -41,8 +42,9 @@
   {
    "time": "8:45",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": ""
+   "substance": "Inhalants",
+   "form": "",
+   "specific": "Nitrites"
   }
  ],
  "report": [

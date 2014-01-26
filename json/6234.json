@@ -29,15 +29,17 @@
    "time": "0:45",
    "amount": "1 cup",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "tea"
+   "substance": "Poppies",
+   "form": "tea",
+   "specific": "Opium"
   },
   {
    "time": "0:45",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "1:00",
@@ -57,8 +59,9 @@
    "time": "2:00",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "3:00",

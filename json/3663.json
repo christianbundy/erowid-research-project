@@ -14,14 +14,16 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Cacti - T. peruvianus",
-   "form": "tea"
+   "substance": "Cacti",
+   "form": "tea",
+   "specific": "T. peruvianus"
   },
   {
    "time": "3:00",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "tea"
+   "substance": "Cacti",
+   "form": "tea",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

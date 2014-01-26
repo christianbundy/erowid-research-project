@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "200 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "pill/tablet"
+   "substance": "Tryptophan",
+   "form": "pill/tablet",
+   "specific": "5-HTP"
   },
   {
    "time": "4:00",

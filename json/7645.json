@@ -15,14 +15,16 @@
    "time": "0",
    "amount": "225 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "BZP"
   },
   {
    "time": "3:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   }
  ],
  "report": [

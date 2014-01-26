@@ -29,8 +29,9 @@
    "time": "15:00",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": ""
+   "substance": "Tryptophan",
+   "form": "",
+   "specific": "5-HTP"
   }
  ],
  "report": [

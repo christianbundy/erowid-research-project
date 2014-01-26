@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "30 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "tea"
+   "substance": "Amanitas",
+   "form": "tea",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
@@ -36,8 +37,9 @@
    "time": "0",
    "amount": "66 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": ""
+   "substance": "Amanitas",
+   "form": "",
+   "specific": "A. muscaria"
   }
  ],
  "report": [

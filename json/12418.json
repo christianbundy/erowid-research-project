@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "150 mg",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": "dried"
+   "substance": "Products",
+   "form": "dried",
+   "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "24:00",
    "amount": "150 mg",
    "administration": "oral",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": "tea"
+   "substance": "Products",
+   "form": "tea",
+   "specific": "Spice and Synthetic Cannabinoids"
   }
  ],
  "report": [

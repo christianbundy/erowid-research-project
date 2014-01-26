@@ -21,8 +21,9 @@
   {
    "time": "0:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0:00",
@@ -35,8 +36,9 @@
    "time": "0:43",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

@@ -14,15 +14,17 @@
    "time": "0",
    "amount": "500 ml",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "tea"
+   "substance": "Poppies",
+   "form": "tea",
+   "specific": "Opium"
   },
   {
    "time": "0:30",
    "amount": "500 ml",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "tea"
+   "substance": "Poppies",
+   "form": "tea",
+   "specific": "Opium"
   }
  ],
  "report": [

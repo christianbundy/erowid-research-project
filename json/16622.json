@@ -28,8 +28,9 @@
    "time": "0",
    "amount": "125 mg",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "extract"
+   "substance": "Lotus/Lily",
+   "form": "extract",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
@@ -56,15 +57,17 @@
    "time": "0",
    "amount": "125 mg",
    "administration": "insufflated",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "extract"
+   "substance": "Lotus/Lily",
+   "form": "extract",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "3 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

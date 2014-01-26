@@ -36,8 +36,9 @@
    "time": "0",
    "amount": "6 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "daily"
+   "substance": "Alcohol",
+   "form": "daily",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

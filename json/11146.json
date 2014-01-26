@@ -36,22 +36,25 @@
    "time": "1:33",
    "amount": "2 joints/cigs",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "1:33",
    "amount": "10.8 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "2:32",
    "amount": "10.8 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "3:09",
@@ -64,15 +67,17 @@
    "time": "3:09",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "3:09",
    "amount": "10.8 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "3:47",
@@ -91,8 +96,9 @@
   {
    "time": "3:47",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "5:07",

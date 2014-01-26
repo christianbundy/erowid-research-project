@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "12 in",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "1:30",
@@ -33,8 +34,9 @@
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   }
  ],
  "report": [

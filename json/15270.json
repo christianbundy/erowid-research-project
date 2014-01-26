@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "TFMPP"
   },
   {
    "time": "3:00",

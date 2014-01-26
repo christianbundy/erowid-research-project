@@ -50,8 +50,9 @@
    "time": "0:45",
    "amount": "1.5 Tbsp",
    "administration": "oral",
-   "substance": "Lactuca - L. virosa",
-   "form": "tea"
+   "substance": "Lactuca",
+   "form": "tea",
+   "specific": "L. virosa"
   },
   {
    "time": "1:10",
@@ -71,14 +72,16 @@
    "time": "3:45",
    "amount": "1/4 tsp",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "extract"
+   "substance": "Lotus/Lily",
+   "form": "extract",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "3:45",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

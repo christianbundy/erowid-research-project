@@ -14,15 +14,17 @@
    "time": "0",
    "amount": "500 ml",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "tea"
+   "substance": "Cacti",
+   "form": "tea",
+   "specific": "T. pachanoi"
   },
   {
    "time": "1:00",
    "amount": "0.5 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   }
  ],
  "report": [

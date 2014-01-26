@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "40 oz",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "3:00",
@@ -71,15 +72,17 @@
    "time": "6:30",
    "amount": "750 ml",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "7:00",
    "amount": "750 ml",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   }
  ],
  "report": [

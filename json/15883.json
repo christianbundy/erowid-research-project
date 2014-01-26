@@ -22,21 +22,24 @@
    "time": "0:00",
    "amount": "90 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "BZP"
   },
   {
    "time": "0:00",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "TFMPP"
   },
   {
    "time": "0:25",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

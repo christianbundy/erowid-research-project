@@ -22,15 +22,17 @@
    "time": "0",
    "amount": "20 mg",
    "administration": "smoked",
-   "substance": "Piperazines - BZP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "BZP"
   },
   {
    "time": "0",
    "amount": "10 mg",
    "administration": "smoked",
-   "substance": "Piperazines - TFMPP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "TFMPP"
   }
  ],
  "report": [

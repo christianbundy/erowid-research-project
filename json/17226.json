@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "9 oz",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "2:00",
    "amount": "9 oz",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

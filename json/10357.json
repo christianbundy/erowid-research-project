@@ -22,8 +22,9 @@
    "time": "1:30",
    "amount": "4 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "3:00",

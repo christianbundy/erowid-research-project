@@ -21,21 +21,24 @@
    "time": "0",
    "amount": "1.85 in",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "1:30",
    "amount": "1.85 in",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "plant material"
+   "substance": "Cacti",
+   "form": "plant material",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

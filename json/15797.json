@@ -21,8 +21,9 @@
   {
    "time": "0",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "gas"
+   "substance": "Inhalants",
+   "form": "gas",
+   "specific": "Nitrites"
   },
   {
    "time": "0",
@@ -42,15 +43,17 @@
    "time": "0",
    "amount": "4.0 g",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   },
   {
    "time": "0",
    "amount": "1.875 gal",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

@@ -55,8 +55,9 @@
    "time": "8:00",
    "amount": "3 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "8:00",

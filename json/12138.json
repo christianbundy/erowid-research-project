@@ -48,8 +48,9 @@
   {
    "time": "0:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   },
   {
    "time": "0:00",
@@ -62,8 +63,9 @@
    "time": "0:00",
    "amount": "1 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": ""
+   "substance": "Mushrooms",
+   "form": "",
+   "specific": "P. cubensis"
   },
   {
    "time": "0:00",

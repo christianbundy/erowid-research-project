@@ -14,14 +14,16 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Mushrooms - C. cyanescens",
-   "form": "tea"
+   "substance": "Mushrooms",
+   "form": "tea",
+   "specific": "C. cyanescens"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "tea"
+   "substance": "Mushrooms",
+   "form": "tea",
+   "specific": "P. cubensis"
   }
  ],
  "report": [

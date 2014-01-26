@@ -14,15 +14,17 @@
    "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Lactuca - L. virosa",
-   "form": "dried"
+   "substance": "Lactuca",
+   "form": "dried",
+   "specific": "L. virosa"
   },
   {
    "time": "0:15",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Poppies - California",
-   "form": "dried"
+   "substance": "Poppies",
+   "form": "dried",
+   "specific": "California"
   },
   {
    "time": "0:20",

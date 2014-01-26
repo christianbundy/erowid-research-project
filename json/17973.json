@@ -15,12 +15,14 @@
    "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "Piperazines - BZP"
+   "substance": "Piperazines",
+   "specific": "BZP"
   },
   {
    "time": "2:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard"
+   "substance": "Alcohol",
+   "specific": "Hard"
   }
  ],
  "report": [

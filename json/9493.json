@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "200 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "0:00",
@@ -29,8 +30,9 @@
    "time": "2:15",
    "amount": "120 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "2:15",

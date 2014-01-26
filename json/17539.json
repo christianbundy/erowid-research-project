@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "liquid"
+   "substance": "Inhalants",
+   "form": "liquid",
+   "specific": "Nitrites"
   }
  ],
  "report": [

@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "insufflated",
-   "substance": "Products - Bath Salts, Plant Food, etc",
-   "form": "powder/crystals"
+   "substance": "Products",
+   "form": "powder/crystals",
+   "specific": "Bath Salts, Plant Food, etc"
   },
   {
    "time": "2:00",
    "amount": "18 mg",
    "administration": "insufflated",
-   "substance": "Products - Bath Salts, Plant Food, etc",
-   "form": "powder/crystals"
+   "substance": "Products",
+   "form": "powder/crystals",
+   "specific": "Bath Salts, Plant Food, etc"
   }
  ],
  "report": [

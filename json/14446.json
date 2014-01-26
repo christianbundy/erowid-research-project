@@ -29,15 +29,17 @@
    "time": "0:10",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",
    "amount": "1 shot",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0:25",

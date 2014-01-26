@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "500 mg",
    "administration": "oral",
-   "substance": "Tryptophan - L-Tryptophan",
-   "form": "daily"
+   "substance": "Tryptophan",
+   "form": "daily",
+   "specific": "L-Tryptophan"
   },
   {
    "time": "0",

@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "BZP"
   },
   {
    "time": "2:00",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "BZP"
   }
  ],
  "report": [

@@ -15,13 +15,15 @@
    "time": "0",
    "amount": "1.0 g",
    "administration": "smoked",
-   "substance": "Mushrooms - P. cyanescens"
+   "substance": "Mushrooms",
+   "specific": "P. cyanescens"
   },
   {
    "time": "0",
    "amount": "1.0 g",
    "administration": "smoked",
-   "substance": "Mushrooms - P. semilanceata"
+   "substance": "Mushrooms",
+   "specific": "P. semilanceata"
   }
  ],
  "report": [

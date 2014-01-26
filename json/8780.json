@@ -29,8 +29,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "dried"
+   "substance": "Tobacco",
+   "form": "dried",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",

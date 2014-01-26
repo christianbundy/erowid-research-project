@@ -22,8 +22,9 @@
    "time": "1:30",
    "amount": "1 hit",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "gas"
+   "substance": "Inhalants",
+   "form": "gas",
+   "specific": "Nitrites"
   },
   {
    "time": "0:00",
@@ -42,8 +43,9 @@
   {
    "time": "4:00",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   }
  ],
  "report": [

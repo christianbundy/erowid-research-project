@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "1 Tbsp",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "tea"
+   "substance": "Lotus/Lily",
+   "form": "tea",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "1 flower",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea alba",
-   "form": "tea"
+   "substance": "Lotus/Lily",
+   "form": "tea",
+   "specific": "Nymphaea alba"
   }
  ],
  "report": [

@@ -29,8 +29,9 @@
    "time": "0",
    "amount": "4 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0",

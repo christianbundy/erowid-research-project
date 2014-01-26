@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "75 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "daily"
+   "substance": "Tryptophan",
+   "form": "daily",
+   "specific": "5-HTP"
   }
  ],
  "report": [

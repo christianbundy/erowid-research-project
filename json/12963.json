@@ -14,8 +14,9 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Poppies - Opium",
-   "form": "extract"
+   "substance": "Poppies",
+   "form": "extract",
+   "specific": "Opium"
   },
   {
    "time": "0",
@@ -26,8 +27,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "extract"
+   "substance": "Poppies",
+   "form": "extract",
+   "specific": "Opium"
   }
  ],
  "report": [

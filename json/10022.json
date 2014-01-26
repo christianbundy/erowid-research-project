@@ -15,7 +15,8 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Lotus/Lily - Nelumbo nucifera"
+   "substance": "Lotus/Lily",
+   "specific": "Nelumbo nucifera"
   },
   {
    "time": "0",
@@ -25,12 +26,14 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nelumbo nucifera"
+   "substance": "Lotus/Lily",
+   "specific": "Nelumbo nucifera"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Hard"
+   "substance": "Alcohol",
+   "specific": "Hard"
   }
  ],
  "report": [

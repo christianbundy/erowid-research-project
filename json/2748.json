@@ -15,22 +15,25 @@
    "time": "0",
    "amount": "150 ",
    "administration": "oral",
-   "substance": "Mushrooms - P. semilanceata",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. semilanceata"
   },
   {
    "time": "0",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",
    "amount": "125 ",
    "administration": "oral",
-   "substance": "Mushrooms - P. semilanceata",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. semilanceata"
   },
   {
    "time": "0",
@@ -42,8 +45,9 @@
    "time": "0",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

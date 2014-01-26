@@ -28,8 +28,9 @@
    "time": "0",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "pill/tablet"
+   "substance": "Tryptophan",
+   "form": "pill/tablet",
+   "specific": "5-HTP"
   },
   {
    "time": "2:00",
@@ -42,8 +43,9 @@
    "time": "8:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "pill/tablet"
+   "substance": "Tryptophan",
+   "form": "pill/tablet",
+   "specific": "5-HTP"
   }
  ],
  "report": [

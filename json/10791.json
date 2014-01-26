@@ -15,22 +15,25 @@
    "time": "0",
    "amount": "4.0 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "dried"
+   "substance": "Amanitas",
+   "form": "dried",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "amount": "4.0 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "tea"
+   "substance": "Amanitas",
+   "form": "tea",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "amount": "4.0 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "capsule"
+   "substance": "Amanitas",
+   "form": "capsule",
+   "specific": "A. muscaria"
   }
  ],
  "report": [

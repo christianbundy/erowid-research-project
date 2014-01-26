@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   },
   {
    "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",

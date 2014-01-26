@@ -15,29 +15,33 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "BZP"
   },
   {
    "time": "0:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "TFMPP"
   },
   {
    "time": "1:30",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "BZP"
   },
   {
    "time": "1:30",
    "amount": "25 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "TFMPP"
   }
  ],
  "report": [

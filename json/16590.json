@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "20 g",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea alba",
-   "form": "extract"
+   "substance": "Lotus/Lily",
+   "form": "extract",
+   "specific": "Nymphaea alba"
   },
   {
    "time": "0",
    "amount": "1000 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

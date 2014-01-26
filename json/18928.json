@@ -29,8 +29,9 @@
    "time": "0:15",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "0:30",
@@ -43,8 +44,9 @@
    "time": "0:45",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "0:50",
@@ -57,8 +59,9 @@
    "time": "1:05",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "1:35",
@@ -71,8 +74,9 @@
    "time": "1:45",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

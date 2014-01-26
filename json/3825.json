@@ -21,8 +21,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "cookie/food"
+   "substance": "Amanitas",
+   "form": "cookie/food",
+   "specific": "A. muscaria"
   },
   {
    "time": "1:00",
@@ -34,8 +35,9 @@
   {
    "time": "0",
    "administration": "",
-   "substance": "Amanitas - A. muscaria",
-   "form": "cookie/food"
+   "substance": "Amanitas",
+   "form": "cookie/food",
+   "specific": "A. muscaria"
   }
  ],
  "report": [

@@ -15,13 +15,15 @@
    "time": "0",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Hard"
+   "substance": "Alcohol",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes"
+   "substance": "Tobacco",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",

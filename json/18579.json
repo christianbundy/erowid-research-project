@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "5 caps",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   },
   {
    "time": "0:00",
@@ -28,8 +29,9 @@
    "time": "0:00",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "5:00",

@@ -15,22 +15,25 @@
    "time": "0",
    "amount": "2 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",
    "amount": "0.5 oz",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "extract"
+   "substance": "Lotus/Lily",
+   "form": "extract",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "dried"
+   "substance": "Lotus/Lily",
+   "form": "dried",
+   "specific": "Nymphaea nouchali var caerulea"
   }
  ],
  "report": [

@@ -22,8 +22,9 @@
    "time": "0:00",
    "amount": "840 mg",
    "administration": "oral",
-   "substance": "Vitamins - Choline",
-   "form": "daily"
+   "substance": "Vitamins",
+   "form": "daily",
+   "specific": "Choline"
   },
   {
    "time": "6:00",
@@ -36,8 +37,9 @@
    "time": "6:00",
    "amount": "840 mg",
    "administration": "oral",
-   "substance": "Vitamins - Choline",
-   "form": "daily"
+   "substance": "Vitamins",
+   "form": "daily",
+   "specific": "Choline"
   },
   {
    "time": "11:00",
@@ -50,8 +52,9 @@
    "time": "11:00",
    "amount": "840 mg",
    "administration": "oral",
-   "substance": "Vitamins - Choline",
-   "form": "daily"
+   "substance": "Vitamins",
+   "form": "daily",
+   "specific": "Choline"
   }
  ],
  "report": [

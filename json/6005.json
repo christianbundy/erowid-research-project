@@ -14,15 +14,17 @@
    "time": "0",
    "amount": "30 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "dried"
+   "substance": "Amanitas",
+   "form": "dried",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "amount": "0.5 cups",
    "administration": "oral",
-   "substance": "Amanitas - A. pantherina",
-   "form": "fresh"
+   "substance": "Amanitas",
+   "form": "fresh",
+   "specific": "A. pantherina"
   }
  ],
  "report": [

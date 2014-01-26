@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "1.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   },
   {
    "time": "0:30",
@@ -36,8 +37,9 @@
    "time": "0:00",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "capsule"
+   "substance": "Tryptophan",
+   "form": "capsule",
+   "specific": "5-HTP"
   }
  ],
  "report": [

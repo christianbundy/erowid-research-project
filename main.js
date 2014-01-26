@@ -1,18 +1,20 @@
 var fs = require('graceful-fs'); // Queues fs.readFile()
 var dive = require('dive');      // Recursive dir walking
 
+collection = {};
+
 var main = function(e) {
 	if (typeof e.dose !== 'undefined') {
 		for (var i = 0; i < e.dose.length; i++) {
-			if (typeof e.dose[i].substance !== 'undefined') {
-				e.dose[i].substance = e.dose[i].substance.replace('Pharms - ', '')
+			if (typeof e.dose[i].form == '') {
+				delete e.dose[i].form
 			}
 		};
 	}
 	return e;
 }
 
-dive(__dirname + '/json', function (err, file) {
+dive(__dirname + '/json', { all: false }, function (err, file) {
 	fs.readFile(file, function (err, contents) {
 		if (err) throw err;
 		var value = main(JSON.parse(contents));
@@ -22,4 +24,8 @@ dive(__dirname + '/json', function (err, file) {
 			});
 		}
 	})
+}, function () {
+	fs.writeFile('./log', JSON.stringify(collection, null, 1) + "\r\n", function(err) {
+				if (err) throw err;
+			});
 });

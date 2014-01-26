@@ -22,8 +22,9 @@
    "time": "1:00",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "3:00",
@@ -36,8 +37,9 @@
    "time": "0:00",
    "amount": "1 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

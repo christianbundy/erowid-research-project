@@ -67,8 +67,9 @@
    "time": "19:45",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "pill/tablet"
+   "substance": "Tryptophan",
+   "form": "pill/tablet",
+   "specific": "5-HTP"
   }
  ],
  "report": [

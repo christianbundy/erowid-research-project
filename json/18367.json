@@ -14,14 +14,16 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "tar/resin"
+   "substance": "Cacti",
+   "form": "tar/resin",
+   "specific": "T. pachanoi"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0",

@@ -28,14 +28,16 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": ""
+   "substance": "Inhalants",
+   "form": "",
+   "specific": "Nitrites"
   },
   {
    "time": "0",

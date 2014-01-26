@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "2 Tbsp",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "tea"
+   "substance": "Lotus/Lily",
+   "form": "tea",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "6 bowls",
    "administration": "smoked",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "ground/crushed"
+   "substance": "Lotus/Lily",
+   "form": "ground/crushed",
+   "specific": "Nymphaea nouchali var caerulea"
   }
  ],
  "report": [

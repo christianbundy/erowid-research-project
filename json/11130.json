@@ -36,15 +36,17 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Tryptophan - L-Tryptophan",
-   "form": "ground/crushed"
+   "substance": "Tryptophan",
+   "form": "ground/crushed",
+   "specific": "L-Tryptophan"
   },
   {
    "time": "0",
    "amount": "200 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "ground/crushed"
+   "substance": "Tryptophan",
+   "form": "ground/crushed",
+   "specific": "5-HTP"
   },
   {
    "time": "0",

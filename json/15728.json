@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "15 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. cubensis"
   },
   {
    "time": "3:00",
    "amount": "20 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. cubensis"
   }
  ],
  "report": [

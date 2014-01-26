@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "1 hit",
    "administration": "smoked",
-   "substance": "Products - Smoking Blends - Cannabis-Like",
-   "form": "plant material"
+   "substance": "Products",
+   "form": "plant material",
+   "specific": "Smoking Blends"
   },
   {
    "time": "0:20",
    "amount": "1.5 caps",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "tea"
+   "substance": "Amanitas",
+   "form": "tea",
+   "specific": "A. muscaria"
   }
  ],
  "report": [

@@ -22,8 +22,9 @@
    "time": "0",
    "amount": "500 mg",
    "administration": "oral",
-   "substance": "Piperazines - Nefazodone",
-   "form": "daily"
+   "substance": "Piperazines",
+   "form": "daily",
+   "specific": "Nefazodone"
   }
  ],
  "report": [

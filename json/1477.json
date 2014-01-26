@@ -22,8 +22,9 @@
    "time": "0",
    "amount": "60 oz",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

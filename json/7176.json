@@ -22,8 +22,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "gas"
+   "substance": "Inhalants",
+   "form": "gas",
+   "specific": "Nitrites"
   }
  ],
  "report": [

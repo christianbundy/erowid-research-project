@@ -33,7 +33,8 @@
    "time": "6:30",
    "amount": "2 flowers",
    "administration": "oral",
-   "substance": "Poppies - Opium"
+   "substance": "Poppies",
+   "specific": "Opium"
   },
   {
    "time": "6:45",
@@ -45,7 +46,8 @@
    "time": "10:00",
    "amount": "6 flowers",
    "administration": "oral",
-   "substance": "Poppies - Opium"
+   "substance": "Poppies",
+   "specific": "Opium"
   }
  ],
  "report": [

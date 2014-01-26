@@ -29,8 +29,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   }
  ],
  "report": [

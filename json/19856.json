@@ -15,14 +15,16 @@
    "time": "0",
    "amount": "2 oz",
    "administration": "oral",
-   "substance": "Cacti - T. bridgesii",
-   "form": "dried"
+   "substance": "Cacti",
+   "form": "dried",
+   "specific": "T. bridgesii"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

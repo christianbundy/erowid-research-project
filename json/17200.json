@@ -21,13 +21,15 @@
    "time": "0",
    "amount": "2 ",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",
    "amount": "2 ",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes"
+   "substance": "Tobacco",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

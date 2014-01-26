@@ -34,8 +34,9 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   },
   {
    "time": "0",
@@ -46,8 +47,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": ""
+   "substance": "Tryptophan",
+   "form": "",
+   "specific": "5-HTP"
   }
  ],
  "report": [

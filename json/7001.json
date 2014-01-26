@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. semilanceata",
-   "form": "tea"
+   "substance": "Mushrooms",
+   "form": "tea",
+   "specific": "P. semilanceata"
   },
   {
    "time": "4:00",
    "amount": "2.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. semilanceata",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. semilanceata"
   }
  ],
  "report": [

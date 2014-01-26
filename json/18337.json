@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "0:00",
@@ -43,8 +45,9 @@
    "time": "1:30",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "1:30",

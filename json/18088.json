@@ -43,8 +43,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cacti - T. pachanoi",
-   "form": "plant material"
+   "substance": "Cacti",
+   "form": "plant material",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

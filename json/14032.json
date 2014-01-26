@@ -22,8 +22,9 @@
    "time": "0:40",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "2:10",
@@ -64,8 +65,9 @@
    "time": "17:20",
    "amount": "2 joints/cigs",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "17:20",

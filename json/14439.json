@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "1000 ml",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "daily"
+   "substance": "Alcohol",
+   "form": "daily",
+   "specific": "Hard"
   }
  ],
  "report": [

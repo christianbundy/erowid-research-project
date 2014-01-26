@@ -29,8 +29,9 @@
    "time": "4:00",
    "amount": "24 oz",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "6:00",

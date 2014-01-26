@@ -15,43 +15,49 @@
    "time": "0",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Piperazines - MeOPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "MeOPP"
   },
   {
    "time": "0:00",
    "amount": "30 mg",
    "administration": "oral",
-   "substance": "Piperazines - mCPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "mCPP"
   },
   {
    "time": "1:00",
    "amount": "30 mg",
    "administration": "oral",
-   "substance": "Piperazines - mCPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "mCPP"
   },
   {
    "time": "1:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Piperazines - MeOPP",
-   "form": "capsule"
+   "substance": "Piperazines",
+   "form": "capsule",
+   "specific": "MeOPP"
   },
   {
    "time": "5:00",
    "amount": "15 mg",
    "administration": "insufflated",
-   "substance": "Piperazines - MeOPP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "MeOPP"
   },
   {
    "time": "5:00",
    "amount": "15 mg",
    "administration": "insufflated",
-   "substance": "Piperazines - mCPP",
-   "form": "powder/crystals"
+   "substance": "Piperazines",
+   "form": "powder/crystals",
+   "specific": "mCPP"
   }
  ],
  "report": [

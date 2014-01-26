@@ -22,8 +22,9 @@
    "time": "0:15",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "1:27",
@@ -36,8 +37,9 @@
    "time": "1:48",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

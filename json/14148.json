@@ -40,14 +40,16 @@
    "time": "0",
    "amount": "3 shots",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Vitamins - Niacin",
-   "form": ""
+   "substance": "Vitamins",
+   "form": "",
+   "specific": "Niacin"
   },
   {
    "time": "0",
@@ -59,8 +61,9 @@
    "time": "0",
    "amount": "2 g",
    "administration": "oral",
-   "substance": "Smarts - Phenibut",
-   "form": ""
+   "substance": "Smarts",
+   "form": "",
+   "specific": "Phenibut"
   }
  ],
  "report": [

@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "400 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "capsule"
+   "substance": "Tryptophan",
+   "form": "capsule",
+   "specific": "5-HTP"
   }
  ],
  "report": [

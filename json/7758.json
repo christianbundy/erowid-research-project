@@ -29,22 +29,25 @@
    "time": "1:30",
    "amount": "1 glass",
    "administration": "",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "5:00",
    "amount": "2 glasses",
    "administration": "",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
    "amount": "1 repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

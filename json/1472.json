@@ -34,15 +34,17 @@
    "time": "2:00",
    "amount": "0.5 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": ""
+   "substance": "Mushrooms",
+   "form": "",
+   "specific": "P. cubensis"
   },
   {
    "time": "10:00",
    "amount": "1 cup",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

@@ -35,8 +35,9 @@
   {
    "time": "3:45",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   },
   {
    "time": "6:30",
@@ -48,8 +49,9 @@
   {
    "time": "6:30",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   },
   {
    "time": "7:00",
@@ -61,8 +63,9 @@
   {
    "time": "7:00",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   }
  ],
  "report": [

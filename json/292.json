@@ -14,8 +14,9 @@
    "time": "0",
    "amount": "1.4 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. semilanceata",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. semilanceata"
   },
   {
    "time": "1:00",
@@ -28,8 +29,9 @@
    "time": "0",
    "amount": "3.0 g",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   },
   {
    "time": "0",
@@ -41,8 +43,9 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

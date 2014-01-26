@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "5.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. cubensis"
   },
   {
    "time": "0:45",
    "amount": "4 oz",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "cookie/food"
+   "substance": "Alcohol",
+   "form": "cookie/food",
+   "specific": "Hard"
   },
   {
    "time": "1:15",

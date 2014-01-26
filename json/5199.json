@@ -14,8 +14,9 @@
   {
    "time": "0",
    "administration": "",
-   "substance": "Lactuca - L. virosa",
-   "form": "extract"
+   "substance": "Lactuca",
+   "form": "extract",
+   "specific": "L. virosa"
   },
   {
    "time": "0",
@@ -26,8 +27,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "leaves"
+   "substance": "Alcohol",
+   "form": "leaves",
+   "specific": "Hard"
   },
   {
    "time": "0",

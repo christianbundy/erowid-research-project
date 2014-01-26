@@ -29,8 +29,9 @@
    "time": "0",
    "amount": "0.2 joints/cigs",
    "administration": "inhaled",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "plant material"
+   "substance": "Lotus/Lily",
+   "form": "plant material",
+   "specific": "Nymphaea nouchali var caerulea"
   }
  ],
  "report": [

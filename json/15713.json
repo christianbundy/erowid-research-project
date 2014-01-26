@@ -14,8 +14,9 @@
    "time": "0",
    "amount": "20 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. cubensis"
   },
   {
    "time": "0",
@@ -27,8 +28,9 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   }
  ],
  "report": [

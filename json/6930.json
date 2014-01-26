@@ -15,7 +15,8 @@
    "time": "0",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP"
+   "substance": "Tryptophan",
+   "specific": "5-HTP"
   },
   {
    "time": "0",
@@ -44,7 +45,8 @@
   {
    "time": "3:30",
    "administration": "oral",
-   "substance": "Poppies - Opium"
+   "substance": "Poppies",
+   "specific": "Opium"
   },
   {
    "time": "(tea)",

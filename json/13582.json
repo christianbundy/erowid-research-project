@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "42.5 g",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "dried"
+   "substance": "Cacti",
+   "form": "dried",
+   "specific": "T. pachanoi"
   },
   {
    "time": "2:00",
    "amount": "27.5 g",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "dried"
+   "substance": "Cacti",
+   "form": "dried",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

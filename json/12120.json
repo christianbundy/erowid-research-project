@@ -22,8 +22,9 @@
    "time": "0:30",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Phenethylamines - Other",
-   "form": "daily"
+   "substance": "Phenethylamines",
+   "form": "daily",
+   "specific": "Other"
   }
  ],
  "report": [

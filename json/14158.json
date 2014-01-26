@@ -43,8 +43,9 @@
    "time": "8:00",
    "amount": "2 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

@@ -15,22 +15,25 @@
    "time": "0",
    "amount": "7.0 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "plant material"
+   "substance": "Amanitas",
+   "form": "plant material",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "amount": "14 g",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "plant material"
+   "substance": "Lotus/Lily",
+   "form": "plant material",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "1500 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

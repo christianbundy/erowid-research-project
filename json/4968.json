@@ -14,15 +14,17 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Lactuca - L. virosa",
-   "form": "extract"
+   "substance": "Lactuca",
+   "form": "extract",
+   "specific": "L. virosa"
   },
   {
    "time": "0:10",
    "amount": "2 lines",
    "administration": "insufflated",
-   "substance": "Lactuca - L. virosa",
-   "form": "extract"
+   "substance": "Lactuca",
+   "form": "extract",
+   "specific": "L. virosa"
   }
  ],
  "report": [

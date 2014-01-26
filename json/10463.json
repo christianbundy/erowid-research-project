@@ -22,15 +22,17 @@
    "time": "0:00",
    "amount": "300 mg",
    "administration": "oral",
-   "substance": "Barbiturates - Phenobarbital",
-   "form": "pill/tablet"
+   "substance": "Barbiturates",
+   "form": "pill/tablet",
+   "specific": "Phenobarbital"
   },
   {
    "time": "1:00",
    "amount": "240 mg",
    "administration": "oral",
-   "substance": "Barbiturates - Phenobarbital",
-   "form": "pill/tablet"
+   "substance": "Barbiturates",
+   "form": "pill/tablet",
+   "specific": "Phenobarbital"
   }
  ],
  "report": [

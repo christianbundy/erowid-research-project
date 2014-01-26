@@ -21,21 +21,24 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",

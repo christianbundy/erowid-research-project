@@ -14,8 +14,9 @@
    "time": "0",
    "amount": "5.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. mexicana",
-   "form": "tea"
+   "substance": "Mushrooms",
+   "form": "tea",
+   "specific": "P. mexicana"
   },
   {
    "time": "0",
@@ -28,8 +29,9 @@
    "time": "0",
    "amount": "4 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

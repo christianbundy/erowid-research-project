@@ -15,14 +15,16 @@
    "time": "0",
    "amount": "200 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": "daily"
+   "substance": "Tryptophan",
+   "form": "daily",
+   "specific": "5-HTP"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Vitamins - Niacin",
-   "form": "daily"
+   "substance": "Vitamins",
+   "form": "daily",
+   "specific": "Niacin"
   }
  ],
  "report": [

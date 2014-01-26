@@ -29,8 +29,9 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Tryptophan - 5-HTP",
-   "form": ""
+   "substance": "Tryptophan",
+   "form": "",
+   "specific": "5-HTP"
   },
   {
    "time": "0",
@@ -78,8 +79,9 @@
    "time": "0",
    "amount": "10 joints/cigs",
    "administration": "inhaled",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "0",

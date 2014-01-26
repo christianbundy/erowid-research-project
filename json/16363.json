@@ -15,29 +15,33 @@
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "0:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "TFMPP"
   },
   {
    "time": "4:00",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "4:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "TFMPP"
   },
   {
    "time": "5:00",

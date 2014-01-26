@@ -21,15 +21,17 @@
    "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cyanescens"
   },
   {
    "time": "0:50",
    "amount": "1.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cyanescens"
   }
  ],
  "report": [

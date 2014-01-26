@@ -14,8 +14,9 @@
    "time": "0",
    "amount": "437.5 g",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "tea"
+   "substance": "Poppies",
+   "form": "tea",
+   "specific": "Opium"
   },
   {
    "time": "0",
@@ -28,8 +29,9 @@
    "time": "0",
    "amount": "6 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

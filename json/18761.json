@@ -29,15 +29,17 @@
    "time": "0",
    "amount": "1 shot",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

@@ -22,8 +22,9 @@
    "time": "1:00",
    "amount": "1000 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "2:50",
@@ -50,8 +51,9 @@
    "time": "9:30",
    "amount": "250 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "14:00",

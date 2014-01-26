@@ -27,7 +27,8 @@
    "time": "0",
    "amount": "2 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",
@@ -39,13 +40,15 @@
    "time": "0",
    "amount": "2 shots",
    "administration": "oral",
-   "substance": "Alcohol - Hard"
+   "substance": "Alcohol",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",

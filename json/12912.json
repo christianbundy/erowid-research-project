@@ -15,29 +15,33 @@
    "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": "plant material"
+   "substance": "Products",
+   "form": "plant material",
+   "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "1:00",
    "amount": "1 bowl",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": "plant material"
+   "substance": "Products",
+   "form": "plant material",
+   "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "2:00",
    "amount": "1.5 oz",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   },
   {
    "time": "2:00",
    "amount": "1 bowl",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": "plant material"
+   "substance": "Products",
+   "form": "plant material",
+   "specific": "Spice and Synthetic Cannabinoids"
   }
  ],
  "report": [

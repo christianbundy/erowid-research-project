@@ -14,8 +14,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   },
   {
    "time": "0",
@@ -28,8 +29,9 @@
    "time": "0",
    "amount": "30 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. mexicana",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. mexicana"
   },
   {
    "time": "0",

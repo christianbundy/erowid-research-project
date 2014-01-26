@@ -28,8 +28,9 @@
    "time": "1:00",
    "amount": "1.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   }
  ],
  "report": [

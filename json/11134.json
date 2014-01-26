@@ -22,15 +22,17 @@
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   },
   {
    "time": "12:00",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "plant material"
+   "substance": "Cannabis",
+   "form": "plant material",
+   "specific": "Hash"
   }
  ],
  "report": [

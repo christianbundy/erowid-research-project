@@ -14,7 +14,8 @@
   {
    "time": "0",
    "administration": "",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",
@@ -26,7 +27,8 @@
    "time": "0",
    "amount": "2 hits",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes"
+   "substance": "Tobacco",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

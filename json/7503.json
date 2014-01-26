@@ -28,8 +28,9 @@
   {
    "time": "5:00",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "9:00",
@@ -40,8 +41,9 @@
   {
    "time": "17:00",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "21:00",
@@ -67,8 +69,9 @@
   {
    "time": "31:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   },
   {
    "time": "0:00",
@@ -87,8 +90,9 @@
    "time": "0:00",
    "amount": "10 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. tampanensis",
-   "form": "plant material"
+   "substance": "Mushrooms",
+   "form": "plant material",
+   "specific": "P. tampanensis"
   },
   {
    "time": "0:00",

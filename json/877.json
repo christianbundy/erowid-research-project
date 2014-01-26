@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "3.5 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. mexicana",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. mexicana"
   },
   {
    "time": "0",
    "amount": "3.5 g",
    "administration": "oral",
-   "substance": "Mushrooms - C. cyanescens",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "C. cyanescens"
   }
  ],
  "report": [

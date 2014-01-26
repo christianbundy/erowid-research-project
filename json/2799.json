@@ -13,14 +13,16 @@
    "time": "0",
    "amount": "10 g",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "dried"
+   "substance": "Lotus/Lily",
+   "form": "dried",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

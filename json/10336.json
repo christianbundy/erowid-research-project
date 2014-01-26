@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "70 g",
    "administration": "oral",
-   "substance": "Cacti - T. peruvianus",
-   "form": "tea"
+   "substance": "Cacti",
+   "form": "tea",
+   "specific": "T. peruvianus"
   },
   {
    "time": "0:45",
@@ -29,8 +30,9 @@
    "time": "0:45",
    "amount": "70 g",
    "administration": "oral",
-   "substance": "Cacti - T. peruvianus",
-   "form": "tea"
+   "substance": "Cacti",
+   "form": "tea",
+   "specific": "T. peruvianus"
   }
  ],
  "report": [

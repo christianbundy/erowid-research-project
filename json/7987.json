@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "14 ",
    "administration": "oral",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. cyanescens"
   },
   {
    "time": "24:00",
    "amount": "7 ",
    "administration": "oral",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cyanescens"
   },
   {
    "time": "24:00",

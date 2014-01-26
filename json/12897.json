@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "4 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   },
   {
    "time": "2:45",
    "amount": "2 bowls",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": ""
+   "substance": "Products",
+   "form": "",
+   "specific": "Spice and Synthetic Cannabinoids"
   }
  ],
  "report": [

@@ -35,21 +35,24 @@
   {
    "time": "2:30",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "gas"
+   "substance": "Inhalants",
+   "form": "gas",
+   "specific": "Nitrites"
   },
   {
    "time": "2:45",
    "amount": "3.5 hits",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "14:20",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

@@ -43,8 +43,9 @@
    "time": "1:00",
    "amount": "4 shots",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Hard"
   }
  ],
  "report": [

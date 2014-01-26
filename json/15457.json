@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "15 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. tampanensis",
-   "form": "plant material"
+   "substance": "Mushrooms",
+   "form": "plant material",
+   "specific": "P. tampanensis"
   },
   {
    "time": "0",
@@ -27,8 +28,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Cannabis - Hash",
-   "form": "cookie/food"
+   "substance": "Cannabis",
+   "form": "cookie/food",
+   "specific": "Hash"
   }
  ],
  "report": [

@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "tea"
+   "substance": "Poppies",
+   "form": "tea",
+   "specific": "Opium"
   },
   {
    "time": "0",
    "amount": "0.5 bowls",
    "administration": "smoked",
-   "substance": "Poppies - Opium",
-   "form": "extract"
+   "substance": "Poppies",
+   "form": "extract",
+   "specific": "Opium"
   }
  ],
  "report": [

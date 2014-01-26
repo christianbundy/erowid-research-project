@@ -22,8 +22,9 @@
    "time": "0:00",
    "amount": "1 cap",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "plant material"
+   "substance": "Amanitas",
+   "form": "plant material",
+   "specific": "A. muscaria"
   },
   {
    "time": "1:30",
@@ -36,8 +37,9 @@
    "time": "1:30",
    "amount": "1 cap",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "plant material"
+   "substance": "Amanitas",
+   "form": "plant material",
+   "specific": "A. muscaria"
   }
  ],
  "report": [

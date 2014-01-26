@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Barbiturates - Phenobarbital",
-   "form": "pill/tablet"
+   "substance": "Barbiturates",
+   "form": "pill/tablet",
+   "specific": "Phenobarbital"
   }
  ],
  "report": [

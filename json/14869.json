@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "500 mg",
    "administration": "oral",
-   "substance": "Vitamins - Niacin",
-   "form": "daily"
+   "substance": "Vitamins",
+   "form": "daily",
+   "specific": "Niacin"
   }
  ],
  "report": [

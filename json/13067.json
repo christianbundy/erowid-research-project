@@ -26,7 +26,8 @@
    "time": "4:15",
    "amount": "1 hit",
    "administration": "smoked",
-   "substance": "Cannabis - Hash"
+   "substance": "Cannabis",
+   "specific": "Hash"
   },
   {
    "time": "6:00",
@@ -37,7 +38,8 @@
    "time": "6:30",
    "amount": "1 hit",
    "administration": "smoked",
-   "substance": "Cannabis - Hash"
+   "substance": "Cannabis",
+   "specific": "Hash"
   }
  ],
  "report": [

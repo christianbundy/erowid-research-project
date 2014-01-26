@@ -13,14 +13,16 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "tar/resin"
+   "substance": "Cannabis",
+   "form": "tar/resin",
+   "specific": "Hash"
   }
  ],
  "report": [

@@ -14,8 +14,9 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Mushrooms - P. tampanensis",
-   "form": "ground/crushed"
+   "substance": "Mushrooms",
+   "form": "ground/crushed",
+   "specific": "P. tampanensis"
   },
   {
    "time": "0",
@@ -26,8 +27,9 @@
   {
    "time": "0",
    "administration": "inhaled",
-   "substance": "Tobacco - Cigarettes",
-   "form": "plant material"
+   "substance": "Tobacco",
+   "form": "plant material",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

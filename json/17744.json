@@ -15,7 +15,8 @@
    "time": "0",
    "amount": "1000 mg",
    "administration": "",
-   "substance": "Smarts - Phenibut"
+   "substance": "Smarts",
+   "specific": "Phenibut"
   },
   {
    "time": "0",
@@ -27,7 +28,8 @@
    "time": "0",
    "amount": "3 glasses",
    "administration": "",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

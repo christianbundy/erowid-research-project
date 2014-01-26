@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "490 g",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "extract"
+   "substance": "Cacti",
+   "form": "extract",
+   "specific": "T. pachanoi"
   },
   {
    "time": "0:35",
@@ -28,8 +29,9 @@
    "time": "4:20",
    "amount": "172 g",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "plant material"
+   "substance": "Cacti",
+   "form": "plant material",
+   "specific": "T. pachanoi"
   }
  ],
  "report": [

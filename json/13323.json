@@ -20,8 +20,9 @@
   {
    "time": "0:45",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": ""
+   "substance": "Products",
+   "form": "",
+   "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "0:45",
@@ -38,8 +39,9 @@
   {
    "time": "3:00",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids",
-   "form": ""
+   "substance": "Products",
+   "form": "",
+   "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "3:00",
@@ -62,14 +64,16 @@
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   },
   {
    "time": "13:00",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

@@ -15,13 +15,15 @@
    "time": "0",
    "amount": "5 shots",
    "administration": "oral",
-   "substance": "Alcohol - Hard"
+   "substance": "Alcohol",
+   "specific": "Hard"
   },
   {
    "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
-   "substance": "Products - Spice and Synthetic Cannabinoids"
+   "substance": "Products",
+   "specific": "Spice and Synthetic Cannabinoids"
   }
  ],
  "report": [

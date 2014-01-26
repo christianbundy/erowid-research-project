@@ -22,8 +22,9 @@
    "time": "0",
    "amount": "1500 ml",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "daily"
+   "substance": "Alcohol",
+   "form": "daily",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

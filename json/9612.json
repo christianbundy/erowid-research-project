@@ -22,8 +22,9 @@
    "time": "2:00",
    "amount": "repeated",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": "liquid"
+   "substance": "Inhalants",
+   "form": "liquid",
+   "specific": "Nitrites"
   },
   {
    "time": "3:00",

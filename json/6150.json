@@ -14,8 +14,9 @@
    "time": "0",
    "amount": "0.75 cups",
    "administration": "oral",
-   "substance": "Lactuca - L. canadensis",
-   "form": "tea"
+   "substance": "Lactuca",
+   "form": "tea",
+   "specific": "L. canadensis"
   },
   {
    "time": "0",
@@ -28,14 +29,16 @@
    "time": "0",
    "amount": "45 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "tea"
+   "substance": "Amanitas",
+   "form": "tea",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

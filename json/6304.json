@@ -15,20 +15,23 @@
    "time": "0",
    "amount": "1.5 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cyanescens",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cyanescens"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Tobacco - Cigarettes",
-   "form": ""
+   "substance": "Tobacco",
+   "form": "",
+   "specific": "Cigarettes"
   }
  ],
  "report": [

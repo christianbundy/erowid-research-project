@@ -22,8 +22,9 @@
    "time": "6:00",
    "amount": "3 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "8:00",
@@ -36,8 +37,9 @@
    "time": "8:30",
    "amount": "1.0 g",
    "administration": "oral",
-   "substance": "Mushrooms - P. cubensis",
-   "form": "dried"
+   "substance": "Mushrooms",
+   "form": "dried",
+   "specific": "P. cubensis"
   }
  ],
  "report": [

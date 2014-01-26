@@ -14,14 +14,16 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Poppies - Opium",
-   "form": "extract"
+   "substance": "Poppies",
+   "form": "extract",
+   "specific": "Opium"
   },
   {
    "time": "0",
    "administration": "",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

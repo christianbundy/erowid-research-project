@@ -21,13 +21,15 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis - Hash"
+   "substance": "Cannabis",
+   "specific": "Hash"
   },
   {
    "time": "0",
    "amount": "4 glasses",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

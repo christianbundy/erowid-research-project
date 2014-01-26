@@ -15,22 +15,25 @@
    "time": "0",
    "amount": "350 mg",
    "administration": "oral",
-   "substance": "Piperazines - BZP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "BZP"
   },
   {
    "time": "0:00",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Piperazines - TFMPP",
-   "form": "pill/tablet"
+   "substance": "Piperazines",
+   "form": "pill/tablet",
+   "specific": "TFMPP"
   },
   {
    "time": "2:00",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "8:00",
@@ -41,8 +44,9 @@
   {
    "time": "8:00",
    "administration": "oral",
-   "substance": "Alcohol - Hard",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Hard"
   }
  ],
  "report": [

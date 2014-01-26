@@ -15,8 +15,9 @@
    "time": "0",
    "amount": "40 oz",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "extract"
+   "substance": "Cacti",
+   "form": "extract",
+   "specific": "T. pachanoi"
   },
   {
    "time": "0:40",
@@ -33,8 +34,9 @@
   {
    "time": "8:00",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",

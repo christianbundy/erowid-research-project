@@ -22,28 +22,32 @@
    "time": "0:45",
    "amount": "1 ",
    "administration": "oral",
-   "substance": "Mushrooms - C. cyanescens",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "C. cyanescens"
   },
   {
    "time": "1:45",
    "amount": "1 ",
    "administration": "oral",
-   "substance": "Mushrooms - P. mexicana",
-   "form": "fresh"
+   "substance": "Mushrooms",
+   "form": "fresh",
+   "specific": "P. mexicana"
   },
   {
    "time": "4:30",
    "amount": "0.25 g",
    "administration": "oral",
-   "substance": "Cannabis - Hash",
-   "form": "powder/crystals"
+   "substance": "Cannabis",
+   "form": "powder/crystals",
+   "specific": "Hash"
   },
   {
    "time": "5:00",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": "powder/crystals"
+   "substance": "Cannabis",
+   "form": "powder/crystals",
+   "specific": "Hash"
   }
  ],
  "report": [

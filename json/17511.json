@@ -35,8 +35,9 @@
    "time": "4:30",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "5:30",

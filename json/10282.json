@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "17 g",
    "administration": "oral",
-   "substance": "Amanitas - A. muscaria",
-   "form": "dried"
+   "substance": "Amanitas",
+   "form": "dried",
+   "specific": "A. muscaria"
   },
   {
    "time": "0",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

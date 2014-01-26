@@ -29,22 +29,25 @@
    "time": "0:00",
    "amount": "10 tablets",
    "administration": "oral",
-   "substance": "Barbiturates - Phenobarbital",
-   "form": "pill/tablet"
+   "substance": "Barbiturates",
+   "form": "pill/tablet",
+   "specific": "Phenobarbital"
   },
   {
    "time": "3:00",
    "amount": "10 tablets",
    "administration": "oral",
-   "substance": "Barbiturates - Phenobarbital",
-   "form": "pill/tablet"
+   "substance": "Barbiturates",
+   "form": "pill/tablet",
+   "specific": "Phenobarbital"
   },
   {
    "time": "3:00",
    "amount": "1 glass",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   }
  ],
  "report": [

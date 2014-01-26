@@ -15,7 +15,8 @@
    "time": "0",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine"
+   "substance": "Alcohol",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0:20",
@@ -45,19 +46,22 @@
    "time": "14:30",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "Piperazines - BZP"
+   "substance": "Piperazines",
+   "specific": "BZP"
   },
   {
    "time": "15:15",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "Piperazines - BZP"
+   "substance": "Piperazines",
+   "specific": "BZP"
   },
   {
    "time": "15:45",
    "amount": "0.5 tablets",
    "administration": "oral",
-   "substance": "Piperazines - BZP"
+   "substance": "Piperazines",
+   "specific": "BZP"
   },
   {
    "time": "23:30",

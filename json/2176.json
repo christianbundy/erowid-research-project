@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "0.5 flowers",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "flowers"
+   "substance": "Lotus/Lily",
+   "form": "flowers",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "amount": "0.5 flowers",
    "administration": "smoked",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "flowers"
+   "substance": "Lotus/Lily",
+   "form": "flowers",
+   "specific": "Nymphaea nouchali var caerulea"
   }
  ],
  "report": [

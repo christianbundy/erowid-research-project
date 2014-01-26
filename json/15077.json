@@ -21,20 +21,23 @@
   {
    "time": "3:00",
    "administration": "smoked",
-   "substance": "Cannabis - Hash",
-   "form": ""
+   "substance": "Cannabis",
+   "form": "",
+   "specific": "Hash"
   },
   {
    "time": "5:00",
    "administration": "inhaled",
-   "substance": "Inhalants - Nitrites",
-   "form": ""
+   "substance": "Inhalants",
+   "form": "",
+   "specific": "Nitrites"
   },
   {
    "time": "12:00",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": ""
+   "substance": "Alcohol",
+   "form": "",
+   "specific": "Beer/Wine"
   },
   {
    "time": "12:00",

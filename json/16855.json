@@ -14,21 +14,24 @@
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "liquid"
+   "substance": "Lotus/Lily",
+   "form": "liquid",
+   "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0",
    "administration": "oral",
-   "substance": "Alcohol - Beer/Wine",
-   "form": "liquid"
+   "substance": "Alcohol",
+   "form": "liquid",
+   "specific": "Beer/Wine"
   },
   {
    "time": "0",
    "amount": "8 hits",
    "administration": "smoked",
-   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
-   "form": "flowers"
+   "substance": "Lotus/Lily",
+   "form": "flowers",
+   "specific": "Nymphaea nouchali var caerulea"
   }
  ],
  "report": [

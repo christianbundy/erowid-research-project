@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "125 mg",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "0:30",
    "amount": "125 mg",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "3:00",
@@ -35,8 +37,9 @@
   {
    "time": "7:00",
    "administration": "oral",
-   "substance": "Cacti - T. pachanoi",
-   "form": "liquid"
+   "substance": "Cacti",
+   "form": "liquid",
+   "specific": "T. pachanoi"
   },
   {
    "time": "8:30",

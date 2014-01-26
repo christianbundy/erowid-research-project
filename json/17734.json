@@ -15,15 +15,17 @@
    "time": "0",
    "amount": "14 g",
    "administration": "oral",
-   "substance": "Cacti - T. peruvianus",
-   "form": "plant material"
+   "substance": "Cacti",
+   "form": "plant material",
+   "specific": "T. peruvianus"
   },
   {
    "time": "0:10",
    "amount": "14 g",
    "administration": "oral",
-   "substance": "Cacti - T. peruvianus",
-   "form": "plant material"
+   "substance": "Cacti",
+   "form": "plant material",
+   "specific": "T. peruvianus"
   },
   {
    "time": "0:10",
@@ -43,8 +45,9 @@
    "time": "0:00",
    "amount": "1.0 g",
    "administration": "oral",
-   "substance": "Smarts - Phenibut",
-   "form": ""
+   "substance": "Smarts",
+   "form": "",
+   "specific": "Phenibut"
   },
   {
    "time": "0:00",
