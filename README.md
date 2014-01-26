@@ -4,7 +4,7 @@ A research project analyzing the  [experiences](http://www.erowid.org/experience
 
 ## Usage
 
-You can read through the JSON files in the input folder, or you can run `main.js` with:
+You can read through the `json` folder, or you can run `main.js` with:
 
 ```sh
 npm install

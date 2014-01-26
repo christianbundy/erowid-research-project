@@ -3,7 +3,7 @@ var dive = require('dive');      // Recursive dir walking
 
 var Collection = {};
 
-dive(__dirname + '/input', function (err, file) {
+dive(__dirname + '/json', function (err, file) {
   fs.readFile(file, function (err, contents) {
     if (err) throw err
     obj = JSON.parse(contents);
