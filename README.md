@@ -51,7 +51,7 @@ To make batch edits to the JSON, install dependencies with `npm install`, edit `
 
 ## Todo
 
-It's always nice to add more properties (such as the dosage[i].amount.grams property) for analysis, but the next big thing is writing an algorithm to find pattens in the sample data. Pull requests are *very* welcome!
+It's always nice to add more properties (such as the `dose[i].amount.grams property`) for analysis, but the next big thing is writing an algorithm to find pattens in the sample data. Pull requests are *very* welcome!
 
 ## Copyright
 
