@@ -13,7 +13,7 @@ npm start
 
 ## Todo
 
-I'm currently working on getting rid of the `header` and `footer` properties in the JSON object, and translating them to meaningful properties that can be added to their parent object literal.
+I'm currently working on getting rid of the `header` properties in the JSON object, and translating them to meaningful doseage properties that can be added to their parent object literal.
 
 ## Copyright
 
