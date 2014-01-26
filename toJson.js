@@ -24,8 +24,27 @@ for (var i in files) {
           Experience[id].citation = $('.ts-citation').text();
           Experience[id].substance = $('.substance').text();
           Experience[id].bodyweight = $('.bodyweight-amount').text();
-          //todo doseage
-          //todo footer
+          Experience[id].header = [];
+          Experience[id].footer = [];
+
+          $(".dosechart").each(function() {
+            var arrayOfThisRow = [];
+            var tableData = $(this).find('td');
+            if (tableData.length > 0) {
+              tableData.each(function() { arrayOfThisRow.push($(this).text()); });
+              Experience[id].header.push(arrayOfThisRow);
+            }
+          });
+
+          $(".footdata").each(function() {
+            var arrayOfThisRow = [];
+            var tableData = $(this).find('td');
+            if (tableData.length > 0) {
+              tableData.each(function() { arrayOfThisRow.push($(this).text()); });
+              Experience[id].footer.push(arrayOfThisRow);
+            }
+          });
+
           //todo report
           fs.writeFile(config.output + id + '.json', JSON.stringify(Experience[id], null, 1), function(err) {
             if(err) {
@@ -34,6 +53,6 @@ for (var i in files) {
           }); 
         }
       });
-    })(i);
-  }
+})(i);
+}
 }
