@@ -44,14 +44,14 @@
    "amount": "0.25 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
-   "form": "pill / tablet"
+   "form": "pill/tablet"
   },
   {
    "time": "3:30",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
-   "form": "pill / tablet"
+   "form": "pill/tablet"
   },
   {
    "time": "3:30",
@@ -72,7 +72,7 @@
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
-   "form": "pill / tablet"
+   "form": "pill/tablet"
   }
  ],
  "report": [

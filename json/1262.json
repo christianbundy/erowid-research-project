@@ -16,14 +16,14 @@
    "amount": "repeated",
    "administration": "",
    "substance": "Methamphetamine",
-   "form": "powder / crystals"
+   "form": "powder/crystals"
   },
   {
    "time": "0:00",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Hydrocodone",
-   "form": "pill / tablet"
+   "form": "pill/tablet"
   },
   {
    "time": "0:00",
@@ -37,7 +37,7 @@
    "amount": "1.5 g",
    "administration": "smoked",
    "substance": "Methamphetamine",
-   "form": "powder / crystals"
+   "form": "powder/crystals"
   }
  ],
  "report": [
