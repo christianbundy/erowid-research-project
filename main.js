@@ -1,6 +1,7 @@
 var fs = require('graceful-fs'); // Queues fs.readFile()
 var dive = require('dive');      // Recursive dir walking
 
+var change = false;
 dive(__dirname + '/json', function (err, file) {
 	fs.readFile(file, function (err, contents) {
 		if (err) throw err;
@@ -11,7 +12,10 @@ dive(__dirname + '/json', function (err, file) {
 			fs.writeFile(file, JSON.stringify(obj, null, 1) + "\r\n", function(err) {
 				if (err) throw err;
 			});
-			console.log('Change!')
+			if (!change) {
+				change=true;
+				console.log('Change!')
+			}
 		}
 	})
 });
