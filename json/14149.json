@@ -30,7 +30,6 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -38,15 +37,13 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "7:00",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

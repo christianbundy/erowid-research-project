@@ -22,15 +22,13 @@
    "time": "0",
    "amount": "4 hits",
    "administration": "vaporized",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "0",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Hard"
   },
   {
@@ -38,7 +36,6 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   }
  ],

@@ -30,7 +30,6 @@
    "amount": "1 ",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -38,7 +37,6 @@
    "amount": "2 ",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -46,7 +44,6 @@
    "amount": "3 ",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -74,8 +71,7 @@
    "time": "24:00",
    "amount": "3 tablets",
    "administration": "oral",
-   "substance": "Ibuprofen",
-   "form": ""
+   "substance": "Ibuprofen"
   }
  ],
  "report": [

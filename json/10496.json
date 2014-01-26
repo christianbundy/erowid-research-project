@@ -29,8 +29,7 @@
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "5:10",
@@ -49,14 +48,12 @@
   {
    "time": "9:20",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "9:20",
    "administration": "ocular",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   }
  ],

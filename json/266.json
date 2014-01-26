@@ -29,21 +29,18 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
    "administration": "inhaled",
    "substance": "Inhalants",
-   "form": "",
    "specific": "Nitrites"
   },
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

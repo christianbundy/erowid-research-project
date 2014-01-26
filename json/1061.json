@@ -23,15 +23,13 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

@@ -65,8 +65,7 @@
    "time": "0:00",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol",
-   "form": ""
+   "substance": "Alcohol"
   },
   {
    "time": "32:00",
@@ -86,8 +85,7 @@
    "time": "52:00",
    "amount": "1 tablet",
    "administration": "",
-   "substance": "MDMA",
-   "form": ""
+   "substance": "MDMA"
   },
   {
    "time": "0:00",
@@ -100,15 +98,13 @@
    "time": "56:00",
    "amount": "1 tablet",
    "administration": "",
-   "substance": "MDMA",
-   "form": ""
+   "substance": "MDMA"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   }
  ],

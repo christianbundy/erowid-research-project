@@ -29,22 +29,19 @@
    "time": "0:10",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "MDMA",
-   "form": ""
+   "substance": "MDMA"
   },
   {
    "time": "1:00",
    "amount": "2 tablets",
    "administration": "oral",
-   "substance": "Caffeine",
-   "form": ""
+   "substance": "Caffeine"
   },
   {
    "time": "1:00",
    "amount": "1 repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   }
  ],

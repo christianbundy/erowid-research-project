@@ -22,8 +22,7 @@
    "time": "0:20",
    "amount": "1 repeated",
    "administration": "smoked",
-   "substance": "Tobacco",
-   "form": ""
+   "substance": "Tobacco"
   },
   {
    "time": "10:00",
@@ -36,15 +35,13 @@
    "time": "10:00",
    "amount": "1 repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "10:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   }
  ],

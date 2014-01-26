@@ -23,7 +23,6 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -31,7 +30,6 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -39,7 +37,6 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -47,20 +44,17 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "6:52",
    "administration": "",
-   "substance": "Melatonin",
-   "form": ""
+   "substance": "Melatonin"
   },
   {
    "time": "6:52",
    "administration": "",
-   "substance": "Diphenhydramine",
-   "form": ""
+   "substance": "Diphenhydramine"
   }
  ],
  "report": [

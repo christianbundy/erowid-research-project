@@ -22,37 +22,32 @@
    "time": "0",
    "amount": "400 mg",
    "administration": "oral",
-   "substance": "Theanine",
-   "form": ""
+   "substance": "Theanine"
   },
   {
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan",
-   "form": "",
    "specific": "5-HTP"
   },
   {
    "time": "0",
    "amount": "1000 mg",
    "administration": "oral",
-   "substance": "Tryptophan",
-   "form": ""
+   "substance": "Tryptophan"
   },
   {
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Phosphatidylserine",
-   "form": ""
+   "substance": "Phosphatidylserine"
   },
   {
    "time": "0",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Ginseng",
-   "form": ""
+   "substance": "Ginseng"
   },
   {
    "time": "0",
@@ -65,22 +60,19 @@
    "time": "0",
    "amount": "60 mg",
    "administration": "oral",
-   "substance": "Ginkgo biloba",
-   "form": ""
+   "substance": "Ginkgo biloba"
   },
   {
    "time": "0",
    "amount": "300 mg",
    "administration": "oral",
-   "substance": "St. John's Wort",
-   "form": ""
+   "substance": "St. John's Wort"
   },
   {
    "time": "0",
    "amount": "10 joints/cigs",
    "administration": "inhaled",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -93,8 +85,7 @@
   {
    "time": "0",
    "administration": "inhaled",
-   "substance": "Nicotine",
-   "form": ""
+   "substance": "Nicotine"
   }
  ],
  "report": [

@@ -21,21 +21,18 @@
   {
    "time": "0:10",
    "administration": "smoked",
-   "substance": "Opium",
-   "form": ""
+   "substance": "Opium"
   },
   {
    "time": "0:10",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "2:00",
    "amount": "0.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
-   "form": "",
    "specific": "P. cubensis"
   },
   {
@@ -43,7 +40,6 @@
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   }
  ],

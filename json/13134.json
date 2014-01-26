@@ -23,7 +23,6 @@
    "amount": "1000 ml",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -52,15 +51,13 @@
    "amount": "250 ml",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "14:00",
    "amount": "1 hit",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "15:00",

@@ -23,14 +23,12 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Tobacco",
-   "form": ""
+   "substance": "Tobacco"
   },
   {
    "time": "3:00",

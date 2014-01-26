@@ -29,15 +29,13 @@
    "time": "0:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Diphenhydramine",
-   "form": ""
+   "substance": "Diphenhydramine"
   },
   {
    "time": "0:00",
    "amount": "600 mg",
    "administration": "oral",
-   "substance": "Ibuprofen",
-   "form": ""
+   "substance": "Ibuprofen"
   },
   {
    "time": "0:30",
@@ -58,7 +56,6 @@
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   }
  ],

@@ -28,8 +28,7 @@
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "1:00",
@@ -42,15 +41,13 @@
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
    "time": "1:30",
    "amount": ".5 mg",
    "administration": "oral",
-   "substance": "Alprazolam",
-   "form": ""
+   "substance": "Alprazolam"
   },
   {
    "time": "4:00",
@@ -76,15 +73,13 @@
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "6:00",
    "amount": ".5 mg",
    "administration": "oral",
-   "substance": "Alprazolam",
-   "form": ""
+   "substance": "Alprazolam"
   }
  ],
  "report": [

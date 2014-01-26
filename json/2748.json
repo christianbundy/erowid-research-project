@@ -24,7 +24,6 @@
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -38,15 +37,13 @@
   {
    "time": "0",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "0",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   }
  ],

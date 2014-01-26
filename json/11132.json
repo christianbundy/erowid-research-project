@@ -23,7 +23,6 @@
    "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -50,8 +49,7 @@
   {
    "time": "0:00",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

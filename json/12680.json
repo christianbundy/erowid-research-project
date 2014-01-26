@@ -43,8 +43,7 @@
    "time": "6:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "7:00",
@@ -64,8 +63,7 @@
    "time": "8:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "8:00",
@@ -90,8 +88,7 @@
    "time": "0:00",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol",
-   "form": ""
+   "substance": "Alcohol"
   },
   {
    "time": "13:00",
@@ -104,8 +101,7 @@
    "time": "13:00",
    "amount": "repeated",
    "administration": "oral",
-   "substance": "Alcohol",
-   "form": ""
+   "substance": "Alcohol"
   }
  ],
  "report": [

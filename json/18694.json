@@ -22,29 +22,25 @@
    "time": "1:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "2:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "3:15",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "5:00",
    "amount": "3 ",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -93,8 +89,7 @@
    "time": "18:07",
    "amount": "1 cig.",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

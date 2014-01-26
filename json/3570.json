@@ -22,15 +22,13 @@
    "time": "0",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cocaine",
-   "form": ""
+   "substance": "Cocaine"
   },
   {
    "time": "0",
    "amount": "10 glasses",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
@@ -38,7 +36,6 @@
    "amount": "3 ",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Hard"
   },
   {

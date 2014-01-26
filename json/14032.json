@@ -23,36 +23,31 @@
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
    "time": "2:10",
    "amount": "0.33 g",
    "administration": "vaporized",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   },
   {
    "time": "7:50",
    "amount": "0.6 g",
    "administration": "oral",
-   "substance": "Gabapentin",
-   "form": ""
+   "substance": "Gabapentin"
   },
   {
    "time": "8:50",
    "amount": "0.3 g",
    "administration": "oral",
-   "substance": "Gabapentin",
-   "form": ""
+   "substance": "Gabapentin"
   },
   {
    "time": "12:10",
    "amount": "0.3 g",
    "administration": "oral",
-   "substance": "Gabapentin",
-   "form": ""
+   "substance": "Gabapentin"
   },
   {
    "time": "14:20",
@@ -66,14 +61,12 @@
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
    "time": "17:20",
    "administration": "oral",
-   "substance": "Alcohol",
-   "form": ""
+   "substance": "Alcohol"
   }
  ],
  "report": [

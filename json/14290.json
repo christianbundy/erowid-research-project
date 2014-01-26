@@ -23,15 +23,13 @@
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
    "amount": "125 mg",
    "administration": "oral",
-   "substance": "MDMA",
-   "form": ""
+   "substance": "MDMA"
   },
   {
    "time": "0:00",
@@ -65,8 +63,7 @@
    "time": "5:15",
    "amount": "1 line",
    "administration": "insufflated",
-   "substance": "Ketamine",
-   "form": ""
+   "substance": "Ketamine"
   }
  ],
  "report": [

@@ -23,7 +23,6 @@
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -37,15 +36,13 @@
    "time": "1:00",
    "amount": "leaves",
    "administration": "oral",
-   "substance": "Coleus",
-   "form": ""
+   "substance": "Coleus"
   },
   {
    "time": "1:30",
    "amount": "2 leaves",
    "administration": "oral",
-   "substance": "Coleus",
-   "form": ""
+   "substance": "Coleus"
   }
  ],
  "report": [

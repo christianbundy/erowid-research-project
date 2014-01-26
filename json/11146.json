@@ -37,7 +37,6 @@
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -68,7 +67,6 @@
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -83,15 +81,13 @@
    "time": "3:47",
    "amount": "6.5 mg",
    "administration": "oral",
-   "substance": "Doxylamine",
-   "form": ""
+   "substance": "Doxylamine"
   },
   {
    "time": "3:47",
    "amount": "15 mg",
    "administration": "oral",
-   "substance": "DXM",
-   "form": ""
+   "substance": "DXM"
   },
   {
    "time": "3:47",
@@ -104,15 +100,13 @@
    "time": "5:07",
    "amount": "30 mg",
    "administration": "oral",
-   "substance": "DXM",
-   "form": ""
+   "substance": "DXM"
   },
   {
    "time": "5:07",
    "amount": "13 mg",
    "administration": "oral",
-   "substance": "Doxylamine",
-   "form": ""
+   "substance": "Doxylamine"
   }
  ],
  "report": [

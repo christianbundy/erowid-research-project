@@ -44,15 +44,13 @@
    "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol",
-   "form": "",
    "specific": "Hard"
   },
   {
    "time": "0:00",
    "amount": "repeated",
    "administration": "smoked",
-   "substance": "Cannabis",
-   "form": ""
+   "substance": "Cannabis"
   }
  ],
  "report": [

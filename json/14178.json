@@ -23,7 +23,6 @@
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
@@ -31,15 +30,13 @@
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco",
-   "form": "",
    "specific": "Cigarettes"
   },
   {
    "time": "6:00",
    "amount": "2 hits",
    "administration": "inhaled",
-   "substance": "Nitrous Oxide",
-   "form": ""
+   "substance": "Nitrous Oxide"
   }
  ],
  "report": [
