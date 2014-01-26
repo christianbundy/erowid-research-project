@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-12-23T08:00:00.000Z",
  "views": "11503",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(extract)"
   }
- }
+ ]
 }

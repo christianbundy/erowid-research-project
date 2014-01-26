@@ -11,18 +11,18 @@
  "age": "20",
  "timestamp": "2013-12-15T08:00:00.000Z",
  "views": "637",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

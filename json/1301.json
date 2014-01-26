@@ -9,13 +9,13 @@
  "id": "1301",
  "timestamp": "2000-10-16T07:00:00.000Z",
  "views": "289707",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

@@ -9,30 +9,30 @@
  "id": "2181",
  "timestamp": "2000-06-27T07:00:00.000Z",
  "views": "27485",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": " T+ 0:40",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "2": {
+  {
    "time": " T+ 1:20",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   }
- }
+ ]
 }

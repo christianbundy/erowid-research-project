@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-10-29T07:00:00.000Z",
  "views": "37951",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "smoked",
    "substance": "PCP"
   },
-  "1": {
+  {
    "time": "",
    "amount": "508 mg",
    "administration": "rectal",
    "substance": "Ketamine"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-11-10T08:00:00.000Z",
  "views": "6491",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   }
- }
+ ]
 }

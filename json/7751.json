@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-07-01T07:00:00.000Z",
  "views": "12281",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "smoked",
    "substance": "DPT",
    "form": "(freebase)"
   }
- }
+ ]
 }

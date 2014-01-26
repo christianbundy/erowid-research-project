@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-07-09T07:00:00.000Z",
  "views": "26994",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(liquid)"
   }
- }
+ ]
 }

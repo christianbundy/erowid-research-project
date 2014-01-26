@@ -9,12 +9,12 @@
  "id": "92001",
  "timestamp": "2011-07-20T07:00:00.000Z",
  "views": "14396",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Cheese - Blue"
   }
- }
+ ]
 }

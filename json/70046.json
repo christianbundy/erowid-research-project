@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-01-05T08:00:00.000Z",
  "views": "10954",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Unknown",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Unknown",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

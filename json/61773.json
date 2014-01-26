@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-09T07:00:00.000Z",
  "views": "12409",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "GHB",
    "form": "(daily)"
   }
- }
+ ]
 }

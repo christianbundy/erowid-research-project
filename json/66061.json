@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-12-16T08:00:00.000Z",
  "views": "5892",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

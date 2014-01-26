@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-02-22T08:00:00.000Z",
  "views": "6979",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "4-MeO-MiPT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:05",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "4-MeO-MiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

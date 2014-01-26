@@ -9,41 +9,41 @@
  "id": "65389",
  "timestamp": "2008-02-22T08:00:00.000Z",
  "views": "30284",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27.5 mg",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "24 oz",
    "administration": "oral",
    "substance": "Coffee",
    "form": "(liquid)"
   }
- }
+ ]
 }

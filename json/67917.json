@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2009-07-24T07:00:00.000Z",
  "views": "5048",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4 ml",
    "administration": "oral",
    "substance": "GBL",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 5:00",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Zopiclone",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 5:00",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 5:00",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Zopiclone",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 24:00",
    "amount": "4 lbs",
    "administration": "oral",
    "substance": "Pharms - Zopiclone",
    "form": ""
   },
-  "7": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   }
- }
+ ]
 }

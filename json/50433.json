@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2006-03-14T08:00:00.000Z",
  "views": "25636",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "200 ug",
    "substance": "insufflated"
   },
-  "2": {
+  {
    "time": "Pharms - Buprenorphine",
    "amount": "(pill / tablet)",
    "administration": "",
    "substance": "200 ug"
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "Pharms - Buprenorphine",
    "administration": "(pill / tablet)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "200 ug",
    "amount": "insufflated",
    "administration": "Pharms - Buprenorphine",
    "substance": "(pill / tablet)"
   }
- }
+ ]
 }

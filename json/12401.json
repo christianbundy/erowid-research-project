@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2005-03-21T08:00:00.000Z",
  "views": "12505",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   }
- }
+ ]
 }

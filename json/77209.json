@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2009-11-22T08:00:00.000Z",
  "views": "4950",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:08",
    "amount": "15 mg",
    "administration": "",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 1:28",
    "amount": "25 mg",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 3:23",
    "amount": "60 mg",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 4:29",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

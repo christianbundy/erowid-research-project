@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2006-07-25T07:00:00.000Z",
  "views": "7082",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "900 mg",
    "administration": "oral",
    "substance": "Pharms - Phenytoin"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3000 mg",
    "administration": "oral",
    "substance": "Pharms - Phenytoin"
   }
- }
+ ]
 }

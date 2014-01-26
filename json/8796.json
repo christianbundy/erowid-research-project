@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2005-07-01T07:00:00.000Z",
  "views": "7449",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

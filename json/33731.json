@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2013-07-19T07:00:00.000Z",
  "views": "638",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 g",
    "administration": "smoked",
    "substance": "Poppies - Opium",
    "form": "(seeds)"
   }
- }
+ ]
 }

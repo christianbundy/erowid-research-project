@@ -11,48 +11,48 @@
  "age": "33",
  "timestamp": "2006-04-11T07:00:00.000Z",
  "views": "55947",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Aconitum napellus",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Datura",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Mandrake",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Poppies - Opium",
    "form": "(tar / resin)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Cannabis",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

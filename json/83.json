@@ -9,13 +9,13 @@
  "id": "83",
  "timestamp": "2001-07-19T07:00:00.000Z",
  "views": "19598",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "GHB",
    "form": "(liquid)"
   }
- }
+ ]
 }

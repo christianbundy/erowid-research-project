@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-12-17T08:00:00.000Z",
  "views": "22067",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1050 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:20",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": ""
   }
- }
+ ]
 }

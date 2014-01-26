@@ -11,20 +11,20 @@
  "age": "28",
  "timestamp": "2013-12-19T08:00:00.000Z",
  "views": "390",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 0:40",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(extract)"
   }
- }
+ ]
 }

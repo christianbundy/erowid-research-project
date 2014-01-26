@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2011-08-24T07:00:00.000Z",
  "views": "10394",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.3 ml",
    "administration": "oral",
    "substance": "GHB",
    "form": "(liquid)"
   }
- }
+ ]
 }

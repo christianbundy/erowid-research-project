@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-05-06T07:00:00.000Z",
  "views": "12170",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Lactuca spp.",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Kava",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(capsule)"
   }
- }
+ ]
 }

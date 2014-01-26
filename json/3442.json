@@ -9,13 +9,13 @@
  "id": "3442",
  "timestamp": "2000-10-23T07:00:00.000Z",
  "views": "22633",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

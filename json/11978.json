@@ -9,20 +9,20 @@
  "id": "11978",
  "timestamp": "2002-05-01T07:00:00.000Z",
  "views": "10729",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

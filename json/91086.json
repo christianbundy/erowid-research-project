@@ -11,20 +11,20 @@
  "age": "18",
  "timestamp": "2011-08-10T07:00:00.000Z",
  "views": "5015",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Unknown",
    "form": ""
   }
- }
+ ]
 }

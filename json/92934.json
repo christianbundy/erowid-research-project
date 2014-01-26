@@ -11,34 +11,34 @@
  "age": "32",
  "timestamp": "2012-03-25T07:00:00.000Z",
  "views": "11330",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 4:00",
    "amount": "3 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 6:00",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

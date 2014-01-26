@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-01-07T08:00:00.000Z",
  "views": "64849",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(daily)"
   }
- }
+ ]
 }

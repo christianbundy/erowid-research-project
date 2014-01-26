@@ -11,20 +11,20 @@
  "age": "20",
  "timestamp": "2013-02-25T08:00:00.000Z",
  "views": "15769",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I-NBOMe",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

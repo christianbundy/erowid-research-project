@@ -9,12 +9,12 @@
  "id": "50528",
  "timestamp": "2006-04-14T07:00:00.000Z",
  "views": "19593",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "H.B. Woodrose"
   }
- }
+ ]
 }

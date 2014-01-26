@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-09-04T07:00:00.000Z",
  "views": "36902",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

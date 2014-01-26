@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2009-03-02T08:00:00.000Z",
  "views": "9411",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Banisteriopsis caapi"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Syrian Rue"
   }
- }
+ ]
 }

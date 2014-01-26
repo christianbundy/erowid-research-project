@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-04-24T07:00:00.000Z",
  "views": "8626",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

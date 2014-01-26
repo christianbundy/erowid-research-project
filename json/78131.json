@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2011-04-29T07:00:00.000Z",
  "views": "9745",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Phyllomedusa bicolor"
   }
- }
+ ]
 }

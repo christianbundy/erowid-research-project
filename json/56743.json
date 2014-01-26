@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-04-30T07:00:00.000Z",
  "views": "10434",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Buprenorphine",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

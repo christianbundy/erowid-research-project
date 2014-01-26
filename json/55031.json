@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-03-08T08:00:00.000Z",
  "views": "30284",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

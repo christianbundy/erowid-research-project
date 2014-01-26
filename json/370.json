@@ -9,13 +9,13 @@
  "id": "370",
  "timestamp": "2000-06-11T07:00:00.000Z",
  "views": "22278",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(plant material)"
   }
- }
+ ]
 }

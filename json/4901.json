@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2002-01-10T08:00:00.000Z",
  "views": "16006",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.7 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   }
- }
+ ]
 }

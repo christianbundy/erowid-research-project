@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-03-12T08:00:00.000Z",
  "views": "14150",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "13 mg",
    "administration": "rectal",
    "substance": "DiPT",
    "form": "(liquid)"
   }
- }
+ ]
 }

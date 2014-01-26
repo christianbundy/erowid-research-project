@@ -10,36 +10,36 @@
  "gender": "Female",
  "timestamp": "2004-12-21T08:00:00.000Z",
  "views": "8315",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3000 mg",
    "administration": "oral",
    "substance": "Vitamin C"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Unknown"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

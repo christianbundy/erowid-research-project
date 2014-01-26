@@ -11,13 +11,13 @@
  "age": "30",
  "timestamp": "2012-03-12T07:00:00.000Z",
  "views": "8919",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "bk-MBDP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

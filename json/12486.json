@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2005-01-25T08:00:00.000Z",
  "views": "46235",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.75 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "3.75 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "3.75 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

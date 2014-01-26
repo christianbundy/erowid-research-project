@@ -11,34 +11,34 @@
  "age": "66",
  "timestamp": "2013-11-14T08:00:00.000Z",
  "views": "559",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "JWH-200",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Modafinil",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Nortriptyline",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "4 mg",
    "administration": "smoked",
    "substance": "JWH-200",
    "form": ""
   }
- }
+ ]
 }

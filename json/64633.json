@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2012-03-06T08:00:00.000Z",
  "views": "12799",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 g",
    "administration": "oral",
    "substance": "Smarts - Phenibut",
    "form": "(daily)"
   }
- }
+ ]
 }

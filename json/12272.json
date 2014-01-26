@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-12-29T08:00:00.000Z",
  "views": "13158",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(daily)"
   }
- }
+ ]
 }

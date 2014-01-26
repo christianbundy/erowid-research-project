@@ -9,13 +9,13 @@
  "id": "1637",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "40477",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 lines",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

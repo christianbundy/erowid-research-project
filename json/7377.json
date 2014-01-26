@@ -9,20 +9,20 @@
  "id": "7377",
  "timestamp": "2003-06-03T07:00:00.000Z",
  "views": "7252",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 ",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7 ",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-05-12T07:00:00.000Z",
  "views": "31579",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "23",
  "timestamp": "2012-01-11T08:00:00.000Z",
  "views": "7219",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "18 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-07-02T07:00:00.000Z",
  "views": "5364",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-06-26T07:00:00.000Z",
  "views": "13197",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(liquid)"
   }
- }
+ ]
 }

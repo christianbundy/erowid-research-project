@@ -9,13 +9,13 @@
  "id": "1772",
  "timestamp": "2000-06-12T07:00:00.000Z",
  "views": "11491",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(seeds)"
   }
- }
+ ]
 }

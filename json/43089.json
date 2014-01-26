@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2010-07-23T07:00:00.000Z",
  "views": "7247",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Pharms - Zopiclone"
   }
- }
+ ]
 }

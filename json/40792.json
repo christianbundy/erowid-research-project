@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-03-28T08:00:00.000Z",
  "views": "31426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Adrenochrome",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

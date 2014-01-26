@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-07-29T07:00:00.000Z",
  "views": "60516",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "9.5 lines",
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "8 tablets",
    "administration": "oral",
    "substance": "Codeine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

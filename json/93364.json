@@ -11,13 +11,13 @@
  "age": "25",
  "timestamp": "2012-02-14T08:00:00.000Z",
  "views": "2139",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

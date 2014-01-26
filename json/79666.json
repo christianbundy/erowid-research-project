@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-06-29T07:00:00.000Z",
  "views": "6469",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(daily)"
   }
- }
+ ]
 }

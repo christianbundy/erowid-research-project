@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-09-09T07:00:00.000Z",
  "views": "3240",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 cups",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": ".8725 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

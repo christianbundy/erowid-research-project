@@ -9,13 +9,13 @@
  "id": "49019",
  "timestamp": "2006-03-09T08:00:00.000Z",
  "views": "26787",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

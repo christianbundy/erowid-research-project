@@ -11,20 +11,20 @@
  "age": "21",
  "timestamp": "2012-05-27T07:00:00.000Z",
  "views": "3207",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "2C-D",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "2C-D",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

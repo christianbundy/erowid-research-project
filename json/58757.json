@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-01-13T08:00:00.000Z",
  "views": "19423",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Cathinone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

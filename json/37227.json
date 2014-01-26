@@ -9,20 +9,20 @@
  "id": "37227",
  "timestamp": "2008-01-26T08:00:00.000Z",
  "views": "2620",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.2 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

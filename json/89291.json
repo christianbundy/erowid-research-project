@@ -11,12 +11,12 @@
  "age": "17",
  "timestamp": "2011-01-31T08:00:00.000Z",
  "views": "10636",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

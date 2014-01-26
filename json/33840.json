@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-11-07T08:00:00.000Z",
  "views": "4784",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

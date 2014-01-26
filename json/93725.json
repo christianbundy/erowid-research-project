@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2012-02-10T08:00:00.000Z",
  "views": "13267",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Crack"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Heroin"
   }
- }
+ ]
 }

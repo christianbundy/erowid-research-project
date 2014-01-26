@@ -9,13 +9,13 @@
  "id": "71400",
  "timestamp": "2008-06-03T07:00:00.000Z",
  "views": "10671",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

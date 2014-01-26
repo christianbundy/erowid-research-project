@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2005-10-27T07:00:00.000Z",
  "views": "5714",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "130 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": "80 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 2:00",
    "amount": "140 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

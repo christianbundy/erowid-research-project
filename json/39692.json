@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2005-02-16T08:00:00.000Z",
  "views": "46840",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "270 mg",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "2": {
+  {
    "time": " T+ 1:30",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": "300 g",
    "administration": "oral",
    "substance": "Ibogaine"
   }
- }
+ ]
 }

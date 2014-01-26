@@ -11,24 +11,24 @@
  "age": "45",
  "timestamp": "2011-07-06T07:00:00.000Z",
  "views": "6229",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "25 mg",
    "administration": "smoked",
    "substance": "MET"
   },
-  "1": {
+  {
    "time": " T+ 0:40",
    "amount": "15 mg",
    "administration": "smoked",
    "substance": "MET"
   },
-  "2": {
+  {
    "time": " T+ 0:42",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

@@ -10,76 +10,76 @@
  "gender": "Male",
  "timestamp": "2009-07-11T07:00:00.000Z",
  "views": "36094",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 13:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 17:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 19:00",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 28:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "5": {
+  {
    "time": " T+ 28:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "6": {
+  {
    "time": " T+ 40:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "7": {
+  {
    "time": " T+ 40:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "8": {
+  {
    "time": " T+ 40:00",
    "amount": "1 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "9": {
+  {
    "time": " T+ 40:00",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Cyclobenzaprine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

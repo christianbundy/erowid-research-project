@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2004-08-18T07:00:00.000Z",
  "views": "29034",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 ug",
    "administration": "buccal",
    "substance": "Pharms - Fentanyl"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 ug",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2010-12-09T08:00:00.000Z",
  "views": "8914",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

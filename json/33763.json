@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2004-05-28T07:00:00.000Z",
  "views": "14144",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": "inhaled"
   },
-  "2": {
+  {
    "time": "Nitrous Oxide",
    "amount": "(gas)",
    "administration": "",
    "substance": "1 bowl"
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Salvia divinorum",
    "administration": "(extract)",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"
   }
- }
+ ]
 }

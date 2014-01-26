@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-12-01T08:00:00.000Z",
  "views": "3459",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

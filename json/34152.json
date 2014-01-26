@@ -9,30 +9,30 @@
  "id": "34152",
  "timestamp": "2004-12-08T08:00:00.000Z",
  "views": "17821",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Skullcap"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Damiana"
   }
- }
+ ]
 }

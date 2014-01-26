@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-01-20T08:00:00.000Z",
  "views": "8907",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.0 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

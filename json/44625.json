@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2006-02-23T08:00:00.000Z",
  "views": "8976",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Ephedrine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "15 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "4-Acetoxy-MiPT",
    "amount": "(liquid)",
    "administration": " T+ 0:25",
    "substance": " "
   }
- }
+ ]
 }

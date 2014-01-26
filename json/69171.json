@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2010-01-08T08:00:00.000Z",
  "views": "22919",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "4 lines",
    "administration": "insufflated",
    "substance": "Catha edulis",
    "form": "(plant material)"
   }
- }
+ ]
 }

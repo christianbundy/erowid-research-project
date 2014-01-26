@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2008-11-05T08:00:00.000Z",
  "views": "3847",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-2"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "3": {
+  {
    "time": " T+ 1:30",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-T-2"
   }
- }
+ ]
 }

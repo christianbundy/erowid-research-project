@@ -11,13 +11,13 @@
  "age": "37",
  "timestamp": "2012-10-03T07:00:00.000Z",
  "views": "3204",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

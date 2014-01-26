@@ -9,27 +9,27 @@
  "id": "58022",
  "timestamp": "2007-01-03T08:00:00.000Z",
  "views": "6440",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Moclobemide",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

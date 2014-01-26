@@ -11,20 +11,20 @@
  "age": "31",
  "timestamp": "2010-08-13T07:00:00.000Z",
  "views": "4722",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3.6 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   }
- }
+ ]
 }

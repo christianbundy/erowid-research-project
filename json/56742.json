@@ -9,13 +9,13 @@
  "id": "56742",
  "timestamp": "2007-03-12T07:00:00.000Z",
  "views": "9994",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "(extract - 10x)"
   }
- }
+ ]
 }

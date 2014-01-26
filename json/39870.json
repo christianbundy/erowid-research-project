@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-08-10T07:00:00.000Z",
  "views": "11076",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Dioscorea spp.",
    "form": "(extract)"
   }
- }
+ ]
 }

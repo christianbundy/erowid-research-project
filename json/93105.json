@@ -11,13 +11,13 @@
  "age": "28",
  "timestamp": "2012-01-31T08:00:00.000Z",
  "views": "15787",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

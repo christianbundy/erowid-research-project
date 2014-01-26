@@ -9,13 +9,13 @@
  "id": "49290",
  "timestamp": "2006-03-19T08:00:00.000Z",
  "views": "34726",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 cups",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   }
- }
+ ]
 }

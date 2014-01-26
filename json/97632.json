@@ -11,34 +11,34 @@
  "age": "18",
  "timestamp": "2012-09-16T07:00:00.000Z",
  "views": "3323",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.25 hits",
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 0:45",
    "amount": "0.25 hits",
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "(blotter / tab)"
   },
-  "3": {
+  {
    "time": " T+ 1:30",
    "amount": "0.5 hits",
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

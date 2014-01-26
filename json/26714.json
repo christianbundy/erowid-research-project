@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-09-09T07:00:00.000Z",
  "views": "22587",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "37.5 mg",
    "administration": "",
    "substance": "IAP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

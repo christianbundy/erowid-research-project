@@ -9,20 +9,20 @@
  "id": "1315",
  "timestamp": "2000-09-11T07:00:00.000Z",
  "views": "22873",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": ""
   }
- }
+ ]
 }

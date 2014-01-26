@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2013-06-26T07:00:00.000Z",
  "views": "1650",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1200 mg",
    "administration": "",
    "substance": "Pharms - Tramadol"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 mg",
    "administration": "",
    "substance": "Pharms - Alprazolam"
   }
- }
+ ]
 }

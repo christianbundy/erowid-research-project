@@ -11,13 +11,13 @@
  "age": "35",
  "timestamp": "2013-12-09T08:00:00.000Z",
  "views": "1631",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

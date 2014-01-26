@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2002-05-22T07:00:00.000Z",
  "views": "20580",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": "",
    "amount": "15 mg",
    "administration": "smoked",
    "substance": "5-MeO-DMT"
   }
- }
+ ]
 }

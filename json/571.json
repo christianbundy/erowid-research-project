@@ -9,13 +9,13 @@
  "id": "571",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "15531",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "inhaled",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

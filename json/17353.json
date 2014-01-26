@@ -9,13 +9,13 @@
  "id": "17353",
  "timestamp": "2002-09-08T07:00:00.000Z",
  "views": "46212",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   }
- }
+ ]
 }

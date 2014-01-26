@@ -11,20 +11,20 @@
  "age": "20",
  "timestamp": "2011-02-12T08:00:00.000Z",
  "views": "14275",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Chlorpheniramine Maleate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

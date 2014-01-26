@@ -11,13 +11,13 @@
  "age": "28",
  "timestamp": "2012-01-19T08:00:00.000Z",
  "views": "9313",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "960 mg",
    "administration": "oral",
    "substance": "Pharms - Propranolol",
    "form": "(capsule)"
   }
- }
+ ]
 }

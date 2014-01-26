@@ -11,20 +11,20 @@
  "age": "24",
  "timestamp": "2010-04-19T07:00:00.000Z",
  "views": "14817",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Salvia officinalis",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Salvia officinalis",
    "form": "(dried)"
   }
- }
+ ]
 }

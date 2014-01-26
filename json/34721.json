@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-10-14T07:00:00.000Z",
  "views": "6694",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

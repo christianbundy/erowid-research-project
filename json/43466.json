@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-09-15T07:00:00.000Z",
  "views": "21585",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(tar / resin)"
   },
-  "1": {
+  {
    "time": " T+ 1:46",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(tar / resin)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

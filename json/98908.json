@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2013-07-11T07:00:00.000Z",
  "views": "838",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "vaporized",
    "substance": "4-HO-MET",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

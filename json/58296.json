@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-03-13T07:00:00.000Z",
  "views": "21992",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 g",
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 g",
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "(tea)"
   }
- }
+ ]
 }

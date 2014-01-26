@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-09-18T07:00:00.000Z",
  "views": "12281",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 ml",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(liquid)"
   }
- }
+ ]
 }

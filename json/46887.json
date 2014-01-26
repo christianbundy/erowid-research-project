@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-01-08T08:00:00.000Z",
  "views": "24889",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 capsls",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-08-29T07:00:00.000Z",
  "views": "10106",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 ml",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 ml",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-10-21T07:00:00.000Z",
  "views": "44514",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

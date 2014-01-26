@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-02-25T08:00:00.000Z",
  "views": "30655",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Piperazines - BZP",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Piperazines - TFMPP",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

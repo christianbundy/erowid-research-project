@@ -9,13 +9,13 @@
  "id": "7612",
  "timestamp": "2003-06-21T07:00:00.000Z",
  "views": "18909",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

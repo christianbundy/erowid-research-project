@@ -9,13 +9,13 @@
  "id": "24671",
  "timestamp": "2004-02-12T08:00:00.000Z",
  "views": "110609",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

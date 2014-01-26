@@ -11,20 +11,20 @@
  "age": "23",
  "timestamp": "2011-08-22T07:00:00.000Z",
  "views": "30647",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "2C-I-NBOMe",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": " ",
    "administration": "smoked",
    "substance": "2C-I-NBOMe",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

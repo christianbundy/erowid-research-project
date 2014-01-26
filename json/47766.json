@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-05-08T07:00:00.000Z",
  "views": "21961",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   }
- }
+ ]
 }

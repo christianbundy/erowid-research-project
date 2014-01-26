@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2013-02-08T08:00:00.000Z",
  "views": "10437",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": ""
   }
- }
+ ]
 }

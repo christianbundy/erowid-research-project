@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-10-27T07:00:00.000Z",
  "views": "15500",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.8 g",
    "administration": "smoked",
    "substance": "Mushrooms",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "40",
  "timestamp": "2010-10-25T07:00:00.000Z",
  "views": "13252",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

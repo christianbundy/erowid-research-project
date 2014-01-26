@@ -9,13 +9,13 @@
  "id": "27074",
  "timestamp": "2003-10-23T07:00:00.000Z",
  "views": "13545",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "175 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

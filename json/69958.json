@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2011-03-03T08:00:00.000Z",
  "views": "5942",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "8 seeds",
    "administration": "sublingual",
    "substance": "Stipa robusta"
   },
-  "1": {
+  {
    "time": " T+ 0:19",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   }
- }
+ ]
 }

@@ -11,18 +11,18 @@
  "age": "17",
  "timestamp": "2013-09-13T07:00:00.000Z",
  "views": "514",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "45 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-T-2"
   }
- }
+ ]
 }

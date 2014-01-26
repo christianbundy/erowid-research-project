@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2004-11-15T08:00:00.000Z",
  "views": "28135",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Kratom"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Opiates"
   }
- }
+ ]
 }

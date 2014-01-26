@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-10-27T07:00:00.000Z",
  "views": "15637",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Piperazines - BZP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

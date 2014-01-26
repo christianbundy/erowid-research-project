@@ -11,18 +11,18 @@
  "age": "20",
  "timestamp": "2010-04-02T07:00:00.000Z",
  "views": "23927",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "MDPV"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Kratom"
   }
- }
+ ]
 }

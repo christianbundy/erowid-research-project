@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-10-03T07:00:00.000Z",
  "views": "29992",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 leaf",
    "administration": "smoked",
    "substance": "Coleus",
    "form": "(leaves)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

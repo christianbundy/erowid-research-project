@@ -9,13 +9,13 @@
  "id": "19988",
  "timestamp": "2002-12-29T08:00:00.000Z",
  "views": "15094",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 ml",
    "administration": "oral",
    "substance": "GBL",
    "form": "(daily)"
   }
- }
+ ]
 }

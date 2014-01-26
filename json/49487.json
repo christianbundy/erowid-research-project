@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-01-10T08:00:00.000Z",
  "views": "14608",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 Tbsp",
    "administration": "oral",
    "substance": "Kava",
    "form": "(plant material)"
   }
- }
+ ]
 }

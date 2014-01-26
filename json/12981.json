@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2005-02-07T08:00:00.000Z",
  "views": "41945",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Ephedra sinica",
    "form": "(freebase)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Caffeine",
    "form": "(freebase)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

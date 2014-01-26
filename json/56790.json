@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-10-21T07:00:00.000Z",
  "views": "18110",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginger",
    "form": "(fresh)"
   }
- }
+ ]
 }

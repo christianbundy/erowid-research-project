@@ -9,12 +9,12 @@
  "id": "24526",
  "timestamp": "2004-09-22T07:00:00.000Z",
  "views": "11470",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "55 mg",
    "administration": "smoked",
    "substance": "DMT"
   }
- }
+ ]
 }

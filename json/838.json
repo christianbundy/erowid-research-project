@@ -9,12 +9,12 @@
  "id": "838",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "28723",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Methamphetamine"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-02-28T08:00:00.000Z",
  "views": "71572",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.4 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

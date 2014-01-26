@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-12-18T08:00:00.000Z",
  "views": "52800",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(fresh)"
   }
- }
+ ]
 }

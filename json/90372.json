@@ -10,24 +10,24 @@
  "age": "31",
  "timestamp": "2011-07-25T07:00:00.000Z",
  "views": "4608",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT"
   }
- }
+ ]
 }

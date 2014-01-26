@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2005-02-22T08:00:00.000Z",
  "views": "6003",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.33 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 3:00",
    "administration": "2 hits",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Heimia salicifolia",
    "amount": "(extract - 5x)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

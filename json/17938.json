@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2007-11-08T08:00:00.000Z",
  "views": "15159",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "Codeine"
   }
- }
+ ]
 }

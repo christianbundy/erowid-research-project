@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2009-06-26T07:00:00.000Z",
  "views": "18307",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Opiates"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Pharms - Buprenorphine",
    "amount": "(daily)",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Naloxone",
    "administration": "(daily)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "600 mg",
    "amount": "oral",
    "administration": "Pharms - Quetiapine",
    "substance": "(daily)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline"
   }
- }
+ ]
 }

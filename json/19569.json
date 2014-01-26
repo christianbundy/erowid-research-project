@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-04-01T08:00:00.000Z",
  "views": "16579",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-03-01T08:00:00.000Z",
  "views": "51570",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 mg",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"
   }
- }
+ ]
 }

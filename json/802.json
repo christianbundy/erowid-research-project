@@ -9,20 +9,20 @@
  "id": "802",
  "timestamp": "2000-08-04T07:00:00.000Z",
  "views": "31076",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Ketamine",
    "form": ""
   }
- }
+ ]
 }

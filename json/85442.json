@@ -11,18 +11,18 @@
  "age": "56",
  "timestamp": "2011-02-22T08:00:00.000Z",
  "views": "4570",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "IV",
    "substance": "Pharms - Buprenorphine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 mg",
    "administration": "IV",
    "substance": "Naloxone"
   }
- }
+ ]
 }

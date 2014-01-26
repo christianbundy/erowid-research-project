@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-06-11T07:00:00.000Z",
  "views": "23938",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "45 mg",
    "administration": "oral",
    "substance": "Pharms - Mirtazapine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,20 +9,20 @@
  "id": "924",
  "timestamp": "2001-02-27T08:00:00.000Z",
  "views": "80240",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 tablets",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

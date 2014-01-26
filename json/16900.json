@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-12-15T08:00:00.000Z",
  "views": "42466",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 flowers",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(liquid)"
   }
- }
+ ]
 }

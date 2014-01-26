@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2007-12-05T08:00:00.000Z",
  "views": "22412",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam"
   }
- }
+ ]
 }

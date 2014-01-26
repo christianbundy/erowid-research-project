@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-07-27T07:00:00.000Z",
  "views": "17948",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "350 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

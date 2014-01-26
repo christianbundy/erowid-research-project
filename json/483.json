@@ -9,13 +9,13 @@
  "id": "483",
  "timestamp": "2000-08-07T07:00:00.000Z",
  "views": "110608",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "13.5 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

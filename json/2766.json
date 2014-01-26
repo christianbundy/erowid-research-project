@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-12-16T08:00:00.000Z",
  "views": "5636",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   }
- }
+ ]
 }

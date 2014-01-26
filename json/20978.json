@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2003-02-04T08:00:00.000Z",
  "views": "10210",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 3:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 8:30",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   },
-  "3": {
+  {
    "time": " T+ 12:00",
    "amount": "5 hits",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 10x)"
   }
- }
+ ]
 }

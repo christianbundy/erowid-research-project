@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-01-30T08:00:00.000Z",
  "views": "9093",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(capsule)"
   }
- }
+ ]
 }

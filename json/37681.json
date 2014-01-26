@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-07-30T07:00:00.000Z",
  "views": "8894",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "22 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2008-09-10T07:00:00.000Z",
  "views": "12971",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "Virola spp.",
    "form": "(tar / resin)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "(leaves)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2.5 seeds",
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "5 seeds",
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

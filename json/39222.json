@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-22T07:00:00.000Z",
  "views": "9694",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

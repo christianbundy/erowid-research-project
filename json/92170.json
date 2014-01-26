@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-08-15T07:00:00.000Z",
  "views": "8211",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Escaline",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

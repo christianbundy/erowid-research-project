@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-06-24T07:00:00.000Z",
  "views": "44259",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 seed",
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "(seeds)"
   }
- }
+ ]
 }

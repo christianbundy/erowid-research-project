@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2005-08-08T07:00:00.000Z",
  "views": "35867",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharmaceuticals"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "IV"
   }
- }
+ ]
 }

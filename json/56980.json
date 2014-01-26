@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-06T07:00:00.000Z",
  "views": "24482",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

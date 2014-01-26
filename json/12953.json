@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2005-01-31T08:00:00.000Z",
  "views": "23645",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Amphetamines",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Methylphenidate",
    "form": ""
   }
- }
+ ]
 }

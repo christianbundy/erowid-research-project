@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2009-01-05T08:00:00.000Z",
  "views": "39259",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 oz",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1.0 mg",
    "administration": "insufflated",
    "substance": "Pharms - Clonazepam",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 1:30",
    "amount": "0.5 mg",
    "administration": "insufflated",
    "substance": "Pharms - Clonazepam",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

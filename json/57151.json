@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-12-20T08:00:00.000Z",
  "views": "14049",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 cups",
    "administration": "oral",
    "substance": "Kola Nut",
    "form": "(tea)"
   }
- }
+ ]
 }

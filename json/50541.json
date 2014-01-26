@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-12-04T08:00:00.000Z",
  "views": "8735",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Damiana",
    "form": "(tea)"
   },
-  "3": {
+  {
    "time": " T+ 3:20",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(leaves)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2012-03-06T08:00:00.000Z",
  "views": "20555",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3/4 tsp",
    "administration": "oral",
    "substance": "Smarts - Phenibut",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1/2 tsp",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Smarts - Phenibut",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

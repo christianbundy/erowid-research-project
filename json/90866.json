@@ -11,20 +11,20 @@
  "age": "18",
  "timestamp": "2011-08-30T07:00:00.000Z",
  "views": "5866",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Products - Bath Salts, Plant Food, etc",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

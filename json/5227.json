@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-01-12T08:00:00.000Z",
  "views": "167668",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Methylphenidate"
   }
- }
+ ]
 }

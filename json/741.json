@@ -9,12 +9,12 @@
  "id": "741",
  "timestamp": "2000-10-17T07:00:00.000Z",
  "views": "9197",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Cannabis - Hash"
   }
- }
+ ]
 }

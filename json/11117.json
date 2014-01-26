@@ -9,20 +9,20 @@
  "id": "11117",
  "timestamp": "2004-11-30T08:00:00.000Z",
  "views": "28409",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

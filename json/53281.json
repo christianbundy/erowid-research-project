@@ -10,36 +10,36 @@
  "gender": "Female",
  "timestamp": "2007-06-18T07:00:00.000Z",
  "views": "3387",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "10 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methadone",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "(liquid)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "0.25 g",
    "amount": "oral",
    "administration": "Mushrooms",
    "substance": "(fresh)"
   }
- }
+ ]
 }

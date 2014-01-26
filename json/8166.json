@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-04-17T07:00:00.000Z",
  "views": "20205",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

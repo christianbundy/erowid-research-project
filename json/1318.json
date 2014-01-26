@@ -9,55 +9,55 @@
  "id": "1318",
  "timestamp": "2001-06-25T07:00:00.000Z",
  "views": "27071",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.6667 tablets",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "0.6667 tablets",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "4 lines",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "6": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

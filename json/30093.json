@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-17T07:00:00.000Z",
  "views": "24204",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "PCP",
    "form": "(liquid)"
   }
- }
+ ]
 }

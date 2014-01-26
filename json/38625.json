@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2007-05-09T07:00:00.000Z",
  "views": "21801",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "vaginal",
    "substance": "Cocaine"
   }
- }
+ ]
 }

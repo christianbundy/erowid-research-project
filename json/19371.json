@@ -9,20 +9,20 @@
  "id": "19371",
  "timestamp": "2003-01-03T08:00:00.000Z",
  "views": "65692",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(plant material)"
   }
- }
+ ]
 }

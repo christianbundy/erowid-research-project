@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2004-01-22T08:00:00.000Z",
  "views": "28960",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Pharms - Divalproex",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Risperidone",
    "form": "(daily)"
   }
- }
+ ]
 }

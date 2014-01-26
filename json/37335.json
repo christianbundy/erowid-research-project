@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2004-10-12T07:00:00.000Z",
  "views": "30168",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Hydergine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1600 mg",
    "substance": "oral"
   }
- }
+ ]
 }

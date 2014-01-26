@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-11-09T08:00:00.000Z",
  "views": "13481",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Tea",
    "form": "(liquid)"
   }
- }
+ ]
 }

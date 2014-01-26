@@ -9,20 +9,20 @@
  "id": "55084",
  "timestamp": "2008-05-01T07:00:00.000Z",
  "views": "9005",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   }
- }
+ ]
 }

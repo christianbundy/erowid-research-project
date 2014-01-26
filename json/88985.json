@@ -11,20 +11,20 @@
  "age": "39",
  "timestamp": "2011-06-09T07:00:00.000Z",
  "views": "28579",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1.4 mg",
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 8:30",
    "amount": "5 mg",
    "administration": "smoked",
    "substance": "Cannabinoid Receptor Agonists",
    "form": ""
   }
- }
+ ]
 }

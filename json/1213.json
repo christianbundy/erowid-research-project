@@ -9,13 +9,13 @@
  "id": "1213",
  "timestamp": "2000-10-18T07:00:00.000Z",
  "views": "25404",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 lines",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

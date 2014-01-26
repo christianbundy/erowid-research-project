@@ -9,13 +9,13 @@
  "id": "1196",
  "timestamp": "2000-11-01T08:00:00.000Z",
  "views": "50553",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1400 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

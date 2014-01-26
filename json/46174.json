@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-02-11T08:00:00.000Z",
  "views": "14288",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 ug",
    "administration": "oral",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"
   }
- }
+ ]
 }

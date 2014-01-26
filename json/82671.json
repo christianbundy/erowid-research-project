@@ -11,24 +11,24 @@
  "age": "19",
  "timestamp": "2010-02-15T08:00:00.000Z",
  "views": "14526",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "2C-E"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   }
- }
+ ]
 }

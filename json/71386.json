@@ -11,34 +11,34 @@
  "age": "20",
  "timestamp": "2010-02-18T08:00:00.000Z",
  "views": "21948",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pharms - Temazepam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Trazodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Amitriptyline",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": ".9 mg",
    "administration": "oral",
    "substance": "Pharms - Clonidine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,42 +9,42 @@
  "id": "48517",
  "timestamp": "2005-12-08T08:00:00.000Z",
  "views": "12588",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3.0 mg",
    "administration": "oral",
    "substance": "DOC"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " repeated",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 0:00",
    "substance": "1 glass"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Alcohol",
    "administration": "(liquid)",
    "substance": " T+ 0:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "",
    "administration": "Vitamins / Supplements",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 6:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone"
   }
- }
+ ]
 }

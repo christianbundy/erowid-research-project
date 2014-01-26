@@ -9,34 +9,34 @@
  "id": "53794",
  "timestamp": "2006-06-12T07:00:00.000Z",
  "views": "11142",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Ziprasidone",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   }
- }
+ ]
 }

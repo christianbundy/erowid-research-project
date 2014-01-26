@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2007-03-22T07:00:00.000Z",
  "views": "140723",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1320 mg",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 1:30",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": " T+ 2:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Phenytoin",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Phenytoin",
    "form": ""
   },
-  "7": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Phenytoin",
    "form": "(daily)"
   }
- }
+ ]
 }

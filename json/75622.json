@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2009-06-02T07:00:00.000Z",
  "views": "6464",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 5:30",
    "administration": "10 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "4-Acetoxy-MiPT",
    "amount": "",
    "administration": " T+ 10:45",
    "substance": "10 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "4-Acetoxy-MiPT",
    "administration": "",
    "substance": " T+ 0:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "oral",
    "administration": "St. John's Wort",
    "substance": "(daily)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   }
- }
+ ]
 }

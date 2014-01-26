@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2007-07-19T07:00:00.000Z",
  "views": "15388",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Piracetam"
   }
- }
+ ]
 }

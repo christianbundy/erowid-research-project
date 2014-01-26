@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-10-07T07:00:00.000Z",
  "views": "18319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

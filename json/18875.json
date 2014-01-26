@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-11-13T08:00:00.000Z",
  "views": "31190",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

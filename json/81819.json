@@ -11,27 +11,27 @@
  "age": "30",
  "timestamp": "2010-05-02T07:00:00.000Z",
  "views": "7452",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(tar / resin)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

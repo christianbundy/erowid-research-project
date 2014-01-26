@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2006-07-21T07:00:00.000Z",
  "views": "8330",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-4"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis - Hash"
   },
-  "2": {
+  {
    "time": "",
    "amount": "4 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   }
- }
+ ]
 }

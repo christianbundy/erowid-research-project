@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-07T08:00:00.000Z",
  "views": "3511",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   }
- }
+ ]
 }

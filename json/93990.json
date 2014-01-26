@@ -11,13 +11,13 @@
  "age": "38",
  "timestamp": "2012-02-29T08:00:00.000Z",
  "views": "11508",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

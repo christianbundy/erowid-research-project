@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2004-07-06T07:00:00.000Z",
  "views": "5364",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "12.5 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 6:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "6.0 ml",
    "administration": "oral",
    "substance": "GBL",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 10:00",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": " T+ 10:20",
    "amount": "2.0 ml",
    "administration": "oral",
    "substance": "GBL",
    "form": "(liquid)"
   }
- }
+ ]
 }

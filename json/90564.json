@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2011-06-27T07:00:00.000Z",
  "views": "5867",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 mg",
    "administration": "smoked",
    "substance": "4-HO-MPT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

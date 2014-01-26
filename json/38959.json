@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-03-20T07:00:00.000Z",
  "views": "14863",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2013-08-17T07:00:00.000Z",
  "views": "2461",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 ug",
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

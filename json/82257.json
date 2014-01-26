@@ -11,13 +11,13 @@
  "age": "24",
  "timestamp": "2011-01-31T08:00:00.000Z",
  "views": "11037",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

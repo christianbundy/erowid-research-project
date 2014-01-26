@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-07-03T07:00:00.000Z",
  "views": "95112",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "700 mg",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

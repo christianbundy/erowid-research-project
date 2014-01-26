@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-08-28T07:00:00.000Z",
  "views": "3399",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

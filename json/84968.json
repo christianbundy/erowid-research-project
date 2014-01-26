@@ -11,13 +11,13 @@
  "age": "24",
  "timestamp": "2013-01-18T08:00:00.000Z",
  "views": "3461",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Adrafinil",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

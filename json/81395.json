@@ -11,13 +11,13 @@
  "age": "53",
  "timestamp": "2009-09-26T07:00:00.000Z",
  "views": "5283",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "5-MeO-DMT",
    "form": "(daily)"
   }
- }
+ ]
 }

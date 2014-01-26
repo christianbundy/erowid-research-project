@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-06-27T07:00:00.000Z",
  "views": "10663",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

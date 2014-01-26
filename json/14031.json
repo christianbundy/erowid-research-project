@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2002-05-01T07:00:00.000Z",
  "views": "19668",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 ml",
    "administration": "oral",
    "substance": "Scopolamine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": ""
   }
- }
+ ]
 }

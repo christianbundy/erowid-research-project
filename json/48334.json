@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-05-01T07:00:00.000Z",
  "views": "11699",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 ml",
    "administration": "oral",
    "substance": "Pharms - Promethazine",
    "form": "(liquid)"
   }
- }
+ ]
 }

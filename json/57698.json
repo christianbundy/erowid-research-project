@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-04T08:00:00.000Z",
  "views": "21834",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12.5 g",
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

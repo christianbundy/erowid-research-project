@@ -9,13 +9,13 @@
  "id": "10444",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "12851",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Inhalants",
    "form": "(gas)"
   }
- }
+ ]
 }

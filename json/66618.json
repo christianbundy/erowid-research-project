@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-01-23T08:00:00.000Z",
  "views": "26718",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

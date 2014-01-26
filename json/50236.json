@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2006-10-24T07:00:00.000Z",
  "views": "17783",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Pharms - Propylhexedrine"
   }
- }
+ ]
 }

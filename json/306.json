@@ -9,13 +9,13 @@
  "id": "306",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "14967",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Datura",
    "form": "(seeds)"
   }
- }
+ ]
 }

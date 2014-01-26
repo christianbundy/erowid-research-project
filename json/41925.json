@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2008-07-20T07:00:00.000Z",
  "views": "12318",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "7.5 mg",
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "(ground / crushed)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

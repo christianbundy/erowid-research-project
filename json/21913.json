@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-09-24T07:00:00.000Z",
  "views": "2903",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "4 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 3:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

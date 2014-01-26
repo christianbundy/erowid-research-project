@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-09-17T07:00:00.000Z",
  "views": "36070",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "sublingual",
    "substance": "Mandrake",
    "form": "(extract)"
   }
- }
+ ]
 }

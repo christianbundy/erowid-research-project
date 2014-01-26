@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-02-08T08:00:00.000Z",
  "views": "32451",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

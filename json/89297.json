@@ -11,42 +11,42 @@
  "age": "27",
  "timestamp": "2011-02-22T08:00:00.000Z",
  "views": "3179",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "0 mg",
    "substance": ""
   },
-  "2": {
+  {
    "time": "4-HO-MiPT",
    "amount": "(capsule)",
    "administration": "",
    "substance": "0 mg"
   },
-  "3": {
+  {
    "time": "",
    "amount": "4-AcO-DMT",
    "administration": "(capsule)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "0 mg",
    "amount": "",
    "administration": "2C-B",
    "substance": "(capsule)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "0 mg",
    "administration": "",
    "substance": "Amphetamines"
   }
- }
+ ]
 }

@@ -11,36 +11,36 @@
  "age": "19",
  "timestamp": "2013-09-14T07:00:00.000Z",
  "views": "463",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Alcohol",
    "amount": "",
    "administration": "",
    "substance": "6 drops"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "25I-NBOMe",
    "administration": "(liquid)",
    "substance": ""
   },
-  "4": {
+  {
    "time": " repeated",
    "amount": "oral",
    "administration": "Mushrooms",
    "substance": ""
   }
- }
+ ]
 }

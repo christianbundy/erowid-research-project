@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-01-16T08:00:00.000Z",
  "views": "4618",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 oz",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Salvia divinorum",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "4 oz",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   }
- }
+ ]
 }

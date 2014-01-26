@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-07-11T07:00:00.000Z",
  "views": "47798",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 joints/cigs",
    "administration": "smoked",
    "substance": "Catnip",
    "form": "(leaves)"
   }
- }
+ ]
 }

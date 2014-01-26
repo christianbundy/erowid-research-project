@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-16T07:00:00.000Z",
  "views": "22592",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "14 mg",
    "administration": "transdermal",
    "substance": "Nicotine",
    "form": "(patch)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-08-21T07:00:00.000Z",
  "views": "4826",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 lines",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

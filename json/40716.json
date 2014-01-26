@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-02T07:00:00.000Z",
  "views": "5861",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.25 oz",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

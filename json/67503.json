@@ -9,20 +9,20 @@
  "id": "67503",
  "timestamp": "2008-01-19T08:00:00.000Z",
  "views": "12710",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Doxepin",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

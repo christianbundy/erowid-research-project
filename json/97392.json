@@ -11,20 +11,20 @@
  "age": "34",
  "timestamp": "2012-08-25T07:00:00.000Z",
  "views": "4932",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-HO-MET",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 5:00",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

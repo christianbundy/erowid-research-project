@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-24T07:00:00.000Z",
  "views": "5174",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(daily)"
   }
- }
+ ]
 }

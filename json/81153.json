@@ -11,96 +11,96 @@
  "age": "19",
  "timestamp": "2009-11-17T08:00:00.000Z",
  "views": "9341",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "125 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "4-Methylmethcathinone",
    "amount": "(powder / crystals)",
    "administration": " T+ 1:00",
    "substance": "125 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "4-Methylmethcathinone",
    "administration": "(powder / crystals)",
    "substance": " T+ 1:20"
   },
-  "4": {
+  {
    "time": "75 mg",
    "amount": "insufflated",
    "administration": "4-Methylmethcathinone",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 1:45",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone"
   },
-  "6": {
+  {
    "time": "(powder / crystals)",
    "amount": " T+ 1:45",
    "administration": "75 mg",
    "substance": "oral"
   },
-  "7": {
+  {
    "time": "4-Methylmethcathinone",
    "amount": "(powder / crystals)",
    "administration": " T+ 3:00",
    "substance": "70 mg"
   },
-  "8": {
+  {
    "time": "insufflated",
    "amount": "4-Methylmethcathinone",
    "administration": "(powder / crystals)",
    "substance": " T+ 3:00"
   },
-  "9": {
+  {
    "time": "100 mg",
    "amount": "insufflated",
    "administration": "4-Methylmethcathinone",
    "substance": "(powder / crystals)"
   },
-  "10": {
+  {
    "time": " T+ 3:00",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
-  "11": {
+  {
    "time": "(gas)",
    "amount": " T+ 3:50",
    "administration": "70 mg",
    "substance": ""
   },
-  "12": {
+  {
    "time": "4-Methylmethcathinone",
    "amount": "(powder / crystals)",
    "administration": " T+ 4:00",
    "substance": " "
   },
-  "13": {
+  {
    "time": "smoked",
    "amount": "Tobacco - Cigarettes",
    "administration": "",
    "substance": " T+ 0:00"
   },
-  "14": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   }
- }
+ ]
 }

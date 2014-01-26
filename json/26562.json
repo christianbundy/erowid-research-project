@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-09-04T07:00:00.000Z",
  "views": "18581",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "5-MeO-MIPT"
   }
- }
+ ]
 }

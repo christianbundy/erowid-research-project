@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2005-08-24T07:00:00.000Z",
  "views": "6170",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 2:00",
    "administration": "4 hits",
    "substance": "smoked"
   }
- }
+ ]
 }

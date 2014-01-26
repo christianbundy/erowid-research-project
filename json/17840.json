@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-09-30T07:00:00.000Z",
  "views": "13443",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "oral",
    "substance": "TMA-2"
   }
- }
+ ]
 }

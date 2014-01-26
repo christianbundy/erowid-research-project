@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-08-02T07:00:00.000Z",
  "views": "4597",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "14 leaves",
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   }
- }
+ ]
 }

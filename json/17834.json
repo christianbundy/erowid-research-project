@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-09-30T07:00:00.000Z",
  "views": "7568",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12.5 mg",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(freebase)"
   }
- }
+ ]
 }

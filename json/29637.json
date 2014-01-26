@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "21613",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Aripiprazole",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

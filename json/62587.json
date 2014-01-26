@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-12-27T08:00:00.000Z",
  "views": "11037",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Petroleum Ether",
    "form": "(liquid)"
   }
- }
+ ]
 }

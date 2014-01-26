@@ -9,13 +9,13 @@
  "id": "816",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "23394",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

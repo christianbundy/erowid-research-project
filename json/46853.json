@@ -10,66 +10,66 @@
  "gender": "Male",
  "timestamp": "2008-11-04T08:00:00.000Z",
  "views": "7696",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "4": {
+  {
    "time": " T+ 5:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "5": {
+  {
    "time": " T+ 5:30",
    "amount": "7.0 mg",
    "administration": "insufflated",
    "substance": "2C-B"
   },
-  "6": {
+  {
    "time": " T+ 6:00",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-B"
   },
-  "7": {
+  {
    "time": " T+ 6:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "8": {
+  {
    "time": " T+ 7:30",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "9": {
+  {
    "time": " T+ 7:30",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

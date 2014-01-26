@@ -11,13 +11,13 @@
  "age": "23",
  "timestamp": "2011-08-29T07:00:00.000Z",
  "views": "3909",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "oral",
    "substance": "Tobacco - Cigarettes",
    "form": "(tea)"
   }
- }
+ ]
 }

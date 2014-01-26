@@ -9,13 +9,13 @@
  "id": "21500",
  "timestamp": "2007-01-29T08:00:00.000Z",
  "views": "2840",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   }
- }
+ ]
 }

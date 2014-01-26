@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-04-30T07:00:00.000Z",
  "views": "4862",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Cannabis",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Mushrooms",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

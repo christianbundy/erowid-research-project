@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-03-15T08:00:00.000Z",
  "views": "16356",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

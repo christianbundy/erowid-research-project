@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2007-09-12T07:00:00.000Z",
  "views": "11760",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 seeds",
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   }
- }
+ ]
 }

@@ -9,27 +9,27 @@
  "id": "80165",
  "timestamp": "2009-07-26T07:00:00.000Z",
  "views": "11723",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "(gas)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

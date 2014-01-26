@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-07-21T07:00:00.000Z",
  "views": "36386",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 lines",
    "administration": "insufflated",
    "substance": "PCP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-04-18T07:00:00.000Z",
  "views": "25320",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2006-05-31T07:00:00.000Z",
  "views": "14344",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Vitamin C"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "(plant material)",
    "administration": "",
    "substance": "1 tablet"
   }
- }
+ ]
 }

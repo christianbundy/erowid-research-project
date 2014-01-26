@@ -9,13 +9,13 @@
  "id": "29558",
  "timestamp": "2004-01-28T08:00:00.000Z",
  "views": "14679",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "DMAE",
    "form": "(daily)"
   }
- }
+ ]
 }

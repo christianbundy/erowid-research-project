@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2007-05-01T07:00:00.000Z",
  "views": "13961",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "9.8 g",
    "administration": "oral",
    "substance": "Piracetam"
   },
-  "1": {
+  {
    "time": " T+ 24:00",
    "amount": "2.4 g",
    "administration": "oral",
    "substance": "Piracetam"
   },
-  "2": {
+  {
    "time": " T+ 29:30",
    "amount": "20 ug",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl"
   },
-  "3": {
+  {
    "time": " T+ 31:30",
    "amount": "20 ug",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "10 ug",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl"
   },
-  "5": {
+  {
    "time": " T+ 35:20",
    "amount": "17.5 ug",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl"
   }
- }
+ ]
 }

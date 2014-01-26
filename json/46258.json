@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2005-09-26T07:00:00.000Z",
  "views": "13380",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "bk-MDEA",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "bk-MDEA",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "4 hits",
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "bk-MDEA",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "80 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   },
-  "6": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "7": {
+  {
    "time": " T+ 0:00",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

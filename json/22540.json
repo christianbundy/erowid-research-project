@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-03-31T08:00:00.000Z",
  "views": "7082",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. semilanceata",
    "form": "(dried)"
   }
- }
+ ]
 }

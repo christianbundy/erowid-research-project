@@ -9,20 +9,20 @@
  "id": "15453",
  "timestamp": "2005-04-15T07:00:00.000Z",
  "views": "15719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 shots",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": ""
   }
- }
+ ]
 }

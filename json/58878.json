@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2007-05-02T07:00:00.000Z",
  "views": "91901",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Opiates"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Opiates"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Diazepam"
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Heroin"
   }
- }
+ ]
 }

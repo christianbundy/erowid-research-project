@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-02-19T08:00:00.000Z",
  "views": "11570",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

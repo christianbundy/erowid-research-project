@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "32604",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "TMA-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

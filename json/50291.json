@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-03-09T08:00:00.000Z",
  "views": "12574",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-B-Fly",
    "form": "(liquid)"
   }
- }
+ ]
 }

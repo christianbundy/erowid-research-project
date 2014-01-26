@@ -11,12 +11,12 @@
  "age": "22",
  "timestamp": "2012-07-25T07:00:00.000Z",
  "views": "2137",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

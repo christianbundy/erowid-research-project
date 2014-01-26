@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-07-29T07:00:00.000Z",
  "views": "11507",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "700 ug",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Yerba Mate"
   }
- }
+ ]
 }

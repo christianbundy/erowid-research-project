@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-09-04T07:00:00.000Z",
  "views": "8489",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.25 g",
    "administration": "oral",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

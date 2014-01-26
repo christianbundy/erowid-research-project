@@ -11,18 +11,18 @@
  "age": "21",
  "timestamp": "2013-04-06T07:00:00.000Z",
  "views": "3173",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "2C-B"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-11-15T08:00:00.000Z",
  "views": "14218",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "900 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "15 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -11,12 +11,12 @@
  "age": "27",
  "timestamp": "2010-04-15T07:00:00.000Z",
  "views": "33342",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Modafinil"
   }
- }
+ ]
 }

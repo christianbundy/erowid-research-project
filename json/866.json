@@ -9,24 +9,24 @@
  "id": "866",
  "timestamp": "2000-12-12T08:00:00.000Z",
  "views": "18866",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "2 hits",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "LSD",
    "amount": "(blotter / tab)",
    "administration": "",
    "substance": "6 hits"
   }
- }
+ ]
 }

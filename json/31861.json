@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2006-09-01T07:00:00.000Z",
  "views": "12029",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Lithium",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

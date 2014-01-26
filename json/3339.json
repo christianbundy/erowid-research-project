@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-10-20T07:00:00.000Z",
  "views": "12561",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

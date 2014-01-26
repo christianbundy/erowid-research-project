@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-05-12T07:00:00.000Z",
  "views": "5699",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 bowls",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

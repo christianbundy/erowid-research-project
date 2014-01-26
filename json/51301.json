@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-06-10T07:00:00.000Z",
  "views": "79839",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"
   }
- }
+ ]
 }

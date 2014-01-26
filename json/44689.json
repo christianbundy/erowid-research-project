@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-12-22T08:00:00.000Z",
  "views": "8530",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 flowers",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   }
- }
+ ]
 }

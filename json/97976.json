@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2012-12-13T08:00:00.000Z",
  "views": "2500",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 mg",
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

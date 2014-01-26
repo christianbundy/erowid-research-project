@@ -11,20 +11,20 @@
  "age": "23",
  "timestamp": "2012-09-18T07:00:00.000Z",
  "views": "5725",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "AM-2201",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

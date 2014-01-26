@@ -11,34 +11,34 @@
  "age": "18",
  "timestamp": "2013-05-22T07:00:00.000Z",
  "views": "697",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 hits",
    "administration": "vaporized",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": ""
   }
- }
+ ]
 }

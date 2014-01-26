@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-03-13T08:00:00.000Z",
  "views": "37305",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "(capsule)"
   }
- }
+ ]
 }

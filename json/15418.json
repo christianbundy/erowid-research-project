@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-04-28T07:00:00.000Z",
  "views": "11462",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1660 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

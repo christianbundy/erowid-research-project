@@ -9,36 +9,36 @@
  "id": "37884",
  "timestamp": "2006-03-22T08:00:00.000Z",
  "views": "27345",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Methadone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Tramadol"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "AMT"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Heroin"
   }
- }
+ ]
 }

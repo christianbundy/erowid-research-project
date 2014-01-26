@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-05-28T07:00:00.000Z",
  "views": "70171",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "45 mg",
    "administration": "SC",
    "substance": "Ketamine",
    "form": "(liquid)"
   }
- }
+ ]
 }

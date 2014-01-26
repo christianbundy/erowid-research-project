@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-03-16T08:00:00.000Z",
  "views": "16112",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8.0 mg",
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "12 mg",
    "administration": "rectal",
    "substance": "4-HO-DiPT",
    "form": "(liquid)"
   }
- }
+ ]
 }

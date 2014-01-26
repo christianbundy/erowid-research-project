@@ -9,13 +9,13 @@
  "id": "362",
  "timestamp": "2000-06-11T07:00:00.000Z",
  "views": "156906",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 glasses",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   }
- }
+ ]
 }

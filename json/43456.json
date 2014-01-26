@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-08-23T07:00:00.000Z",
  "views": "53682",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.5 mg",
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 0:10",
    "amount": "2.5 mg",
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 0:50",
    "amount": "5.0 mg",
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": " T+ 2:32",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

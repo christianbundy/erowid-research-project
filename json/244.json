@@ -9,34 +9,34 @@
  "id": "244",
  "timestamp": "2000-10-05T07:00:00.000Z",
  "views": "39384",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": " T+ 0:22",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "0.75 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": "(dried)"
   }
- }
+ ]
 }

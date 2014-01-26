@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-02-15T08:00:00.000Z",
  "views": "19383",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "DXO",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

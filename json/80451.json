@@ -11,48 +11,48 @@
  "age": "22",
  "timestamp": "2013-10-27T07:00:00.000Z",
  "views": "1647",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Tramadol"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Cyclobenzaprine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Alcohol"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cannabis"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "LSD"
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Carisoprodol"
   },
-  "6": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Kava"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-03-17T08:00:00.000Z",
  "views": "40843",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.2 mg",
    "administration": "insufflated",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-12-27T08:00:00.000Z",
  "views": "21401",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "36 oz",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

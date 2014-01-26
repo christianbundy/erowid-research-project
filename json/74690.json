@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-07-15T07:00:00.000Z",
  "views": "16226",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "oral",
    "substance": "LSD",
    "form": "(cookie / food)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

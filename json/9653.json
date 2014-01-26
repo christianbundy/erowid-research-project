@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2004-08-20T07:00:00.000Z",
  "views": "41502",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "12 tablets",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 25:00",
    "amount": "16 tablets",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

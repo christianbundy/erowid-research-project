@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-03-17T07:00:00.000Z",
  "views": "9685",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24 in",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

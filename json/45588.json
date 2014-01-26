@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-11-19T08:00:00.000Z",
  "views": "23880",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "115 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

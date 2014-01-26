@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "3426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 oz",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

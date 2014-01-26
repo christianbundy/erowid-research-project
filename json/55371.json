@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "349031",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "375 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -11,27 +11,27 @@
  "age": "18",
  "timestamp": "2012-06-12T07:00:00.000Z",
  "views": "10004",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Butalbital",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

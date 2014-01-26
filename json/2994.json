@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-10-18T07:00:00.000Z",
  "views": "12954",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   }
- }
+ ]
 }

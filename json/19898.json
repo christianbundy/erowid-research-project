@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-03-28T08:00:00.000Z",
  "views": "22399",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

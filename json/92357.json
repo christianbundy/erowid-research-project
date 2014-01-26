@@ -11,13 +11,13 @@
  "age": "27",
  "timestamp": "2011-08-31T07:00:00.000Z",
  "views": "8041",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Products - Bath Salts, Plant Food, etc",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

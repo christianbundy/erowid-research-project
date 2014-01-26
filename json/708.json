@@ -9,13 +9,13 @@
  "id": "708",
  "timestamp": "2000-09-09T07:00:00.000Z",
  "views": "13617",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

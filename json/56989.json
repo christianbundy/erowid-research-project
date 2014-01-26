@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-01-25T08:00:00.000Z",
  "views": "4932",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

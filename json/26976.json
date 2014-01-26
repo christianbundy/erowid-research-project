@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-11-25T08:00:00.000Z",
  "views": "9909",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

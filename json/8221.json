@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-08-05T07:00:00.000Z",
  "views": "17450",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1540 mg",
    "administration": "oral",
    "substance": "Kava",
    "form": "(capsule)"
   }
- }
+ ]
 }

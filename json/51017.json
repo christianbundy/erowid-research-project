@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2010-02-22T08:00:00.000Z",
  "views": "8660",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1/3 bowl",
    "administration": "smoked",
    "substance": "Psychotria viridis",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1/3 bowl",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1/3 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   }
- }
+ ]
 }

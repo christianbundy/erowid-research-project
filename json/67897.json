@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2009-07-14T07:00:00.000Z",
  "views": "22422",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "95 mg",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 1:10",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

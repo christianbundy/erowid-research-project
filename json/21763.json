@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-10-02T07:00:00.000Z",
  "views": "22278",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Haloperidol",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

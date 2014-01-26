@@ -11,41 +11,41 @@
  "age": "30",
  "timestamp": "2011-07-13T07:00:00.000Z",
  "views": "4780",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 lines",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Alcohol",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "",
    "substance": "MDMA",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "",
    "substance": "MDMA",
    "form": ""
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

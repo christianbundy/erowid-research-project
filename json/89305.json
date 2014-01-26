@@ -11,36 +11,36 @@
  "age": "16",
  "timestamp": "2011-03-15T07:00:00.000Z",
  "views": "10953",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "2 hits",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Salvia divinorum",
    "amount": "(extract)",
    "administration": "",
    "substance": "2 hits"
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Salvia divinorum",
    "administration": "(extract)",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   }
- }
+ ]
 }

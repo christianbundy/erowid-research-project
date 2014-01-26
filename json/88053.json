@@ -11,13 +11,13 @@
  "age": "31",
  "timestamp": "2013-12-11T08:00:00.000Z",
  "views": "1454",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "transdermal",
    "substance": "Belladonna",
    "form": "(plant material)"
   }
- }
+ ]
 }

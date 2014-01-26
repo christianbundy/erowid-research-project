@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2008-09-22T07:00:00.000Z",
  "views": "2789",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "2": {
+  {
    "time": " T+ 7:00",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

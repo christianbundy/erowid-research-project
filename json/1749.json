@@ -9,13 +9,13 @@
  "id": "1749",
  "timestamp": "2000-07-20T07:00:00.000Z",
  "views": "74855",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

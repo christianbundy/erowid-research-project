@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-12-16T08:00:00.000Z",
  "views": "19310",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

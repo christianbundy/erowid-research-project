@@ -11,20 +11,20 @@
  "age": "20",
  "timestamp": "2013-01-28T08:00:00.000Z",
  "views": "3529",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "500 ug",
    "administration": "buccal",
    "substance": "2C-B-NBOMe",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 3:30",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

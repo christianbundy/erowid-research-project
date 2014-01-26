@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-02-10T08:00:00.000Z",
  "views": "57355",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.25 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

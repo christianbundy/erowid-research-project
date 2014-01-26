@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-01-08T08:00:00.000Z",
  "views": "27131",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 caps",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "350 mg",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(tea)"
   }
- }
+ ]
 }

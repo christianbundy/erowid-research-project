@@ -11,20 +11,20 @@
  "age": "31",
  "timestamp": "2013-07-06T07:00:00.000Z",
  "views": "2171",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Pharms - Albuterol",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "70 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

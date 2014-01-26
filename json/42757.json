@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2005-09-16T07:00:00.000Z",
  "views": "14380",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Fentanyl",
    "form": "(liquid)"
   }
- }
+ ]
 }

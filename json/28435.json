@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-03-15T07:00:00.000Z",
  "views": "10453",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

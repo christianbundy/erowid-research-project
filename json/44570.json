@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-05-01T07:00:00.000Z",
  "views": "29036",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "DMAE"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Tyrosine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginseng"
   }
- }
+ ]
 }

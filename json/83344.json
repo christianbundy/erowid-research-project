@@ -11,12 +11,12 @@
  "age": "38",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "5741",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Cocaine"
   }
- }
+ ]
 }

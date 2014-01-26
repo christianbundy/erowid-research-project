@@ -11,13 +11,13 @@
  "age": "38",
  "timestamp": "2012-11-29T08:00:00.000Z",
  "views": "2392",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

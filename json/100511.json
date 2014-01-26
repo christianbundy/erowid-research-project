@@ -11,13 +11,13 @@
  "age": "27",
  "timestamp": "2013-06-17T07:00:00.000Z",
  "views": "3843",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "vaporized",
    "substance": "5-MeO-DMT",
    "form": "(freebase)"
   }
- }
+ ]
 }

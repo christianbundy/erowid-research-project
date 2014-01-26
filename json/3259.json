@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "28044",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 mg",
    "administration": "oral",
    "substance": "DOM",
    "form": "(liquid)"
   }
- }
+ ]
 }

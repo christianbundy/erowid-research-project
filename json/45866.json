@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2007-11-14T08:00:00.000Z",
  "views": "7747",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "15 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "8 caps",
    "administration": "oral",
    "substance": "Amanitas - A. pantherina",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(capsule)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Ginseng",
    "form": "(capsule)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "2 caps",
    "administration": "oral",
    "substance": "Amanitas - A. pantherina",
    "form": "(dried)"
   }
- }
+ ]
 }

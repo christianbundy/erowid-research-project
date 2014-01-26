@@ -9,20 +9,20 @@
  "id": "1542",
  "timestamp": "2000-10-13T07:00:00.000Z",
  "views": "21783",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "MAOI",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,20 +9,20 @@
  "id": "77007",
  "timestamp": "2009-03-26T07:00:00.000Z",
  "views": "3879",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   }
- }
+ ]
 }

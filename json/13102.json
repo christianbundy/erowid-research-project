@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2005-02-10T08:00:00.000Z",
  "views": "79807",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 10:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-04-23T07:00:00.000Z",
  "views": "21214",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Heimia salicifolia",
    "form": "(tea)"
   }
- }
+ ]
 }

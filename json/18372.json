@@ -9,12 +9,12 @@
  "id": "18372",
  "timestamp": "2002-10-22T07:00:00.000Z",
  "views": "19488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Betel Nut"
   }
- }
+ ]
 }

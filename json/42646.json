@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-09-19T07:00:00.000Z",
  "views": "29453",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Phenylephrine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

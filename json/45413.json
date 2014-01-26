@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-09-27T07:00:00.000Z",
  "views": "17612",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 cups",
    "administration": "oral",
    "substance": "Yerba Mate",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 g",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(tea)"
   }
- }
+ ]
 }

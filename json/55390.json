@@ -9,13 +9,13 @@
  "id": "55390",
  "timestamp": "2007-06-10T07:00:00.000Z",
  "views": "10123",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 capsls",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "(capsule)"
   }
- }
+ ]
 }

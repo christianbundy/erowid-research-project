@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-03-12T08:00:00.000Z",
  "views": "22899",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Pharmaceuticals",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

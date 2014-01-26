@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-11-03T08:00:00.000Z",
  "views": "12157",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-T-4",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "340 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   }
- }
+ ]
 }

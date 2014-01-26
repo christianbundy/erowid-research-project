@@ -9,13 +9,13 @@
  "id": "992",
  "timestamp": "2000-12-12T08:00:00.000Z",
  "views": "10067",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

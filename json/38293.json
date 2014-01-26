@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-12-04T08:00:00.000Z",
  "views": "28613",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "140 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 6:00",
    "amount": "160 mg",
    "administration": "IM",
    "substance": "Ketamine",
    "form": "(liquid)"
   }
- }
+ ]
 }

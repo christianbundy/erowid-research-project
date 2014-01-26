@@ -9,34 +9,34 @@
  "id": "22963",
  "timestamp": "2006-12-05T08:00:00.000Z",
  "views": "20686",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "15 ml",
    "administration": "inhaled",
    "substance": "Ether",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 0:45",
    "amount": "1 oz",
    "administration": "inhaled",
    "substance": "Ether",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 6:00",
    "amount": "4 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "52",
  "timestamp": "2011-02-28T08:00:00.000Z",
  "views": "21580",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Naproxen",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Cyclobenzaprine",
    "form": ""
   }
- }
+ ]
 }

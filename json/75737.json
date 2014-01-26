@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-08-03T07:00:00.000Z",
  "views": "4276",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "195 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(plant material)"
   }
- }
+ ]
 }

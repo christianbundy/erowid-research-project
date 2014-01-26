@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-06-27T07:00:00.000Z",
  "views": "19864",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Methamphetamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": "oral"
   }
- }
+ ]
 }

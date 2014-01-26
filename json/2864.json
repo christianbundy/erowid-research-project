@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2000-09-11T07:00:00.000Z",
  "views": "60792",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Heroin"
   }
- }
+ ]
 }

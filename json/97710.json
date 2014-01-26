@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2012-11-21T08:00:00.000Z",
  "views": "3648",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

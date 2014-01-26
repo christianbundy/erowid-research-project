@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2005-08-25T07:00:00.000Z",
  "views": "20758",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tsp",
    "administration": "oral",
    "substance": "Hops",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -11,36 +11,36 @@
  "age": "27",
  "timestamp": "2010-03-14T08:00:00.000Z",
  "views": "14568",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Datura"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "LSD",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Alcohol",
    "administration": "(liquid)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "1 cup repeated",
    "amount": "oral",
    "administration": "Tea",
    "substance": "(liquid)"
   }
- }
+ ]
 }

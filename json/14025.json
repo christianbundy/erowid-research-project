@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2005-03-21T08:00:00.000Z",
  "views": "45623",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Pharms - Buspirone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

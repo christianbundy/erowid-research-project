@@ -11,54 +11,54 @@
  "age": "18",
  "timestamp": "2013-12-03T08:00:00.000Z",
  "views": "813",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 g",
    "administration": "oral",
    "substance": "GABA"
   },
-  "3": {
+  {
    "time": "",
    "amount": "4 g",
    "administration": "oral",
    "substance": "GABA"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Tyrosine"
   },
-  "5": {
+  {
    "time": "",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Tyrosine"
   },
-  "6": {
+  {
    "time": "",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Phenylalanine"
   },
-  "7": {
+  {
    "time": "",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Phenylalanine"
   }
- }
+ ]
 }

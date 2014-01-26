@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2008-02-13T08:00:00.000Z",
  "views": "24128",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "Pharms - Lithium",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Aripiprazole",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-06-16T07:00:00.000Z",
  "views": "72386",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Pharms - Cyclobenzaprine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

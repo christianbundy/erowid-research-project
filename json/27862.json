@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2006-04-11T07:00:00.000Z",
  "views": "18780",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Passion Flower"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Damiana",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Damiana",
    "administration": "(tea)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "1 ",
    "amount": "smoked",
    "administration": "Tobacco - Cigarettes",
    "substance": ""
   }
- }
+ ]
 }

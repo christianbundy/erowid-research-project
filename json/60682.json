@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-19T07:00:00.000Z",
  "views": "22005",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27 drops",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(liquid)"
   }
- }
+ ]
 }

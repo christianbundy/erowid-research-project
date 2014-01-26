@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-10-23T07:00:00.000Z",
  "views": "13739",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:33",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 2:30",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

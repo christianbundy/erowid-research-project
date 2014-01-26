@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-06-21T07:00:00.000Z",
  "views": "40992",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "smoked",
    "substance": "Opium",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

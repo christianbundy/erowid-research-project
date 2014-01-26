@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "43108",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

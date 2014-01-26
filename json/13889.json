@@ -9,18 +9,18 @@
  "id": "13889",
  "timestamp": "2002-11-21T08:00:00.000Z",
  "views": "24551",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "GHB"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol"
   }
- }
+ ]
 }

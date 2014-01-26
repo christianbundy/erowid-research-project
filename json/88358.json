@@ -11,18 +11,18 @@
  "age": "19",
  "timestamp": "2011-02-21T08:00:00.000Z",
  "views": "9195",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "5-MeO-DMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "SC",
    "substance": "5-MeO-DMT"
   }
- }
+ ]
 }

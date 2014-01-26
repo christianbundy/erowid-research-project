@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-30T07:00:00.000Z",
  "views": "6385",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

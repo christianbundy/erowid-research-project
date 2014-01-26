@@ -9,12 +9,12 @@
  "id": "96981",
  "timestamp": "2012-07-23T07:00:00.000Z",
  "views": "1350",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

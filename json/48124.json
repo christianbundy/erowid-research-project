@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2008-02-08T08:00:00.000Z",
  "views": "18987",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Amitriptyline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(daily)"
   }
- }
+ ]
 }

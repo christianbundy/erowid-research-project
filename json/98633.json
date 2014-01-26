@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2013-02-20T08:00:00.000Z",
  "views": "5788",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1600 ug",
    "administration": "oral",
    "substance": "2C-I-NBOMe"
   },
-  "1": {
+  {
    "time": "",
    "amount": "800 ug",
    "administration": "oral",
    "substance": "2C-C-NBOMe"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

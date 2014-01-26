@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2013-11-18T08:00:00.000Z",
  "views": "742",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(daily)"
   }
- }
+ ]
 }

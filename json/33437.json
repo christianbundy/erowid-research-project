@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-04-28T07:00:00.000Z",
  "views": "27169",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

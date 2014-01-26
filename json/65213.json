@@ -11,13 +11,13 @@
  "age": "17",
  "timestamp": "2009-08-25T07:00:00.000Z",
  "views": "2377",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

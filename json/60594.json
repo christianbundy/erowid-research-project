@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-10-23T07:00:00.000Z",
  "views": "13198",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

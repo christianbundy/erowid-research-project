@@ -9,13 +9,13 @@
  "id": "22360",
  "timestamp": "2004-03-18T08:00:00.000Z",
  "views": "19404",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "sublingual",
    "substance": "Kratom",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2003-07-13T07:00:00.000Z",
  "views": "58002",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "6 buttons",
    "administration": "oral",
    "substance": "Peyote",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "8 tsp",
    "administration": "oral",
    "substance": "Peyote",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "4 tsp",
    "administration": "oral",
    "substance": "Peyote",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": "8 cups",
    "administration": "oral",
    "substance": "Peyote",
    "form": "(tea)"
   }
- }
+ ]
 }

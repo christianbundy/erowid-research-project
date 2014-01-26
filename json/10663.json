@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-07-16T07:00:00.000Z",
  "views": "61321",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "PCP"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Ketamine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "DXM"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-07-16T07:00:00.000Z",
  "views": "16775",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 1:45",
    "amount": "9 seeds",
    "administration": "oral",
    "substance": "Anadenanthera spp.",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

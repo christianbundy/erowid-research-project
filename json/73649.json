@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2008-09-18T07:00:00.000Z",
  "views": "10786",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "5-MeO-DALT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "50 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "",
    "administration": "",
    "substance": "10 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Pharms - Diazepam",
    "administration": "(pill / tablet)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "6 carts.",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"
   }
- }
+ ]
 }

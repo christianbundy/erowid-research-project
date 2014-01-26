@@ -11,13 +11,13 @@
  "age": "16",
  "timestamp": "2013-09-26T07:00:00.000Z",
  "views": "1552",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

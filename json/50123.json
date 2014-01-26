@@ -11,34 +11,34 @@
  "age": "16",
  "timestamp": "2010-08-22T07:00:00.000Z",
  "views": "12926",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.25 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

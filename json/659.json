@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-09-15T07:00:00.000Z",
  "views": "25507",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Datura",
    "form": "(roots)"
   }
- }
+ ]
 }

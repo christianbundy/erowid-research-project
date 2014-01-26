@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-06-27T07:00:00.000Z",
  "views": "21166",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Products - Spice and Synthetic Cannabinoids",
    "form": "(dried)"
   }
- }
+ ]
 }

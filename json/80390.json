@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2012-01-19T08:00:00.000Z",
  "views": "8662",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "rectal",
    "substance": "4-MeO-PCP",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "insufflated",
    "substance": "4-MeO-PCP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

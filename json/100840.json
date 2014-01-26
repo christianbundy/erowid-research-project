@@ -11,27 +11,27 @@
  "age": "18",
  "timestamp": "2013-07-24T07:00:00.000Z",
  "views": "2465",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Escaline",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cannabinoid Receptor Agonists",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

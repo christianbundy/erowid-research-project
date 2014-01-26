@@ -9,13 +9,13 @@
  "id": "524",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "182714",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "420 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -11,34 +11,34 @@
  "age": "31",
  "timestamp": "2013-10-22T07:00:00.000Z",
  "views": "861",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.4 mg",
    "administration": "oral",
    "substance": "TCB-2",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 15:00",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 15:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 15:00",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": ""
   }
- }
+ ]
 }

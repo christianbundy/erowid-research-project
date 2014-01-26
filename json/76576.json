@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-02-03T08:00:00.000Z",
  "views": "21842",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Pregabalin",
    "form": "(daily)"
   }
- }
+ ]
 }

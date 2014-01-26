@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-07-10T07:00:00.000Z",
  "views": "13462",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6 mg",
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "(daily)"
   }
- }
+ ]
 }

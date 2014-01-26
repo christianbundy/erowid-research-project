@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-02-07T08:00:00.000Z",
  "views": "18333",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Flunitrazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

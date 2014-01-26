@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-09-29T07:00:00.000Z",
  "views": "5316",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

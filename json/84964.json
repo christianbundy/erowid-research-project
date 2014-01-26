@@ -10,41 +10,41 @@
  "age": "15",
  "timestamp": "2010-07-26T07:00:00.000Z",
  "views": "22337",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

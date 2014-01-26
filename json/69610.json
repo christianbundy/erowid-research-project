@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2012-04-03T07:00:00.000Z",
  "views": "2591",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Pennyroyal",
    "form": "(tea)"
   }
- }
+ ]
 }

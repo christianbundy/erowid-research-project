@@ -11,30 +11,30 @@
  "age": "17",
  "timestamp": "2013-11-03T07:00:00.000Z",
  "views": "822",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": " T+ 6:00",
    "amount": "1 hit",
    "administration": "",
    "substance": "LSD"
   },
-  "2": {
+  {
    "time": " T+ 19:00",
    "amount": "1 hit",
    "administration": "",
    "substance": "LSD"
   },
-  "3": {
+  {
    "time": " T+ 23:00",
    "amount": "2 hits",
    "administration": "",
    "substance": "LSD"
   }
- }
+ ]
 }

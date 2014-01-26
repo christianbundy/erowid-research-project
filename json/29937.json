@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-10-24T07:00:00.000Z",
  "views": "4696",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

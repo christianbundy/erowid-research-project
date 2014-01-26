@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2011-11-30T08:00:00.000Z",
  "views": "13798",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   }
- }
+ ]
 }

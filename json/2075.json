@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2000-06-24T07:00:00.000Z",
  "views": "59898",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.75 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7.2 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "13.5 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-11-13T08:00:00.000Z",
  "views": "23114",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "GVL",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "GHV",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -11,34 +11,34 @@
  "age": "18",
  "timestamp": "2010-10-07T07:00:00.000Z",
  "views": "85917",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

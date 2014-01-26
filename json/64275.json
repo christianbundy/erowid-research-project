@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2009-09-21T07:00:00.000Z",
  "views": "8867",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Carisoprodol"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-01-17T08:00:00.000Z",
  "views": "12648",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "140 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

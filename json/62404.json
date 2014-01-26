@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2009-09-14T07:00:00.000Z",
  "views": "6997",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "55 mg",
    "administration": "",
    "substance": "Pharms - Oxycodone"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "12.5 mg",
    "administration": "",
    "substance": "Naltrexone"
   }
- }
+ ]
 }

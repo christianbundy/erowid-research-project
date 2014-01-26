@@ -11,55 +11,55 @@
  "age": "20",
  "timestamp": "2013-10-31T07:00:00.000Z",
  "views": "942",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "0.25 g",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 3:00",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "5": {
+  {
    "time": " T+ 4:20",
    "amount": "0.5 hits",
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   },
-  "6": {
+  {
    "time": " T+ 7:00",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

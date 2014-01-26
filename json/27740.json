@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-10-21T07:00:00.000Z",
  "views": "12007",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 3:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 5:30",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

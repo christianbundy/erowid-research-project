@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-06-16T07:00:00.000Z",
  "views": "13711",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 cups",
    "administration": "oral",
    "substance": "Periwinkle",
    "form": "(tea)"
   }
- }
+ ]
 }

@@ -9,18 +9,18 @@
  "id": "2048",
  "timestamp": "2000-06-23T07:00:00.000Z",
  "views": "6414",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 hit",
    "substance": "smoked"
   }
- }
+ ]
 }

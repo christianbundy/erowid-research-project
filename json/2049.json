@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2000-06-23T07:00:00.000Z",
  "views": "7809",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

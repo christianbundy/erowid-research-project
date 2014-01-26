@@ -9,13 +9,13 @@
  "id": "20460",
  "timestamp": "2006-06-08T07:00:00.000Z",
  "views": "14076",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Pharms - Tiletamine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

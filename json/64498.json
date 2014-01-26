@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-10-09T07:00:00.000Z",
  "views": "9851",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 drops",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

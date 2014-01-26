@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-05-29T07:00:00.000Z",
  "views": "61500",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "650 mg",
    "administration": "insufflated",
    "substance": "Acetaminophen",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "Pharms - Propoxyphene",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

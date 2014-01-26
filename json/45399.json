@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-13T07:00:00.000Z",
  "views": "13274",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Catuaba",
    "form": "(tea)"
   }
- }
+ ]
 }

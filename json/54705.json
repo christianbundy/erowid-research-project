@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2006-07-28T07:00:00.000Z",
  "views": "5070",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.5 mg",
    "administration": "IV",
    "substance": "2C-I"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   }
- }
+ ]
 }

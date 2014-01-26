@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2012-12-26T08:00:00.000Z",
  "views": "872",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "28 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(capsule)"
   }
- }
+ ]
 }

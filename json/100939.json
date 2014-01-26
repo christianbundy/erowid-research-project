@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2013-08-04T07:00:00.000Z",
  "views": "4361",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "160 mg",
    "administration": "sublingual",
    "substance": "AH-7921",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

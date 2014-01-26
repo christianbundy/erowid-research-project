@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2004-12-03T08:00:00.000Z",
  "views": "34528",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Various"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Pharms - Citalopram",
    "amount": "(daily)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

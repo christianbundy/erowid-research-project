@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-12-27T08:00:00.000Z",
  "views": "12287",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   }
- }
+ ]
 }

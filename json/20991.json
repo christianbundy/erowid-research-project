@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-01-30T08:00:00.000Z",
  "views": "8082",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:10",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(liquid)"
   }
- }
+ ]
 }

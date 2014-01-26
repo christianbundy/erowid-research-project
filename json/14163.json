@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2002-04-23T07:00:00.000Z",
  "views": "65685",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 ug",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(roots)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

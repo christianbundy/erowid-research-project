@@ -9,20 +9,20 @@
  "id": "239",
  "timestamp": "2000-06-10T07:00:00.000Z",
  "views": "10292",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.25 oz",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   }
- }
+ ]
 }

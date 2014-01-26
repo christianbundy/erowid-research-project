@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2003-09-30T07:00:00.000Z",
  "views": "29101",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(leaves)"
   },
-  "2": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Inhalants - Nitrites",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 5:00",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 5:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 5:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": ""
   }
- }
+ ]
 }

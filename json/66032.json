@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-07-22T07:00:00.000Z",
  "views": "28428",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": "900 mg",
    "administration": "oral",
    "substance": "DXM"
   }
- }
+ ]
 }

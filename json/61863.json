@@ -9,13 +9,13 @@
  "id": "61863",
  "timestamp": "2010-03-21T07:00:00.000Z",
  "views": "6133",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.4 mg",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl",
    "form": "(daily)"
   }
- }
+ ]
 }

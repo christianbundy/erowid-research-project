@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-03-01T08:00:00.000Z",
  "views": "16988",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2002-02-28T08:00:00.000Z",
  "views": "33608",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Herbal Ecstasy"
   },
-  "2": {
+  {
    "time": " T+ 25:30",
    "amount": " ",
    "administration": "oral",
    "substance": "Diphenhydramine"
   }
- }
+ ]
 }

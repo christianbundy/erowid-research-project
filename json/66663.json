@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-07-22T07:00:00.000Z",
  "views": "10606",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 2:15",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDA",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 3:15",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

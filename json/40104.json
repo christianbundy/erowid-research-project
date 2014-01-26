@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-03-08T08:00:00.000Z",
  "views": "45193",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "sublingual",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

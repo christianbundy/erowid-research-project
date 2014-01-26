@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2008-02-29T08:00:00.000Z",
  "views": "20196",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 4:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 5:00",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "6": {
+  {
    "time": " T+ 6:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "7": {
+  {
    "time": " T+ 10:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

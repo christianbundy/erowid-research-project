@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-10-29T07:00:00.000Z",
  "views": "10004",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "17 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7.5 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

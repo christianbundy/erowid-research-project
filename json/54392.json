@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-29T07:00:00.000Z",
  "views": "18068",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24 tablets",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "830 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

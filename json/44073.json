@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-03-02T08:00:00.000Z",
  "views": "8573",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "708 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

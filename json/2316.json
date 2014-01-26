@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2001-09-25T07:00:00.000Z",
  "views": "8612",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "0.5 g",
    "substance": "smoked"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2005-01-26T08:00:00.000Z",
  "views": "8832",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:50",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 5:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

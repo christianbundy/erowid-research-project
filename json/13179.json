@@ -9,27 +9,27 @@
  "id": "13179",
  "timestamp": "2007-03-08T08:00:00.000Z",
  "views": "19053",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

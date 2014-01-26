@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2009-05-30T07:00:00.000Z",
  "views": "23163",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Products - Spice and Synthetic Cannabinoids"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Products - Spice and Synthetic Cannabinoids"
   }
- }
+ ]
 }

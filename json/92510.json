@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2011-08-31T07:00:00.000Z",
  "views": "6721",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "4-Methylethcathinone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2001-08-06T07:00:00.000Z",
  "views": "47064",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "GHB"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "MBDB"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2002-09-06T07:00:00.000Z",
  "views": "29334",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 flowers",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 flowers",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(flowers)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-01-13T08:00:00.000Z",
  "views": "6715",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 shots",
    "administration": "oral",
    "substance": "Salvia divinorum",
    "form": "(liquid)"
   }
- }
+ ]
 }

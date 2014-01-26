@@ -11,20 +11,20 @@
  "age": "40",
  "timestamp": "2010-10-10T07:00:00.000Z",
  "views": "9329",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3mg repeated",
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3mg repeated",
    "administration": "oral",
    "substance": "JWH-018",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

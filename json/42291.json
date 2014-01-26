@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-06-06T07:00:00.000Z",
  "views": "18371",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -11,27 +11,27 @@
  "age": "20",
  "timestamp": "2013-04-19T07:00:00.000Z",
  "views": "13571",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "sublingual",
    "substance": "2C-B-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

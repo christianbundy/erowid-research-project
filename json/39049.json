@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-04-16T07:00:00.000Z",
  "views": "63337",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "sublingual",
    "substance": "Kava",
    "form": "(roots)"
   }
- }
+ ]
 }

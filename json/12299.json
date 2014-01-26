@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-02-20T08:00:00.000Z",
  "views": "21444",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "65 g",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(tea)"
   }
- }
+ ]
 }

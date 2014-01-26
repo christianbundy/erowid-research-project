@@ -9,20 +9,20 @@
  "id": "1069",
  "timestamp": "2001-04-06T07:00:00.000Z",
  "views": "11315",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "500 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -11,69 +11,69 @@
  "age": "21",
  "timestamp": "2010-01-10T08:00:00.000Z",
  "views": "7092",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1.5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "",
    "substance": "2C-C",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": ".5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": "20 mg",
    "administration": "",
    "substance": "2C-C",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 5:30",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "6": {
+  {
    "time": " T+ 5:30",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(pill / tablet)"
   },
-  "7": {
+  {
    "time": " T+ 6:30",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "2C-C",
    "form": "(capsule)"
   },
-  "8": {
+  {
    "time": " T+ 6:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(capsule)"
   }
- }
+ ]
 }

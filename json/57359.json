@@ -9,12 +9,12 @@
  "id": "57359",
  "timestamp": "2007-09-27T07:00:00.000Z",
  "views": "3767",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Salvia divinorum"
   }
- }
+ ]
 }

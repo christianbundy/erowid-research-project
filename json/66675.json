@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2007-10-29T07:00:00.000Z",
  "views": "8288",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "1 glass",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Alcohol - Hard",
    "amount": "",
    "administration": " T+ 0:00",
    "substance": "8.0 g"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Calamus",
    "administration": "(extract)",
    "substance": " T+ 1:23"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-08-09T07:00:00.000Z",
  "views": "3161",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 7:30",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 7:30",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

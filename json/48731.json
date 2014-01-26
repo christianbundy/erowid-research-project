@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-03-24T08:00:00.000Z",
  "views": "3998",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.6 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(liquid)"
   }
- }
+ ]
 }

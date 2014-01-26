@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2009-02-25T08:00:00.000Z",
  "views": "10003",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27 mg",
    "administration": "oral",
    "substance": "4-HO-MET"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

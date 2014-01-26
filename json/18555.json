@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-23T07:00:00.000Z",
  "views": "8935",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(leaves)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-06-19T07:00:00.000Z",
  "views": "20577",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Tryptophan - L-Tryptophan",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

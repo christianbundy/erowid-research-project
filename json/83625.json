@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2010-03-30T07:00:00.000Z",
  "views": "13746",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Methylone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "4-Methylmethcathinone"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Cannabis"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Alcohol"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "MDMA"
   }
- }
+ ]
 }

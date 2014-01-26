@@ -11,30 +11,30 @@
  "age": "22",
  "timestamp": "2010-07-22T07:00:00.000Z",
  "views": "6116",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "2C-C"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "2C-E"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "2C-I"
   }
- }
+ ]
 }

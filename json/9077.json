@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-05-13T07:00:00.000Z",
  "views": "6223",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   }
- }
+ ]
 }

@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2007-03-13T07:00:00.000Z",
  "views": "11310",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27 mg",
    "administration": "oral",
    "substance": "5-MeO-MIPT"
   }
- }
+ ]
 }

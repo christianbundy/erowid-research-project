@@ -9,20 +9,20 @@
  "id": "23285",
  "timestamp": "2006-02-08T08:00:00.000Z",
  "views": "4816",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

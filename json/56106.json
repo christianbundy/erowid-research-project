@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2008-11-05T08:00:00.000Z",
  "views": "9111",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-B"
   }
- }
+ ]
 }

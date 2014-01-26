@@ -9,13 +9,13 @@
  "id": "62339",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "10222",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "DPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

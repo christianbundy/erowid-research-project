@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-04-30T07:00:00.000Z",
  "views": "116826",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "16 g",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "14 g",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

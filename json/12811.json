@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-02-23T08:00:00.000Z",
  "views": "58829",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Ether",
    "form": "(gas)"
   }
- }
+ ]
 }

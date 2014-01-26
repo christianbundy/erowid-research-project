@@ -11,20 +11,20 @@
  "age": "30",
  "timestamp": "2013-07-10T07:00:00.000Z",
  "views": "1836",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "insufflated",
    "substance": "Pharms - Metaxalone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Pharms - Metaxalone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

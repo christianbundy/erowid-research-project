@@ -9,12 +9,12 @@
  "id": "66858",
  "timestamp": "2009-06-02T07:00:00.000Z",
  "views": "2603",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

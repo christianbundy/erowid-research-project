@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-07-24T07:00:00.000Z",
  "views": "8443",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "(gas)"
   }
- }
+ ]
 }

@@ -11,18 +11,18 @@
  "age": "20",
  "timestamp": "2012-11-07T08:00:00.000Z",
  "views": "1979",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "2C-E"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "2C-T-2"
   }
- }
+ ]
 }

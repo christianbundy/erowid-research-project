@@ -11,12 +11,12 @@
  "age": "19",
  "timestamp": "2013-07-23T07:00:00.000Z",
  "views": "593",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "rectal",
    "substance": "2C-I"
   }
- }
+ ]
 }

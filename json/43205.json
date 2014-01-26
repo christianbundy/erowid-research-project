@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-09-07T07:00:00.000Z",
  "views": "17163",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

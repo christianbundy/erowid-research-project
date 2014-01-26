@@ -9,27 +9,27 @@
  "id": "44988",
  "timestamp": "2008-12-14T08:00:00.000Z",
  "views": "23246",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

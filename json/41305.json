@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-06T08:00:00.000Z",
  "views": "21187",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
    "form": "(daily)"
   }
- }
+ ]
 }

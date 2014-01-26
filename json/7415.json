@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-06-13T07:00:00.000Z",
  "views": "48091",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 Tbsp",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   }
- }
+ ]
 }

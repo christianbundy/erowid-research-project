@@ -9,13 +9,13 @@
  "id": "1380",
  "timestamp": "2000-07-18T07:00:00.000Z",
  "views": "9789",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

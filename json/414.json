@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "4028",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "12 oz",
    "administration": "oral",
    "substance": "Alcohol"
   }
- }
+ ]
 }

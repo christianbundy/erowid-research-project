@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-10-18T07:00:00.000Z",
  "views": "28026",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "740 mg",
    "administration": "oral",
    "substance": "Damiana",
    "form": "(capsule)"
   }
- }
+ ]
 }

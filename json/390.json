@@ -9,13 +9,13 @@
  "id": "390",
  "timestamp": "2000-06-18T07:00:00.000Z",
  "views": "9373",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.0625 oz",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   }
- }
+ ]
 }

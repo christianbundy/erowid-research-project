@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-09-25T07:00:00.000Z",
  "views": "35573",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "14 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Pharms - Ibuprofen",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -11,18 +11,18 @@
  "age": "18",
  "timestamp": "2010-07-21T07:00:00.000Z",
  "views": "3548",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "90 mg",
    "substance": "oral"
   }
- }
+ ]
 }

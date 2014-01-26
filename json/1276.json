@@ -9,20 +9,20 @@
  "id": "1276",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "52260",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

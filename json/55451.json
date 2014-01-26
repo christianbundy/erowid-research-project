@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-02-25T08:00:00.000Z",
  "views": "2816",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 10x)"
   }
- }
+ ]
 }

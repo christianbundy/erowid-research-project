@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2004-02-12T08:00:00.000Z",
  "views": "78544",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.25 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:20",
    "amount": "0.25 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 2:10",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "23",
  "timestamp": "2013-06-30T07:00:00.000Z",
  "views": "1216",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 hits",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

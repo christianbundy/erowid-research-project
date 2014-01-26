@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2010-03-10T08:00:00.000Z",
  "views": "7160",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

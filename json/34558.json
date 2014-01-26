@@ -9,13 +9,13 @@
  "id": "34558",
  "timestamp": "2007-12-13T08:00:00.000Z",
  "views": "8908",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

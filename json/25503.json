@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "16196",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Meperidine",
    "form": "(liquid)"
   }
- }
+ ]
 }

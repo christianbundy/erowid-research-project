@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "6618",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1.0 mg",
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

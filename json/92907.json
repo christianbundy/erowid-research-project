@@ -11,27 +11,27 @@
  "age": "20",
  "timestamp": "2012-11-16T08:00:00.000Z",
  "views": "2913",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   }
- }
+ ]
 }

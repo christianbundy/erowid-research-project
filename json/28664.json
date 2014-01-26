@@ -9,27 +9,27 @@
  "id": "28664",
  "timestamp": "2003-11-24T08:00:00.000Z",
  "views": "24955",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "600 mg",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(flowers)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "smoked",
    "substance": "Datura",
    "form": "(seeds)"
   }
- }
+ ]
 }

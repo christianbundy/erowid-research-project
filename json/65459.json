@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2009-09-17T07:00:00.000Z",
  "views": "18684",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4500 mg",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "144 mg",
    "administration": "oral",
    "substance": "Lecithin",
    "form": "(daily)"
   }
- }
+ ]
 }

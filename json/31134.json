@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-11-13T08:00:00.000Z",
  "views": "7480",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 capsls",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(capsule)"
   }
- }
+ ]
 }

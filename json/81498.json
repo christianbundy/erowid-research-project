@@ -11,34 +11,34 @@
  "age": "25",
  "timestamp": "2010-05-05T07:00:00.000Z",
  "views": "17078",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(cookie / food)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "7 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

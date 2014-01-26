@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2008-08-14T07:00:00.000Z",
  "views": "7399",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.75 hits",
    "administration": "oral",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:20",
    "administration": "4.5 g",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Syrian Rue",
    "amount": "(seeds)",
    "administration": " T+ 0:20",
    "substance": "5.0 g"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Amanitas",
    "administration": "(dried)",
    "substance": " T+ 1:30"
   },
-  "4": {
+  {
    "time": "5.0 g",
    "amount": "oral",
    "administration": "Amanitas",
    "substance": "(ground / crushed)"
   },
-  "5": {
+  {
    "time": " T+ 1:30",
    "amount": "5.0 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora"
   }
- }
+ ]
 }

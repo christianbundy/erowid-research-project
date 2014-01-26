@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-07-31T07:00:00.000Z",
  "views": "3654",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

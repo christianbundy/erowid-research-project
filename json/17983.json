@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-08-17T07:00:00.000Z",
  "views": "12373",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 oz",
    "administration": "oral",
    "substance": "Cacti - M. geometrizans",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-12-23T08:00:00.000Z",
  "views": "13748",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Harmaline",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

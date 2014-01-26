@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-01-17T08:00:00.000Z",
  "views": "9419",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-09-27T07:00:00.000Z",
  "views": "7609",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

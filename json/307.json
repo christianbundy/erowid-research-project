@@ -9,13 +9,13 @@
  "id": "307",
  "timestamp": "2001-09-06T07:00:00.000Z",
  "views": "5249",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   }
- }
+ ]
 }

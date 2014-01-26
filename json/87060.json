@@ -11,20 +11,20 @@
  "age": "34",
  "timestamp": "2011-02-08T08:00:00.000Z",
  "views": "5914",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   }
- }
+ ]
 }

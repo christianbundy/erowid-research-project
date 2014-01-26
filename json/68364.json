@@ -11,30 +11,30 @@
  "age": "19",
  "timestamp": "2009-10-30T07:00:00.000Z",
  "views": "58690",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.4 g",
    "administration": "IV",
    "substance": "Cocaine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "IV",
    "substance": "Heroin"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Heroin"
   },
-  "3": {
+  {
    "time": "",
    "amount": ".5 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam"
   }
- }
+ ]
 }

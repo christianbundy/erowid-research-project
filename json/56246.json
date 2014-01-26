@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-01-10T08:00:00.000Z",
  "views": "9115",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 g",
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 g",
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "(plant material)"
   }
- }
+ ]
 }

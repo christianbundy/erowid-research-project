@@ -11,41 +11,41 @@
  "age": "20",
  "timestamp": "2010-07-08T07:00:00.000Z",
  "views": "17401",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "1 capsl",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   }
- }
+ ]
 }

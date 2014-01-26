@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-08-28T07:00:00.000Z",
  "views": "4603",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 carts.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 carts.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

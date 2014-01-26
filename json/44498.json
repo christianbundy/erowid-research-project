@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-09-19T07:00:00.000Z",
  "views": "18071",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(flowers)"
   }
- }
+ ]
 }

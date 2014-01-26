@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2005-10-13T07:00:00.000Z",
  "views": "24818",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Heroin"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Cocaine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "LSD"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   }
- }
+ ]
 }

@@ -11,18 +11,18 @@
  "age": "17",
  "timestamp": "2010-01-29T08:00:00.000Z",
  "views": "4244",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "2C-T-7"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "IV",
    "substance": "Heroin"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "58479",
  "timestamp": "2010-07-26T07:00:00.000Z",
  "views": "3373",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   }
- }
+ ]
 }

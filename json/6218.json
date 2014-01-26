@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-02-18T08:00:00.000Z",
  "views": "30159",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

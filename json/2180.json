@@ -9,13 +9,13 @@
  "id": "2180",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "31987",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

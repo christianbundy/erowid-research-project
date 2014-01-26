@@ -11,20 +11,20 @@
  "age": "21",
  "timestamp": "2012-10-10T07:00:00.000Z",
  "views": "99857",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-08-10T07:00:00.000Z",
  "views": "18791",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

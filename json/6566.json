@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2002-02-28T08:00:00.000Z",
  "views": "38018",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 g",
    "administration": "oral",
    "substance": "Nutmeg"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "275 seeds",
    "administration": "oral",
    "substance": "Morning Glory"
   }
- }
+ ]
 }

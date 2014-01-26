@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "28895",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "smoked",
    "substance": "4-Methylaminorex",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

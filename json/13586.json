@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "25288",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:35",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 2:35",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "2.5 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

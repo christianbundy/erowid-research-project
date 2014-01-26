@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2004-11-04T08:00:00.000Z",
  "views": "14234",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 hits",
    "administration": "sublingual",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Datura",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "2 drops",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(extract)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "6 cups",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

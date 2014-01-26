@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2004-09-21T07:00:00.000Z",
  "views": "19230",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 cups",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(flowers)"
   }
- }
+ ]
 }

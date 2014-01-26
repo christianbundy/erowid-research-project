@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-01-12T08:00:00.000Z",
  "views": "34226",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 cups",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   }
- }
+ ]
 }

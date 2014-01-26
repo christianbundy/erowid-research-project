@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-07-04T07:00:00.000Z",
  "views": "9814",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(liquid)"
   }
- }
+ ]
 }

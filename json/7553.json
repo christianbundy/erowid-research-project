@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2002-07-14T07:00:00.000Z",
  "views": "7628",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": " T+ 0:03",
    "amount": "50 mg",
    "administration": "IM",
    "substance": "Ketamine"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "20 mg",
    "administration": "IM",
    "substance": "Ketamine"
   }
- }
+ ]
 }

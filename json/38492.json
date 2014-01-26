@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-02-25T08:00:00.000Z",
  "views": "20491",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

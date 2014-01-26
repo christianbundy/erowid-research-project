@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2013-09-19T07:00:00.000Z",
  "views": "588",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 drops",
    "administration": "insufflated",
    "substance": "NBOMe Series",
    "form": "(liquid)"
   }
- }
+ ]
 }

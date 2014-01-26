@@ -9,13 +9,13 @@
  "id": "73580",
  "timestamp": "2010-07-15T07:00:00.000Z",
  "views": "2323",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 oz",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(tea)"
   }
- }
+ ]
 }

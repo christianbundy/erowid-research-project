@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2013-07-16T07:00:00.000Z",
  "views": "675",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1 hit",
    "administration": "",
    "substance": "LSD",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "insufflated",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "5": {
+  {
    "time": " T+ 9:00",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "6": {
+  {
    "time": " T+ 9:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "7": {
+  {
    "time": " T+ 9:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

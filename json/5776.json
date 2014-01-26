@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-02-04T08:00:00.000Z",
  "views": "16155",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Pharms - Cyclizine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

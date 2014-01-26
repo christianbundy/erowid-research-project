@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-12-17T08:00:00.000Z",
  "views": "13968",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "TMA-6"
   }
- }
+ ]
 }

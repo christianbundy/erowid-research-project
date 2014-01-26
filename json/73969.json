@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-02-09T08:00:00.000Z",
  "views": "16741",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

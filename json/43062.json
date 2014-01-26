@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-10-26T07:00:00.000Z",
  "views": "24213",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Trazodone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

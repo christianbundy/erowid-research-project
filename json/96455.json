@@ -11,27 +11,27 @@
  "age": "16",
  "timestamp": "2013-07-01T07:00:00.000Z",
  "views": "1868",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "rectal",
    "substance": "4-AcO-DMT",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "35 mg",
    "administration": "rectal",
    "substance": "Methoxetamine ",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

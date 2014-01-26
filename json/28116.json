@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-11-04T08:00:00.000Z",
  "views": "36807",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1000 g",
    "administration": "sublingual",
    "substance": "Catha edulis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

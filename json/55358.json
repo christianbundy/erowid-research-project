@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-11-09T08:00:00.000Z",
  "views": "38630",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 tablets",
    "administration": "oral",
    "substance": "PCP",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-02-15T08:00:00.000Z",
  "views": "50104",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " caps",
    "administration": "",
    "substance": "Opium"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Opium"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Morphine"
   }
- }
+ ]
 }

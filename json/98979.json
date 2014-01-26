@@ -11,13 +11,13 @@
  "age": "20",
  "timestamp": "2013-01-17T08:00:00.000Z",
  "views": "3771",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "3C-P",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

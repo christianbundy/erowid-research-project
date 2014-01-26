@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2003-10-12T07:00:00.000Z",
  "views": "13806",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "14 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "5-MeO-DMT"
   }
- }
+ ]
 }

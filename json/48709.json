@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "31657",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Atomoxetine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-12-27T08:00:00.000Z",
  "views": "14666",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(tea)"
   }
- }
+ ]
 }

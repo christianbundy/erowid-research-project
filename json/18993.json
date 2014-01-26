@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-09-07T07:00:00.000Z",
  "views": "12749",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 g",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(fresh)"
   }
- }
+ ]
 }

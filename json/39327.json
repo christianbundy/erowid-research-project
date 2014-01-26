@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "16999",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Skullcap",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Hops",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2002-07-02T07:00:00.000Z",
  "views": "6941",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "20 mg",
    "substance": "sublingual"
   },
-  "2": {
+  {
    "time": "AMT",
    "amount": "(powder / crystals)",
    "administration": "",
    "substance": "10 mg"
   }
- }
+ ]
 }

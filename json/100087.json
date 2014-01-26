@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2013-11-18T08:00:00.000Z",
  "views": "361",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "1 cig.",
    "administration": "",
    "substance": "Products - Spice and Synthetic Cannabinoids",
    "form": ""
   }
- }
+ ]
 }

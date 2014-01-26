@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-12-07T08:00:00.000Z",
  "views": "7764",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 3:30",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(dried)"
   }
- }
+ ]
 }

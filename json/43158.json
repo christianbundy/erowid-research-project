@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-01-23T08:00:00.000Z",
  "views": "10937",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 0:29",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   }
- }
+ ]
 }

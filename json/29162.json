@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2003-12-23T08:00:00.000Z",
  "views": "8198",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Syrian Rue"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:30",
    "administration": "1.0 g",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Syrian Rue",
    "amount": "",
    "administration": " T+ 0:35",
    "substance": "13 g"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Mimosa tenuiflora",
    "administration": "(tea)",
    "substance": " T+ 3:35"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": "(plant material)"
   }
- }
+ ]
 }

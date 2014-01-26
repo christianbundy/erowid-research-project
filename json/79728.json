@@ -10,62 +10,62 @@
  "gender": "Female",
  "timestamp": "2009-08-04T07:00:00.000Z",
  "views": "23615",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 capsls",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 0:58",
    "amount": "2 capsls",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 3:09",
    "amount": "3 capsls",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": " T+ 5:00",
    "amount": "4 capsls",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(ground / crushed)"
   },
-  "4": {
+  {
    "time": " T+ 6:01",
    "amount": "5 capsls",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(ground / crushed)"
   },
-  "5": {
+  {
    "time": " T+ 6:01",
    "amount": " ",
    "administration": "",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tea)"
   },
-  "6": {
+  {
    "time": " T+ 6:01",
    "amount": " ",
    "administration": "",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   },
-  "7": {
+  {
    "time": " T+ 6:01",
    "amount": " ",
    "administration": "",
    "substance": "Chamomile",
    "form": "(tea)"
   }
- }
+ ]
 }

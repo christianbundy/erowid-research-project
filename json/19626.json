@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2002-12-13T08:00:00.000Z",
  "views": "22980",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "DMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

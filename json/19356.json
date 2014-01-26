@@ -9,13 +9,13 @@
  "id": "19356",
  "timestamp": "2005-02-26T08:00:00.000Z",
  "views": "53269",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 ml",
    "administration": "inhaled",
    "substance": "Ether",
    "form": "(liquid)"
   }
- }
+ ]
 }

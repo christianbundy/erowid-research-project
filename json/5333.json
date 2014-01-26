@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-03-01T08:00:00.000Z",
  "views": "13728",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 caps",
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "(liquid)"
   }
- }
+ ]
 }

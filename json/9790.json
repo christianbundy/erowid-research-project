@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-10-03T07:00:00.000Z",
  "views": "12191",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "MBDB",
    "form": "(capsule)"
   }
- }
+ ]
 }

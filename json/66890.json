@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2011-02-17T08:00:00.000Z",
  "views": "2912",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Aripiprazole",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 tsp",
    "administration": "oral",
    "substance": "Absinthe",
    "form": ""
   }
- }
+ ]
 }

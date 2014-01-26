@@ -11,20 +11,20 @@
  "age": "20",
  "timestamp": "2013-09-12T07:00:00.000Z",
  "views": "418",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 ug",
    "administration": "sublingual",
    "substance": "25B-NBOMe",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 0:40",
    "amount": "400 ug",
    "administration": "sublingual",
    "substance": "25B-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

@@ -11,76 +11,76 @@
  "age": "22",
  "timestamp": "2012-11-30T08:00:00.000Z",
  "views": "13698",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1.5 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Tapentadol",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "1 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": " T+ 1:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "6": {
+  {
    "time": " T+ 2:15",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Tapentadol",
    "form": "(pill / tablet)"
   },
-  "7": {
+  {
    "time": " T+ 2:15",
    "amount": "1 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "8": {
+  {
    "time": " T+ 2:15",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "9": {
+  {
    "time": " T+ 3:00",
    "amount": "37.5 mg",
    "administration": "oral",
    "substance": "Tapentadol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

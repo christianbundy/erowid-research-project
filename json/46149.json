@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2007-01-09T08:00:00.000Z",
  "views": "17596",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": " T+ 2:00",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "5": {
+  {
    "time": " T+ 2:00",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "6": {
+  {
    "time": " T+ 5:00",
    "amount": "1 bump",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": ""
   }
- }
+ ]
 }

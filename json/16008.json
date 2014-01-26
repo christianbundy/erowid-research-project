@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2009-11-04T08:00:00.000Z",
  "views": "4350",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 hits",
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

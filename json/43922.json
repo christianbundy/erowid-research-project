@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "24953",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

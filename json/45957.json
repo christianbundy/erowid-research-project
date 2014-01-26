@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-12-04T08:00:00.000Z",
  "views": "45973",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 ug",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 ug",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

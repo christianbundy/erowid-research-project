@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2001-09-25T07:00:00.000Z",
  "views": "24997",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 oz",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "50 mg",
    "substance": "insufflated"
   }
- }
+ ]
 }

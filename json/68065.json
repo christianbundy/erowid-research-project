@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2009-02-16T08:00:00.000Z",
  "views": "23157",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 capsls",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   }
- }
+ ]
 }

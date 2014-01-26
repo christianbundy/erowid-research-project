@@ -9,34 +9,34 @@
  "id": "52751",
  "timestamp": "2006-07-21T07:00:00.000Z",
  "views": "15075",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "9.0 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "(tea)"
   },
-  "3": {
+  {
    "time": " T+ 2:15",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

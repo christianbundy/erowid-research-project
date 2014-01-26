@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2011-10-28T07:00:00.000Z",
  "views": "2571",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

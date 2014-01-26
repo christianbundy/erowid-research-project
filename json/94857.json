@@ -11,48 +11,48 @@
  "age": "19",
  "timestamp": "2013-06-08T07:00:00.000Z",
  "views": "708",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": "1 bump",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabinoid Receptor Agonists"
   },
-  "4": {
+  {
    "time": " T+ 4:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "AM-2201"
   },
-  "5": {
+  {
    "time": " T+ 7:00",
    "amount": "2 bumps",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
-  "6": {
+  {
    "time": " T+ 7:30",
    "amount": "55 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   }
- }
+ ]
 }

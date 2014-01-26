@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-07-12T07:00:00.000Z",
  "views": "7129",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Pharms - Risperidone",
    "amount": "(daily)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

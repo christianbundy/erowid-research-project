@@ -11,20 +11,20 @@
  "age": "24",
  "timestamp": "2011-08-23T07:00:00.000Z",
  "views": "13278",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Temazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

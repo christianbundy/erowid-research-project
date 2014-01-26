@@ -11,27 +11,27 @@
  "age": "20",
  "timestamp": "2009-09-04T07:00:00.000Z",
  "views": "6753",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Piperazines",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Unknown",
    "form": "(liquid)"
   }
- }
+ ]
 }

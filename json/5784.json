@@ -9,13 +9,13 @@
  "id": "5784",
  "timestamp": "2001-10-31T08:00:00.000Z",
  "views": "16663",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tsp",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "(tea)"
   }
- }
+ ]
 }

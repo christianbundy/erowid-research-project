@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-07-25T07:00:00.000Z",
  "views": "6049",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "LSD",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

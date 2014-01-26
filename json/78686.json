@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2012-05-01T07:00:00.000Z",
  "views": "4107",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 drops",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2009-03-19T07:00:00.000Z",
  "views": "14277",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Diphenhydramine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Dimenhydrinate"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "DXM"
   }
- }
+ ]
 }

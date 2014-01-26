@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-01-05T08:00:00.000Z",
  "views": "71014",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 cups",
    "administration": "oral",
    "substance": "Yerba Mate",
    "form": "(tea)"
   }
- }
+ ]
 }

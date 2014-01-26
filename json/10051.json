@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-07-12T07:00:00.000Z",
  "views": "17827",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(capsule)"
   }
- }
+ ]
 }

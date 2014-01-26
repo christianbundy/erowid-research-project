@@ -9,27 +9,27 @@
  "id": "23729",
  "timestamp": "2003-05-14T07:00:00.000Z",
  "views": "21147",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 4:29",
    "amount": "0.5 hits",
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "(blotter / tab)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

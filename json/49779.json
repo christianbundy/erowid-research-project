@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-04-20T07:00:00.000Z",
  "views": "4670",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

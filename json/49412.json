@@ -9,13 +9,13 @@
  "id": "49412",
  "timestamp": "2007-02-09T08:00:00.000Z",
  "views": "14481",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(plant material)"
   }
- }
+ ]
 }

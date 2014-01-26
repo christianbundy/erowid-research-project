@@ -11,13 +11,13 @@
  "age": "28",
  "timestamp": "2013-01-11T08:00:00.000Z",
  "views": "2073",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "Pharms - Mirtazapine",
    "form": "(daily)"
   }
- }
+ ]
 }

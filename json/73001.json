@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2008-12-22T08:00:00.000Z",
  "views": "28912",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Salvia officinalis"
   }
- }
+ ]
 }

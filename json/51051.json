@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2008-02-24T08:00:00.000Z",
  "views": "36434",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7 glasses",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "5.0 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zolpidem",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "5.0 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zolpidem",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

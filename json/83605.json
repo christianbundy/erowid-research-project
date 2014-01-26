@@ -11,13 +11,13 @@
  "age": "14",
  "timestamp": "2011-08-07T07:00:00.000Z",
  "views": "19218",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "Morphine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

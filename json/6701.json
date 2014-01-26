@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-03-19T08:00:00.000Z",
  "views": "18838",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Ketamine"
   }
- }
+ ]
 }

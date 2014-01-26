@@ -10,41 +10,41 @@
  "gender": "Female",
  "timestamp": "2013-02-20T08:00:00.000Z",
  "views": "1053",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.5 ",
    "administration": "oral",
    "substance": "Piperazines",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "0.5 ",
    "administration": "oral",
    "substance": "Piperazines",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 4:00",
    "amount": "0.5 ",
    "administration": "oral",
    "substance": "Piperazines",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": "0.5 ",
    "administration": "oral",
    "substance": "Piperazines",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": " T+ 5:00",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Piperazines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

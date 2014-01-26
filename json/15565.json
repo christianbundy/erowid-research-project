@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-12-08T08:00:00.000Z",
  "views": "21339",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "160 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

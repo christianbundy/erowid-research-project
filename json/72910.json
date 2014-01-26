@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2009-08-31T07:00:00.000Z",
  "views": "23638",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "7 bowls",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(plant material)"
   }
- }
+ ]
 }

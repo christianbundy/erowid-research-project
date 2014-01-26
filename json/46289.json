@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-12-26T08:00:00.000Z",
  "views": "22049",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 0:45",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 0:45",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 1:30",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

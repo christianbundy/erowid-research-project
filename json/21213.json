@@ -9,41 +9,41 @@
  "id": "21213",
  "timestamp": "2003-02-10T08:00:00.000Z",
  "views": "48040",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 mg",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "200 mg",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": "200 mg",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

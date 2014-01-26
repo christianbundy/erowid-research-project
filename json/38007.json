@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-12-05T08:00:00.000Z",
  "views": "10426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "0.25 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

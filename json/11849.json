@@ -9,13 +9,13 @@
  "id": "11849",
  "timestamp": "2002-01-14T08:00:00.000Z",
  "views": "16313",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DET",
    "form": "(capsule)"
   }
- }
+ ]
 }

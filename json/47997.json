@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-03-01T08:00:00.000Z",
  "views": "44274",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 mg",
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

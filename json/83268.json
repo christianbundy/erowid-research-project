@@ -11,12 +11,12 @@
  "age": "22",
  "timestamp": "2011-10-03T07:00:00.000Z",
  "views": "22026",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 mg",
    "administration": "IV",
    "substance": "Hydromorphone"
   }
- }
+ ]
 }

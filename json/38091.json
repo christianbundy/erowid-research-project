@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2004-12-31T08:00:00.000Z",
  "views": "9350",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "Piracetam"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 2:00",
    "administration": "120 mg",
    "substance": "oral"
   }
- }
+ ]
 }

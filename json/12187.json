@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-11-10T08:00:00.000Z",
  "views": "32194",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.8 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4.5 mg",
    "administration": "oral",
    "substance": "Hydergine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   }
- }
+ ]
 }

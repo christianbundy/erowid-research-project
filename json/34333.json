@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "10698",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   }
- }
+ ]
 }

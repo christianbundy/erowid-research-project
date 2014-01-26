@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2010-04-21T07:00:00.000Z",
  "views": "7157",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-01-14T08:00:00.000Z",
  "views": "23507",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "PMA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

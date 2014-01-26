@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-08-02T07:00:00.000Z",
  "views": "13653",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Pharms - Bupropion",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Various",
    "form": ""
   }
- }
+ ]
 }

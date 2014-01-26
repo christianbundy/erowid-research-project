@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2000-10-08T07:00:00.000Z",
  "views": "12227",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Piperazines - Nefazodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

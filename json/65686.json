@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2010-10-12T07:00:00.000Z",
  "views": "8017",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "smoked",
    "substance": "Bufotenin"
   },
-  "1": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "sublingual",
    "substance": "Bufotenin"
   }
- }
+ ]
 }

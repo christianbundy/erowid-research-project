@@ -9,18 +9,18 @@
  "id": "417",
  "timestamp": "2000-06-29T07:00:00.000Z",
  "views": "62350",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "2 hits",
    "substance": "smoked"
   }
- }
+ ]
 }

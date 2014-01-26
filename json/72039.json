@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-07-21T07:00:00.000Z",
  "views": "6311",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Clonazepam"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:30",
    "administration": "0.5 tablets",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Naltrexone",
    "amount": "(pill / tablet)",
    "administration": " T+ 10:00",
    "substance": "150 mg"
   }
- }
+ ]
 }

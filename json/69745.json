@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2008-08-15T07:00:00.000Z",
  "views": "14100",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 repeated",
    "administration": "insufflated",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(capsule)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

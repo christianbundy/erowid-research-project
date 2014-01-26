@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-09-21T07:00:00.000Z",
  "views": "9488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "16645",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

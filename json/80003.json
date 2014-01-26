@@ -10,66 +10,66 @@
  "gender": "Male",
  "timestamp": "2009-08-01T07:00:00.000Z",
  "views": "22031",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "30 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "MDPV",
    "amount": "(liquid)",
    "administration": " T+ 0:00",
    "substance": "30 mg"
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "MDPV",
    "administration": "(powder / crystals)",
    "substance": " T+ 0:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "insufflated",
    "administration": "Tobacco",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 19:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Modafinil"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 20:00",
    "administration": "2 mg",
    "substance": "oral"
   },
-  "7": {
+  {
    "time": "Pharms - Alprazolam",
    "amount": "",
    "administration": " T+ 20:00",
    "substance": "20 mg"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "Pharms - Diazepam",
    "administration": "",
    "substance": " T+ 20:00"
   },
-  "9": {
+  {
    "time": "15 mg",
    "amount": "oral",
    "administration": "Pharms - Zolpidem",
    "substance": ""
   }
- }
+ ]
 }

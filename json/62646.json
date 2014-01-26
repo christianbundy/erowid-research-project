@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-04-30T07:00:00.000Z",
  "views": "10195",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "160 ug",
    "administration": "",
    "substance": "LSD"
   }
- }
+ ]
 }

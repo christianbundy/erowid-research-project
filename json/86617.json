@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2010-09-28T07:00:00.000Z",
  "views": "9738",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "",
    "substance": "4-AcO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

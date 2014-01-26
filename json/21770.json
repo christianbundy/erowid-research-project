@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2007-03-05T08:00:00.000Z",
  "views": "14034",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "60 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "6": {
+  {
    "time": " T+ 0:00",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2012-07-20T07:00:00.000Z",
  "views": "1514",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Pharms - Albuterol"
   }
- }
+ ]
 }

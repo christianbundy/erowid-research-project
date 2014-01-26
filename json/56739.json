@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-02-12T08:00:00.000Z",
  "views": "9252",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

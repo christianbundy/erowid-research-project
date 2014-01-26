@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-06-09T07:00:00.000Z",
  "views": "42128",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "65 seeds",
    "administration": "",
    "substance": "Datura",
    "form": "(seeds)"
   }
- }
+ ]
 }

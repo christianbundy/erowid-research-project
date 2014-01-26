@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2008-05-30T07:00:00.000Z",
  "views": "25485",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.4 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "840 mg",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": " T+ 6:00",
    "amount": "2.4 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": " T+ 6:00",
    "amount": "840 mg",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(daily)"
   },
-  "4": {
+  {
    "time": " T+ 11:00",
    "amount": "2.4 g",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   },
-  "5": {
+  {
    "time": " T+ 11:00",
    "amount": "840 mg",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(daily)"
   }
- }
+ ]
 }

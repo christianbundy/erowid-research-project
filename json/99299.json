@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2013-02-19T08:00:00.000Z",
  "views": "2379",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

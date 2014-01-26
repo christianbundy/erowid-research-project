@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2008-11-06T08:00:00.000Z",
  "views": "14848",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Topiramate",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(daily)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(daily)"
   }
- }
+ ]
 }

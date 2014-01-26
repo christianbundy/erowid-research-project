@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "18333",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Heroin"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Pharms - Dihydrocodeine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Cannabis"
   }
- }
+ ]
 }

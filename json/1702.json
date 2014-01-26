@@ -9,13 +9,13 @@
  "id": "1702",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "8965",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(liquid)"
   }
- }
+ ]
 }

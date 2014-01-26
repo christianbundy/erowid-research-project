@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2013-07-12T07:00:00.000Z",
  "views": "1181",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "350 mg",
    "administration": "",
    "substance": "Caffeine",
    "form": "(capsule)"
   }
- }
+ ]
 }

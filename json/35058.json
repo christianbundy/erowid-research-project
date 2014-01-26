@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "26230",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Pharms - Meperidine",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "insufflated",
    "substance": "Pharms - Promethazine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

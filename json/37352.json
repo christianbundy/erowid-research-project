@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2006-06-19T07:00:00.000Z",
  "views": "27990",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:20",
    "administration": "0.5 tablets",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "MDMA",
    "amount": "",
    "administration": " T+ 0:40",
    "substance": "1 tablet"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "MDMA",
    "administration": "",
    "substance": " T+ 6:00"
   },
-  "4": {
+  {
    "time": "15 mg",
    "amount": "oral",
    "administration": "Pharms - Zopiclone",
    "substance": "(pill / tablet)"
   }
- }
+ ]
 }

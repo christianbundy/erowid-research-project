@@ -9,13 +9,13 @@
  "id": "309",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "63281",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-12-23T08:00:00.000Z",
  "views": "8766",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-E"
   }
- }
+ ]
 }

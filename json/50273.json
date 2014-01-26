@@ -9,20 +9,20 @@
  "id": "50273",
  "timestamp": "2008-04-27T07:00:00.000Z",
  "views": "38544",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,12 +9,12 @@
  "id": "8800",
  "timestamp": "2002-07-15T07:00:00.000Z",
  "views": "97895",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Calamus"
   }
- }
+ ]
 }

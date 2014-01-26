@@ -11,12 +11,12 @@
  "age": "26",
  "timestamp": "2010-07-19T07:00:00.000Z",
  "views": "11416",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Products - Smoking Blends - Cannabis-Like"
   }
- }
+ ]
 }

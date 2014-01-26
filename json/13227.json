@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2005-02-17T08:00:00.000Z",
  "views": "27189",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Codeine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "3 glasses",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Alcohol - Beer/Wine",
    "amount": "(liquid)",
    "administration": "",
    "substance": "1 hit"
   }
- }
+ ]
 }

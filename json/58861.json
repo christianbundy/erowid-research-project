@@ -9,20 +9,20 @@
  "id": "58861",
  "timestamp": "2007-06-10T07:00:00.000Z",
  "views": "4410",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 oz",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

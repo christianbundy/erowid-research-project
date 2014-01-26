@@ -9,12 +9,12 @@
  "id": "23532",
  "timestamp": "2003-11-12T08:00:00.000Z",
  "views": "20706",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amanitas - A. pantherina"
   }
- }
+ ]
 }

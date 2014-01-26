@@ -11,41 +11,41 @@
  "age": "26",
  "timestamp": "2009-12-28T08:00:00.000Z",
  "views": "8753",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 3:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

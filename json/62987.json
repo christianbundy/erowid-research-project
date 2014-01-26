@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-06-16T07:00:00.000Z",
  "views": "6665",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Crack",
    "form": "(freebase)"
   }
- }
+ ]
 }

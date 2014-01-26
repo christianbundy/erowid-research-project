@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-07-21T07:00:00.000Z",
  "views": "6798",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "",
    "substance": "Naltrexone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Lorazepam"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Quetiapine"
   }
- }
+ ]
 }

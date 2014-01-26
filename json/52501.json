@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-04-20T07:00:00.000Z",
  "views": "10220",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tsp",
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "(roots)"
   }
- }
+ ]
 }

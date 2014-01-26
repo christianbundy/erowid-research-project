@@ -10,12 +10,12 @@
  "age": "53",
  "timestamp": "2011-03-02T08:00:00.000Z",
  "views": "7712",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "DMAE"
   }
- }
+ ]
 }

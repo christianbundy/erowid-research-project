@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-06-24T07:00:00.000Z",
  "views": "203121",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": "(dried)"
   }
- }
+ ]
 }

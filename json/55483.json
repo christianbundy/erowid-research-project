@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-02-12T08:00:00.000Z",
  "views": "29457",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSA",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1.25 tsp",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": "0.25 hits",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

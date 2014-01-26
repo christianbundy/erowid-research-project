@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2005-03-31T08:00:00.000Z",
  "views": "27105",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 2:00",
    "administration": "5.0 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "5-MeO-AMT",
    "amount": "(liquid)",
    "administration": " T+ 6:40",
    "substance": "5.0 mg"
   }
- }
+ ]
 }

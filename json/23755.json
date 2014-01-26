@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-09-21T07:00:00.000Z",
  "views": "14344",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Pharms - Chlordiazepoxide",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

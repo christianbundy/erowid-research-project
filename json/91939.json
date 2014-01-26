@@ -11,27 +11,27 @@
  "age": "42",
  "timestamp": "2011-07-14T07:00:00.000Z",
  "views": "14778",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:10",
    "amount": "60 mg",
    "administration": "sublingual",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   }
- }
+ ]
 }

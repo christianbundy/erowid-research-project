@@ -11,20 +11,20 @@
  "age": "20",
  "timestamp": "2011-01-16T08:00:00.000Z",
  "views": "8671",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "sublingual",
    "substance": "5-MeO-DALT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

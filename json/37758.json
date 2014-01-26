@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-04-28T07:00:00.000Z",
  "views": "26419",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(daily)"
   }
- }
+ ]
 }

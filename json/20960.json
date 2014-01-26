@@ -9,20 +9,20 @@
  "id": "20960",
  "timestamp": "2007-04-18T07:00:00.000Z",
  "views": "20220",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 oz",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

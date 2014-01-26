@@ -11,20 +11,20 @@
  "age": "33",
  "timestamp": "2013-09-30T07:00:00.000Z",
  "views": "488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "",
    "substance": "NBOMe Series",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "",
    "substance": "Ketamine",
    "form": ""
   }
- }
+ ]
 }

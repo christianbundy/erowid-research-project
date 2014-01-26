@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-11-05T08:00:00.000Z",
  "views": "16724",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Melatonin"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 tablet",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Vitamins / Supplements",
    "amount": "(pill / tablet)",
    "administration": "",
    "substance": "500 mg"
   }
- }
+ ]
 }

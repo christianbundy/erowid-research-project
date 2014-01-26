@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-18T07:00:00.000Z",
  "views": "20457",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Trazodone",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1500 ml",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(daily)"
   }
- }
+ ]
 }

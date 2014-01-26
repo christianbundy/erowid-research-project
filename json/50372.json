@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2008-04-17T07:00:00.000Z",
  "views": "5389",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 nuts",
    "administration": "oral",
    "substance": "Nutmeg"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 nuts",
    "administration": "oral",
    "substance": "Nutmeg"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 nuts",
    "administration": "oral",
    "substance": "Nutmeg"
   }
- }
+ ]
 }

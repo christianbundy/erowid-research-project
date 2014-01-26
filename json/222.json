@@ -9,13 +9,13 @@
  "id": "222",
  "timestamp": "2000-10-11T07:00:00.000Z",
  "views": "15528",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(capsule)"
   }
- }
+ ]
 }

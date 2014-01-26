@@ -9,34 +9,34 @@
  "id": "14748",
  "timestamp": "2005-07-20T07:00:00.000Z",
  "views": "3225",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 3:30",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 6:00",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   }
- }
+ ]
 }

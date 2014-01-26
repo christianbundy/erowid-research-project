@@ -9,13 +9,13 @@
  "id": "930",
  "timestamp": "2000-10-09T07:00:00.000Z",
  "views": "8798",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 oz",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(tea)"
   }
- }
+ ]
 }

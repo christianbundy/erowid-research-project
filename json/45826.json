@@ -10,41 +10,41 @@
  "gender": "Female",
  "timestamp": "2007-11-16T08:00:00.000Z",
  "views": "24795",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1600 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

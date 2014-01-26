@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-08-18T07:00:00.000Z",
  "views": "25014",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 bowls",
    "administration": "smoked",
    "substance": "Mugwort",
    "form": "(dried)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2005-06-28T07:00:00.000Z",
  "views": "7319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(capsule)"
   }
- }
+ ]
 }

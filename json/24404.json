@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2005-01-14T08:00:00.000Z",
  "views": "8398",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "32 tablets",
    "administration": "oral",
    "substance": "DXM"
   },
-  "1": {
+  {
    "time": "",
    "amount": " tablets",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate"
   }
- }
+ ]
 }

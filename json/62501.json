@@ -9,13 +9,13 @@
  "id": "62501",
  "timestamp": "2007-05-04T07:00:00.000Z",
  "views": "36320",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "IV",
    "substance": "Morphine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

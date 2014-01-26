@@ -9,13 +9,13 @@
  "id": "15629",
  "timestamp": "2003-07-22T07:00:00.000Z",
  "views": "27623",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " seeds",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   }
- }
+ ]
 }

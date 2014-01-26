@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-01-08T08:00:00.000Z",
  "views": "11719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 tablets",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

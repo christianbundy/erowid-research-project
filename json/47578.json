@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-08-08T07:00:00.000Z",
  "views": "2602",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "28 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 7:30",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Unknown",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

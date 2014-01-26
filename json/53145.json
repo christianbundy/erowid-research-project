@@ -10,62 +10,62 @@
  "gender": "Female",
  "timestamp": "2007-12-21T08:00:00.000Z",
  "views": "17043",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(extract)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "10 seeds",
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "(ground / crushed)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "(ground / crushed)"
   },
-  "6": {
+  {
    "time": "",
    "amount": "125 mg",
    "administration": "insufflated",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(extract)"
   },
-  "7": {
+  {
    "time": "",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

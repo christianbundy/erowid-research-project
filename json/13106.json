@@ -9,13 +9,13 @@
  "id": "13106",
  "timestamp": "2002-06-25T07:00:00.000Z",
  "views": "43442",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   }
- }
+ ]
 }

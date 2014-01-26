@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-31T07:00:00.000Z",
  "views": "28597",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Adrafinil",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

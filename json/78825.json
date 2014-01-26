@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-07-17T07:00:00.000Z",
  "views": "6172",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "HOT-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

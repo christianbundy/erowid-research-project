@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2002-02-17T08:00:00.000Z",
  "views": "7194",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   }
- }
+ ]
 }

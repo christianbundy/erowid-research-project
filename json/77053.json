@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2010-02-16T08:00:00.000Z",
  "views": "5155",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "2C-B"
   }
- }
+ ]
 }

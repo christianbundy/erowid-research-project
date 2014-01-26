@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-01-01T08:00:00.000Z",
  "views": "12880",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "insufflated",
    "substance": "Pharms - Bupropion",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-02-10T08:00:00.000Z",
  "views": "19039",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 tsp",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

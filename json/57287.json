@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2011-06-16T07:00:00.000Z",
  "views": "3488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Ketamine"
   }
- }
+ ]
 }

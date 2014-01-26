@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-09-03T07:00:00.000Z",
  "views": "13791",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 flower",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 leaf",
    "administration": "smoked",
    "substance": "Datura",
    "form": "(leaves)"
   }
- }
+ ]
 }

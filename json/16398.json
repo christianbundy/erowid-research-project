@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2002-07-31T07:00:00.000Z",
  "views": "18650",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 oz",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

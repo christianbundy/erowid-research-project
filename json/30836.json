@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-06-11T07:00:00.000Z",
  "views": "3116",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   }
- }
+ ]
 }

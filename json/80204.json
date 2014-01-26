@@ -10,66 +10,66 @@
  "gender": "Male",
  "timestamp": "2009-08-22T07:00:00.000Z",
  "views": "12281",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "7.4 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Tryptophan"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Vitamin B-6"
   },
-  "4": {
+  {
    "time": " T+ 0:15",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   },
-  "5": {
+  {
    "time": " T+ 0:50",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan"
   },
-  "6": {
+  {
    "time": " T+ 1:45",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "7": {
+  {
    "time": " T+ 3:53",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "8": {
+  {
    "time": " T+ 5:55",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "Lecithin"
   },
-  "9": {
+  {
    "time": " T+ 6:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

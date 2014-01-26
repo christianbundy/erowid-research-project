@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2006-03-23T08:00:00.000Z",
  "views": "4748",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cocaine"
   }
- }
+ ]
 }

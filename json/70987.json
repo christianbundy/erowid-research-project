@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-06-21T07:00:00.000Z",
  "views": "64318",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

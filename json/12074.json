@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-01-24T08:00:00.000Z",
  "views": "17470",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Various"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-08-02T07:00:00.000Z",
  "views": "15750",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "DOM",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   }
- }
+ ]
 }

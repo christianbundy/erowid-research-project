@@ -10,66 +10,66 @@
  "gender": "Male",
  "timestamp": "2007-02-13T08:00:00.000Z",
  "views": "13190",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "amount": "(extract)",
    "administration": " T+ 1:00",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "administration": "(extract)",
    "substance": " T+ 3:00"
   },
-  "4": {
+  {
    "time": " repeated",
    "amount": "oral",
    "administration": "Alcohol - Beer/Wine",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 5:45",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 6:00",
    "administration": " ",
    "substance": "smoked"
   },
-  "7": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 6:00",
    "substance": "1 glass"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "",
    "substance": " T+ 13:30"
   },
-  "9": {
+  {
    "time": "1 tablet",
    "amount": "oral",
    "administration": "Vitamins / Supplements",
    "substance": ""
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-11-04T08:00:00.000Z",
  "views": "18530",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.5 g",
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

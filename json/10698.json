@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2004-10-13T07:00:00.000Z",
  "views": "7012",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "0.5 hits",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

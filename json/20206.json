@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-10-01T07:00:00.000Z",
  "views": "68337",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "rectal",
    "substance": "Hydrocodone",
    "form": "(extract)"
   }
- }
+ ]
 }

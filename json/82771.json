@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2009-12-14T08:00:00.000Z",
  "views": "6762",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 ml",
    "administration": "oral",
    "substance": "Wormwood",
    "form": "(tea)"
   }
- }
+ ]
 }

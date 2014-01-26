@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-05-13T07:00:00.000Z",
  "views": "25304",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "(seeds)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Anadenanthera peregrina",
    "form": "(seeds)"
   }
- }
+ ]
 }

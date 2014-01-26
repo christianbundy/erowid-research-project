@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-03-04T08:00:00.000Z",
  "views": "11640",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "3.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

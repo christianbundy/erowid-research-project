@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-11-04T08:00:00.000Z",
  "views": "3591",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

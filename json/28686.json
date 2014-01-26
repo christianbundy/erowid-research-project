@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-11-26T08:00:00.000Z",
  "views": "20003",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "transdermal",
    "substance": "Scopolamine",
    "form": "(patch)"
   }
- }
+ ]
 }

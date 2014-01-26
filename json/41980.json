@@ -9,13 +9,13 @@
  "id": "41980",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "9847",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Petroleum Ether",
    "form": "(gas)"
   }
- }
+ ]
 }

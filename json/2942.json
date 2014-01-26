@@ -9,34 +9,34 @@
  "id": "2942",
  "timestamp": "2001-12-16T08:00:00.000Z",
  "views": "5716",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 5:00",
    "amount": "3 hits",
    "administration": "inhaled",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": " T+ 5:05",
    "amount": "3 hits",
    "administration": "inhaled",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   }
- }
+ ]
 }

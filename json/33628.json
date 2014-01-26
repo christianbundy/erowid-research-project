@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-11-30T08:00:00.000Z",
  "views": "21065",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Salvia divinorum",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Leonotis leonurus",
    "form": "(tea)"
   }
- }
+ ]
 }

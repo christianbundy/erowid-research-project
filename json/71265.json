@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-19T07:00:00.000Z",
  "views": "9017",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(plant material)"
   }
- }
+ ]
 }

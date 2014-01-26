@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-08-16T07:00:00.000Z",
  "views": "50221",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "11 g",
    "administration": "oral",
    "substance": "Phalaris Grass",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(extract)"
   }
- }
+ ]
 }

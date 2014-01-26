@@ -11,13 +11,13 @@
  "age": "44",
  "timestamp": "2013-06-10T07:00:00.000Z",
  "views": "12907",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "450 ug",
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

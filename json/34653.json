@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2004-06-28T07:00:00.000Z",
  "views": "13299",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "1": {
+  {
    "time": " T+ 48:00",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "2": {
+  {
    "time": " T+ 61:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "3": {
+  {
    "time": " T+ 64:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "4": {
+  {
    "time": " T+ 85:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "5": {
+  {
    "time": " T+ 88:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   }
- }
+ ]
 }

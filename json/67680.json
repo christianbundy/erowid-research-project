@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-09-29T07:00:00.000Z",
  "views": "7147",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 mg",
    "administration": "smoked",
    "substance": "Bufotenin",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

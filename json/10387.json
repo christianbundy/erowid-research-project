@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-03-23T08:00:00.000Z",
  "views": "14739",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Ephedra sinica",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "(tea)"
   }
- }
+ ]
 }

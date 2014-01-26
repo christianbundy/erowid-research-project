@@ -9,13 +9,13 @@
  "id": "57508",
  "timestamp": "2007-11-20T08:00:00.000Z",
  "views": "50534",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 seeds",
    "administration": "",
    "substance": "Morning Glory",
    "form": "(extract)"
   }
- }
+ ]
 }

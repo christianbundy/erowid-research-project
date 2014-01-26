@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2009-04-22T07:00:00.000Z",
  "views": "23026",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Adrafinil"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Milk Thistle"
   }
- }
+ ]
 }

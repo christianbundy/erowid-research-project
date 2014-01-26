@@ -11,34 +11,34 @@
  "age": "28",
  "timestamp": "2009-12-29T08:00:00.000Z",
  "views": "11699",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "307 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": " T+ 1:40",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 2:15",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 3:30",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

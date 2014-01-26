@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2013-07-15T07:00:00.000Z",
  "views": "2394",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "IV",
    "substance": "Xylazine",
    "form": "(liquid)"
   }
- }
+ ]
 }

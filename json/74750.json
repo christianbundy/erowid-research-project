@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-05-29T07:00:00.000Z",
  "views": "12238",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "DOM",
    "form": "(capsule)"
   }
- }
+ ]
 }

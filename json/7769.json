@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-07-22T07:00:00.000Z",
  "views": "24659",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 6:30",
    "amount": "5 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

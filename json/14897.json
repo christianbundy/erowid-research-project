@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-04-23T07:00:00.000Z",
  "views": "35573",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "(extract - 10x)"
   }
- }
+ ]
 }

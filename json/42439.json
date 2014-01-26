@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2009-11-06T08:00:00.000Z",
  "views": "11337",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam"
   },
-  "1": {
+  {
    "time": "",
    "amount": "160 mg",
    "administration": "oral",
    "substance": "Pharms - Atomoxetine"
   },
-  "2": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram"
   }
- }
+ ]
 }

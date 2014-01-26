@@ -9,13 +9,13 @@
  "id": "387",
  "timestamp": "2000-06-15T07:00:00.000Z",
  "views": "4167",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

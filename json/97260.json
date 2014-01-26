@@ -11,13 +11,13 @@
  "age": "25",
  "timestamp": "2012-08-15T07:00:00.000Z",
  "views": "3254",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

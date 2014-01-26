@@ -11,13 +11,13 @@
  "age": "15",
  "timestamp": "2012-01-12T08:00:00.000Z",
  "views": "5851",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

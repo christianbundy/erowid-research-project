@@ -9,27 +9,27 @@
  "id": "33026",
  "timestamp": "2004-04-23T07:00:00.000Z",
  "views": "18404",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Vinpocetine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

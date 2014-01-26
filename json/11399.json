@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2007-11-29T08:00:00.000Z",
  "views": "7955",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Amphetamines"
   }
- }
+ ]
 }

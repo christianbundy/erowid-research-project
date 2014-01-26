@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2006-07-04T07:00:00.000Z",
  "views": "18881",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": "(dried)"
   }
- }
+ ]
 }

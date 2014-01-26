@@ -11,20 +11,20 @@
  "age": "18",
  "timestamp": "2010-09-08T07:00:00.000Z",
  "views": "3109",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 7:30",
    "amount": "20 ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "15913",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24 mg",
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

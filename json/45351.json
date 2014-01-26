@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-05-30T07:00:00.000Z",
  "views": "12027",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 seeds",
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

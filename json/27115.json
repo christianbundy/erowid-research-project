@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-02-13T08:00:00.000Z",
  "views": "67367",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 leaf",
    "administration": "oral",
    "substance": "Belladonna",
    "form": "(tea)"
   }
- }
+ ]
 }

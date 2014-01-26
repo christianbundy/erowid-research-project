@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-11-27T08:00:00.000Z",
  "views": "18518",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

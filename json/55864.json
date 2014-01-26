@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-10-15T07:00:00.000Z",
  "views": "4711",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Cannabis - Hash",
    "form": "(cookie / food)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "4 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "20 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-06-02T07:00:00.000Z",
  "views": "24806",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-03-13T08:00:00.000Z",
  "views": "15553",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Adrafinil"
   },
-  "1": {
+  {
    "time": " T+ 0:59",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Adrafinil"
   },
-  "2": {
+  {
    "time": "",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Adrafinil"
   }
- }
+ ]
 }

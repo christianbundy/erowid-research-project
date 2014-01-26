@@ -9,13 +9,13 @@
  "id": "49530",
  "timestamp": "2008-03-17T07:00:00.000Z",
  "views": "60522",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

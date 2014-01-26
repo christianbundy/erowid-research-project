@@ -9,20 +9,20 @@
  "id": "2196",
  "timestamp": "2000-06-27T07:00:00.000Z",
  "views": "12841",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8.0 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

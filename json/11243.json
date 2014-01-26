@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "34359",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.4 g",
    "administration": "oral",
    "substance": "Kava",
    "form": "(capsule)"
   }
- }
+ ]
 }

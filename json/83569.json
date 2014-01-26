@@ -11,12 +11,12 @@
  "age": "24",
  "timestamp": "2011-08-29T07:00:00.000Z",
  "views": "3670",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "buccal",
    "substance": "Miracle Berry"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-01-09T08:00:00.000Z",
  "views": "15719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "8099",
  "timestamp": "2001-07-14T07:00:00.000Z",
  "views": "40732",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 leaves",
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "(tea)"
   }
- }
+ ]
 }

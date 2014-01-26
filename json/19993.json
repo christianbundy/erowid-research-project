@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2004-11-29T08:00:00.000Z",
  "views": "18522",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 1:30",
    "substance": " "
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
    "substance": " T+ 2:15"
   },
-  "4": {
+  {
    "time": "3 tablets",
    "amount": "insufflated",
    "administration": "Pharms - Methylphenidate",
    "substance": "(ground / crushed)"
   },
-  "5": {
+  {
    "time": " T+ 7:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 9:00",
    "administration": "100 mg",
    "substance": "oral"
   }
- }
+ ]
 }

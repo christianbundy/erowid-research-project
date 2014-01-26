@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-17T08:00:00.000Z",
  "views": "4388",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 lines",
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2013-12-04T08:00:00.000Z",
  "views": "1296",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

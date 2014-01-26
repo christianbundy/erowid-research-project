@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-04-03T07:00:00.000Z",
  "views": "15093",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "GBL"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "GHB",
    "amount": "",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-06-14T07:00:00.000Z",
  "views": "30591",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.1 mg",
    "administration": "oral",
    "substance": "Pharms - Clonidine",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   }
- }
+ ]
 }

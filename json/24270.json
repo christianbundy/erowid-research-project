@@ -10,76 +10,76 @@
  "gender": "Male",
  "timestamp": "2006-03-23T08:00:00.000Z",
  "views": "36528",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": ""
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": ""
   },
-  "6": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": ""
   },
-  "7": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "DXM",
    "form": ""
   },
-  "8": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": ""
   },
-  "9": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": ""
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2012-11-19T08:00:00.000Z",
  "views": "2136",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "MET",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

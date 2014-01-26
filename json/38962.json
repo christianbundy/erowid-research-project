@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2008-03-10T07:00:00.000Z",
  "views": "5662",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 tablets",
    "administration": "oral",
    "substance": "DXM"
   }
- }
+ ]
 }

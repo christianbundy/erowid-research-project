@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2011-08-22T07:00:00.000Z",
  "views": "3173",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

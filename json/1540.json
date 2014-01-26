@@ -9,27 +9,27 @@
  "id": "1540",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "7081",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 3:15",
    "amount": "6.0 mg",
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 5:30",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-10-01T07:00:00.000Z",
  "views": "12163",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Eszopiclone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "825 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(capsule)"
   }
- }
+ ]
 }

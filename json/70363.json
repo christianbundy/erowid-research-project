@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-04-07T07:00:00.000Z",
  "views": "21712",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

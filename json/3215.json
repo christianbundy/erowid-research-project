@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-12-23T08:00:00.000Z",
  "views": "20829",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "32 tablets",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Acetaminophen",
    "form": ""
   }
- }
+ ]
 }

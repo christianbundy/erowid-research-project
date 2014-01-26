@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-09-20T07:00:00.000Z",
  "views": "7151",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Mushrooms - C. cyanescens",
    "form": "(tea)"
   }
- }
+ ]
 }

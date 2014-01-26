@@ -9,20 +9,20 @@
  "id": "76997",
  "timestamp": "2009-03-20T07:00:00.000Z",
  "views": "14681",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 cups",
    "administration": "oral",
    "substance": "Kava",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.75 g",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   }
- }
+ ]
 }

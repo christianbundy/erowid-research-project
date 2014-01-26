@@ -11,27 +11,27 @@
  "age": "27",
  "timestamp": "2011-08-10T07:00:00.000Z",
  "views": "11610",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Propylhexedrine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   }
- }
+ ]
 }

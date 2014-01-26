@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-12-27T08:00:00.000Z",
  "views": "14435",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

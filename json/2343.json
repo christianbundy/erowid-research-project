@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "33155",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 flower",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(tea)"
   }
- }
+ ]
 }

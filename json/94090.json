@@ -11,34 +11,34 @@
  "age": "17",
  "timestamp": "2012-02-14T08:00:00.000Z",
  "views": "1530",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:15",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 3:00",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 4:30",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

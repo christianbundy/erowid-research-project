@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2006-05-30T07:00:00.000Z",
  "views": "62409",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Animals - Fire Ants"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-11-15T08:00:00.000Z",
  "views": "15712",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

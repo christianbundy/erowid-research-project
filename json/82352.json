@@ -11,24 +11,24 @@
  "age": "20",
  "timestamp": "2010-07-31T07:00:00.000Z",
  "views": "39025",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Pharms - Methylphenidate"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "MDPV"
   }
- }
+ ]
 }

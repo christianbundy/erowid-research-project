@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-02-08T08:00:00.000Z",
  "views": "75410",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(liquid)"
   }
- }
+ ]
 }

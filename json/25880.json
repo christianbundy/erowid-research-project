@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-03-08T08:00:00.000Z",
  "views": "20905",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Ephedra sinica",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(daily)"
   }
- }
+ ]
 }

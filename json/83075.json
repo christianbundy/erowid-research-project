@@ -11,12 +11,12 @@
  "age": "18",
  "timestamp": "2010-06-10T07:00:00.000Z",
  "views": "3855",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "21 mg",
    "administration": "oral",
    "substance": "2C-E"
   }
- }
+ ]
 }

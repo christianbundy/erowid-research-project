@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-09-05T07:00:00.000Z",
  "views": "15488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DET",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

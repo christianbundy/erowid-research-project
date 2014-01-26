@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2002-11-09T08:00:00.000Z",
  "views": "14753",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(freebase)"
   }
- }
+ ]
 }

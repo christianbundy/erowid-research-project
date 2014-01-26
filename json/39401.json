@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-01-25T08:00:00.000Z",
  "views": "30469",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 capsls",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   }
- }
+ ]
 }

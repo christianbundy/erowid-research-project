@@ -9,12 +9,12 @@
  "id": "97008",
  "timestamp": "2012-07-23T07:00:00.000Z",
  "views": "1588",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

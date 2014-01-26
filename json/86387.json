@@ -11,20 +11,20 @@
  "age": "22",
  "timestamp": "2010-08-13T07:00:00.000Z",
  "views": "7764",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Products - Spice and Synthetic Cannabinoids",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Various",
    "form": ""
   }
- }
+ ]
 }

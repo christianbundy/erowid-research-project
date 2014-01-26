@@ -9,41 +9,41 @@
  "id": "46941",
  "timestamp": "2007-01-08T08:00:00.000Z",
  "views": "43153",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "inhaled",
    "substance": "Pharms - Albuterol",
    "form": "(gas)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Pharms - Ibuprofen",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

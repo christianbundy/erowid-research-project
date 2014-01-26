@@ -9,12 +9,12 @@
  "id": "43439",
  "timestamp": "2007-01-22T08:00:00.000Z",
  "views": "3965",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "LSD"
   }
- }
+ ]
 }

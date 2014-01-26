@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-14T07:00:00.000Z",
  "views": "19520",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

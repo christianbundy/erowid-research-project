@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2003-08-25T07:00:00.000Z",
  "views": "15152",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "MIPT"
   }
- }
+ ]
 }

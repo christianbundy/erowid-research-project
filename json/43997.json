@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2005-08-11T07:00:00.000Z",
  "views": "12077",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
   }
- }
+ ]
 }

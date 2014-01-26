@@ -11,13 +11,13 @@
  "age": "23",
  "timestamp": "2011-02-09T08:00:00.000Z",
  "views": "12900",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "450 g",
    "administration": "oral",
    "substance": "Cacti - T. bridgesii",
    "form": "(fresh)"
   }
- }
+ ]
 }

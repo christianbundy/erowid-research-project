@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2008-01-15T08:00:00.000Z",
  "views": "3973",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(extract)"
   }
- }
+ ]
 }

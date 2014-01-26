@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-06-16T07:00:00.000Z",
  "views": "60793",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Chlordiazepoxide",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,20 +9,20 @@
  "id": "35519",
  "timestamp": "2007-12-17T08:00:00.000Z",
  "views": "29698",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "195 mg",
    "administration": "oral",
    "substance": "Barbiturates - Phenobarbital",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "9503",
  "timestamp": "2001-10-24T07:00:00.000Z",
  "views": "28918",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "32 mg",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

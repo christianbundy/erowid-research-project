@@ -11,20 +11,20 @@
  "age": "17",
  "timestamp": "2009-12-02T08:00:00.000Z",
  "views": "11962",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

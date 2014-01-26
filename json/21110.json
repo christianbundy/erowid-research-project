@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2005-11-22T08:00:00.000Z",
  "views": "16213",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "23 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate"
   }
- }
+ ]
 }

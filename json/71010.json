@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-03-02T08:00:00.000Z",
  "views": "5598",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "23 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
    "form": "(capsule)"
   }
- }
+ ]
 }

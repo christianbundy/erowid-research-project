@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-10T07:00:00.000Z",
  "views": "56373",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "Pharms - Fluoxetine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

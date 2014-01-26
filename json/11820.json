@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-01-03T08:00:00.000Z",
  "views": "10652",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heimia myrtifolia",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(dried)"
   }
- }
+ ]
 }

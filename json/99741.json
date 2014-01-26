@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2013-06-02T07:00:00.000Z",
  "views": "1694",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

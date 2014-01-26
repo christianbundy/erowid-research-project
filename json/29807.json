@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-01-07T08:00:00.000Z",
  "views": "15133",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "9 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(extract)"
   }
- }
+ ]
 }

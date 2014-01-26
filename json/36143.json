@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-08-25T07:00:00.000Z",
  "views": "5118",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 g",
    "administration": "oral",
    "substance": "Mushrooms - P. tampanensis",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Mushrooms - P. tampanensis",
    "form": "(fresh)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "35 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(fresh)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "35 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(fresh)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2012-10-19T07:00:00.000Z",
  "views": "17169",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

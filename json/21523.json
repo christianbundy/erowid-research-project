@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2003-02-22T08:00:00.000Z",
  "views": "7392",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "2": {
+  {
    "time": " T+ 5:52",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   },
-  "3": {
+  {
    "time": " T+ 6:20",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-10-14T07:00:00.000Z",
  "views": "2432",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 caps",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(plant material)"
   }
- }
+ ]
 }

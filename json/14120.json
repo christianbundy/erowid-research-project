@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-02-24T08:00:00.000Z",
  "views": "6926",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Yohimbe"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:30",
    "administration": "3.8 g",
    "substance": "oral"
   }
- }
+ ]
 }

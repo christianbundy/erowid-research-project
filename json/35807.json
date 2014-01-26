@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-21T08:00:00.000Z",
  "views": "37439",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "9 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   }
- }
+ ]
 }

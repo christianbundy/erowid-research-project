@@ -9,12 +9,12 @@
  "id": "48222",
  "timestamp": "2007-01-31T08:00:00.000Z",
  "views": "3564",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "",
    "substance": "2C-B"
   }
- }
+ ]
 }

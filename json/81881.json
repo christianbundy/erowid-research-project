@@ -9,12 +9,12 @@
  "id": "81881",
  "timestamp": "2010-04-15T07:00:00.000Z",
  "views": "5027",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Cacti - M. geometrizans"
   }
- }
+ ]
 }

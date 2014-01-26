@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-11-02T08:00:00.000Z",
  "views": "28127",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "15 mg",
    "administration": "IM",
    "substance": "Pharms - Tiletamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 2:59",
    "amount": "-999.0 mg",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

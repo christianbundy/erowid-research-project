@@ -10,48 +10,48 @@
  "gender": "Female",
  "timestamp": "2008-01-01T08:00:00.000Z",
  "views": "15781",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "Pharms - Lithium",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Aripiprazole",
    "form": "(daily)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Pharms - Buspirone",
    "form": "(daily)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "2 lines",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

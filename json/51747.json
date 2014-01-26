@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-10-10T07:00:00.000Z",
  "views": "15425",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 mg",
    "administration": "IV",
    "substance": "Pharms - Buprenorphine",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 mg",
    "administration": "IV",
    "substance": "Pharms - Clonazepam",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

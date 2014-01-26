@@ -11,62 +11,62 @@
  "age": "27",
  "timestamp": "2013-05-26T07:00:00.000Z",
  "views": "9179",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1.2 mg",
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   },
-  "3": {
+  {
    "time": " T+ 8:00",
    "amount": "5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 8:00",
    "amount": "3 mg",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 8:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 8:00",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": ""
   },
-  "7": {
+  {
    "time": " T+ 8:00",
    "amount": "3 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

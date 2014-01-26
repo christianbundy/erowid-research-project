@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-08-05T07:00:00.000Z",
  "views": "14785",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Mushrooms"
   }
- }
+ ]
 }

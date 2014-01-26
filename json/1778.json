@@ -9,13 +9,13 @@
  "id": "1778",
  "timestamp": "2000-06-13T07:00:00.000Z",
  "views": "75398",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Belladonna",
    "form": "(extract)"
   }
- }
+ ]
 }

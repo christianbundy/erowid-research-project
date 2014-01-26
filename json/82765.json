@@ -11,12 +11,12 @@
  "age": "18",
  "timestamp": "2012-01-25T08:00:00.000Z",
  "views": "4927",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Heroin"
   }
- }
+ ]
 }

@@ -11,62 +11,62 @@
  "age": "25",
  "timestamp": "2011-12-07T08:00:00.000Z",
  "views": "7033",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "220 mg",
    "administration": "oral",
    "substance": "MDAI",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "5 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 0:40",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 0:40",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-073",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-018",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 2:30",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   },
-  "7": {
+  {
    "time": " T+ 5:30",
    "amount": "75 mg",
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

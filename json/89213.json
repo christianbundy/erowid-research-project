@@ -11,24 +11,24 @@
  "age": "25",
  "timestamp": "2011-08-23T07:00:00.000Z",
  "views": "7973",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methadone"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Pharms - Buprenorphine",
    "amount": "(daily)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

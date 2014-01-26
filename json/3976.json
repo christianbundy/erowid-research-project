@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-01-20T08:00:00.000Z",
  "views": "34181",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 leaf",
    "administration": "oral",
    "substance": "Wormwood",
    "form": "(fresh)"
   }
- }
+ ]
 }

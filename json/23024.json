@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-04-16T07:00:00.000Z",
  "views": "28704",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Amanitas - A. pantherina"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Cocaine"
   }
- }
+ ]
 }

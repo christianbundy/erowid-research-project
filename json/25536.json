@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-07-24T07:00:00.000Z",
  "views": "46813",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 drops",
    "administration": "oral",
    "substance": "Kava",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -9,34 +9,34 @@
  "id": "48219",
  "timestamp": "2006-06-17T07:00:00.000Z",
  "views": "2695",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

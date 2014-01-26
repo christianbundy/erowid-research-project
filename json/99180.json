@@ -11,20 +11,20 @@
  "age": "18",
  "timestamp": "2013-06-13T07:00:00.000Z",
  "views": "1605",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

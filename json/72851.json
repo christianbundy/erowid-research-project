@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2009-03-02T08:00:00.000Z",
  "views": "8417",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT"
   }
- }
+ ]
 }

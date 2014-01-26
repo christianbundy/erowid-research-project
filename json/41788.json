@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2005-03-29T08:00:00.000Z",
  "views": "22457",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.3 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 0:15",
    "amount": "11 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharmaceuticals",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Risperidone",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-08-03T07:00:00.000Z",
  "views": "10680",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 drops",
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "(extract)"
   }
- }
+ ]
 }

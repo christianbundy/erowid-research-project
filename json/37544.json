@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-09-29T07:00:00.000Z",
  "views": "19249",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 tablets",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-01-23T08:00:00.000Z",
  "views": "27643",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "2C-E"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "250 mg",
    "substance": "smoked"
   }
- }
+ ]
 }

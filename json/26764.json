@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-09-14T07:00:00.000Z",
  "views": "22821",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

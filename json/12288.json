@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2003-09-18T07:00:00.000Z",
  "views": "18329",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": " T+ 0:35",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

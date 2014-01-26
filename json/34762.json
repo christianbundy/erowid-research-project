@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-02-18T08:00:00.000Z",
  "views": "4641",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

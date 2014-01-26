@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-10-22T07:00:00.000Z",
  "views": "19546",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

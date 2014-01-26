@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-08-27T07:00:00.000Z",
  "views": "29063",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

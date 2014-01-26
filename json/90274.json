@@ -11,30 +11,30 @@
  "age": "22",
  "timestamp": "2012-01-30T08:00:00.000Z",
  "views": "7697",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Piracetam"
   },
-  "1": {
+  {
    "time": " T+ 3:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   },
-  "2": {
+  {
    "time": " T+ 5:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Methylone"
   },
-  "3": {
+  {
    "time": " T+ 8:00",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

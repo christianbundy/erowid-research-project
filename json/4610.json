@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-12-28T08:00:00.000Z",
  "views": "25566",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "650 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "90 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

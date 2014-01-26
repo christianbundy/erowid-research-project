@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2007-06-28T07:00:00.000Z",
  "views": "18631",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Leonotis nepetaefolia",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Leonurus sibiricus",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "7.0 g",
    "administration": "smoked",
    "substance": "Leonurus sibiricus",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Leonurus cardiaca",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   },
-  "6": {
+  {
    "time": "",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(daily)"
   }
- }
+ ]
 }

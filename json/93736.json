@@ -11,20 +11,20 @@
  "age": "37",
  "timestamp": "2012-03-18T07:00:00.000Z",
  "views": "44903",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.25 g",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Hydromorphone",
    "form": "(liquid)"
   }
- }
+ ]
 }

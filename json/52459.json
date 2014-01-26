@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-10-08T07:00:00.000Z",
  "views": "2935",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

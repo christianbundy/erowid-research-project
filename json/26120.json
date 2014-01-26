@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2005-08-03T07:00:00.000Z",
  "views": "23424",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "625 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "12.5 g",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

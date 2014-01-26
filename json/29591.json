@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-01-20T08:00:00.000Z",
  "views": "29710",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2011-07-22T07:00:00.000Z",
  "views": "8033",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "18 mg",
    "administration": "oral",
    "substance": "4-HO-MET",
    "form": "(capsule)"
   }
- }
+ ]
 }

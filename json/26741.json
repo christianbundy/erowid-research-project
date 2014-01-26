@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2006-06-01T07:00:00.000Z",
  "views": "21665",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "37.5 mg",
    "administration": "oral",
    "substance": "Pharms - Phentermine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

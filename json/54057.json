@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-10-10T07:00:00.000Z",
  "views": "14584",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7.5 mg",
    "administration": "oral",
    "substance": "Pharms - Haloperidol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": ".25 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

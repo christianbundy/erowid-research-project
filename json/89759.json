@@ -11,20 +11,20 @@
  "age": "17",
  "timestamp": "2011-04-12T07:00:00.000Z",
  "views": "9176",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

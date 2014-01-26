@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-08-08T07:00:00.000Z",
  "views": "34055",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   }
- }
+ ]
 }

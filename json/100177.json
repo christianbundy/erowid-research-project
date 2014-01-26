@@ -11,48 +11,48 @@
  "age": "18",
  "timestamp": "2013-11-18T08:00:00.000Z",
  "views": "1158",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "DMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:07",
    "administration": "0.3 g",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "",
    "administration": " T+ 2:00",
    "substance": "1000 ug"
   },
-  "3": {
+  {
    "time": "sublingual",
    "amount": "25C-NBOMe",
    "administration": "(blotter / tab)",
    "substance": " T+ 3:00"
   },
-  "4": {
+  {
    "time": "3 shots",
    "amount": "oral",
    "administration": "Alcohol - Hard",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 3:00",
    "amount": "1000 ug",
    "administration": "sublingual",
    "substance": "25C-NBOMe"
   },
-  "6": {
+  {
    "time": "(blotter / tab)",
    "amount": " T+ 3:00",
    "administration": "0.3 g",
    "substance": "oral"
   }
- }
+ ]
 }

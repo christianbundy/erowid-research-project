@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2013-08-17T07:00:00.000Z",
  "views": "1030",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Dihydrocodeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

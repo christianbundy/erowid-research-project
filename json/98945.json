@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2013-02-01T08:00:00.000Z",
  "views": "11667",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-01-08T08:00:00.000Z",
  "views": "12856",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "(leaves)"
   }
- }
+ ]
 }

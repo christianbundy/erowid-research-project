@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2007-05-06T07:00:00.000Z",
  "views": "29714",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 tablet",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Pharms - Zolpidem",
    "amount": "",
    "administration": "",
    "substance": "0.25 "
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2008-11-17T08:00:00.000Z",
  "views": "19388",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "700 mg",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.25 mg",
    "administration": "insufflated",
    "substance": "Pharms - Clonazepam",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

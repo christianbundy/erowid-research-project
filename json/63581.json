@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-07-30T07:00:00.000Z",
  "views": "31003",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 ug",
    "administration": "sublingual",
    "substance": "Pharms - Fentanyl",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

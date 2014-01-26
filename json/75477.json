@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-12-07T08:00:00.000Z",
  "views": "11278",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 drops",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(extract)"
   }
- }
+ ]
 }

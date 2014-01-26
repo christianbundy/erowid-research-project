@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-01-17T08:00:00.000Z",
  "views": "24942",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Cocaine"
   }
- }
+ ]
 }

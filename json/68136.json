@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2008-04-26T07:00:00.000Z",
  "views": "17644",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

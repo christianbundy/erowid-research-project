@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2010-07-29T07:00:00.000Z",
  "views": "20424",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

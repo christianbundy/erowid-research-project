@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "52458",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

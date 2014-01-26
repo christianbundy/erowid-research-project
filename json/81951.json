@@ -11,13 +11,13 @@
  "age": "14",
  "timestamp": "2009-10-28T07:00:00.000Z",
  "views": "12988",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

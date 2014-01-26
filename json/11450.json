@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-06-29T07:00:00.000Z",
  "views": "12250",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "70 mg",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

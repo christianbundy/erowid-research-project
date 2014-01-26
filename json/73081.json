@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2011-08-24T07:00:00.000Z",
  "views": "5677",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 g",
    "administration": "oral",
    "substance": "GHB",
    "form": "(liquid)"
   }
- }
+ ]
 }

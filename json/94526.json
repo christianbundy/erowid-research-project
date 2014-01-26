@@ -11,20 +11,20 @@
  "age": "19",
  "timestamp": "2012-02-09T08:00:00.000Z",
  "views": "4288",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

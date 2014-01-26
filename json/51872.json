@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2008-06-22T07:00:00.000Z",
  "views": "76292",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Amphetamines",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cannabis",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "LSD",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Aripiprazole",
    "form": "(daily)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"
   }
- }
+ ]
 }

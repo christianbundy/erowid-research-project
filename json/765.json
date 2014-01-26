@@ -9,20 +9,20 @@
  "id": "765",
  "timestamp": "2000-10-18T07:00:00.000Z",
  "views": "28762",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "inhaled",
    "substance": "Inhalants - Nitrites",
    "form": "(gas)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "35018",
  "timestamp": "2007-05-27T07:00:00.000Z",
  "views": "8609",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(daily)"
   }
- }
+ ]
 }

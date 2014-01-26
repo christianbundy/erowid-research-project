@@ -9,30 +9,30 @@
  "id": "13232",
  "timestamp": "2006-03-29T08:00:00.000Z",
  "views": "14846",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Zolpidem"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Zolpidem"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Zolpidem"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Zolpidem"
   }
- }
+ ]
 }

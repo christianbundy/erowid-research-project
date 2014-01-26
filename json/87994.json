@@ -11,27 +11,27 @@
  "age": "22",
  "timestamp": "2011-03-01T08:00:00.000Z",
  "views": "32076",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Kava",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Kava",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 2:30",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Kava",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

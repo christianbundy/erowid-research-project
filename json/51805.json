@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2008-03-12T07:00:00.000Z",
  "views": "5921",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "5-MeO-AMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 repeated",
    "substance": "inhaled"
   },
-  "2": {
+  {
    "time": "Nitrous Oxide",
    "amount": "(gas)",
    "administration": "",
    "substance": "1 repeated"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "",
    "substance": ""
   },
-  "4": {
+  {
    "time": "1 hit",
    "amount": "smoked",
    "administration": "Salvia divinorum",
    "substance": "(extract - 10x)"
   }
- }
+ ]
 }

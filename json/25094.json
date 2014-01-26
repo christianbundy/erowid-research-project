@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-14T07:00:00.000Z",
  "views": "4294",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Mushrooms - P. semilanceata",
    "form": "(tea)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2004-03-15T08:00:00.000Z",
  "views": "13378",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "15 mg",
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

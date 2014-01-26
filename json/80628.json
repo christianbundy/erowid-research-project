@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-07-30T07:00:00.000Z",
  "views": "9891",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "260 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

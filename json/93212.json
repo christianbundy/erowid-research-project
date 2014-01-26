@@ -11,20 +11,20 @@
  "age": "30",
  "timestamp": "2011-12-16T08:00:00.000Z",
  "views": "3132",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 joints/cigs",
    "administration": "smoked",
    "substance": "Coleus",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "120 ml",
    "administration": "oral",
    "substance": "Coleus",
    "form": "(extract)"
   }
- }
+ ]
 }

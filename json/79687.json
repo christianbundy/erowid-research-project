@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2009-09-21T07:00:00.000Z",
  "views": "8832",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 capsls",
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   }
- }
+ ]
 }

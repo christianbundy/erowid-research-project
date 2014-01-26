@@ -11,13 +11,13 @@
  "age": "29",
  "timestamp": "2012-07-24T07:00:00.000Z",
  "views": "7325",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

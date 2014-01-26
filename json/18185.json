@@ -9,27 +9,27 @@
  "id": "18185",
  "timestamp": "2002-10-15T07:00:00.000Z",
  "views": "24881",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "1.5 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 4:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

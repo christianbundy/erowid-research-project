@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-09-19T07:00:00.000Z",
  "views": "16896",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Leonotis leonurus",
    "form": "(tea)"
   }
- }
+ ]
 }

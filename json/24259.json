@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-02-04T08:00:00.000Z",
  "views": "3237",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "4-AcO-EIPT",
    "form": "(capsule)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-11-15T08:00:00.000Z",
  "views": "13682",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.375 oz",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

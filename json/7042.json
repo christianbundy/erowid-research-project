@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-11-18T08:00:00.000Z",
  "views": "12066",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

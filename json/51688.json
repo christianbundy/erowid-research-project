@@ -10,54 +10,54 @@
  "gender": "Male",
  "timestamp": "2006-04-17T07:00:00.000Z",
  "views": "12900",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Coffee"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Kratom",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Kava",
    "administration": "",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "oral",
    "administration": "Kola Nut",
    "substance": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pseudoephedrine"
   },
-  "6": {
+  {
    "time": "",
    "amount": "",
    "administration": "25 mg",
    "substance": "oral"
   },
-  "7": {
+  {
    "time": "2C-T-2",
    "amount": "(gel tab)",
    "administration": "",
    "substance": "2.5 g"
   }
- }
+ ]
 }

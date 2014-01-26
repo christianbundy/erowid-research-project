@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-08-08T07:00:00.000Z",
  "views": "21487",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 mg",
    "administration": "oral",
    "substance": "DOB"
   }
- }
+ ]
 }

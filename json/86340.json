@@ -11,12 +11,12 @@
  "age": "32",
  "timestamp": "2010-08-28T07:00:00.000Z",
  "views": "17573",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "IV",
    "substance": "Pharms - Oxymorphone"
   }
- }
+ ]
 }

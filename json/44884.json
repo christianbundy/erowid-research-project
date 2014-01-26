@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-03-01T08:00:00.000Z",
  "views": "37448",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

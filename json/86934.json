@@ -11,20 +11,20 @@
  "age": "28",
  "timestamp": "2011-12-01T08:00:00.000Z",
  "views": "19677",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "9 g",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

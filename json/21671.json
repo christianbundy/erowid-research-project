@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-04-18T07:00:00.000Z",
  "views": "8678",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "DXM"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Dimenhydrinate"
   }
- }
+ ]
 }

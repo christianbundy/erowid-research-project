@@ -9,13 +9,13 @@
  "id": "31813",
  "timestamp": "2007-06-21T07:00:00.000Z",
  "views": "18549",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 ug",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

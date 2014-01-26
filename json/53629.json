@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-06-19T07:00:00.000Z",
  "views": "8460",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8.0 mg",
    "administration": "oral",
    "substance": "2C-P",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -9,12 +9,12 @@
  "id": "90809",
  "timestamp": "2011-07-16T07:00:00.000Z",
  "views": "3999",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "smoked",
    "substance": "4-HO-MPT"
   }
- }
+ ]
 }

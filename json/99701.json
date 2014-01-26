@@ -11,12 +11,12 @@
  "age": "40",
  "timestamp": "2013-04-05T07:00:00.000Z",
  "views": "843",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 mg",
    "administration": "oral",
    "substance": "DOI"
   }
- }
+ ]
 }

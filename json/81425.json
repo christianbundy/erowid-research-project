@@ -9,13 +9,13 @@
  "id": "81425",
  "timestamp": "2010-03-29T07:00:00.000Z",
  "views": "3350",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27 mg",
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2006-10-31T08:00:00.000Z",
  "views": "15319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Ephedrine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 bowls",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

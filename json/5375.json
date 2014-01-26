@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-02-26T08:00:00.000Z",
  "views": "9945",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "DPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

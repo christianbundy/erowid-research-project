@@ -11,36 +11,36 @@
  "age": "16",
  "timestamp": "2013-12-02T08:00:00.000Z",
  "views": "473",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "Codeine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "60 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Pseudoephedrine",
    "amount": "",
    "administration": " T+ 2:00",
    "substance": "225 g"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Cacti - T. pachanoi",
    "administration": "(plant material)",
    "substance": " T+ 5:25"
   },
-  "4": {
+  {
    "time": "112.5 g",
    "amount": "oral",
    "administration": "Cacti - T. pachanoi",
    "substance": "(plant material)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2011-08-09T07:00:00.000Z",
  "views": "5368",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "MDAI",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   }
- }
+ ]
 }

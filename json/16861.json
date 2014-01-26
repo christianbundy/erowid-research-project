@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2002-08-16T07:00:00.000Z",
  "views": "21426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "(tea)"
   }
- }
+ ]
 }

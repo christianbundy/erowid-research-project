@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-26T07:00:00.000Z",
  "views": "10273",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Bupropion",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Caffeine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

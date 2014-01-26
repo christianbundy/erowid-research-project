@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "8266",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "22 mg",
    "administration": "oral",
    "substance": "4-HO-DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "5.0 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Hydrocodone",
    "amount": "",
    "administration": " T+ 1:15",
    "substance": " "
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "(plant material)",
    "substance": " T+ 4:27"
   },
-  "4": {
+  {
    "time": "750 mg",
    "amount": "sublingual",
    "administration": "Pharms - Triazolam",
    "substance": "(pill / tablet)"
   }
- }
+ ]
 }

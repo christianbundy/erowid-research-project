@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-06-22T07:00:00.000Z",
  "views": "17314",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "175 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

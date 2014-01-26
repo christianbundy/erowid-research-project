@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-09-08T07:00:00.000Z",
  "views": "5615",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 caps",
    "administration": "oral",
    "substance": "Amanitas",
    "form": "(dried)"
   }
- }
+ ]
 }

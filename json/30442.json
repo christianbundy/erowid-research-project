@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-06-18T07:00:00.000Z",
  "views": "13722",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 3:15",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 4:37",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Coffee",
    "form": "(liquid)"
   }
- }
+ ]
 }

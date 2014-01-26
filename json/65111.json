@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-11-16T08:00:00.000Z",
  "views": "40605",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Buprenorphine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

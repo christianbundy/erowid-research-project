@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-07-10T07:00:00.000Z",
  "views": "11719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(liquid)"
   }
- }
+ ]
 }

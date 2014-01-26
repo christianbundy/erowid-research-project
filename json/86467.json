@@ -10,54 +10,54 @@
  "gender": "Male",
  "timestamp": "2011-06-09T07:00:00.000Z",
  "views": "7762",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3 mg",
    "administration": "insufflated",
    "substance": "Desoxypipradrol  "
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " repeated",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 8:30",
    "substance": "3 mg"
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "Desoxypipradrol  ",
    "administration": "",
    "substance": " T+ 10:00"
   },
-  "4": {
+  {
    "time": "40 mg",
    "amount": "sublingual",
    "administration": "Mescaline-NBOMe",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Alcohol - Beer/Wine"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 10:45",
    "administration": "20 mg",
    "substance": "sublingual"
   },
-  "7": {
+  {
    "time": "Mescaline-NBOMe",
    "amount": "(powder / crystals)",
    "administration": " T+ 11:15",
    "substance": "30 mg"
   }
- }
+ ]
 }

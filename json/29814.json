@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-01-07T08:00:00.000Z",
  "views": "23175",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(extract)"
   }
- }
+ ]
 }

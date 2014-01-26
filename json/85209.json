@@ -11,34 +11,34 @@
  "age": "26",
  "timestamp": "2010-09-12T07:00:00.000Z",
  "views": "18704",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "80 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 10x)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 10x)"
   }
- }
+ ]
 }

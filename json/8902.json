@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-05-12T07:00:00.000Z",
  "views": "9058",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

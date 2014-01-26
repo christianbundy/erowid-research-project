@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "73382",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3200 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

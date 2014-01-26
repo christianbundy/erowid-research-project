@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-01-28T08:00:00.000Z",
  "views": "59713",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol"
   }
- }
+ ]
 }

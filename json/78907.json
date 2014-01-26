@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-08-17T07:00:00.000Z",
  "views": "9043",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 leaves",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(plant material)"
   }
- }
+ ]
 }

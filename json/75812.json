@@ -10,42 +10,42 @@
  "gender": "Female",
  "timestamp": "2010-10-15T07:00:00.000Z",
  "views": "8249",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Hydrocodone"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "4 glasses",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Alcohol - Beer/Wine",
    "amount": "",
    "administration": "",
    "substance": "315 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "DXM",
    "administration": "(pill / tablet)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "2500 mg",
    "amount": "oral",
    "administration": "Acetaminophen",
    "substance": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "34 mg",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate"
   }
- }
+ ]
 }

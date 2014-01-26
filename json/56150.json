@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-05-29T07:00:00.000Z",
  "views": "14660",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

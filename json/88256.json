@@ -11,30 +11,30 @@
  "age": "19",
  "timestamp": "2010-12-09T08:00:00.000Z",
  "views": "5876",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Methylone"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Ethylcathinone"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Ethylcathinone"
   }
- }
+ ]
 }

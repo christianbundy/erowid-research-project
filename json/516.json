@@ -9,13 +9,13 @@
  "id": "516",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "8482",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

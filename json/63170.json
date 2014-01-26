@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "21437",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.2 g",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Lorazepam",
    "form": ""
   }
- }
+ ]
 }

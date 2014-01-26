@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-08-18T07:00:00.000Z",
  "views": "15988",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

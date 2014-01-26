@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2007-09-16T07:00:00.000Z",
  "views": "37207",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "IV",
    "substance": "Unknown"
   },
-  "1": {
+  {
    "time": "",
    "amount": "35 mg",
    "administration": "IV",
    "substance": "Unknown"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "39798",
  "timestamp": "2007-01-12T08:00:00.000Z",
  "views": "10066",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tsp",
    "administration": "oral",
    "substance": "Wormwood",
    "form": "(tea)"
   }
- }
+ ]
 }

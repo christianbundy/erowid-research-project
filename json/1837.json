@@ -9,13 +9,13 @@
  "id": "1837",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "50426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

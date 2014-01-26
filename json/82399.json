@@ -11,12 +11,12 @@
  "age": "14",
  "timestamp": "2009-11-23T08:00:00.000Z",
  "views": "8157",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Spearmint"
   }
- }
+ ]
 }

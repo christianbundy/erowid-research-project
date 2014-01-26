@@ -11,41 +11,41 @@
  "age": "18",
  "timestamp": "2011-02-19T08:00:00.000Z",
  "views": "21306",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Products - Bath Salts, Plant Food, etc",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Products - Bath Salts, Plant Food, etc",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Damiana",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-11-05T08:00:00.000Z",
  "views": "4065",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Tea",
    "form": "(liquid)"
   }
- }
+ ]
 }

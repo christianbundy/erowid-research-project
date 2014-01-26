@@ -11,13 +11,13 @@
  "age": "16",
  "timestamp": "2010-01-05T08:00:00.000Z",
  "views": "7409",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Lactuca spp.",
    "form": "(extract)"
   }
- }
+ ]
 }

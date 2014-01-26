@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-11-06T08:00:00.000Z",
  "views": "47607",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Crack",
    "form": "(freebase)"
   }
- }
+ ]
 }

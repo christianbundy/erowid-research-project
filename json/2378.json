@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "9806",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "smoked",
    "substance": "DPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

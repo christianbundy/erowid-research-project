@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-07-14T07:00:00.000Z",
  "views": "9804",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "2C-D",
    "form": "(liquid)"
   }
- }
+ ]
 }

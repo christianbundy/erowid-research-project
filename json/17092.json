@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-04-22T07:00:00.000Z",
  "views": "40014",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

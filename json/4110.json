@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2001-12-25T08:00:00.000Z",
  "views": "39826",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginseng",
    "form": "(liquid)"
   }
- }
+ ]
 }

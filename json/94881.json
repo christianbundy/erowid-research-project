@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2012-03-05T08:00:00.000Z",
  "views": "6703",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-P",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

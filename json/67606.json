@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2008-05-26T07:00:00.000Z",
  "views": "22843",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1400 mg",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   },
-  "2": {
+  {
    "time": " T+ 2:15",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   },
-  "3": {
+  {
    "time": " T+ 2:17",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   },
-  "4": {
+  {
    "time": " T+ 2:40",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   },
-  "5": {
+  {
    "time": " T+ 3:10",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   },
-  "6": {
+  {
    "time": " T+ 3:25",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(freebase)"
   }
- }
+ ]
 }

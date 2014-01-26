@@ -11,12 +11,12 @@
  "age": "21",
  "timestamp": "2011-02-26T08:00:00.000Z",
  "views": "6246",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Dronabinol"
   }
- }
+ ]
 }

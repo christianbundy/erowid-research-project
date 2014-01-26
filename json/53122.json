@@ -10,96 +10,96 @@
  "gender": "Male",
  "timestamp": "2008-04-09T07:00:00.000Z",
  "views": "5086",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "2 tablets",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "MDMA",
    "amount": "",
    "administration": " T+ 0:00",
    "substance": "1 glass"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "",
    "substance": " T+ 0:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 2:30",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " repeated",
    "substance": "inhaled"
   },
-  "7": {
+  {
    "time": "Inhalants - Nitrites",
    "amount": "",
    "administration": " T+ 4:10",
    "substance": "1 tablet"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "Unknown",
    "administration": "",
    "substance": " T+ 0:00"
   },
-  "9": {
+  {
    "time": "1 cig.",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   },
-  "10": {
+  {
    "time": " T+ 0:00",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "11": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "1 line",
    "substance": "insufflated"
   },
-  "12": {
+  {
    "time": "Ketamine",
    "amount": "(powder / crystals)",
    "administration": " T+ 0:00",
    "substance": " "
   },
-  "13": {
+  {
    "time": "inhaled",
    "amount": "Inhalants - Nitrites",
    "administration": "",
    "substance": " T+ 0:00"
   },
-  "14": {
+  {
    "time": " repeated",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"
   }
- }
+ ]
 }

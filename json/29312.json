@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-03-01T08:00:00.000Z",
  "views": "24924",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 ug",
    "administration": "IV",
    "substance": "Pharms - Fentanyl",
    "form": "(liquid)"
   }
- }
+ ]
 }

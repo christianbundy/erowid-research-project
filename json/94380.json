@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2013-07-14T07:00:00.000Z",
  "views": "1331",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "4-AcO-DPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

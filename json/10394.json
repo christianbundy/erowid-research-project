@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-07T08:00:00.000Z",
  "views": "22273",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-01-19T08:00:00.000Z",
  "views": "26204",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(daily)"
   }
- }
+ ]
 }

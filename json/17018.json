@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2005-09-23T07:00:00.000Z",
  "views": "17672",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "270 mg",
    "administration": "",
    "substance": "Pharms - Dihydrocodeine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "270 mg",
    "administration": "",
    "substance": "Vitamins / Supplements"
   },
-  "2": {
+  {
    "time": "",
    "amount": "67 mg",
    "administration": "",
    "substance": "Chlorpheniramine Maleate"
   }
- }
+ ]
 }

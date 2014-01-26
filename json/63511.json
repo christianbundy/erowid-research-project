@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "20829",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
   }
- }
+ ]
 }

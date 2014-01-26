@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-21T07:00:00.000Z",
  "views": "25733",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 cups",
    "administration": "oral",
    "substance": "Hops",
    "form": "(tea)"
   }
- }
+ ]
 }

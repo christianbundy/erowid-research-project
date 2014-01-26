@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2006-04-14T07:00:00.000Z",
  "views": "13636",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Catnip"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco"
   }
- }
+ ]
 }

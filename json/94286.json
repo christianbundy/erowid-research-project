@@ -11,20 +11,20 @@
  "age": "39",
  "timestamp": "2012-11-25T08:00:00.000Z",
  "views": "9323",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "MDPV",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

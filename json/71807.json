@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-01-10T08:00:00.000Z",
  "views": "7420",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Catnip",
    "form": "(plant material)"
   }
- }
+ ]
 }

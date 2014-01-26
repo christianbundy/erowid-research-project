@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-15T07:00:00.000Z",
  "views": "2932",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.77 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(tea)"
   }
- }
+ ]
 }

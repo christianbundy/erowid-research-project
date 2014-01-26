@@ -9,30 +9,30 @@
  "id": "38712",
  "timestamp": "2011-01-11T08:00:00.000Z",
  "views": "6167",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "GHB"
   },
-  "2": {
+  {
    "time": " T+ 0:15",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "3": {
+  {
    "time": " T+ 0:15",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "GHB"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-05-13T07:00:00.000Z",
  "views": "30146",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   }
- }
+ ]
 }

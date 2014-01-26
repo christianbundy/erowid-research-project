@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2010-03-26T07:00:00.000Z",
  "views": "14928",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharmaceuticals",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": ""
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2013-02-26T08:00:00.000Z",
  "views": "2511",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 ug",
    "administration": "sublingual",
    "substance": "2C-B-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

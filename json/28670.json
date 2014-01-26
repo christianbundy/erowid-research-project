@@ -9,13 +9,13 @@
  "id": "28670",
  "timestamp": "2007-07-28T07:00:00.000Z",
  "views": "2977",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

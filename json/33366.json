@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-03-14T08:00:00.000Z",
  "views": "16738",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methcathinone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

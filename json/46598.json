@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-01-11T08:00:00.000Z",
  "views": "8101",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "240 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "450 mg",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(capsule)"
   }
- }
+ ]
 }

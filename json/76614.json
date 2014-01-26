@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-06-13T07:00:00.000Z",
  "views": "34221",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

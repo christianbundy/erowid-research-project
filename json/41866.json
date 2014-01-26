@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2005-10-11T07:00:00.000Z",
  "views": "13863",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 cups",
    "administration": "oral",
    "substance": "Damiana",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Calamus",
    "form": "(tea)"
   }
- }
+ ]
 }

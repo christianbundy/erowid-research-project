@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-07-24T07:00:00.000Z",
  "views": "36223",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "44887",
  "timestamp": "2007-06-05T07:00:00.000Z",
  "views": "15598",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Leonotis leonurus",
    "form": "(extract)"
   }
- }
+ ]
 }

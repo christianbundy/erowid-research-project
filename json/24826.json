@@ -9,27 +9,27 @@
  "id": "24826",
  "timestamp": "2009-12-15T08:00:00.000Z",
  "views": "4115",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 seeds",
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

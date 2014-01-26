@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2009-06-30T07:00:00.000Z",
  "views": "2963",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "2C-I"
   }
- }
+ ]
 }

@@ -10,54 +10,54 @@
  "gender": "Male",
  "timestamp": "2005-07-07T07:00:00.000Z",
  "views": "21571",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Piracetam"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "2 capsls",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Ginseng",
    "amount": "",
    "administration": " T+ 0:00",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Caffeine",
    "administration": "(liquid)",
    "substance": " T+ 0:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": "(plant material)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "24 mg",
    "substance": "oral"
   },
-  "7": {
+  {
    "time": "2C-C",
    "amount": "(capsule)",
    "administration": " T+ 8:00",
    "substance": "1.0 mg"
   }
- }
+ ]
 }

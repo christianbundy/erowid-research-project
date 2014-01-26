@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-12-06T08:00:00.000Z",
  "views": "15071",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 mg",
    "administration": "oral",
    "substance": "Dizocilpine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

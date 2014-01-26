@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-06-24T07:00:00.000Z",
  "views": "27504",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Hops",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

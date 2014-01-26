@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-08T08:00:00.000Z",
  "views": "3641",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Opioids",
    "form": "(liquid)"
   }
- }
+ ]
 }

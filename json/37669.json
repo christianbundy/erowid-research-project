@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2004-12-20T08:00:00.000Z",
  "views": "134696",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Amphetamines"
   }
- }
+ ]
 }

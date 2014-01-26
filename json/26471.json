@@ -9,13 +9,13 @@
  "id": "26471",
  "timestamp": "2006-02-20T08:00:00.000Z",
  "views": "27719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Heroin",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

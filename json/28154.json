@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-02-20T08:00:00.000Z",
  "views": "11315",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "15 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "0.2 tsp",
    "administration": "oral",
    "substance": "Ginger",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

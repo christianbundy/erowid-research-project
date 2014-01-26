@@ -9,12 +9,12 @@
  "id": "1379",
  "timestamp": "2000-10-20T07:00:00.000Z",
  "views": "20001",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 g",
    "administration": "",
    "substance": "Nutmeg"
   }
- }
+ ]
 }

@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2005-04-15T07:00:00.000Z",
  "views": "56034",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 bump",
    "substance": "insufflated"
   },
-  "2": {
+  {
    "time": "Methamphetamine",
    "amount": "(powder / crystals)",
    "administration": " T+ 6:00",
    "substance": "0.5 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Pharms - Alprazolam",
    "administration": "(pill / tablet)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "1.0 mg",
    "amount": "oral",
    "administration": "Pharms - Lorazepam",
    "substance": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2001-12-17T08:00:00.000Z",
  "views": "19530",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

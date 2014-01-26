@@ -10,104 +10,104 @@
  "gender": "Male",
  "timestamp": "2013-01-16T08:00:00.000Z",
  "views": "3620",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "4 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 0:00",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": ""
   },
-  "7": {
+  {
    "time": " T+ 0:00",
    "amount": "1 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": ""
   },
-  "8": {
+  {
    "time": " T+ 0:00",
    "amount": "8 mg",
    "administration": "",
    "substance": "Chlorpheniramine Maleate",
    "form": ""
   },
-  "9": {
+  {
    "time": " T+ 0:00",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "10": {
+  {
    "time": " T+ 0:00",
    "amount": "17.5 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": ""
   },
-  "11": {
+  {
    "time": " T+ 0:00",
    "amount": "12.5 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": ""
   },
-  "12": {
+  {
    "time": " T+ 0:00",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": ""
   },
-  "13": {
+  {
    "time": " T+ 0:00",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": ""
   }
- }
+ ]
 }

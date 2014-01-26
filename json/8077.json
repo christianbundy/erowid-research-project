@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-02-08T08:00:00.000Z",
  "views": "58132",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "rectal",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

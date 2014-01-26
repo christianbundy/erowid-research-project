@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2000-06-15T07:00:00.000Z",
  "views": "17984",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 mg",
    "administration": "oral",
    "substance": "DOB",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2.75 mg",
    "administration": "oral",
    "substance": "DOB",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

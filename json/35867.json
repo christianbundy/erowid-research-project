@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-05-27T07:00:00.000Z",
  "views": "12433",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Triazolam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

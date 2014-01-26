@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-12-06T08:00:00.000Z",
  "views": "16710",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   }
- }
+ ]
 }

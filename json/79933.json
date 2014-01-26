@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2011-02-20T08:00:00.000Z",
  "views": "4583",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3/4 cups",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   }
- }
+ ]
 }

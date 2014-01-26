@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-06-10T07:00:00.000Z",
  "views": "23457",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

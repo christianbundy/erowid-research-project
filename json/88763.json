@@ -11,12 +11,12 @@
  "age": "18",
  "timestamp": "2011-01-24T08:00:00.000Z",
  "views": "6594",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-018"
   }
- }
+ ]
 }

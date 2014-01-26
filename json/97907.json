@@ -11,34 +11,34 @@
  "age": "19",
  "timestamp": "2013-01-30T08:00:00.000Z",
  "views": "6697",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Chamomile",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Lemon Balm",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Licorice Root",
    "form": "(plant material)"
   }
- }
+ ]
 }

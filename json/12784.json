@@ -9,18 +9,18 @@
  "id": "12784",
  "timestamp": "2002-03-04T08:00:00.000Z",
  "views": "29319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ephedrine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "941",
  "timestamp": "2000-10-28T07:00:00.000Z",
  "views": "29082",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(capsule)"
   }
- }
+ ]
 }

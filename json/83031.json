@@ -11,27 +11,27 @@
  "age": "23",
  "timestamp": "2011-09-06T07:00:00.000Z",
  "views": "6985",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "insufflated",
    "substance": "Dimethocaine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "150 mg",
    "administration": "IV",
    "substance": "Dimethocaine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -11,36 +11,36 @@
  "age": "19",
  "timestamp": "2013-12-01T08:00:00.000Z",
  "views": "449",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "100 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "(capsule)",
    "administration": " T+ 1:30",
    "substance": "50 mg"
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "Methylone",
    "administration": "(powder / crystals)",
    "substance": " T+ 3:25"
   },
-  "4": {
+  {
    "time": "100 mg",
    "amount": "insufflated",
    "administration": "Methylone",
    "substance": "(powder / crystals)"
   }
- }
+ ]
 }

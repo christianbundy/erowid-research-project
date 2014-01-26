@@ -9,12 +9,12 @@
  "id": "1179",
  "timestamp": "2001-04-18T07:00:00.000Z",
  "views": "38849",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ketamine"
   }
- }
+ ]
 }

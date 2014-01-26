@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2000-08-04T07:00:00.000Z",
  "views": "12246",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "MDMA",
    "amount": "",
    "administration": "",
    "substance": "7.0 mg"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2011-01-12T08:00:00.000Z",
  "views": "8496",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2009-12-28T08:00:00.000Z",
  "views": "8001",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "(seeds)"
   }
- }
+ ]
 }

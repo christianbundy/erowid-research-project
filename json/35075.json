@@ -9,13 +9,13 @@
  "id": "35075",
  "timestamp": "2004-07-12T07:00:00.000Z",
  "views": "21760",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 g",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(tea)"
   }
- }
+ ]
 }

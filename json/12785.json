@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-02-14T08:00:00.000Z",
  "views": "59302",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3500 mg",
    "administration": "oral",
    "substance": "Kava",
    "form": "(extract)"
   }
- }
+ ]
 }

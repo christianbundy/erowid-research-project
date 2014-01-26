@@ -10,62 +10,62 @@
  "gender": "Female",
  "timestamp": "2007-07-23T07:00:00.000Z",
  "views": "10270",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "MDMA",
    "form": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "6": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cocaine",
    "form": "(freebase)"
   },
-  "7": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Flunitrazepam",
    "form": ""
   }
- }
+ ]
 }

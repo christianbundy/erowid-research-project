@@ -9,13 +9,13 @@
  "id": "27912",
  "timestamp": "2003-11-06T08:00:00.000Z",
  "views": "7915",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,66 +10,66 @@
  "gender": "Male",
  "timestamp": "2008-01-29T08:00:00.000Z",
  "views": "2838",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "",
    "substance": "5-MeO-DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:50",
    "administration": "5 hits",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "LSD",
    "amount": "(blotter / tab)",
    "administration": " T+ 4:30",
    "substance": "1 repeated"
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
    "substance": " T+ 8:00"
   },
-  "4": {
+  {
    "time": "1 hit",
    "amount": "oral",
    "administration": "LSD",
    "substance": "(blotter / tab)"
   },
-  "5": {
+  {
    "time": " T+ 9:00",
    "amount": "1 repeated",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 9:00",
    "administration": "1 repeated",
    "substance": "smoked"
   },
-  "7": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 10:30",
    "substance": "200 mg"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "Kava",
    "administration": "",
    "substance": " T+ 11:30"
   },
-  "9": {
+  {
    "time": "4.0 mg",
    "amount": "oral",
    "administration": "Pharms - Lorazepam",
    "substance": ""
   }
- }
+ ]
 }

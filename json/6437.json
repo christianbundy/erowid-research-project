@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-04-24T07:00:00.000Z",
  "views": "13721",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-07-10T07:00:00.000Z",
  "views": "10989",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 ug",
    "administration": "oral",
    "substance": "TMA-6"
   },
-  "1": {
+  {
    "time": " T+ 5:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": " T+ 8:00",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "GHB"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-01-17T08:00:00.000Z",
  "views": "6879",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Tryptophan"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "200 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "(capsule)",
    "administration": "",
    "substance": "20 mg"
   }
- }
+ ]
 }

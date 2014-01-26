@@ -9,12 +9,12 @@
  "id": "1884",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "12067",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "DXM"
   }
- }
+ ]
 }

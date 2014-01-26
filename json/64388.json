@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-07-14T07:00:00.000Z",
  "views": "21139",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxymorphone",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

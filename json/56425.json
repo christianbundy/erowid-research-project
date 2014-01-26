@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2009-01-25T08:00:00.000Z",
  "views": "5700",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "18 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   }
- }
+ ]
 }

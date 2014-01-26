@@ -11,13 +11,13 @@
  "age": "24",
  "timestamp": "2012-01-22T08:00:00.000Z",
  "views": "9065",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 shots",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(liquid)"
   }
- }
+ ]
 }

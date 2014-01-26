@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2000-06-23T07:00:00.000Z",
  "views": "127612",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "310 mg",
    "administration": "oral",
    "substance": "Mescaline"
   }
- }
+ ]
 }

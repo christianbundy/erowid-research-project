@@ -10,48 +10,48 @@
  "gender": "Female",
  "timestamp": "2008-06-27T07:00:00.000Z",
  "views": "42435",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "3": {
+  {
    "time": " T+ 5:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "4": {
+  {
    "time": " T+ 5:15",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(capsule)"
   },
-  "5": {
+  {
    "time": " T+ 12:00",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Lorazepam",
    "form": "(liquid)"
   }
- }
+ ]
 }

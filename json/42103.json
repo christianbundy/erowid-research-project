@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-08-24T07:00:00.000Z",
  "views": "17548",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "buccal",
    "substance": "Leonotis leonurus",
    "form": "(flowers)"
   }
- }
+ ]
 }

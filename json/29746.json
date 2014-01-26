@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2004-01-06T08:00:00.000Z",
  "views": "27889",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DET",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "DiPT",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 9:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Propoxyphene",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

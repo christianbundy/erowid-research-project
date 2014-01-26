@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-10-07T07:00:00.000Z",
  "views": "9759",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 ug",
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

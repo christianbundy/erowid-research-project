@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-07-05T07:00:00.000Z",
  "views": "16449",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "",
    "substance": "Pharms - Methylphenidate",
    "form": "(daily)"
   }
- }
+ ]
 }

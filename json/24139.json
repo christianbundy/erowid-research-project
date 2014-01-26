@@ -9,20 +9,20 @@
  "id": "24139",
  "timestamp": "2003-06-02T07:00:00.000Z",
  "views": "12834",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 oz",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

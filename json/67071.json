@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2008-02-22T08:00:00.000Z",
  "views": "18509",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Valerian",
    "form": ""
   }
- }
+ ]
 }

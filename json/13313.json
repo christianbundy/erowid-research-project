@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2005-02-21T08:00:00.000Z",
  "views": "6847",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 drops",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

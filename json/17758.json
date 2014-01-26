@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-04-12T07:00:00.000Z",
  "views": "14901",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "3 hits",
    "administration": "smoked",
    "substance": "PCP",
    "form": ""
   }
- }
+ ]
 }

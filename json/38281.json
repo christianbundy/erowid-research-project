@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2008-02-27T08:00:00.000Z",
  "views": "11354",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Ginkgo biloba",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Anadenanthera peregrina",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Syrian Rue",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

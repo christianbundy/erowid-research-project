@@ -9,13 +9,13 @@
  "id": "31283",
  "timestamp": "2006-07-12T07:00:00.000Z",
  "views": "9324",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Tobacco",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

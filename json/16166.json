@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2002-07-21T07:00:00.000Z",
  "views": "14648",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "DPT"
   },
-  "3": {
+  {
    "time": " T+ 2:15",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
-  "4": {
+  {
    "time": " T+ 3:00",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }
- }
+ ]
 }

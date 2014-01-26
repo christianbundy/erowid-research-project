@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2005-07-05T07:00:00.000Z",
  "views": "26245",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "96 mg",
    "administration": "oral",
    "substance": "Codeine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 cup",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "(tea)",
    "administration": "",
    "substance": "1 cup"
   }
- }
+ ]
 }

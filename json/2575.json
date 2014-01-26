@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "54881",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol"
   }
- }
+ ]
 }

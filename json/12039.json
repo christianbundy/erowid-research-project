@@ -10,30 +10,30 @@
  "gender": "Female",
  "timestamp": "2004-12-29T08:00:00.000Z",
  "views": "14353",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Dimenhydrinate"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

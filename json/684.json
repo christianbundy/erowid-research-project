@@ -9,13 +9,13 @@
  "id": "684",
  "timestamp": "2000-10-18T07:00:00.000Z",
  "views": "8524",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.25 oz",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   }
- }
+ ]
 }

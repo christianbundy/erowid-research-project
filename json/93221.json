@@ -11,13 +11,13 @@
  "age": "27",
  "timestamp": "2011-10-14T07:00:00.000Z",
  "views": "5464",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

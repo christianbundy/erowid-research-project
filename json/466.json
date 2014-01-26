@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "21751",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 leaf",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(fresh)"
   }
- }
+ ]
 }

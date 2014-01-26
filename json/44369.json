@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-05-13T07:00:00.000Z",
  "views": "29328",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   }
- }
+ ]
 }

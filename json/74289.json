@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-12-30T08:00:00.000Z",
  "views": "6604",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cart.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

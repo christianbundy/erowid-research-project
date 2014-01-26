@@ -9,13 +9,13 @@
  "id": "51261",
  "timestamp": "2008-06-21T07:00:00.000Z",
  "views": "3060",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

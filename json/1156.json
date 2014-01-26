@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2000-09-11T07:00:00.000Z",
  "views": "16245",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "175 mg",
    "administration": "oral",
    "substance": "MDA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "MDA"
   }
- }
+ ]
 }

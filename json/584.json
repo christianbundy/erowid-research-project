@@ -9,20 +9,20 @@
  "id": "584",
  "timestamp": "2000-09-14T07:00:00.000Z",
  "views": "28363",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-06-04T07:00:00.000Z",
  "views": "29737",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 ug",
    "administration": "oral",
    "substance": "Pharms - Atomoxetine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": ""
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-06-03T07:00:00.000Z",
  "views": "27992",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Calamus",
    "form": "(extract - 5x)"
   }
- }
+ ]
 }

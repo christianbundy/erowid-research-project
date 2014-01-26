@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2012-01-30T08:00:00.000Z",
  "views": "3202",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(tea)"
   }
- }
+ ]
 }

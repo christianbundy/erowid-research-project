@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-06-11T07:00:00.000Z",
  "views": "37294",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amanitas",
    "form": "(plant material)"
   }
- }
+ ]
 }

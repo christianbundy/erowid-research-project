@@ -9,27 +9,27 @@
  "id": "23986",
  "timestamp": "2006-03-17T08:00:00.000Z",
  "views": "18667",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

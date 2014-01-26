@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-24T07:00:00.000Z",
  "views": "8859",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

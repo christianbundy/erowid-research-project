@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-12-09T08:00:00.000Z",
  "views": "22402",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -11,27 +11,27 @@
  "age": "29",
  "timestamp": "2012-12-10T08:00:00.000Z",
  "views": "1390",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "11 seeds",
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "6 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

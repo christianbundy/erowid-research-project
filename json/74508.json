@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2010-09-27T07:00:00.000Z",
  "views": "15356",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "24 oz",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Alcohol - Beer/Wine",
    "amount": "",
    "administration": "",
    "substance": "1/2 g"
   }
- }
+ ]
 }

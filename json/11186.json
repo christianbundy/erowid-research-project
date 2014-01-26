@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-03-03T08:00:00.000Z",
  "views": "23146",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Topiramate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

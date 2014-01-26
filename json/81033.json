@@ -11,24 +11,24 @@
  "age": "18",
  "timestamp": "2010-09-21T07:00:00.000Z",
  "views": "12334",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Opium"
   },
-  "2": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "smoked",
    "substance": "DMT"
   }
- }
+ ]
 }

@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2008-04-05T07:00:00.000Z",
  "views": "19492",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "Methadone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " ",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Heroin",
    "amount": "",
    "administration": " T+ 12:00",
    "substance": "4.0 mg"
   },
-  "3": {
+  {
    "time": "sublingual",
    "amount": "Pharms - Buprenorphine",
    "administration": "(pill / tablet)",
    "substance": " T+ 15:00"
   },
-  "4": {
+  {
    "time": "4.0 mg",
    "amount": "sublingual",
    "administration": "Pharms - Buprenorphine",
    "substance": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": " T+ 20:00",
    "amount": "4.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-03-11T08:00:00.000Z",
  "views": "89443",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.5 g",
    "administration": "",
    "substance": "Heroin",
    "form": "(daily)"
   }
- }
+ ]
 }

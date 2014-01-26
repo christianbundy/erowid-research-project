@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2010-02-13T08:00:00.000Z",
  "views": "6036",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "7 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 0:40",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": " T+ 1:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 1:40",
    "amount": ".4 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(dried)"
   },
-  "4": {
+  {
    "time": " T+ 3:00",
    "amount": ".5 carts.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "5": {
+  {
    "time": " T+ 4:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Datura",
    "form": "(dried)"
   },
-  "6": {
+  {
    "time": " T+ 4:00",
    "amount": ".5 carts.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

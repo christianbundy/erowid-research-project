@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-05T07:00:00.000Z",
  "views": "10584",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Mushrooms - P. cubensis",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

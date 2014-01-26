@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2009-03-23T07:00:00.000Z",
  "views": "7112",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-P"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   }
- }
+ ]
 }

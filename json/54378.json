@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-07T07:00:00.000Z",
  "views": "3741",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.75 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

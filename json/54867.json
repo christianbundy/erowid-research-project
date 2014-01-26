@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2006-10-24T07:00:00.000Z",
  "views": "8610",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "DOC",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

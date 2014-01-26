@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2004-07-13T07:00:00.000Z",
  "views": "9834",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   }
- }
+ ]
 }

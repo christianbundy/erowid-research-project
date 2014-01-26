@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-01-09T08:00:00.000Z",
  "views": "20760",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "19 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

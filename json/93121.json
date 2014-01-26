@@ -11,13 +11,13 @@
  "age": "25",
  "timestamp": "2012-01-02T08:00:00.000Z",
  "views": "17506",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Methiopropamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

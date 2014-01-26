@@ -11,13 +11,13 @@
  "age": "24",
  "timestamp": "2010-09-23T07:00:00.000Z",
  "views": "9918",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 hits",
    "administration": "",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

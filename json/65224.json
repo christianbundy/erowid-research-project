@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-10-22T07:00:00.000Z",
  "views": "87553",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "rectal",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

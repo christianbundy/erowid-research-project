@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-01-31T08:00:00.000Z",
  "views": "4089",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "AMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-09-26T07:00:00.000Z",
  "views": "2649",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "3 hits",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

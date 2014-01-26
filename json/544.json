@@ -9,20 +9,20 @@
  "id": "544",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "11504",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 1:59",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

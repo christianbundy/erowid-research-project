@@ -9,13 +9,13 @@
  "id": "73233",
  "timestamp": "2009-03-06T08:00:00.000Z",
  "views": "20310",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Trazodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2001-03-28T08:00:00.000Z",
  "views": "23459",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "50 mg",
    "administration": "",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": " T+ 3:30",
    "amount": "50 mg",
    "administration": "",
    "substance": "MDMA"
   },
-  "3": {
+  {
    "time": " T+ 3:30",
    "amount": "10 mg",
    "administration": "",
    "substance": "2C-T-7"
   }
- }
+ ]
 }

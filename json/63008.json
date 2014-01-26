@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-09-08T07:00:00.000Z",
  "views": "5321",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tsp",
    "administration": "oral",
    "substance": "Lotus/Lily - Nelumbo nucifera",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tsp",
    "administration": "oral",
    "substance": "Skullcap",
    "form": "(tea)"
   }
- }
+ ]
 }

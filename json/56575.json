@@ -9,12 +9,12 @@
  "id": "56575",
  "timestamp": "2006-10-20T07:00:00.000Z",
  "views": "9126",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Piperazines - BZP"
   }
- }
+ ]
 }

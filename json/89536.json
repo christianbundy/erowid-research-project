@@ -11,13 +11,13 @@
  "age": "20",
  "timestamp": "2011-09-30T07:00:00.000Z",
  "views": "3294",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

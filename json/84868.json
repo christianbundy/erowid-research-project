@@ -11,27 +11,27 @@
  "age": "19",
  "timestamp": "2010-04-15T07:00:00.000Z",
  "views": "9719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 mg",
    "administration": "oral",
    "substance": "2C-P",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "350 mg",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "12.5 mg",
    "administration": "oral",
    "substance": "Pharms - Doxylamine",
    "form": ""
   }
- }
+ ]
 }

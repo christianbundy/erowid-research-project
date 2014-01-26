@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2012-04-17T07:00:00.000Z",
  "views": "10330",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Products - Spice and Synthetic Cannabinoids",
    "form": "(plant material)"
   }
- }
+ ]
 }

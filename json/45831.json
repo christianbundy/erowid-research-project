@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2008-02-05T08:00:00.000Z",
  "views": "5362",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.0 mg",
    "administration": "",
    "substance": "5-MeO-AMT"
   }
- }
+ ]
 }

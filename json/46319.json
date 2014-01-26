@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-04-17T07:00:00.000Z",
  "views": "45916",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.3 g",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2004-01-17T08:00:00.000Z",
  "views": "37843",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": ""
   },
-  "2": {
+  {
    "time": "MDMA",
    "amount": "",
    "administration": "",
    "substance": "1 tablet"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Pharms - Zopiclone",
    "administration": "(pill / tablet)",
    "substance": ""
   },
-  "4": {
+  {
    "time": " repeated",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"
   }
- }
+ ]
 }

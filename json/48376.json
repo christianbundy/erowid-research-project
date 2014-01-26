@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-06-15T07:00:00.000Z",
  "views": "31619",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Methamphetamine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "55128",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Valerian"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Vitamin B-6"
   },
-  "2": {
+  {
    "time": "",
    "amount": "3.0 mg",
    "administration": "oral",
    "substance": "Melatonin"
   }
- }
+ ]
 }

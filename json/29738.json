@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2004-01-04T08:00:00.000Z",
  "views": "15479",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "23 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "3 capsls",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 7:00",
    "amount": " ",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 7:15",
    "amount": " ",
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

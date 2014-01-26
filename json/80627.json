@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "5444",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Vasopressin",
    "form": "(liquid)"
   }
- }
+ ]
 }

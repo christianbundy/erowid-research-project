@@ -11,13 +11,13 @@
  "age": "25",
  "timestamp": "2009-10-02T07:00:00.000Z",
  "views": "14253",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "IV",
    "substance": "DXM",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

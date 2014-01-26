@@ -11,13 +11,13 @@
  "age": "23",
  "timestamp": "2012-06-14T07:00:00.000Z",
  "views": "2601",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "MDAI",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

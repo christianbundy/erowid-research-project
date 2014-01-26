@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-01-26T08:00:00.000Z",
  "views": "15454",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "DOB",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 4:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

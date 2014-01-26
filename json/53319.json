@@ -10,41 +10,41 @@
  "gender": "Female",
  "timestamp": "2007-12-12T08:00:00.000Z",
  "views": "52301",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "4": {
+  {
    "time": " T+ 7:00",
    "amount": "0.25 capsls",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

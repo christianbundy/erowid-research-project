@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-02T08:00:00.000Z",
  "views": "9271",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.75 Tbsp",
    "administration": "rectal",
    "substance": "Syrian Rue",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "5.0 g",
    "administration": "rectal",
    "substance": "Diplopterys cabrerana",
    "form": "(extract)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginger",
    "form": "(fresh)"
   }
- }
+ ]
 }

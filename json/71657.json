@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-02-25T08:00:00.000Z",
  "views": "8485",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "14 mg",
    "administration": "oral",
    "substance": "4-HO-MET",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

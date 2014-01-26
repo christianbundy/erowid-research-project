@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2006-02-21T08:00:00.000Z",
  "views": "6712",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "50 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Ephedrine",
    "amount": "(pill / tablet)",
    "administration": "",
    "substance": "400 ug"
   }
- }
+ ]
 }

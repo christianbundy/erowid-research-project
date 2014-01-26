@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-08-29T07:00:00.000Z",
  "views": "8535",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 ",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   }
- }
+ ]
 }

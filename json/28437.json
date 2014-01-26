@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2003-11-16T08:00:00.000Z",
  "views": "67254",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "0.33 tablets",
    "substance": "insufflated"
   }
- }
+ ]
 }

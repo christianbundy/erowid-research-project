@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2009-02-05T08:00:00.000Z",
  "views": "32488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis - Hash",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Pharms - Fentanyl",
    "form": "(liquid)"
   }
- }
+ ]
 }

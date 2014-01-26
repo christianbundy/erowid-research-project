@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-06-19T07:00:00.000Z",
  "views": "54755",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 mg",
    "administration": "IV",
    "substance": "Hydromorphone",
    "form": "(liquid)"
   }
- }
+ ]
 }

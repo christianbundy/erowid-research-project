@@ -9,13 +9,13 @@
  "id": "45679",
  "timestamp": "2005-08-23T07:00:00.000Z",
  "views": "22783",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Datura",
    "form": "(leaves)"
   }
- }
+ ]
 }

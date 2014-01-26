@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-11-27T08:00:00.000Z",
  "views": "14088",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Albizia julibrissin",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Albizia julibrissin",
    "form": "(extract)"
   }
- }
+ ]
 }

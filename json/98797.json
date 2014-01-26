@@ -11,54 +11,54 @@
  "age": "21",
  "timestamp": "2013-02-25T08:00:00.000Z",
  "views": "1545",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "220 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "(powder / crystals)",
    "administration": " T+ 1:00",
    "substance": "150 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Methylone",
    "administration": "(powder / crystals)",
    "substance": " T+ 1:30"
   },
-  "4": {
+  {
    "time": "100 mg",
    "amount": "oral",
    "administration": "MDAI",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 3:00",
    "amount": " repeated",
    "administration": "oral",
    "substance": "MDAI"
   },
-  "6": {
+  {
    "time": "(powder / crystals)",
    "amount": " T+ 5:20",
    "administration": "40 mg",
    "substance": "sublingual"
   },
-  "7": {
+  {
    "time": "Methylone",
    "amount": "(powder / crystals)",
    "administration": " T+ 5:20",
    "substance": " repeated"
   }
- }
+ ]
 }

@@ -11,18 +11,18 @@
  "age": "32",
  "timestamp": "2012-11-14T08:00:00.000Z",
  "views": "2943",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Chocolate"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "24 mg",
    "substance": "oral"
   }
- }
+ ]
 }

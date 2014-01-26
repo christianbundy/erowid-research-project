@@ -9,18 +9,18 @@
  "id": "2101",
  "timestamp": "2000-06-25T07:00:00.000Z",
  "views": "36808",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Betel Nut"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Mushrooms"
   }
- }
+ ]
 }

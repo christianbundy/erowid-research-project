@@ -11,48 +11,48 @@
  "age": "18",
  "timestamp": "2012-10-22T07:00:00.000Z",
  "views": "3072",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "DOI",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:50",
    "amount": "2 bumps",
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "5 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zolpidem",
    "form": "(ground / crushed)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "2 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": "5 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zolpidem",
    "form": "(ground / crushed)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": "4 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

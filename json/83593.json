@@ -11,34 +11,34 @@
  "age": "21",
  "timestamp": "2010-10-28T07:00:00.000Z",
  "views": "4105",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 bumps",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   }
- }
+ ]
 }

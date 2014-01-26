@@ -11,27 +11,27 @@
  "age": "21",
  "timestamp": "2011-02-18T08:00:00.000Z",
  "views": "8001",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
-  "2": {
+  {
    "time": " T+ 6:00",
    "amount": "3 hits",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

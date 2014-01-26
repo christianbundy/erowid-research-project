@@ -11,48 +11,48 @@
  "age": "21",
  "timestamp": "2012-11-19T08:00:00.000Z",
  "views": "4345",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabinoid Receptor Agonists"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "20 mg",
    "substance": "insufflated"
   },
-  "2": {
+  {
    "time": "Ethylphenidate",
    "amount": "(powder / crystals)",
    "administration": " T+ 0:45",
    "substance": "20 mg"
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "Ethylphenidate",
    "administration": "(powder / crystals)",
    "substance": " T+ 1:35"
   },
-  "4": {
+  {
    "time": "20 mg",
    "amount": "insufflated",
    "administration": "Ethylphenidate",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 5:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Ethylphenidate"
   },
-  "6": {
+  {
    "time": "(powder / crystals)",
    "amount": " T+ 5:00",
    "administration": "10 mg",
    "substance": "insufflated"
   }
- }
+ ]
 }

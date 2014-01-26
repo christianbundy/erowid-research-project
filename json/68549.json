@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2008-09-26T07:00:00.000Z",
  "views": "27426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.125 g",
    "administration": "IV",
    "substance": "Heroin"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "DMT"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "28",
  "timestamp": "2011-02-24T08:00:00.000Z",
  "views": "5566",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Memantine",
    "form": "(daily)"
   }
- }
+ ]
 }

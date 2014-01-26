@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2007-12-06T08:00:00.000Z",
  "views": "9711",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": " T+ 0:10",
    "amount": "0.5 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "8 leaves",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   },
-  "3": {
+  {
    "time": " T+ 1:12",
    "amount": "8 leaves",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   },
-  "4": {
+  {
    "time": " T+ 1:45",
    "amount": "1 cap",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

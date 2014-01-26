@@ -9,12 +9,12 @@
  "id": "5867",
  "timestamp": "2002-02-05T08:00:00.000Z",
  "views": "19933",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "DXM"
   }
- }
+ ]
 }

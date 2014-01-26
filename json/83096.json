@@ -11,66 +11,66 @@
  "age": "25",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "5129",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "50 mg",
    "administration": "",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "10 mg",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Amphetamines",
    "amount": "",
    "administration": " T+ 11:30",
    "substance": "500 mg"
   },
-  "3": {
+  {
    "time": "",
    "amount": "Tryptophan - 5-HTP",
    "administration": "",
    "substance": " T+ 11:30"
   },
-  "4": {
+  {
    "time": "600 mg",
    "amount": "",
    "administration": "Tyrosine",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 11:30",
    "amount": "1000 mg",
    "administration": "",
    "substance": "Vitamin C"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 11:30",
    "administration": "800 mg",
    "substance": ""
   },
-  "7": {
+  {
    "time": "Piracetam",
    "amount": "",
    "administration": " T+ 14:00",
    "substance": "1 tablet"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "MDMA",
    "administration": "(pill / tablet)",
    "substance": " T+ 15:45"
   },
-  "9": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Products - Spice and Synthetic Cannabinoids",
    "substance": ""
   }
- }
+ ]
 }

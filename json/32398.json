@@ -9,12 +9,12 @@
  "id": "32398",
  "timestamp": "2004-03-30T08:00:00.000Z",
  "views": "13556",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Memantine"
   }
- }
+ ]
 }

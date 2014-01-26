@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-05-26T07:00:00.000Z",
  "views": "16681",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1 cig.",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "(plant material)",
    "administration": "",
    "substance": "1 cig."
   }
- }
+ ]
 }

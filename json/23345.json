@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-10-20T07:00:00.000Z",
  "views": "28673",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 drops",
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(tea)"
   }
- }
+ ]
 }

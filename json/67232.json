@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-02-23T08:00:00.000Z",
  "views": "23464",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.5 flowers",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(flowers)"
   }
- }
+ ]
 }

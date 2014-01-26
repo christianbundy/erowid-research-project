@@ -9,20 +9,20 @@
  "id": "57419",
  "timestamp": "2007-04-09T07:00:00.000Z",
  "views": "20762",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Piperazines - BZP",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

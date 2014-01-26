@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-08T07:00:00.000Z",
  "views": "7020",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

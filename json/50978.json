@@ -9,20 +9,20 @@
  "id": "50978",
  "timestamp": "2007-01-15T08:00:00.000Z",
  "views": "32869",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

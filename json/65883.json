@@ -9,13 +9,13 @@
  "id": "65883",
  "timestamp": "2007-09-20T07:00:00.000Z",
  "views": "5864",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "(plant material)"
   }
- }
+ ]
 }

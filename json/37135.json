@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2004-10-02T07:00:00.000Z",
  "views": "67870",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Peyote"
   }
- }
+ ]
 }

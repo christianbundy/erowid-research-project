@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-10T07:00:00.000Z",
  "views": "15400",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 g",
    "administration": "sublingual",
    "substance": "Coca",
    "form": "(daily)"
   }
- }
+ ]
 }

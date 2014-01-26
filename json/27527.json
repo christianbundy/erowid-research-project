@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-05-03T07:00:00.000Z",
  "views": "14871",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Sceletium tortuosum",
    "form": "(gel tab)"
   }
- }
+ ]
 }

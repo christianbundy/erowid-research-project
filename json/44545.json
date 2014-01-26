@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2007-10-17T07:00:00.000Z",
  "views": "19081",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Methadone"
   }
- }
+ ]
 }

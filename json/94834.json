@@ -11,13 +11,13 @@
  "age": "20",
  "timestamp": "2012-03-01T08:00:00.000Z",
  "views": "11791",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

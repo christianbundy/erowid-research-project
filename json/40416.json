@@ -10,69 +10,69 @@
  "gender": "Female",
  "timestamp": "2005-02-08T08:00:00.000Z",
  "views": "16931",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 0:30",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 0:45",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": ""
   },
-  "5": {
+  {
    "time": " T+ 4:00",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "6": {
+  {
    "time": " T+ 5:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "7": {
+  {
    "time": " T+ 60:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(pill / tablet)"
   },
-  "8": {
+  {
    "time": " T+ 96:00",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

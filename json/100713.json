@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2013-07-13T07:00:00.000Z",
  "views": "1472",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 mg",
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

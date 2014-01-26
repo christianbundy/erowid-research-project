@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2001-02-21T08:00:00.000Z",
  "views": "94238",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Heroin"
   }
- }
+ ]
 }

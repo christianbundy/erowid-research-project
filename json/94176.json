@@ -11,13 +11,13 @@
  "age": "19",
  "timestamp": "2012-03-01T08:00:00.000Z",
  "views": "22855",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

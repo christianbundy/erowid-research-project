@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-10-16T07:00:00.000Z",
  "views": "8570",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "(dried)"
   }
- }
+ ]
 }

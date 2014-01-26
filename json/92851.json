@@ -11,20 +11,20 @@
  "age": "16",
  "timestamp": "2013-06-16T07:00:00.000Z",
  "views": "8816",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

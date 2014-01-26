@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-01-29T08:00:00.000Z",
  "views": "3399",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

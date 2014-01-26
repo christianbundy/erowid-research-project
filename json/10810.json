@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2002-06-18T07:00:00.000Z",
  "views": "34875",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 oz",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "200 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Pharms - Fluoxetine",
    "amount": "(pill / tablet)",
    "administration": "",
    "substance": "3000 mg"
   }
- }
+ ]
 }

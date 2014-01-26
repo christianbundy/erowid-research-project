@@ -11,20 +11,20 @@
  "age": "41",
  "timestamp": "2010-04-27T07:00:00.000Z",
  "views": "9825",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

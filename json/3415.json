@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2001-12-18T08:00:00.000Z",
  "views": "9163",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis - Hash"
   }
- }
+ ]
 }

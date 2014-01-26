@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2006-11-15T08:00:00.000Z",
  "views": "8424",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "400 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Piperazines - MeOPP",
    "amount": "(liquid)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

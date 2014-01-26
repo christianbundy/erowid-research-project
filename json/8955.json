@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2001-10-28T07:00:00.000Z",
  "views": "45627",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

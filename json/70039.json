@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-06-03T07:00:00.000Z",
  "views": "4905",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2600 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

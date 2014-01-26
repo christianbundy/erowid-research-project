@@ -9,13 +9,13 @@
  "id": "1293",
  "timestamp": "2000-07-16T07:00:00.000Z",
  "views": "16926",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

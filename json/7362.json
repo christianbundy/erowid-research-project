@@ -9,13 +9,13 @@
  "id": "7362",
  "timestamp": "2001-10-29T08:00:00.000Z",
  "views": "47516",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(liquid)"
   }
- }
+ ]
 }

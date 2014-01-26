@@ -9,20 +9,20 @@
  "id": "8011",
  "timestamp": "2001-07-11T07:00:00.000Z",
  "views": "83267",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "IV",
    "substance": "Pharms - Methylphenidate",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-01-11T08:00:00.000Z",
  "views": "4748",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 mg",
    "administration": "",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 1:55",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 2:20",
    "amount": "1 repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

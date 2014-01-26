@@ -9,13 +9,13 @@
  "id": "5356",
  "timestamp": "2001-02-24T08:00:00.000Z",
  "views": "10625",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Red Rock",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "17446",
  "timestamp": "2003-04-08T07:00:00.000Z",
  "views": "7847",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

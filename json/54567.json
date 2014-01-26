@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-10-27T07:00:00.000Z",
  "views": "11109",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
    "form": "(daily)"
   }
- }
+ ]
 }

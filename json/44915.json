@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-10-03T07:00:00.000Z",
  "views": "7240",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   }
- }
+ ]
 }

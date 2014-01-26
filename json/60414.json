@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-13T07:00:00.000Z",
  "views": "26148",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "",
    "substance": "Pharms - Gabapentin",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(daily)"
   }
- }
+ ]
 }

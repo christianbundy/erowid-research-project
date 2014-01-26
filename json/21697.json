@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-01-28T08:00:00.000Z",
  "views": "60636",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3600 mg",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2009-11-26T08:00:00.000Z",
  "views": "7297",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "7.5 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "3 hits",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

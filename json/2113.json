@@ -9,13 +9,13 @@
  "id": "2113",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "8756",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

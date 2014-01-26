@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-12-05T08:00:00.000Z",
  "views": "13211",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

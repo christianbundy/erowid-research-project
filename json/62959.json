@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2010-01-06T08:00:00.000Z",
  "views": "15637",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

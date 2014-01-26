@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2005-10-13T07:00:00.000Z",
  "views": "9679",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

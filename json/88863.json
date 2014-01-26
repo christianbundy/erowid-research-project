@@ -11,20 +11,20 @@
  "age": "26",
  "timestamp": "2011-05-20T07:00:00.000Z",
  "views": "7439",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": ""
   }
- }
+ ]
 }

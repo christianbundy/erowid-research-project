@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-12-16T08:00:00.000Z",
  "views": "17675",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "AET",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "AET",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "8.0 g",
    "administration": "oral",
    "substance": "Kratom",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "rectal",
    "substance": "Morphine",
    "form": ""
   }
- }
+ ]
 }

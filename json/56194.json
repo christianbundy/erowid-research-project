@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-17T07:00:00.000Z",
  "views": "21220",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Propranolol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

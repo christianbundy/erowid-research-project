@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-05-09T07:00:00.000Z",
  "views": "9614",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5.0 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(extract)"
   }
- }
+ ]
 }

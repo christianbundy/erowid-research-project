@@ -11,12 +11,12 @@
  "age": "23",
  "timestamp": "2010-10-13T07:00:00.000Z",
  "views": "16300",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-250"
   }
- }
+ ]
 }

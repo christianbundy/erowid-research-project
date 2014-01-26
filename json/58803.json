@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-03-11T08:00:00.000Z",
  "views": "18706",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(capsule)"
   }
- }
+ ]
 }

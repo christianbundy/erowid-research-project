@@ -9,13 +9,13 @@
  "id": "3074",
  "timestamp": "2000-10-07T07:00:00.000Z",
  "views": "11671",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

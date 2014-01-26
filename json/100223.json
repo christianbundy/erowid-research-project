@@ -11,12 +11,12 @@
  "age": "18",
  "timestamp": "2013-12-08T08:00:00.000Z",
  "views": "390",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   }
- }
+ ]
 }

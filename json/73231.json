@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2013-02-10T08:00:00.000Z",
  "views": "5642",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Morphine",
    "form": "(liquid)"
   }
- }
+ ]
 }

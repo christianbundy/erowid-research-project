@@ -11,13 +11,13 @@
  "age": "17",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "8320",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "(capsule)"
   }
- }
+ ]
 }

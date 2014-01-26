@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2001-04-11T07:00:00.000Z",
  "views": "10146",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   }
- }
+ ]
 }

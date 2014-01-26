@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-05-08T07:00:00.000Z",
  "views": "20212",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Pharms - Promethazine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

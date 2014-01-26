@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-02-28T08:00:00.000Z",
  "views": "63754",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

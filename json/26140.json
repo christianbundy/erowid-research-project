@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2003-08-18T07:00:00.000Z",
  "views": "40850",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline"
   },
-  "1": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sildenafil"
   }
- }
+ ]
 }

@@ -9,20 +9,20 @@
  "id": "1831",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "21622",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "110 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": "(capsule)"
   }
- }
+ ]
 }

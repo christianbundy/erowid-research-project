@@ -11,54 +11,54 @@
  "age": "20",
  "timestamp": "2012-06-22T07:00:00.000Z",
  "views": "3914",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": "250 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Methylone",
    "amount": "(capsule)",
    "administration": " T+ 0:30",
    "substance": "250 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Methylone",
    "administration": "(capsule)",
    "substance": " T+ 2:30"
   },
-  "4": {
+  {
    "time": "50 mg",
    "amount": "insufflated",
    "administration": "Methylone",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 3:00",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Methylone"
   },
-  "6": {
+  {
    "time": "(powder / crystals)",
    "amount": " T+ 3:30",
    "administration": "50 mg",
    "substance": "insufflated"
   },
-  "7": {
+  {
    "time": "Methylone",
    "amount": "(powder / crystals)",
    "administration": " T+ 4:00",
    "substance": "250 mg"
   }
- }
+ ]
 }

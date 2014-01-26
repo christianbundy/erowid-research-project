@@ -9,13 +9,13 @@
  "id": "13661",
  "timestamp": "2004-02-11T08:00:00.000Z",
  "views": "44069",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "Pharms - Buspirone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

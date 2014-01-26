@@ -10,62 +10,62 @@
  "gender": "Male",
  "timestamp": "2007-04-18T07:00:00.000Z",
  "views": "83996",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3.0 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "1.0 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "0.5 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 2:05",
    "amount": "1.0 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 3:15",
    "amount": "2.5 mg",
    "administration": "rectal",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": " T+ 3:15",
    "amount": "0.75 mg",
    "administration": "rectal",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "6": {
+  {
    "time": " T+ 5:00",
    "amount": "4.0 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   },
-  "7": {
+  {
    "time": " T+ 7:45",
    "amount": "1.0 mg",
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "(liquid)"
   }
- }
+ ]
 }

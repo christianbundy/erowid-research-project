@@ -9,13 +9,13 @@
  "id": "1535",
  "timestamp": "2000-09-11T07:00:00.000Z",
  "views": "33044",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 ",
    "administration": "oral",
    "substance": "Kava",
    "form": "(capsule)"
   }
- }
+ ]
 }

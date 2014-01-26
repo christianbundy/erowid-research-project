@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-10-20T07:00:00.000Z",
  "views": "11395",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

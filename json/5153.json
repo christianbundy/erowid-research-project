@@ -9,20 +9,20 @@
  "id": "5153",
  "timestamp": "2001-12-16T08:00:00.000Z",
  "views": "28872",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

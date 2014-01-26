@@ -9,12 +9,12 @@
  "id": "77009",
  "timestamp": "2009-03-27T07:00:00.000Z",
  "views": "3149",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Mushrooms"
   }
- }
+ ]
 }

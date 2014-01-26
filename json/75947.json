@@ -9,48 +9,48 @@
  "id": "75947",
  "timestamp": "2009-04-22T07:00:00.000Z",
  "views": "8077",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": "",
    "substance": " repeated"
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Tobacco",
    "administration": "",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "smoked",
    "administration": "Amanitas - A. muscaria",
    "substance": "(dried)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "0.35 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis"
   },
-  "6": {
+  {
    "time": "(dried)",
    "amount": "",
    "administration": " ",
    "substance": "oral"
   }
- }
+ ]
 }

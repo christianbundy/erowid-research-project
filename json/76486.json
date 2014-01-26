@@ -9,13 +9,13 @@
  "id": "76486",
  "timestamp": "2009-03-09T07:00:00.000Z",
  "views": "56997",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "(daily)"
   }
- }
+ ]
 }

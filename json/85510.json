@@ -11,55 +11,55 @@
  "age": "25",
  "timestamp": "2010-06-24T07:00:00.000Z",
  "views": "7054",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4 cups",
    "administration": "oral",
    "substance": "Coffee",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " repeated",
    "administration": "",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "750 mg",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(extract)"
   },
-  "3": {
+  {
    "time": " T+ 2:00",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(extract)"
   },
-  "4": {
+  {
    "time": " T+ 2:30",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(extract)"
   },
-  "5": {
+  {
    "time": " T+ 4:00",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(extract)"
   },
-  "6": {
+  {
    "time": " T+ 4:00",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-04-19T07:00:00.000Z",
  "views": "6524",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   }
- }
+ ]
 }

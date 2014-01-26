@@ -10,48 +10,48 @@
  "gender": "Female",
  "timestamp": "2003-08-11T07:00:00.000Z",
  "views": "405209",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "vaginal",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "vaginal",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "vaginal",
    "substance": "Ketamine"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "vaginal",
    "substance": "2C-B"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "vaginal",
    "substance": "Pharms - Alprazolam"
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Acacia"
   },
-  "6": {
+  {
    "time": "",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }
- }
+ ]
 }

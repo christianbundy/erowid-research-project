@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2002-11-18T08:00:00.000Z",
  "views": "11944",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "1": {
+  {
    "time": " T+ 2:32",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam"
   }
- }
+ ]
 }

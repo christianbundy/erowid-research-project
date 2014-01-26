@@ -11,30 +11,30 @@
  "age": "35",
  "timestamp": "2012-05-14T07:00:00.000Z",
  "views": "3037",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "75 mg",
    "administration": "IV",
    "substance": "bk-MBDB"
   },
-  "1": {
+  {
    "time": " T+ 0:02",
    "amount": "75 mg",
    "administration": "rectal",
    "substance": "bk-MBDB"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "50 mg",
    "administration": "IV",
    "substance": "bk-MBDB"
   },
-  "3": {
+  {
    "time": " T+ 1:03",
    "amount": "50 mg",
    "administration": "rectal",
    "substance": "bk-MBDB"
   }
- }
+ ]
 }

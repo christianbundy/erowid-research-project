@@ -9,13 +9,13 @@
  "id": "89880",
  "timestamp": "2011-11-19T08:00:00.000Z",
  "views": "22678",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -9,12 +9,12 @@
  "id": "66367",
  "timestamp": "2007-10-17T07:00:00.000Z",
  "views": "14210",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.2 mg",
    "administration": "smoked",
    "substance": "Salvinorin A"
   }
- }
+ ]
 }

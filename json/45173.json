@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-11-02T07:00:00.000Z",
  "views": "27918",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 shot",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
   }
- }
+ ]
 }

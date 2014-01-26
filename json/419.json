@@ -9,13 +9,13 @@
  "id": "419",
  "timestamp": "2000-06-23T07:00:00.000Z",
  "views": "3412",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(gel tab)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-02-07T08:00:00.000Z",
  "views": "62996",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "325 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:52",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

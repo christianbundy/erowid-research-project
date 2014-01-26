@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2002-05-22T07:00:00.000Z",
  "views": "11818",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12.5 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "8.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

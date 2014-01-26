@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-07-23T07:00:00.000Z",
  "views": "4783",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "DMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

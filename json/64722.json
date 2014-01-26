@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-05-02T07:00:00.000Z",
  "views": "10842",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 tablets",
    "administration": "oral",
    "substance": "Pharms - Propoxyphene",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

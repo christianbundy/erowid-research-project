@@ -9,13 +9,13 @@
  "id": "66141",
  "timestamp": "2007-10-10T07:00:00.000Z",
  "views": "24657",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxymorphone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

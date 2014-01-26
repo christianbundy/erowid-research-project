@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-05-05T07:00:00.000Z",
  "views": "18363",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(leaves)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(flowers)"
   }
- }
+ ]
 }

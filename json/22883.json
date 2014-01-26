@@ -9,13 +9,13 @@
  "id": "22883",
  "timestamp": "2004-09-20T07:00:00.000Z",
  "views": "12117",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(freebase)"
   }
- }
+ ]
 }

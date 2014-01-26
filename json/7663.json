@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2001-06-26T07:00:00.000Z",
  "views": "10525",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 mg",
    "administration": "IV",
    "substance": "5-MeO-DiPT"
   }
- }
+ ]
 }

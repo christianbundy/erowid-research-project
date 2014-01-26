@@ -11,13 +11,13 @@
  "age": "32",
  "timestamp": "2011-02-19T08:00:00.000Z",
  "views": "6132",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(daily)"
   }
- }
+ ]
 }

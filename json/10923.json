@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-11-29T08:00:00.000Z",
  "views": "32064",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2400 mg",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   }
- }
+ ]
 }

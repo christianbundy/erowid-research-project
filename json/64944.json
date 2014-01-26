@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-22T07:00:00.000Z",
  "views": "79564",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 g",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

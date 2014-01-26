@@ -11,13 +11,13 @@
  "age": "38",
  "timestamp": "2013-07-11T07:00:00.000Z",
  "views": "683",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

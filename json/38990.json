@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-23T07:00:00.000Z",
  "views": "36406",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Oxycodone",
    "form": "(daily)"
   }
- }
+ ]
 }

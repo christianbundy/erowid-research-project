@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-05-08T07:00:00.000Z",
  "views": "15439",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

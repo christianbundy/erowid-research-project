@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-06-14T07:00:00.000Z",
  "views": "10687",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "Piperazines - BZP",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Piperazines - TFMPP",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "6 hits",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "8 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

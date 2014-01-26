@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "3121",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

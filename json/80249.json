@@ -11,13 +11,13 @@
  "age": "18",
  "timestamp": "2010-08-19T07:00:00.000Z",
  "views": "7969",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

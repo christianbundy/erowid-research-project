@@ -11,12 +11,12 @@
  "age": "35",
  "timestamp": "2010-07-19T07:00:00.000Z",
  "views": "16488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "DMT"
   }
- }
+ ]
 }

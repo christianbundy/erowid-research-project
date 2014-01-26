@@ -9,13 +9,13 @@
  "id": "1041",
  "timestamp": "2000-10-18T07:00:00.000Z",
  "views": "14815",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

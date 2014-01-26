@@ -11,13 +11,13 @@
  "age": "17",
  "timestamp": "2009-09-29T07:00:00.000Z",
  "views": "12033",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

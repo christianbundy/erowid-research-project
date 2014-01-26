@@ -9,13 +9,13 @@
  "id": "4244",
  "timestamp": "2001-12-24T08:00:00.000Z",
  "views": "10521",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "711 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   }
- }
+ ]
 }

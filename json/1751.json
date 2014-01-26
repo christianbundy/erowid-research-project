@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "20094",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": " T+ 1:59",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 25:59",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-B",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 25:59",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   }
- }
+ ]
 }

@@ -11,27 +11,27 @@
  "age": "35",
  "timestamp": "2012-03-23T07:00:00.000Z",
  "views": "6217",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 g",
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "DMT",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

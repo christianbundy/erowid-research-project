@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-21T07:00:00.000Z",
  "views": "13343",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

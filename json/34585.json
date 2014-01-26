@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-10-10T07:00:00.000Z",
  "views": "12602",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Pharms - Haloperidol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

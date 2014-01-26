@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-10-26T07:00:00.000Z",
  "views": "3928",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Opioids",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Opioids",
    "form": "(daily)"
   }
- }
+ ]
 }

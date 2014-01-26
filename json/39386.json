@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2007-08-21T07:00:00.000Z",
  "views": "28661",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "Pharms - Methylphenidate",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "27 mg",
    "administration": "sublingual",
    "substance": "Pharms - Methylphenidate",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

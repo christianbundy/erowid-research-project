@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-10-28T07:00:00.000Z",
  "views": "56508",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

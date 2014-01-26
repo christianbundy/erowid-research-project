@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-04-23T07:00:00.000Z",
  "views": "11634",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharmaceuticals",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-06-14T07:00:00.000Z",
  "views": "3786",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "110 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   }
- }
+ ]
 }

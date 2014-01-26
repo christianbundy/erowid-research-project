@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2003-07-25T07:00:00.000Z",
  "views": "11105",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

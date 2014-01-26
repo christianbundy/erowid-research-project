@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2005-07-29T07:00:00.000Z",
  "views": "13662",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3600 mg",
    "administration": "oral",
    "substance": "Guarana",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Ginseng",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 gal",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

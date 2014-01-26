@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-05-20T07:00:00.000Z",
  "views": "6796",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(tea)"
   }
- }
+ ]
 }

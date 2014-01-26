@@ -9,12 +9,12 @@
  "id": "1875",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "11384",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "IM",
    "substance": "DPT"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-02-12T08:00:00.000Z",
  "views": "37319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

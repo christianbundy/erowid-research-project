@@ -11,34 +11,34 @@
  "age": "19",
  "timestamp": "2012-11-14T08:00:00.000Z",
  "views": "1620",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "160 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:50",
    "amount": "140 mg",
    "administration": "oral",
    "substance": "6-APB",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 3:50",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Inhalants - Nitrites",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 6:00",
    "amount": "2 carts.",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

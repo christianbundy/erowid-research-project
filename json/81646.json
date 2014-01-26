@@ -11,27 +11,27 @@
  "age": "30",
  "timestamp": "2012-03-21T07:00:00.000Z",
  "views": "2551",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "310 mg",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "310 mg",
    "administration": "oral",
    "substance": "Vitamins - Choline",
    "form": "(daily)"
   }
- }
+ ]
 }

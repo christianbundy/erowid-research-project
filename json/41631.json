@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-07-15T07:00:00.000Z",
  "views": "8730",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "2-Aminoindan",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

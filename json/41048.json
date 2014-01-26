@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-06-02T07:00:00.000Z",
  "views": "20719",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 0:40",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 1:20",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   }
- }
+ ]
 }

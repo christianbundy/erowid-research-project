@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-25T07:00:00.000Z",
  "views": "23763",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 leaves",
    "administration": "buccal",
    "substance": "Coleus",
    "form": "(fresh)"
   }
- }
+ ]
 }

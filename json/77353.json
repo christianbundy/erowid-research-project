@@ -9,13 +9,13 @@
  "id": "77353",
  "timestamp": "2010-01-09T08:00:00.000Z",
  "views": "3619",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "13.5 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

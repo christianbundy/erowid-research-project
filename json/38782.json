@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2007-12-18T08:00:00.000Z",
  "views": "43275",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1750 mg",
    "administration": "oral",
    "substance": "Passion Flower"
   }
- }
+ ]
 }

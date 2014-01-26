@@ -11,20 +11,20 @@
  "age": "28",
  "timestamp": "2013-07-28T07:00:00.000Z",
  "views": "3844",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "300 ug",
    "administration": "oral",
    "substance": "LSZ",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 1:30",
    "amount": "300 ug",
    "administration": "oral",
    "substance": "LSZ",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

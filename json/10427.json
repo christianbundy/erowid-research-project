@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-09-10T07:00:00.000Z",
  "views": "7464",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   }
- }
+ ]
 }

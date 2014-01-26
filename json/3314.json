@@ -9,13 +9,13 @@
  "id": "3314",
  "timestamp": "2000-10-15T07:00:00.000Z",
  "views": "31119",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 g",
    "administration": "oral",
    "substance": "Calamus",
    "form": "(roots)"
   }
- }
+ ]
 }

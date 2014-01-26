@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-05-10T07:00:00.000Z",
  "views": "134629",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "(plant material)"
   }
- }
+ ]
 }

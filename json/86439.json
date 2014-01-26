@@ -11,34 +11,34 @@
  "age": "27",
  "timestamp": "2010-08-23T07:00:00.000Z",
  "views": "9193",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "0.5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "(capsule)"
   },
-  "2": {
+  {
    "time": " T+ 0:20",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 4:00",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

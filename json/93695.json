@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2012-01-03T08:00:00.000Z",
  "views": "6540",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 mg",
    "administration": "insufflated",
    "substance": "Desoxypipradrol  ",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

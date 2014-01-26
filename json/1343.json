@@ -9,13 +9,13 @@
  "id": "1343",
  "timestamp": "2001-02-12T08:00:00.000Z",
  "views": "15780",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3000 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

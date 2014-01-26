@@ -9,13 +9,13 @@
  "id": "4730",
  "timestamp": "2001-02-07T08:00:00.000Z",
  "views": "58936",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Mushrooms",
    "form": "(tea)"
   }
- }
+ ]
 }

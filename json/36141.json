@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-06-06T07:00:00.000Z",
  "views": "20198",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Morphine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

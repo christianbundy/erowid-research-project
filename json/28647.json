@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2013-12-13T08:00:00.000Z",
  "views": "515",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Triprolidine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

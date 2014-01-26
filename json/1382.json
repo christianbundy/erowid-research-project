@@ -9,12 +9,12 @@
  "id": "1382",
  "timestamp": "2001-05-11T07:00:00.000Z",
  "views": "13209",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 ug",
    "administration": "oral",
    "substance": "LSD"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-02-06T08:00:00.000Z",
  "views": "48261",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "insufflated",
    "substance": "GABA",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1000 mg",
    "administration": "sublingual",
    "substance": "GABA",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1000 mg",
    "administration": "smoked",
    "substance": "GABA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

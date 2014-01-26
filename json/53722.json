@@ -10,34 +10,34 @@
  "gender": "Female",
  "timestamp": "2008-12-03T08:00:00.000Z",
  "views": "6595",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

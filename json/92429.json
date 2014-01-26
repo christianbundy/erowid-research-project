@@ -11,13 +11,13 @@
  "age": "37",
  "timestamp": "2011-09-09T07:00:00.000Z",
  "views": "4397",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24.7 mg",
    "administration": "oral",
    "substance": "DMMDA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

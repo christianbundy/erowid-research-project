@@ -11,12 +11,12 @@
  "age": "19",
  "timestamp": "2010-04-07T07:00:00.000Z",
  "views": "13260",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Diphenhydramine"
   }
- }
+ ]
 }

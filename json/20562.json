@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-01-20T08:00:00.000Z",
  "views": "13267",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "17.5 mg",
    "administration": "smoked",
    "substance": "DiPT",
    "form": "(freebase)"
   }
- }
+ ]
 }

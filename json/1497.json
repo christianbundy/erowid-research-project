@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-05-19T07:00:00.000Z",
  "views": "42484",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(gel tab)"
   }
- }
+ ]
 }

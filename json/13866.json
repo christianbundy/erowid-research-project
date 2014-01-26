@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-11-09T08:00:00.000Z",
  "views": "7866",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "GHB",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-01-29T08:00:00.000Z",
  "views": "10148",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "9.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

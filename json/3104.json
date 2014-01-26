@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-10-10T07:00:00.000Z",
  "views": "14424",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " seeds",
    "administration": "oral",
    "substance": "Datura",
    "form": "(seeds)"
   }
- }
+ ]
 }

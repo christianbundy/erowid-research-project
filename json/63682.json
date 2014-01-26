@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-12-06T08:00:00.000Z",
  "views": "4308",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 hits",
    "administration": "sublingual",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

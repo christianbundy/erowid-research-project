@@ -11,27 +11,27 @@
  "age": "18",
  "timestamp": "2013-07-12T07:00:00.000Z",
  "views": "2558",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "45 ml",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(liquid)"
   }
- }
+ ]
 }

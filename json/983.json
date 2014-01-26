@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "50201",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Amphetamines"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "insufflated"
   },
-  "2": {
+  {
    "time": "Cocaine",
    "amount": "(powder / crystals)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

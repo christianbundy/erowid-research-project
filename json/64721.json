@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-03-21T07:00:00.000Z",
  "views": "3570",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(dried)"
   }
- }
+ ]
 }

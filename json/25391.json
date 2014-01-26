@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2005-08-04T07:00:00.000Z",
  "views": "39480",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 7:00",
    "amount": "465 mg",
    "administration": "oral",
    "substance": "Catuaba",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 7:30",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sildenafil",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

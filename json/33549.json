@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-03-30T08:00:00.000Z",
  "views": "54930",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Banisteriopsis caapi",
    "form": "(dried)"
   }
- }
+ ]
 }

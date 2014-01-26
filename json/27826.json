@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2003-10-24T07:00:00.000Z",
  "views": "20482",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 seeds",
    "administration": "oral",
    "substance": "Datura",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 seeds",
    "administration": "smoked",
    "substance": "Datura",
    "form": "(seeds)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "2 leaves",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(leaves)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "2 leaves",
    "administration": "oral",
    "substance": "Datura",
    "form": "(leaves)"
   }
- }
+ ]
 }

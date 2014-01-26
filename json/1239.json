@@ -9,20 +9,20 @@
  "id": "1239",
  "timestamp": "2000-10-05T07:00:00.000Z",
  "views": "34185",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 flowers",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 leaves",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(tea)"
   }
- }
+ ]
 }

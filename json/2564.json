@@ -9,13 +9,13 @@
  "id": "2564",
  "timestamp": "2000-10-16T07:00:00.000Z",
  "views": "29333",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

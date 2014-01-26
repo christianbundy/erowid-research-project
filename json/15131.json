@@ -9,13 +9,13 @@
  "id": "15131",
  "timestamp": "2004-02-20T08:00:00.000Z",
  "views": "17428",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "900 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

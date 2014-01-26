@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-10-07T07:00:00.000Z",
  "views": "21495",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 leaves",
    "administration": "smoked",
    "substance": "Coleus",
    "form": "(plant material)"
   }
- }
+ ]
 }

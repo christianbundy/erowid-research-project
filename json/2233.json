@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-06-27T07:00:00.000Z",
  "views": "65199",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

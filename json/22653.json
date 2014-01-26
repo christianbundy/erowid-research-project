@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2003-04-03T08:00:00.000Z",
  "views": "68009",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": "2800 mg",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

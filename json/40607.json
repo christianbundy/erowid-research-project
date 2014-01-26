@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-08-13T07:00:00.000Z",
  "views": "42454",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Diazepam",
    "form": "(daily)"
   }
- }
+ ]
 }

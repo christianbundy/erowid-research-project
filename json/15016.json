@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2008-09-09T07:00:00.000Z",
  "views": "28995",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

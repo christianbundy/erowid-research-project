@@ -9,13 +9,13 @@
  "id": "1881",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "7758",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   }
- }
+ ]
 }

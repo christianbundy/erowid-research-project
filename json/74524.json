@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-01-12T08:00:00.000Z",
  "views": "6319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 ml",
    "administration": "inhaled",
    "substance": "Ether",
    "form": "(liquid)"
   }
- }
+ ]
 }

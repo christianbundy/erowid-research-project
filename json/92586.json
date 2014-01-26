@@ -11,27 +11,27 @@
  "age": "43",
  "timestamp": "2012-06-04T07:00:00.000Z",
  "views": "7912",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Baclofen",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Orphenadrine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

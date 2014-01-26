@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-03-03T08:00:00.000Z",
  "views": "12730",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

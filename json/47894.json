@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2007-11-30T08:00:00.000Z",
  "views": "8519",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "750 mg",
    "administration": "oral",
    "substance": "DXM"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "1.0 g",
    "substance": "smoked"
   }
- }
+ ]
 }

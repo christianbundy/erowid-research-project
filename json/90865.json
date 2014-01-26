@@ -11,12 +11,12 @@
  "age": "26",
  "timestamp": "2011-05-31T07:00:00.000Z",
  "views": "34501",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "80 mg",
    "administration": "IM",
    "substance": "Methoxetamine "
   }
- }
+ ]
 }

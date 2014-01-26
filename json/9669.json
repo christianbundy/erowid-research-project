@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-04-15T07:00:00.000Z",
  "views": "6786",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

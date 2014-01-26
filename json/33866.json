@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-04-30T07:00:00.000Z",
  "views": "16068",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

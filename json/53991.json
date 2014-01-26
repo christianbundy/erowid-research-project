@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-03-08T08:00:00.000Z",
  "views": "13413",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2008-09-05T07:00:00.000Z",
  "views": "25960",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Barbiturates"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IM",
    "substance": "Barbiturates"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Barbiturates"
   }
- }
+ ]
 }

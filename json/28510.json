@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-11-21T08:00:00.000Z",
  "views": "6487",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

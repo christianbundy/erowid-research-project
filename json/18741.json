@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2002-11-08T08:00:00.000Z",
  "views": "11762",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Mushrooms"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-11-17T08:00:00.000Z",
  "views": "8899",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Milk Thistle",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

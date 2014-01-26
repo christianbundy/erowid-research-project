@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-07-09T07:00:00.000Z",
  "views": "16935",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "(daily)",
    "administration": "",
    "substance": " repeated"
   }
- }
+ ]
 }

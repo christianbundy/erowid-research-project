@@ -11,27 +11,27 @@
  "age": "39",
  "timestamp": "2011-09-06T07:00:00.000Z",
  "views": "6087",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "7.8 mg",
    "administration": "oral",
    "substance": "TMA-6",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "3.6 mg",
    "administration": "oral",
    "substance": "TMA-6",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": " T+ 8:00",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   }
- }
+ ]
 }

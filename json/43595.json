@@ -9,20 +9,20 @@
  "id": "43595",
  "timestamp": "2006-03-19T08:00:00.000Z",
  "views": "20015",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "18 in",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(plant material)"
   }
- }
+ ]
 }

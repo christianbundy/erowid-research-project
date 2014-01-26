@@ -9,13 +9,13 @@
  "id": "1761",
  "timestamp": "2000-06-12T07:00:00.000Z",
  "views": "48044",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   }
- }
+ ]
 }

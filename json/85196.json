@@ -11,13 +11,13 @@
  "age": "27",
  "timestamp": "2010-07-30T07:00:00.000Z",
  "views": "6903",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "675 ug",
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "(liquid)"
   }
- }
+ ]
 }

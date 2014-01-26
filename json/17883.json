@@ -9,13 +9,13 @@
  "id": "17883",
  "timestamp": "2006-04-28T07:00:00.000Z",
  "views": "6699",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(daily)"
   }
- }
+ ]
 }

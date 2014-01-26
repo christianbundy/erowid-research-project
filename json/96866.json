@@ -10,13 +10,13 @@
  "age": "1826",
  "timestamp": "2012-08-14T07:00:00.000Z",
  "views": "3926",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

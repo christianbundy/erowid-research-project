@@ -10,18 +10,18 @@
  "gender": "Female",
  "timestamp": "2012-04-19T07:00:00.000Z",
  "views": "10969",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Cocaine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cocaine"
   }
- }
+ ]
 }

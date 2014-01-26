@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2004-03-12T08:00:00.000Z",
  "views": "35612",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Hops",
    "form": "(extract)"
   }
- }
+ ]
 }

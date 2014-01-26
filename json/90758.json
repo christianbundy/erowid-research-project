@@ -11,36 +11,36 @@
  "age": "19",
  "timestamp": "2012-11-21T08:00:00.000Z",
  "views": "3845",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "Ketamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 8:35",
    "administration": "2 hits",
    "substance": ""
   },
-  "2": {
+  {
    "time": "LSD",
    "amount": "(blotter / tab)",
    "administration": " T+ 11:05",
    "substance": "150 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "MDMA",
    "administration": "",
    "substance": " T+ 11:50"
   },
-  "4": {
+  {
    "time": "150 mg",
    "amount": "insufflated",
    "administration": "Ketamine",
    "substance": ""
   }
- }
+ ]
 }

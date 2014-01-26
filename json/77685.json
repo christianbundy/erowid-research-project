@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2009-09-09T07:00:00.000Z",
  "views": "14420",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "IM",
    "substance": "2C-C",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "6 mg",
    "administration": "IM",
    "substance": "2C-C",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "IM",
    "substance": "2C-C",
    "form": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "IM",
    "substance": "2C-C",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

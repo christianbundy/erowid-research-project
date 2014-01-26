@@ -9,13 +9,13 @@
  "id": "6114",
  "timestamp": "2002-02-06T08:00:00.000Z",
  "views": "59241",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

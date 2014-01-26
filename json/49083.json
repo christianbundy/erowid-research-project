@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-12-28T08:00:00.000Z",
  "views": "19261",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   }
- }
+ ]
 }

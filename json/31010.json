@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-07-07T07:00:00.000Z",
  "views": "7582",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.5 mg",
    "administration": "oral",
    "substance": "DON",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -11,12 +11,12 @@
  "age": "20",
  "timestamp": "2010-03-25T07:00:00.000Z",
  "views": "7183",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   }
- }
+ ]
 }

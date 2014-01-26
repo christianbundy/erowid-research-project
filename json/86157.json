@@ -11,13 +11,13 @@
  "age": "27",
  "timestamp": "2010-08-03T07:00:00.000Z",
  "views": "10382",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

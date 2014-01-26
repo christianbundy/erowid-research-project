@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-07-11T07:00:00.000Z",
  "views": "18987",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Pharms - Aripiprazole",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

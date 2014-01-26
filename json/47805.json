@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-08-24T07:00:00.000Z",
  "views": "24263",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

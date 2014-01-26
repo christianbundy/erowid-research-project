@@ -9,12 +9,12 @@
  "id": "43763",
  "timestamp": "2005-06-10T07:00:00.000Z",
  "views": "25793",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Clonidine"
   }
- }
+ ]
 }

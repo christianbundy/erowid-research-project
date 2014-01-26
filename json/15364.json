@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2002-06-14T07:00:00.000Z",
  "views": "39317",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

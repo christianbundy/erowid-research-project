@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2001-09-02T07:00:00.000Z",
  "views": "43286",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(liquid)"
   }
- }
+ ]
 }

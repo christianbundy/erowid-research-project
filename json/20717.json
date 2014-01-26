@@ -10,12 +10,12 @@
  "gender": "Female",
  "timestamp": "2003-01-24T08:00:00.000Z",
  "views": "31148",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "smoked",
    "substance": "DMT"
   }
- }
+ ]
 }

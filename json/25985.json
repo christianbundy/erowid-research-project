@@ -9,20 +9,20 @@
  "id": "25985",
  "timestamp": "2003-08-10T07:00:00.000Z",
  "views": "60597",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(plant material)"
   }
- }
+ ]
 }

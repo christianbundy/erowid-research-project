@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2000-10-08T07:00:00.000Z",
  "views": "55783",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 oz",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(rootbark)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 Tbsp",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(seeds)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "5 tsp",
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "(extract)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

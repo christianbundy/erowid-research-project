@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2008-06-27T07:00:00.000Z",
  "views": "7514",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "DOB",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": ""
   }
- }
+ ]
 }

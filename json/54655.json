@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2007-04-20T07:00:00.000Z",
  "views": "25613",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "IV",
    "substance": "Methamphetamine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Methamphetamine"
   },
-  "3": {
+  {
    "time": "",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Pharms - Diazepam"
   }
- }
+ ]
 }

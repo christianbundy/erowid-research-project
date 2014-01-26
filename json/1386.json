@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2001-05-18T07:00:00.000Z",
  "views": "11214",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "MDA",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "23 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(capsule)"
   }
- }
+ ]
 }

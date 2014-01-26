@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-04-16T07:00:00.000Z",
  "views": "24502",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "smoked",
    "substance": "DMT",
    "form": "(freebase)"
   }
- }
+ ]
 }

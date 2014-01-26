@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-02-24T08:00:00.000Z",
  "views": "2743",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract - 5x)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2005-02-04T08:00:00.000Z",
  "views": "11172",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Pharms - Divalproex",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "DiPT",
    "form": "(capsule)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

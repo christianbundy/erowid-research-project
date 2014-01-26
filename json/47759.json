@@ -10,36 +10,36 @@
  "gender": "Female",
  "timestamp": "2006-02-08T08:00:00.000Z",
  "views": "7007",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "2 hits",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "LSD",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Pharms - Bupropion",
    "administration": "(daily)",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "oral",
    "administration": "Pharms - Sertraline",
    "substance": "(daily)"
   }
- }
+ ]
 }

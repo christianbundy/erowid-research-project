@@ -11,48 +11,48 @@
  "age": "18",
  "timestamp": "2010-08-31T07:00:00.000Z",
  "views": "22386",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "4-Methoxymethcathinone"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "MDPV"
   },
-  "2": {
+  {
    "time": " T+ 1:36",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "3": {
+  {
    "time": " T+ 2:28",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "4": {
+  {
    "time": " T+ 2:41",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Tyrosine"
   },
-  "5": {
+  {
    "time": " T+ 3:11",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "6": {
+  {
    "time": " T+ 5:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   }
- }
+ ]
 }

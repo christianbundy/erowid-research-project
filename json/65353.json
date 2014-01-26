@@ -9,13 +9,13 @@
  "id": "65353",
  "timestamp": "2010-05-03T07:00:00.000Z",
  "views": "103053",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "760 mg",
    "administration": "smoked",
    "substance": "Catnip",
    "form": "(capsule)"
   }
- }
+ ]
 }

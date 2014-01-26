@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-11-29T08:00:00.000Z",
  "views": "6764",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

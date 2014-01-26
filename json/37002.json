@@ -9,20 +9,20 @@
  "id": "37002",
  "timestamp": "2004-09-27T07:00:00.000Z",
  "views": "17362",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " tablets",
    "administration": "oral",
    "substance": "Pharms - Lithium",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

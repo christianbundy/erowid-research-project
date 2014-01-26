@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-03-14T07:00:00.000Z",
  "views": "5303",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Amanitas - A. muscaria",
    "form": "(dried)"
   }
- }
+ ]
 }

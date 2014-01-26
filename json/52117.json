@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-07-15T07:00:00.000Z",
  "views": "76185",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Mushrooms"
   }
- }
+ ]
 }

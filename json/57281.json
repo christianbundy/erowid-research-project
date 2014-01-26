@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-01-08T08:00:00.000Z",
  "views": "16802",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 flowers",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 flowers",
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "(dried)"
   }
- }
+ ]
 }

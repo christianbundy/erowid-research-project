@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2010-10-14T07:00:00.000Z",
  "views": "3176",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 g",
    "administration": "oral",
    "substance": "Cacti - T. peruvianus",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- }
+ ]
 }

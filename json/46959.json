@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-10-23T07:00:00.000Z",
  "views": "17201",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Methamphetamine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "21294",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "MDMA"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Sertraline"
   }
- }
+ ]
 }

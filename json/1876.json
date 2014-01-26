@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2000-06-16T07:00:00.000Z",
  "views": "37600",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Moclobemide"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "140 mg",
    "administration": "oral",
    "substance": "DPT"
   },
-  "2": {
+  {
    "time": " T+ 3:15",
    "amount": "150 mg",
    "administration": "insufflated",
    "substance": "DPT"
   }
- }
+ ]
 }

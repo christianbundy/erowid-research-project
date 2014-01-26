@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-09-04T07:00:00.000Z",
  "views": "5389",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-03-01T08:00:00.000Z",
  "views": "16577",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Propranolol",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(extract)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Cacti",
    "form": "(extract)"
   }
- }
+ ]
 }

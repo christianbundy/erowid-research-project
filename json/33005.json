@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2004-04-23T07:00:00.000Z",
  "views": "24046",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

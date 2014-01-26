@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-09-24T07:00:00.000Z",
  "views": "5429",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Leonotis leonurus",
    "form": "(extract)"
   }
- }
+ ]
 }

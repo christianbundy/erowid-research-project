@@ -9,13 +9,13 @@
  "id": "15642",
  "timestamp": "2002-06-27T07:00:00.000Z",
  "views": "76289",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(plant material)"
   }
- }
+ ]
 }

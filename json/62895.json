@@ -9,13 +9,13 @@
  "id": "62895",
  "timestamp": "2007-05-22T07:00:00.000Z",
  "views": "13441",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Pharms - Zaleplon",
    "form": "(capsule)"
   }
- }
+ ]
 }

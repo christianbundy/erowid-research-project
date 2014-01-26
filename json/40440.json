@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-05-15T07:00:00.000Z",
  "views": "3734",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "13.3 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   }
- }
+ ]
 }

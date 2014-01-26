@@ -9,20 +9,20 @@
  "id": "6205",
  "timestamp": "2001-04-12T07:00:00.000Z",
  "views": "18379",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "5.0 mg",
    "administration": "insufflated",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

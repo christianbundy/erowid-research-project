@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2001-10-24T07:00:00.000Z",
  "views": "13316",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Mushrooms - P. cyanescens"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Mushrooms - P. semilanceata"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-07-09T07:00:00.000Z",
  "views": "17436",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "15 g",
    "administration": "oral",
    "substance": "Amanitas",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": " T+ 0:15",
    "amount": "10 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

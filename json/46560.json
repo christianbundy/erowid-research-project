@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-12-21T08:00:00.000Z",
  "views": "42813",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "70 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "80 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

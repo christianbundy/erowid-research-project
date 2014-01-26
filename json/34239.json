@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-07-08T07:00:00.000Z",
  "views": "17426",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   }
- }
+ ]
 }

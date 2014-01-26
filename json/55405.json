@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-05-02T07:00:00.000Z",
  "views": "18279",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "175 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"
   }
- }
+ ]
 }

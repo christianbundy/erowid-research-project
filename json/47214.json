@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-12-05T08:00:00.000Z",
  "views": "22563",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.8 mg",
    "administration": "oral",
    "substance": "DOC",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2008-07-06T07:00:00.000Z",
  "views": "12305",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "Ethylcathinone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Smarts - Phenibut",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(capsule)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "GBL",
    "form": "(liquid)"
   }
- }
+ ]
 }

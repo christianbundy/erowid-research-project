@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2011-02-03T08:00:00.000Z",
  "views": "16630",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(gel tab)"
   }
- }
+ ]
 }

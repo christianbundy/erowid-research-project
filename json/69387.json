@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2010-07-10T07:00:00.000Z",
  "views": "13863",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Aniracetam"
   }
- }
+ ]
 }

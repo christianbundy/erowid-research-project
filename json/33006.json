@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-04-23T07:00:00.000Z",
  "views": "23264",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "buccal",
    "substance": "Tobacco",
    "form": "(leaves)"
   }
- }
+ ]
 }

@@ -11,34 +11,34 @@
  "age": "20",
  "timestamp": "2009-10-20T07:00:00.000Z",
  "views": "14128",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10.5 g",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": ".25 g",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": ".25 g",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

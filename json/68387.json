@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2010-02-15T08:00:00.000Z",
  "views": "2760",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "1": {
+  {
    "time": "",
    "amount": "27 mg",
    "administration": "oral",
    "substance": "2C-I"
   }
- }
+ ]
 }

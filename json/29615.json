@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-05-26T07:00:00.000Z",
  "views": "10317",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "Pharms - Zaleplon",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

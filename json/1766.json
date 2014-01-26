@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2000-06-12T07:00:00.000Z",
  "views": "63912",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "75 mg",
    "administration": "oral",
    "substance": "DMT",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(tea)"
   }
- }
+ ]
 }

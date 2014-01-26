@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2009-09-08T07:00:00.000Z",
  "views": "2370",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2004-11-22T08:00:00.000Z",
  "views": "92105",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 seeds",
    "administration": "oral",
    "substance": "Belladonna"
   },
-  "1": {
+  {
    "time": "",
    "amount": "600 seeds",
    "administration": "oral",
    "substance": "Belladonna"
   },
-  "2": {
+  {
    "time": "",
    "amount": "900 seeds",
    "administration": "oral",
    "substance": "Belladonna"
   }
- }
+ ]
 }

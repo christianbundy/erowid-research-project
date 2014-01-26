@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2007-06-19T07:00:00.000Z",
  "views": "11523",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "24 tablets",
    "administration": "oral",
    "substance": "Diphenhydramine"
   }
- }
+ ]
 }

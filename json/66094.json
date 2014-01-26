@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-11-01T07:00:00.000Z",
  "views": "9410",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
    "form": ""
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "20",
  "timestamp": "2012-11-25T08:00:00.000Z",
  "views": "3112",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "2C-C-NBOMe",
    "form": "(liquid)"
   }
- }
+ ]
 }

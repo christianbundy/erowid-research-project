@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-04-19T07:00:00.000Z",
  "views": "180078",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Mugwort",
    "form": "(dried)"
   }
- }
+ ]
 }

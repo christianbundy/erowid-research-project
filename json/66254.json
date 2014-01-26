@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-10-30T07:00:00.000Z",
  "views": "18329",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

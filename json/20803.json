@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-12-19T08:00:00.000Z",
  "views": "14280",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "600 mg",
    "administration": "oral",
    "substance": "DXM"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "inhaled"
   },
-  "2": {
+  {
    "time": "Nitrous Oxide",
    "amount": "(gas)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

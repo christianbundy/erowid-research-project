@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-10-14T07:00:00.000Z",
  "views": "14785",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.75 lbs",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   }
- }
+ ]
 }

@@ -11,13 +11,13 @@
  "age": "26",
  "timestamp": "2011-12-16T08:00:00.000Z",
  "views": "5301",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2012-07-23T07:00:00.000Z",
  "views": "4648",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": ".25 tablets",
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   },
-  "1": {
+  {
    "time": " T+ 0:15",
    "amount": ".25 tablets",
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   },
-  "2": {
+  {
    "time": " T+ 0:00",
    "amount": "1.5 tablets",
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   }
- }
+ ]
 }

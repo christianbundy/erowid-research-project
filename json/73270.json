@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-09-25T07:00:00.000Z",
  "views": "4012",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Phenytoin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

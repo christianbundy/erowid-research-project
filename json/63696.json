@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2007-06-12T07:00:00.000Z",
  "views": "6414",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(daily)"
   }
- }
+ ]
 }

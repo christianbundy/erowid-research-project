@@ -9,18 +9,18 @@
  "id": "61697",
  "timestamp": "2008-02-17T08:00:00.000Z",
  "views": "22967",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 hits",
    "administration": "oral",
    "substance": "LSD"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Cocaine"
   }
- }
+ ]
 }

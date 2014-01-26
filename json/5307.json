@@ -9,13 +9,13 @@
  "id": "5307",
  "timestamp": "2001-03-05T08:00:00.000Z",
  "views": "9796",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   }
- }
+ ]
 }

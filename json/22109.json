@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-06-03T07:00:00.000Z",
  "views": "17318",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Zopiclone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

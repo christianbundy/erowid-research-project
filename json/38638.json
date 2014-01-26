@@ -9,12 +9,12 @@
  "id": "38638",
  "timestamp": "2007-08-08T07:00:00.000Z",
  "views": "46313",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "320 mg",
    "administration": "",
    "substance": "Pharms - Oxycodone"
   }
- }
+ ]
 }

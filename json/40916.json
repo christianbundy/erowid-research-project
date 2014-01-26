@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2006-08-27T07:00:00.000Z",
  "views": "12151",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "3 leaves",
    "administration": "oral",
    "substance": "Datura",
    "form": "(fresh)"
   }
- }
+ ]
 }

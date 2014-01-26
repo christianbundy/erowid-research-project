@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2009-01-25T08:00:00.000Z",
  "views": "10317",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": ""
   }
- }
+ ]
 }

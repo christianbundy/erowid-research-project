@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2003-12-31T08:00:00.000Z",
  "views": "24520",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 capsls",
    "administration": "oral",
    "substance": "Ephedrine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "Guarana"
   },
-  "2": {
+  {
    "time": "",
    "amount": "0.25 g",
    "administration": "insufflated",
    "substance": "Amphetamines"
   }
- }
+ ]
 }

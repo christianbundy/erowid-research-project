@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2011-11-21T08:00:00.000Z",
  "views": "21795",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

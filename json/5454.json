@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-03-03T08:00:00.000Z",
  "views": "20448",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 oz",
    "administration": "oral",
    "substance": "Galangal",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

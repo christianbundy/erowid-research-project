@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2005-09-12T07:00:00.000Z",
  "views": "8017",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:30",
    "administration": "0.5 g",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Psychotria viridis",
    "amount": "(tea)",
    "administration": " T+ 1:15",
    "substance": "7.0 g"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Psychotria viridis",
    "administration": "(tea)",
    "substance": " T+ 2:00"
   },
-  "4": {
+  {
    "time": " ",
    "amount": "oral",
    "administration": "Psychotria viridis",
    "substance": "(tea)"
   }
- }
+ ]
 }

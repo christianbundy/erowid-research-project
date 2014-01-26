@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2011-05-04T07:00:00.000Z",
  "views": "5832",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Caffeine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Various",
    "form": ""
   }
- }
+ ]
 }

@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2007-11-19T08:00:00.000Z",
  "views": "12731",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate"
   },
-  "1": {
+  {
    "time": " T+ 3:30",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate"
   },
-  "2": {
+  {
    "time": " T+ 3:30",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion"
   },
-  "3": {
+  {
    "time": " T+ 9:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Methylphenidate"
   },
-  "4": {
+  {
    "time": " T+ 9:00",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": "2.0 mg",
    "administration": "",
    "substance": "Pharms - Lorazepam"
   },
-  "6": {
+  {
    "time": " T+ 0:00",
    "amount": "2.0 mg",
    "administration": "",
    "substance": "Pharms - Lorazepam"
   }
- }
+ ]
 }

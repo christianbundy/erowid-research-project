@@ -11,12 +11,12 @@
  "age": "21",
  "timestamp": "2011-02-18T08:00:00.000Z",
  "views": "3247",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 mg",
    "administration": "oral",
    "substance": "2C-I"
   }
- }
+ ]
 }

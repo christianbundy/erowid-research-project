@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2005-11-23T08:00:00.000Z",
  "views": "15076",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Pharms - Topiramate",
    "form": "(daily)"
   }
- }
+ ]
 }

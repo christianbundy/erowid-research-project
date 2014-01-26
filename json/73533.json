@@ -9,13 +9,13 @@
  "id": "73533",
  "timestamp": "2009-05-29T07:00:00.000Z",
  "views": "10343",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 oz",
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "(liquid)"
   }
- }
+ ]
 }

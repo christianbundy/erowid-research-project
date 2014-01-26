@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2005-02-01T08:00:00.000Z",
  "views": "22238",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

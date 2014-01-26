@@ -9,12 +9,12 @@
  "id": "12524",
  "timestamp": "2002-02-17T08:00:00.000Z",
  "views": "23913",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 hits",
    "administration": "smoked",
    "substance": "Leonotis leonurus"
   }
- }
+ ]
 }

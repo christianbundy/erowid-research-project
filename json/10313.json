@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-02-12T08:00:00.000Z",
  "views": "91883",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3.0 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

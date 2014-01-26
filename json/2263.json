@@ -9,13 +9,13 @@
  "id": "2263",
  "timestamp": "2000-06-30T07:00:00.000Z",
  "views": "59001",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 tsp",
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

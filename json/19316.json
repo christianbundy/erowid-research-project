@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2004-02-20T08:00:00.000Z",
  "views": "13221",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Tryptophan"
   }
- }
+ ]
 }

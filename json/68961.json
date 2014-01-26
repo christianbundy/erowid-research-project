@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2008-02-08T08:00:00.000Z",
  "views": "6374",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "smoked",
    "substance": "4-Acetoxy-DET",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

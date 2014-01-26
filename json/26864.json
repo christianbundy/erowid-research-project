@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-09-16T07:00:00.000Z",
  "views": "55004",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(leaves)"
   }
- }
+ ]
 }

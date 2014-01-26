@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-10-26T07:00:00.000Z",
  "views": "37164",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 g",
    "administration": "oral",
    "substance": "Phalaris Grass",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(seeds)"
   }
- }
+ ]
 }

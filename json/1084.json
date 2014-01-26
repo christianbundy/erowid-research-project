@@ -9,20 +9,20 @@
  "id": "1084",
  "timestamp": "2001-01-07T08:00:00.000Z",
  "views": "8712",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(gel tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   }
- }
+ ]
 }

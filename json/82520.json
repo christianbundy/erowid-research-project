@@ -11,20 +11,20 @@
  "age": "15",
  "timestamp": "2009-12-02T08:00:00.000Z",
  "views": "5217",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Lavandula spp.",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2011-06-17T07:00:00.000Z",
  "views": "6039",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "insufflated"
   }
- }
+ ]
 }

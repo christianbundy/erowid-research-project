@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2000-06-11T07:00:00.000Z",
  "views": "109065",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 g",
    "administration": "oral",
    "substance": "Amanitas - A. muscaria",
    "form": "(plant material)"
   }
- }
+ ]
 }

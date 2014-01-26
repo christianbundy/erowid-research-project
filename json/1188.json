@@ -9,13 +9,13 @@
  "id": "1188",
  "timestamp": "2000-07-18T07:00:00.000Z",
  "views": "24164",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "DiPT",
    "form": "(gel tab)"
   }
- }
+ ]
 }

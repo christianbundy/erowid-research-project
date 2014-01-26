@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-08-20T07:00:00.000Z",
  "views": "14740",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

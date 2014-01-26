@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2003-02-21T08:00:00.000Z",
  "views": "27398",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "0.5 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cocaine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "10 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "3 ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
-  "4": {
+  {
    "time": "",
    "amount": "18 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "(capsule)"
   }
- }
+ ]
 }

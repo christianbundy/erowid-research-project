@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-03-01T08:00:00.000Z",
  "views": "47845",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 tsp",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

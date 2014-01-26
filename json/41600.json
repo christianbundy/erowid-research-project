@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2008-07-15T07:00:00.000Z",
  "views": "9019",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tablet",
    "administration": "rectal",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "500 mg",
    "administration": "",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

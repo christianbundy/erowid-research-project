@@ -11,34 +11,34 @@
  "age": "21",
  "timestamp": "2010-07-15T07:00:00.000Z",
  "views": "14029",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "17.5 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 0:20",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(plant material)"
   },
-  "3": {
+  {
    "time": " T+ 0:35",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

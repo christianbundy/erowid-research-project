@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-04-15T07:00:00.000Z",
  "views": "16798",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2012-01-07T08:00:00.000Z",
  "views": "9984",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IM",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

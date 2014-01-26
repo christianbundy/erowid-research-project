@@ -11,27 +11,27 @@
  "age": "16",
  "timestamp": "2011-06-08T07:00:00.000Z",
  "views": "6361",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -11,34 +11,34 @@
  "age": "19",
  "timestamp": "2011-11-19T08:00:00.000Z",
  "views": "22885",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 mg",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "12.5 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Atomoxetine",
    "form": "(daily)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Fluvoxamine",
    "form": "(daily)"
   }
- }
+ ]
 }

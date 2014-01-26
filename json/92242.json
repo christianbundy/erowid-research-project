@@ -11,13 +11,13 @@
  "age": "42",
  "timestamp": "2011-08-04T07:00:00.000Z",
  "views": "26987",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "sublingual",
    "substance": "Methoxetamine ",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

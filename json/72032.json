@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-12-22T08:00:00.000Z",
  "views": "9488",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "9.375 mg",
    "administration": "oral",
    "substance": "Hyoscyamine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

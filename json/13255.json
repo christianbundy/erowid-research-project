@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2005-02-18T08:00:00.000Z",
  "views": "29253",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 0:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(dried)"
   },
-  "2": {
+  {
    "time": " T+ 1:50",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(dried)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "3 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "4": {
+  {
    "time": " T+ 3:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(tea)"
   },
-  "5": {
+  {
    "time": " T+ 3:30",
    "amount": " ",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": ""
   },
-  "6": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

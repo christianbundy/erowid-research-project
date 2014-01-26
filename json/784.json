@@ -9,13 +9,13 @@
  "id": "784",
  "timestamp": "2000-08-04T07:00:00.000Z",
  "views": "144166",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2009-08-08T07:00:00.000Z",
  "views": "5534",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "Piperazines - mCPP"
   }
- }
+ ]
 }

@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2008-03-03T08:00:00.000Z",
  "views": "13287",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 0:40",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": "50 mg",
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "(powder / crystals)"
   },
-  "4": {
+  {
    "time": " T+ 3:00",
    "amount": "600 mg",
    "administration": "IM",
    "substance": "Ketamine",
    "form": "(liquid)"
   },
-  "5": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

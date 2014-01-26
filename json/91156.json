@@ -11,12 +11,12 @@
  "age": "17",
  "timestamp": "2013-11-03T07:00:00.000Z",
  "views": "1000",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

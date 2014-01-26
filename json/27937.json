@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2007-03-29T07:00:00.000Z",
  "views": "5746",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Alcohol"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "",
    "substance": "Amphetamines"
   }
- }
+ ]
 }

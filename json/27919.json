@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2003-10-28T08:00:00.000Z",
  "views": "8016",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "rectal",
    "substance": "5-MeO-AMT",
    "form": "(liquid)"
   }
- }
+ ]
 }

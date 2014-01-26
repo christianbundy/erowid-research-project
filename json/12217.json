@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-05-31T07:00:00.000Z",
  "views": "7095",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

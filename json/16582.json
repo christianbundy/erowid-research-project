@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-08-05T07:00:00.000Z",
  "views": "9266",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "37 mg",
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

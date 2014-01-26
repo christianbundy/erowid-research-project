@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2010-07-22T07:00:00.000Z",
  "views": "5356",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Mescaline",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "0.5 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": "2 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": ""
   },
-  "4": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
-  "5": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   }
- }
+ ]
 }

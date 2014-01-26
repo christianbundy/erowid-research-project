@@ -9,13 +9,13 @@
  "id": "20564",
  "timestamp": "2006-06-10T07:00:00.000Z",
  "views": "5045",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 seeds",
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

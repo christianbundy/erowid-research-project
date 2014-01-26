@@ -9,13 +9,13 @@
  "id": "2017",
  "timestamp": "2000-06-21T07:00:00.000Z",
  "views": "34157",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "MDE",
    "form": "(capsule)"
   }
- }
+ ]
 }

@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-03-29T08:00:00.000Z",
  "views": "4823",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 1:00",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(capsule)"
   }
- }
+ ]
 }

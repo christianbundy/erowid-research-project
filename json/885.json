@@ -9,13 +9,13 @@
  "id": "885",
  "timestamp": "2000-10-29T07:00:00.000Z",
  "views": "10609",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

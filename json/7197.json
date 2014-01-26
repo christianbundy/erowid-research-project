@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2001-06-04T07:00:00.000Z",
  "views": "26166",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(plant material)"
   }
- }
+ ]
 }

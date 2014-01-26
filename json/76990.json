@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-03-05T08:00:00.000Z",
  "views": "14470",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

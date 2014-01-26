@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-12-14T08:00:00.000Z",
  "views": "16892",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "60 mg",
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 0:20",
    "amount": "30 mg",
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-06-16T07:00:00.000Z",
  "views": "7557",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

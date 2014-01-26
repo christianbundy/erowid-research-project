@@ -10,41 +10,41 @@
  "gender": "Female",
  "timestamp": "2006-05-08T07:00:00.000Z",
  "views": "51840",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Ephedrine",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Phentermine",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Coffee",
    "form": "(liquid)"
   }
- }
+ ]
 }

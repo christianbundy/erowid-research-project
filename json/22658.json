@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2005-11-29T08:00:00.000Z",
  "views": "5947",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 in",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "8 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-07-11T07:00:00.000Z",
  "views": "11846",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "Pharms - Topiramate",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

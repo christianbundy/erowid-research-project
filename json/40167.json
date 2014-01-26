@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2005-04-06T07:00:00.000Z",
  "views": "7314",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-I"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash"
   }
- }
+ ]
 }

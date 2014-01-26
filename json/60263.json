@@ -10,30 +10,30 @@
  "gender": "Male",
  "timestamp": "2009-09-27T07:00:00.000Z",
  "views": "21224",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nelumbo nucifera"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Lotus/Lily - Nelumbo nucifera"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   }
- }
+ ]
 }

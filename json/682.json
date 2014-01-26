@@ -9,13 +9,13 @@
  "id": "682",
  "timestamp": "2000-09-09T07:00:00.000Z",
  "views": "17376",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 flowers",
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "(fresh)"
   }
- }
+ ]
 }

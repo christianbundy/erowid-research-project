@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "48558",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " hits",
    "administration": "oral",
    "substance": "DXM"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Diphenhydramine",
    "amount": "",
    "administration": "",
    "substance": " repeated"
   },
-  "3": {
+  {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
    "substance": ""
   },
-  "4": {
+  {
    "time": "7 hits",
    "amount": "oral",
    "administration": "LSD",
    "substance": ""
   },
-  "5": {
+  {
    "time": "",
    "amount": "1/16 oz",
    "administration": "oral",
    "substance": "Mushrooms"
   },
-  "6": {
+  {
    "time": "",
    "amount": "",
    "administration": ".5mg repeated",
    "substance": "oral"
   }
- }
+ ]
 }

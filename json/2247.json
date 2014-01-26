@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2000-06-29T07:00:00.000Z",
  "views": "91608",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Valerian"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Melatonin"
   }
- }
+ ]
 }

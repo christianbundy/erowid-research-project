@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-09-15T07:00:00.000Z",
  "views": "22065",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "400 mg",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

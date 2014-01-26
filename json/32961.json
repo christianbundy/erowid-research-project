@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-06-08T07:00:00.000Z",
  "views": "14059",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "350 mg",
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2003-07-11T07:00:00.000Z",
  "views": "10865",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

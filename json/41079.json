@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2005-04-06T07:00:00.000Z",
  "views": "5386",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "2C-T-2"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }
- }
+ ]
 }

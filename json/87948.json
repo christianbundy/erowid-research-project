@@ -11,20 +11,20 @@
  "age": "17",
  "timestamp": "2010-10-28T07:00:00.000Z",
  "views": "6718",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "(gas)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 mg",
    "administration": "oral",
    "substance": "Pharms - Lorazepam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2010-05-01T07:00:00.000Z",
  "views": "8887",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   },
-  "5": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Meperidine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

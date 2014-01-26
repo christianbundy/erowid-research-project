@@ -9,20 +9,20 @@
  "id": "22885",
  "timestamp": "2004-12-16T08:00:00.000Z",
  "views": "6420",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Salvia divinorum",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Salvia divinorum",
    "form": "(extract)"
   }
- }
+ ]
 }

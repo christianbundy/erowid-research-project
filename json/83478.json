@@ -11,27 +11,27 @@
  "age": "18",
  "timestamp": "2010-04-30T07:00:00.000Z",
  "views": "19316",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "(blotter / tab)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2001-10-24T07:00:00.000Z",
  "views": "32906",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "(tea)"
   }
- }
+ ]
 }

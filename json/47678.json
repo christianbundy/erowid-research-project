@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-09-13T07:00:00.000Z",
  "views": "12276",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "133 mg",
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

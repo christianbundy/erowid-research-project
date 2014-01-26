@@ -9,13 +9,13 @@
  "id": "31352",
  "timestamp": "2007-12-01T08:00:00.000Z",
  "views": "25927",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

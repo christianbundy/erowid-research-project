@@ -9,13 +9,13 @@
  "id": "66297",
  "timestamp": "2009-11-13T08:00:00.000Z",
  "views": "13024",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "rectal",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

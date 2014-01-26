@@ -9,13 +9,13 @@
  "id": "12789",
  "timestamp": "2002-02-23T08:00:00.000Z",
  "views": "12760",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DET",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

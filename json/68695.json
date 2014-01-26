@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2011-11-27T08:00:00.000Z",
  "views": "2096",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cyanescens",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

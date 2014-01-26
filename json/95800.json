@@ -11,13 +11,13 @@
  "age": "22",
  "timestamp": "2013-06-16T07:00:00.000Z",
  "views": "1807",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

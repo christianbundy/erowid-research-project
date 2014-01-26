@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-12-15T08:00:00.000Z",
  "views": "28022",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Heroin",
    "form": "(tar / resin)"
   }
- }
+ ]
 }

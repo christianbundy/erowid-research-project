@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-04-03T07:00:00.000Z",
  "views": "20732",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

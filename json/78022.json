@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2013-06-25T07:00:00.000Z",
  "views": "945",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 g",
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   }
- }
+ ]
 }

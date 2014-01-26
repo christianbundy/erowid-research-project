@@ -11,20 +11,20 @@
  "age": "22",
  "timestamp": "2011-10-14T07:00:00.000Z",
  "views": "3131",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   }
- }
+ ]
 }

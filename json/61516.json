@@ -9,20 +9,20 @@
  "id": "61516",
  "timestamp": "2007-11-07T08:00:00.000Z",
  "views": "6812",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": " T+ 2:47",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(plant material)"
   }
- }
+ ]
 }

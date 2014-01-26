@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2010-02-23T08:00:00.000Z",
  "views": "2462",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "45 g",
    "administration": "oral",
    "substance": "Cacti - T. peruvianus",
    "form": "(dried)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 2:30",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": ""
   },
-  "3": {
+  {
    "time": " T+ 3:30",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   }
- }
+ ]
 }

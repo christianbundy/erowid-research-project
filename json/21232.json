@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-07-01T07:00:00.000Z",
  "views": "13876",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "sublingual",
    "substance": "Hyoscyamine",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

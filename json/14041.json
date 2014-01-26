@@ -9,12 +9,12 @@
  "id": "14041",
  "timestamp": "2007-06-16T07:00:00.000Z",
  "views": "20042",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "inhaled",
    "substance": "Pharms - Albuterol"
   }
- }
+ ]
 }

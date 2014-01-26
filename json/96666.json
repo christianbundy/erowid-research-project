@@ -9,13 +9,13 @@
  "id": "96666",
  "timestamp": "2012-10-03T07:00:00.000Z",
  "views": "3067",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "bk-MBDP",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

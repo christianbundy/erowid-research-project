@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2001-10-24T07:00:00.000Z",
  "views": "42723",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "3 bowls",
    "administration": "smoked",
    "substance": "Ginger"
   }
- }
+ ]
 }

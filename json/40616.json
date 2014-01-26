@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2012-01-19T08:00:00.000Z",
  "views": "3247",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "4 Tbsp",
    "administration": "oral",
    "substance": "Boophone disticha",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Boophone disticha",
    "form": "(tea)"
   }
- }
+ ]
 }

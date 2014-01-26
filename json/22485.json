@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2009-06-19T07:00:00.000Z",
  "views": "17153",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 mg",
    "administration": "IV",
    "substance": "Hydromorphone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Hydromorphone"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Oxycodone"
   }
- }
+ ]
 }

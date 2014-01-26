@@ -11,18 +11,18 @@
  "age": "45",
  "timestamp": "2011-02-21T08:00:00.000Z",
  "views": "17745",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "insufflated",
    "substance": "bk-MBDB"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "IV",
    "substance": "bk-MBDB"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2002-09-09T07:00:00.000Z",
  "views": "14179",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "24 mg",
    "administration": "oral",
    "substance": "DiPT"
   },
-  "2": {
+  {
    "time": "",
    "amount": "22 mg",
    "administration": "oral",
    "substance": "DiPT"
   }
- }
+ ]
 }

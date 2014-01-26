@@ -10,20 +10,20 @@
  "gender": "Female",
  "timestamp": "2005-07-12T07:00:00.000Z",
  "views": "26317",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "7 shots",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

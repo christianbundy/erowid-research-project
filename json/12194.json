@@ -10,48 +10,48 @@
  "gender": "Male",
  "timestamp": "2006-04-18T07:00:00.000Z",
  "views": "14398",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "(gel tab)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "(gel tab)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(gel tab)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Kava",
    "form": "(gel tab)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "(gel tab)"
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Various",
    "form": "(gel tab)"
   }
- }
+ ]
 }

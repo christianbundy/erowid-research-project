@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2002-05-03T07:00:00.000Z",
  "views": "9124",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

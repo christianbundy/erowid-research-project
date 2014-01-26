@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2004-07-14T07:00:00.000Z",
  "views": "16420",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   },
-  "2": {
+  {
    "time": " T+ 2:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   },
-  "3": {
+  {
    "time": " T+ 3:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

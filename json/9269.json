@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-09-23T07:00:00.000Z",
  "views": "46946",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2008-11-04T08:00:00.000Z",
  "views": "10709",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-B"
   },
-  "1": {
+  {
    "time": " T+ 3:00",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine"
   }
- }
+ ]
 }

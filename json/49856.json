@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-03-02T08:00:00.000Z",
  "views": "11105",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "DOC",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

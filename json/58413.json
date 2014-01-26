@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-08-25T07:00:00.000Z",
  "views": "11540",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

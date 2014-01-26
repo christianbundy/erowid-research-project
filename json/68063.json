@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2010-10-07T07:00:00.000Z",
  "views": "9391",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

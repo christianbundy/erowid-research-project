@@ -9,13 +9,13 @@
  "id": "33272",
  "timestamp": "2004-05-04T07:00:00.000Z",
  "views": "8310",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "2C-I",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

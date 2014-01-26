@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2002-08-09T07:00:00.000Z",
  "views": "15687",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
-  "1": {
+  {
    "time": "",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DET"
   }
- }
+ ]
 }

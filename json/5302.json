@@ -9,13 +9,13 @@
  "id": "5302",
  "timestamp": "2001-02-26T08:00:00.000Z",
  "views": "15543",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

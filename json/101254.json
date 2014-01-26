@@ -11,20 +11,20 @@
  "age": "21",
  "timestamp": "2013-09-08T07:00:00.000Z",
  "views": "2572",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "27 mg",
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   }
- }
+ ]
 }

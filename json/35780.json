@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2004-08-10T07:00:00.000Z",
  "views": "10789",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "22 in",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(tea)"
   }
- }
+ ]
 }

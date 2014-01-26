@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2003-04-16T07:00:00.000Z",
  "views": "22264",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "700 mg",
    "administration": "oral",
    "substance": "DMAE"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": "2 ",
    "substance": "oral"
   }
- }
+ ]
 }

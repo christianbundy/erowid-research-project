@@ -11,24 +11,24 @@
  "age": "48",
  "timestamp": "2013-06-18T07:00:00.000Z",
  "views": "1862",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "300 mg",
    "administration": "",
    "substance": "Cocaine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "125 mg",
    "administration": "",
    "substance": "L-DOPA"
   },
-  "2": {
+  {
    "time": "",
    "amount": "12.5 mg",
    "administration": "",
    "substance": "Carbidopa"
   }
- }
+ ]
 }

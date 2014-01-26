@@ -10,55 +10,55 @@
  "gender": "Male",
  "timestamp": "2002-12-05T08:00:00.000Z",
  "views": "18551",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": "4.0 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": ""
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Yohimbe",
    "form": "(daily)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Ginkgo biloba",
    "form": "(daily)"
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Divalproex",
    "form": "(daily)"
   },
-  "6": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "Vitamins / Supplements",
    "form": "(daily)"
   }
- }
+ ]
 }

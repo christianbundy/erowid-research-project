@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2006-07-28T07:00:00.000Z",
  "views": "5890",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   }
- }
+ ]
 }

@@ -11,36 +11,36 @@
  "age": "16",
  "timestamp": "2010-12-07T08:00:00.000Z",
  "views": "14683",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "2C-E"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " repeated",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": "",
    "substance": "200 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Pharms - Bupropion",
    "administration": "(daily)",
    "substance": ""
   },
-  "4": {
+  {
    "time": "900 mg",
    "amount": "oral",
    "administration": "Pharms - Lithium",
    "substance": "(daily)"
   }
- }
+ ]
 }

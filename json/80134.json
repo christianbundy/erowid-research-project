@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2009-08-01T07:00:00.000Z",
  "views": "37513",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 leaf",
    "administration": "smoked",
    "substance": "Coleus",
    "form": "(fresh)"
   },
-  "1": {
+  {
    "time": " T+ 0:00",
    "amount": "1 ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
-  "2": {
+  {
    "time": " T+ 0:30",
    "amount": "2 leaves",
    "administration": "sublingual",
    "substance": "Coleus",
    "form": "(fresh)"
   },
-  "3": {
+  {
    "time": " T+ 1:00",
    "amount": " leaves",
    "administration": "oral",
    "substance": "Coleus",
    "form": ""
   },
-  "4": {
+  {
    "time": " T+ 1:30",
    "amount": "2 leaves",
    "administration": "oral",
    "substance": "Coleus",
    "form": ""
   }
- }
+ ]
 }

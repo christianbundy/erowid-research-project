@@ -11,20 +11,20 @@
  "age": "18",
  "timestamp": "2010-10-11T07:00:00.000Z",
  "views": "13220",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "32 mg",
    "administration": "",
    "substance": "Pharms - Buprenorphine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "LSD",
    "form": ""
   }
- }
+ ]
 }

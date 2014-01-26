@@ -10,27 +10,27 @@
  "gender": "Female",
  "timestamp": "2007-01-18T08:00:00.000Z",
  "views": "13454",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 tsp",
    "administration": "oral",
    "substance": "Belladonna",
    "form": "(flowers)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Belladonna",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   }
- }
+ ]
 }

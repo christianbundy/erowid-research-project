@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2000-09-10T07:00:00.000Z",
  "views": "34814",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "160 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

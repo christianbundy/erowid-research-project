@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2013-07-13T07:00:00.000Z",
  "views": "492",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "AMT"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 0:00",
    "administration": " hits",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Cannabis - Hash",
    "amount": "",
    "administration": " T+ 3:00",
    "substance": " tablets"
   },
-  "3": {
+  {
    "time": "",
    "amount": "Pharms - Diazepam",
    "administration": "(pill / tablet)",
    "substance": " T+ 4:00"
   },
-  "4": {
+  {
    "time": " repeated",
    "amount": "",
    "administration": "Cannabis - Hash",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 4:00",
    "amount": " repeated",
    "administration": "",
    "substance": "Pharms - Diazepam"
   }
- }
+ ]
 }

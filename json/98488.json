@@ -11,20 +11,20 @@
  "age": "29",
  "timestamp": "2013-02-07T08:00:00.000Z",
  "views": "4027",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "MDAI",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": " T+ 2:00",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   }
- }
+ ]
 }

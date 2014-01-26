@@ -9,13 +9,13 @@
  "id": "1232",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "42854",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(liquid)"
   }
- }
+ ]
 }

@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-03-26T07:00:00.000Z",
  "views": "11519",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

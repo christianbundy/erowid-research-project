@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-12-27T08:00:00.000Z",
  "views": "100194",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "20 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": " T+ 1:08",
    "amount": "10 mg",
    "administration": "insufflated",
    "substance": "Pharms - Oxycodone",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": " T+ 10:49",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

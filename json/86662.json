@@ -11,27 +11,27 @@
  "age": "38",
  "timestamp": "2010-08-06T07:00:00.000Z",
  "views": "26360",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Poppies - Opium",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 15:00",
    "amount": "1300 mg",
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "(roots)"
   },
-  "2": {
+  {
    "time": " T+ 15:40",
    "amount": "750 mg",
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "65934",
  "timestamp": "2009-09-14T07:00:00.000Z",
  "views": "16607",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1500 mg",
    "administration": "oral",
    "substance": "Kava",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

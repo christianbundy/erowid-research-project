@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2004-03-05T08:00:00.000Z",
  "views": "17172",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   },
-  "4": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "DXM",
    "form": "(capsule)"
   }
- }
+ ]
 }

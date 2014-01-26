@@ -9,18 +9,18 @@
  "id": "2145",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "3888",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Salvia divinorum"
   }
- }
+ ]
 }

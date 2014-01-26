@@ -9,12 +9,12 @@
  "id": "2033",
  "timestamp": "2000-06-22T07:00:00.000Z",
  "views": "3438",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

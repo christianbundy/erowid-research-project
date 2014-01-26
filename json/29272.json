@@ -10,41 +10,41 @@
  "gender": "Male",
  "timestamp": "2007-01-12T08:00:00.000Z",
  "views": "19225",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 28:00",
    "amount": "10 nuts",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 28:00",
    "amount": "3 Tbsp",
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "(tea)"
   },
-  "3": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   },
-  "4": {
+  {
    "time": " T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Kava",
    "form": "(tea)"
   }
- }
+ ]
 }

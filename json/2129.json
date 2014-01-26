@@ -9,12 +9,12 @@
  "id": "2129",
  "timestamp": "2000-06-26T07:00:00.000Z",
  "views": "4674",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Nutmeg"
   }
- }
+ ]
 }

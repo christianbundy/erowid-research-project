@@ -10,24 +10,24 @@
  "gender": "Male",
  "timestamp": "2008-12-22T08:00:00.000Z",
  "views": "9659",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Alprazolam"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Salvia officinalis",
    "amount": "(extract)",
    "administration": "",
    "substance": " "
   }
- }
+ ]
 }

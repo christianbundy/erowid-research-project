@@ -9,20 +9,20 @@
  "id": "28212",
  "timestamp": "2005-05-20T07:00:00.000Z",
  "views": "30401",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "30 ",
    "administration": "oral",
    "substance": "Mushrooms - P. semilanceata",
    "form": "(dried)"
   }
- }
+ ]
 }

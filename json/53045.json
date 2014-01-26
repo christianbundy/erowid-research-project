@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2008-09-30T07:00:00.000Z",
  "views": "7062",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "sublingual",
    "substance": "LSD",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

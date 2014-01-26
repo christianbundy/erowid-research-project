@@ -11,13 +11,13 @@
  "age": "21",
  "timestamp": "2010-03-22T07:00:00.000Z",
  "views": "13268",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "15 mg",
    "administration": "inhaled",
    "substance": "JWH-018",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

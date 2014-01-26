@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-12-26T08:00:00.000Z",
  "views": "43629",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Zopiclone",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Zaleplon",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

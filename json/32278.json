@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2004-03-29T08:00:00.000Z",
  "views": "16447",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2 Tbsp",
    "administration": "oral",
    "substance": "Datura",
    "form": "(ground / crushed)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(ground / crushed)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "1 Tbsp",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

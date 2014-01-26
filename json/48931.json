@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2006-02-15T08:00:00.000Z",
  "views": "12937",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "12 mg",
    "administration": "oral",
    "substance": "2C-T-21",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Piperazines - BZP",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

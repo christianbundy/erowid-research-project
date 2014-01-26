@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2003-06-11T07:00:00.000Z",
  "views": "18132",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Ayahuasca"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   }
- }
+ ]
 }

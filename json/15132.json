@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2002-06-03T07:00:00.000Z",
  "views": "29983",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "8 hits",
    "administration": "inhaled",
    "substance": "Inhalants - Nitrites",
    "form": "(gas)"
   }
- }
+ ]
 }

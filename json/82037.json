@@ -11,66 +11,66 @@
  "age": "22",
  "timestamp": "2013-01-01T08:00:00.000Z",
  "views": "39682",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Pharms - Oxycodone"
   },
-  "1": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   },
-  "2": {
+  {
    "time": "Pharms - Buprenorphine",
    "amount": "(daily)",
    "administration": "",
    "substance": " "
   },
-  "3": {
+  {
    "time": "",
    "amount": "Methadone",
    "administration": "",
    "substance": ""
   },
-  "4": {
+  {
    "time": " ",
    "amount": "oral",
    "administration": "Pharms - Fentanyl",
    "substance": "(patch)"
   },
-  "5": {
+  {
    "time": "",
    "amount": " ",
    "administration": "rectal",
    "substance": "Morphine"
   },
-  "6": {
+  {
    "time": "",
    "amount": "",
    "administration": " ",
    "substance": ""
   },
-  "7": {
+  {
    "time": "Hydrocodone",
    "amount": "",
    "administration": "",
    "substance": " "
   },
-  "8": {
+  {
    "time": "",
    "amount": "Codeine",
    "administration": "",
    "substance": ""
   },
-  "9": {
+  {
    "time": " ",
    "amount": "",
    "administration": "Pharms - Tramadol",
    "substance": ""
   }
- }
+ ]
 }

@@ -10,42 +10,42 @@
  "gender": "Male",
  "timestamp": "2006-03-02T08:00:00.000Z",
  "views": "15272",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "DOC"
   },
-  "1": {
+  {
    "time": " T+ 1:45",
    "amount": "1.0 g",
    "administration": "",
    "substance": "Mushrooms"
   },
-  "2": {
+  {
    "time": " T+ 6:30",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "DOC"
   },
-  "3": {
+  {
    "time": " T+ 6:30",
    "amount": "2 flowers",
    "administration": "oral",
    "substance": "Poppies - Opium"
   },
-  "4": {
+  {
    "time": " T+ 6:45",
    "amount": "18 mg",
    "administration": "rectal",
    "substance": "2C-C"
   },
-  "5": {
+  {
    "time": " T+ 10:00",
    "amount": "6 flowers",
    "administration": "oral",
    "substance": "Poppies - Opium"
   }
- }
+ ]
 }

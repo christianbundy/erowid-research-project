@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-06-17T07:00:00.000Z",
  "views": "22365",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "20 mg",
    "administration": "smoked",
    "substance": "Pharms - Bupropion",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-07-10T07:00:00.000Z",
  "views": "3933",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "2 capsls",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": " T+ 0:15",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",
    "form": "(fresh)"
   },
-  "2": {
+  {
    "time": " T+ 0:15",
    "amount": "10 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(tea)"
   }
- }
+ ]
 }

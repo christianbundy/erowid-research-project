@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2001-06-25T07:00:00.000Z",
  "views": "28596",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": "65 g",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(tea)"
   },
-  "2": {
+  {
    "time": " T+ 7:45",
    "amount": "2.5 ml",
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "(liquid)"
   }
- }
+ ]
 }

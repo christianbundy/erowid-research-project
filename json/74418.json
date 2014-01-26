@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2011-02-04T08:00:00.000Z",
  "views": "5428",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Inhalants"
   }
- }
+ ]
 }

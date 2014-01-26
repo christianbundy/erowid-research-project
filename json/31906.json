@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2007-11-15T08:00:00.000Z",
  "views": "3591",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "25 seeds",
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "(seeds)"
   },
-  "1": {
+  {
    "time": " T+ 10:00",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   }
- }
+ ]
 }

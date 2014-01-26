@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-01-03T08:00:00.000Z",
  "views": "16155",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(extract)"
   }
- }
+ ]
 }

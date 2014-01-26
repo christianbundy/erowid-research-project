@@ -9,20 +9,20 @@
  "id": "33611",
  "timestamp": "2006-06-12T07:00:00.000Z",
  "views": "25306",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2400 mg",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Modafinil",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2006-10-11T07:00:00.000Z",
  "views": "5260",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "oral",
    "substance": "Alcohol"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 24:00",
    "administration": " ",
    "substance": "smoked"
   },
-  "2": {
+  {
    "time": "Cannabis",
    "amount": "",
    "administration": " T+ 48:00",
    "substance": "2 hits"
   }
- }
+ ]
 }

@@ -9,13 +9,13 @@
  "id": "899",
  "timestamp": "2000-09-09T07:00:00.000Z",
  "views": "16445",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 seeds",
    "administration": "oral",
    "substance": "Datura",
    "form": "(fresh)"
   }
- }
+ ]
 }

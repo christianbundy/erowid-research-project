@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2003-01-18T08:00:00.000Z",
  "views": "19225",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "42 in",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

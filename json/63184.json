@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2007-05-23T07:00:00.000Z",
  "views": "23431",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
-  "2": {
+  {
    "time": "",
    "amount": " ",
    "administration": "oral",
    "substance": "Capsicum spp.",
    "form": "(fresh)"
   }
- }
+ ]
 }

@@ -11,12 +11,12 @@
  "age": "18",
  "timestamp": "2011-02-05T08:00:00.000Z",
  "views": "3326",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "5-MeO-AMT"
   }
- }
+ ]
 }

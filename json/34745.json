@@ -10,34 +10,34 @@
  "gender": "Male",
  "timestamp": "2007-06-27T07:00:00.000Z",
  "views": "19622",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Propoxyphene",
    "form": "(pill / tablet)"
   },
-  "3": {
+  {
    "time": "",
    "amount": " ",
    "administration": "",
    "substance": "AMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

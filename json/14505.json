@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2002-05-22T07:00:00.000Z",
  "views": "22371",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 ug",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(liquid)"
   }
- }
+ ]
 }

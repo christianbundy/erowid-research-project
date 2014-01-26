@@ -10,20 +10,20 @@
  "gender": "Male",
  "timestamp": "2006-06-14T07:00:00.000Z",
  "views": "20959",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "10 bowls",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Pharms - Clonidine",
    "form": "(plant material)"
   }
- }
+ ]
 }

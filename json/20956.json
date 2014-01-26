@@ -10,24 +10,24 @@
  "gender": "Female",
  "timestamp": "2009-06-19T07:00:00.000Z",
  "views": "11041",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Hydromorphone"
   },
-  "1": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Morphine"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Cocaine"
   }
- }
+ ]
 }

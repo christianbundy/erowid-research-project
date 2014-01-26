@@ -11,20 +11,20 @@
  "age": "27",
  "timestamp": "2011-05-20T07:00:00.000Z",
  "views": "5061",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "800 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "155 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(daily)"
   }
- }
+ ]
 }

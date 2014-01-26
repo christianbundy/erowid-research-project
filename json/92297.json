@@ -11,13 +11,13 @@
  "age": "25",
  "timestamp": "2011-08-08T07:00:00.000Z",
  "views": "9797",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "500 mg",
    "administration": "insufflated",
    "substance": "Methiopropamine",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

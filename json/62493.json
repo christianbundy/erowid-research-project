@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2009-11-17T08:00:00.000Z",
  "views": "5937",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "oral",
    "substance": "Milk Thistle",
    "form": "(daily)"
   }
- }
+ ]
 }

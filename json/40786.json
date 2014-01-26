@@ -9,20 +9,20 @@
  "id": "40786",
  "timestamp": "2007-06-18T07:00:00.000Z",
  "views": "14322",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "95 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "9.0 mg",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

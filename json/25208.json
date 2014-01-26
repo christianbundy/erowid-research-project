@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-24T07:00:00.000Z",
  "views": "18903",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "IV",
    "substance": "Cocaine",
    "form": "(liquid)"
   }
- }
+ ]
 }

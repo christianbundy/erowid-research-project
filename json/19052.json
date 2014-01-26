@@ -10,18 +10,18 @@
  "gender": "Male",
  "timestamp": "2010-05-01T07:00:00.000Z",
  "views": "12403",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Meperidine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "IV",
    "substance": "Pharms - Promethazine"
   }
- }
+ ]
 }

@@ -9,34 +9,34 @@
  "id": "34875",
  "timestamp": "2004-08-23T07:00:00.000Z",
  "views": "23223",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "1": {
+  {
    "time": "",
    "amount": " ",
    "administration": "buccal",
    "substance": "Kratom",
    "form": "(leaves)"
   },
-  "2": {
+  {
    "time": "",
    "amount": "7 bowls",
    "administration": "oral",
    "substance": "Opium",
    "form": "(tea)"
   },
-  "3": {
+  {
    "time": "",
    "amount": "5 cups",
    "administration": "oral",
    "substance": "Coca",
    "form": "(tea)"
   }
- }
+ ]
 }

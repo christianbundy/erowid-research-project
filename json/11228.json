@@ -10,12 +10,12 @@
  "gender": "Male",
  "timestamp": "2003-10-16T07:00:00.000Z",
  "views": "27061",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "",
    "substance": "Calea zacatechichi"
   }
- }
+ ]
 }

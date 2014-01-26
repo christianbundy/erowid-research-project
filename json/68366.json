@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-05-08T07:00:00.000Z",
  "views": "15735",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "19 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

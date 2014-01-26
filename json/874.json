@@ -9,20 +9,20 @@
  "id": "874",
  "timestamp": "2000-09-08T07:00:00.000Z",
  "views": "29323",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "180 mg",
    "administration": "oral",
    "substance": "DXM",
    "form": "(liquid)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

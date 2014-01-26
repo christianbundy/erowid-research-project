@@ -11,84 +11,84 @@
  "age": "30",
  "timestamp": "2011-02-10T08:00:00.000Z",
  "views": "11691",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 3:00",
    "administration": "150 mg",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Ibogaine",
    "amount": "",
    "administration": " T+ 3:45",
    "substance": "400 mg"
   },
-  "3": {
+  {
    "time": "oral",
    "amount": "Ibogaine",
    "administration": "",
    "substance": " T+ 5:35"
   },
-  "4": {
+  {
    "time": "200 mg",
    "amount": "oral",
    "administration": "Ibogaine",
    "substance": ""
   },
-  "5": {
+  {
    "time": " T+ 10:05",
    "amount": "360 mg",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "6": {
+  {
    "time": "",
    "amount": " T+ 13:20",
    "administration": "300 mg",
    "substance": "oral"
   },
-  "7": {
+  {
    "time": "Ibogaine",
    "amount": "",
    "administration": " T+ 17:40",
    "substance": "400 mg"
   },
-  "8": {
+  {
    "time": "oral",
    "amount": "Ibogaine",
    "administration": "",
    "substance": " T+ 18:45"
   },
-  "9": {
+  {
    "time": "300 mg",
    "amount": "oral",
    "administration": "Ibogaine",
    "substance": ""
   },
-  "10": {
+  {
    "time": " T+ 21:10",
    "amount": "220 mg",
    "administration": "oral",
    "substance": "Ibogaine"
   },
-  "11": {
+  {
    "time": "",
    "amount": " T+ 25:30",
    "administration": "320 mg",
    "substance": "oral"
   },
-  "12": {
+  {
    "time": "Ibogaine",
    "amount": "(powder / crystals)",
    "administration": " T+ 26:00",
    "substance": "215 mg"
   }
- }
+ ]
 }

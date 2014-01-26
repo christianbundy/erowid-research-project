@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2003-05-10T07:00:00.000Z",
  "views": "38435",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "Opium",
    "form": "(tar / resin)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
-  "2": {
+  {
    "time": "",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   }
- }
+ ]
 }

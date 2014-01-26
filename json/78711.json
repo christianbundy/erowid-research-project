@@ -9,13 +9,13 @@
  "id": "78711",
  "timestamp": "2009-05-12T07:00:00.000Z",
  "views": "4164",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " ",
    "administration": "inhaled",
    "substance": "Salvia divinorum",
    "form": "(leaves)"
   }
- }
+ ]
 }

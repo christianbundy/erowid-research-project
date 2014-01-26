@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2007-06-20T07:00:00.000Z",
  "views": "10397",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

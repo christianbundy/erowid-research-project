@@ -10,13 +10,13 @@
  "gender": "Female",
  "timestamp": "2004-03-17T08:00:00.000Z",
  "views": "15295",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   }
- }
+ ]
 }

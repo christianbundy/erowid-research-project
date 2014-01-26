@@ -10,27 +10,27 @@
  "gender": "Male",
  "timestamp": "2005-09-22T07:00:00.000Z",
  "views": "9319",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(tea)"
   },
-  "1": {
+  {
    "time": " T+ 0:45",
    "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
-  "2": {
+  {
    "time": " T+ 1:00",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "DPT",
    "form": "(powder / crystals)"
   }
- }
+ ]
 }

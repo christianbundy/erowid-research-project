@@ -11,42 +11,42 @@
  "age": "26",
  "timestamp": "2012-07-27T07:00:00.000Z",
  "views": "2813",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE: T+ 0:00",
    "amount": " ",
    "administration": "",
    "substance": "MDMA"
   },
-  "1": {
+  {
    "time": "",
    "amount": " T+ 5:00",
    "administration": " ",
    "substance": "oral"
   },
-  "2": {
+  {
    "time": "Alcohol - Beer/Wine",
    "amount": "",
    "administration": " T+ 5:00",
    "substance": " "
   },
-  "3": {
+  {
    "time": "insufflated",
    "amount": "Nitrous Oxide",
    "administration": "",
    "substance": " T+ 5:00"
   },
-  "4": {
+  {
    "time": "1 line",
    "amount": "insufflated",
    "administration": "Methoxetamine ",
    "substance": "(powder / crystals)"
   },
-  "5": {
+  {
    "time": " T+ 5:20",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   }
- }
+ ]
 }

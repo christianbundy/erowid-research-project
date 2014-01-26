@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2008-11-23T08:00:00.000Z",
  "views": "11207",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Periwinkle",
    "form": "(leaves)"
   }
- }
+ ]
 }

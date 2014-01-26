@@ -11,20 +11,20 @@
  "age": "17",
  "timestamp": "2013-04-04T07:00:00.000Z",
  "views": "1455",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "(capsule)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "1 hit",
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "(blotter / tab)"
   }
- }
+ ]
 }

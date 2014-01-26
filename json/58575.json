@@ -10,36 +10,36 @@
  "gender": "Male",
  "timestamp": "2007-04-28T07:00:00.000Z",
  "views": "19318",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "1": {
+  {
    "time": "",
    "amount": "500 ml",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "2": {
+  {
    "time": "",
    "amount": "750 ml",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "3": {
+  {
    "time": "",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
-  "4": {
+  {
    "time": "",
    "amount": "5 tablets",
    "administration": "oral",
    "substance": "MDMA"
   }
- }
+ ]
 }

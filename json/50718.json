@@ -10,13 +10,13 @@
  "gender": "Male",
  "timestamp": "2006-12-06T08:00:00.000Z",
  "views": "3840",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Cacti - T. peruvianus",
    "form": "(ground / crushed)"
   }
- }
+ ]
 }

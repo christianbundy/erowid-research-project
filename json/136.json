@@ -9,20 +9,20 @@
  "id": "136",
  "timestamp": "2001-07-30T07:00:00.000Z",
  "views": "19066",
- "dose": {
-  "0": {
+ "dose": [
+  {
    "time": "DOSE:",
    "amount": "2.0 ml",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(extract)"
   },
-  "1": {
+  {
    "time": "",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "(extract)"
   }
- }
+ ]
 }
