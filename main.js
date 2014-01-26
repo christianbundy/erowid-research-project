@@ -3,8 +3,8 @@ var dive = require('dive');      // Recursive dir walking
 
 var main = function(experience) {
 	console.log(experience.id)
-	if (experience.age == 'Not Given') {
-		delete experience.age;
+	if (experience.gender == 'Not Specified') {
+		delete experience.gender;
 	}
 	return experience;
 }
