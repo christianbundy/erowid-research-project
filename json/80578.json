@@ -4,11 +4,13 @@
  "citation": " DxmTripper. \"Did Test Positive: experience with DXM & Drug Testing (ID 80578)\". Erowid.org. Aug 23, 2009. erowid.org/exp/80578",
  "substance": "DXM & Drug Testing",
  "bodyweight": "160 lb",
- "report": "<p>My friend T and I took 710mg DXM each. After about 4 hours of tripping, T threw up. My mom found out, took us to the hospital, and the doctors drug tested me (without consent of course) six hours after ingesting DXM. I tested positive for marijuana, which I had smoked earlier. But I also tested positive for opiates and PCP.</p><p>Note: It was a urine and blood test.</p>",
+ "report": [
+  "<p>My friend T and I took 710mg DXM each. After about 4 hours of tripping, T threw up. My mom found out, took us to the hospital, and the doctors drug tested me (without consent of course) six hours after ingesting DXM. I tested positive for marijuana, which I had smoked earlier. But I also tested positive for opiates and PCP.",
+  "Note: It was a urine and blood test.</p>"
+ ],
  "year": "2009",
  "id": "80578",
  "gender": "Male",
- "timestamp": "2009-08-23T07:00:00.000Z",
  "views": "3187",
  "dose": [
   {
@@ -17,5 +19,6 @@
    "administration": "oral",
    "substance": "DXM"
   }
- ]
+ ],
+ "submissionDate": "2009-08-23T07:00:00.000Z"
 }

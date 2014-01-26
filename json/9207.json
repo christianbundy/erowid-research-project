@@ -4,11 +4,14 @@
  "citation": " M. \"Chronic Twitches: experience with GBL (ID 9207)\". Erowid.org. Sep 2, 2001. erowid.org/exp/9207",
  "substance": "GBL",
  "bodyweight": "",
- "report": "<p>You might want to let your readers know that if they experience any bone pain (feels like arthritis) in the hands, legs, or joints during a period of heavy GBL use, this is probably metabolic acidosis--especially if accompanied with confusion, lack of energy, and muscle twitches (not the twitches they feel DURING GBL use, but chronic twitches). It recently happened to me and my doctor thought that GBL is the most likely cause.</p><p>The explanation goes this way: for every molecule of GBL you consume, your body uses a hydroxide Ion (-OH) to convert it to GHB. If you use it once a day at a standard dose (1 ml or so), your body has no trouble compensating and you won't even notice. However, continuous use 2-3 times a day can deplete these ions faster than your body can replace them, slowly raising the PH of your body until it becomes too acidic. This causes your serum potassium to dip (dangerous for all kinds of reasons including heart irregualrities), a your body starts flushing out Calcium and Vitamin D (causing bone pain, and even fractures). I only had mild acidosis, and I recovered quickly as soon as I laid off the GBL for a few days--but it is a concern. The best thing to do is let your body recover and then use GBL more sparingly. If the symptoms don't go away quickly, see a doctor--you may have a more serious problem. Severe acidosis can kill you--don't be afraid to seek help.</p><p>[see also M's comments on the storage of 1,4-B.]</p>",
+ "report": [
+  "<p>You might want to let your readers know that if they experience any bone pain (feels like arthritis) in the hands, legs, or joints during a period of heavy GBL use, this is probably metabolic acidosis--especially if accompanied with confusion, lack of energy, and muscle twitches (not the twitches they feel DURING GBL use, but chronic twitches). It recently happened to me and my doctor thought that GBL is the most likely cause.",
+  "The explanation goes this way: for every molecule of GBL you consume, your body uses a hydroxide Ion (-OH) to convert it to GHB. If you use it once a day at a standard dose (1 ml or so), your body has no trouble compensating and you won't even notice. However, continuous use 2-3 times a day can deplete these ions faster than your body can replace them, slowly raising the PH of your body until it becomes too acidic. This causes your serum potassium to dip (dangerous for all kinds of reasons including heart irregualrities), a your body starts flushing out Calcium and Vitamin D (causing bone pain, and even fractures). I only had mild acidosis, and I recovered quickly as soon as I laid off the GBL for a few days--but it is a concern. The best thing to do is let your body recover and then use GBL more sparingly. If the symptoms don't go away quickly, see a doctor--you may have a more serious problem. Severe acidosis can kill you--don't be afraid to seek help.",
+  "[see also M's comments on the storage of 1,4-B.]</p>"
+ ],
  "year": "2001",
  "id": "9207",
  "gender": "Male",
- "timestamp": "2001-09-02T07:00:00.000Z",
  "views": "14701",
  "dose": [
   {
@@ -18,5 +21,6 @@
    "substance": "GBL",
    "form": "(liquid)"
   }
- ]
+ ],
+ "submissionDate": "2001-09-02T07:00:00.000Z"
 }

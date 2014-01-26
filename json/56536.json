@@ -4,11 +4,13 @@
  "citation": " Zorba. \"Numbness: experience with Nitrous Oxide (ID 56536)\". Erowid.org. Oct 9, 2006. erowid.org/exp/56536",
  "substance": "Nitrous Oxide",
  "bodyweight": "",
- "report": "<p>I used N2O for a few days in a row - about 4-5 balloons each time.  I ended up with tingling/numb fingers & lips for about 2 weeks, which was slightly alarming to say the least.</p><p>I think that the information about 'numbness in extremities' is understated.</p>",
+ "report": [
+  "<p>I used N2O for a few days in a row - about 4-5 balloons each time.  I ended up with tingling/numb fingers & lips for about 2 weeks, which was slightly alarming to say the least.",
+  "I think that the information about 'numbness in extremities' is understated.</p>"
+ ],
  "year": "2006",
  "id": "56536",
  "gender": "Male",
- "timestamp": "2006-10-09T07:00:00.000Z",
  "views": "7221",
  "dose": [
   {
@@ -17,5 +19,6 @@
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   }
- ]
+ ],
+ "submissionDate": "2006-10-09T07:00:00.000Z"
 }

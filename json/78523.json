@@ -4,10 +4,14 @@
  "citation": " A. Nonymous. \"She's Alright: experience with Cocaine (ID 78523)\". Erowid.org. May 9, 2009. erowid.org/exp/78523",
  "substance": "Cocaine",
  "bodyweight": "",
- "report": "<p>My brain chemistry's gone off the chain</p><p>'Cause I just blew a rail of some fine cocaine</p><p>It's really made me quite insane</p><p>But what the hell, it takes away my pain</p>",
+ "report": [
+  "<p>My brain chemistry's gone off the chain",
+  "'Cause I just blew a rail of some fine cocaine",
+  "It's really made me quite insane",
+  "But what the hell, it takes away my pain</p>"
+ ],
  "year": "2009",
  "id": "78523",
- "timestamp": "2009-05-09T07:00:00.000Z",
  "views": "3758",
  "dose": [
   {
@@ -17,5 +21,6 @@
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   }
- ]
+ ],
+ "submissionDate": "2009-05-09T07:00:00.000Z"
 }

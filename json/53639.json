@@ -4,11 +4,14 @@
  "citation": " anonymous. \"Delayed Response: experience with MDMA & Bupropion (Wellbutrin) (ID 53639)\". Erowid.org. Jun 5, 2006. erowid.org/exp/53639",
  "substance": "MDMA & Bupropion (Wellbutrin)",
  "bodyweight": "",
- "report": "<p>I noticed an unexpected interaction between the wellbutrin I was taking and MDMA.</p><p>I had been taking 150mg wellbutrin 2x/day and when I took 120mg mdma, the effects took an extra 1/2 hour to kick in. </p><p>I tried it a few times and the results were the same, everyone else got off before i did!   The intensity and type of effects from the MDMA were the same as they were when I wasn't on wellbutrin, not any stronger or weaker.</p>",
+ "report": [
+  "<p>I noticed an unexpected interaction between the wellbutrin I was taking and MDMA.",
+  "I had been taking 150mg wellbutrin 2x/day and when I took 120mg mdma, the effects took an extra 1/2 hour to kick in. ",
+  "I tried it a few times and the results were the same, everyone else got off before i did!   The intensity and type of effects from the MDMA were the same as they were when I wasn't on wellbutrin, not any stronger or weaker.</p>"
+ ],
  "year": "2005",
  "id": "53639",
  "gender": "Male",
- "timestamp": "2006-06-05T07:00:00.000Z",
  "views": "19819",
  "dose": [
   {
@@ -25,5 +28,6 @@
    "substance": "MDMA",
    "form": "(powder / crystals)"
   }
- ]
+ ],
+ "submissionDate": "2006-06-05T07:00:00.000Z"
 }

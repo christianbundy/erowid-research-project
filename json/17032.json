@@ -4,11 +4,13 @@
  "citation": " David. \"An Interesting Tea: experience with St John's Wort (ID 17032)\". Erowid.org. Feb 10, 2003. erowid.org/exp/17032",
  "substance": "St John's Wort",
  "bodyweight": "",
- "report": "<p>I started to take St John's Wort by making it into a herbal tea for my obsessive-compulsive disorder.  I take between 1 and 2 cups of tea a day, and I've found that while the obsessions have gone down, I've had odd mood changes. At first I was just quite aggravated at shit, and now I've been feeling strangely unemotional, sometimes like all my emotions are blocked in or non-existent (I can usually tell my friends what's on my mind, but now...!!!)</p><p>I went to a GP a couple of weeks ago, just as I was first taking it (he recommended the same thing) and he said this was just the body getting used to St John's Wort, and something like that it takes three to four weeks for the therapeutic effects to start (it's been about two weeks now I've been taking it). Sometimes my heart has raced a bit as well.</p>",
+ "report": [
+  "<p>I started to take St John's Wort by making it into a herbal tea for my obsessive-compulsive disorder.  I take between 1 and 2 cups of tea a day, and I've found that while the obsessions have gone down, I've had odd mood changes. At first I was just quite aggravated at shit, and now I've been feeling strangely unemotional, sometimes like all my emotions are blocked in or non-existent (I can usually tell my friends what's on my mind, but now...!!!)",
+  "I went to a GP a couple of weeks ago, just as I was first taking it (he recommended the same thing) and he said this was just the body getting used to St John's Wort, and something like that it takes three to four weeks for the therapeutic effects to start (it's been about two weeks now I've been taking it). Sometimes my heart has raced a bit as well.</p>"
+ ],
  "year": "2002",
  "id": "17032",
  "gender": "Male",
- "timestamp": "2003-02-10T08:00:00.000Z",
  "views": "35557",
  "dose": [
   {
@@ -18,5 +20,6 @@
    "substance": "St. John's Wort",
    "form": "(daily)"
   }
- ]
+ ],
+ "submissionDate": "2003-02-10T08:00:00.000Z"
 }

@@ -4,11 +4,18 @@
  "citation": " HPRC. \"A Little Fun: experience with Leonotis leonurum (25x extract) (ID 65961)\". Erowid.org. Sep 24, 2007. erowid.org/exp/65961",
  "substance": "Leonotis leonurum (25x extract)",
  "bodyweight": "145 lb",
- "report": "<p>t+00:00- feeling normal, just can't get the taste out of my mouth</p><p>t+00:15- legs starting to feel a little heavy, slight sedation feeling</p><p>t+00:30- starting to feel warm, and have a slight headache</p><p>t+00:45- slight mental high, still feel heavy and warm, headache is gone</p><p>t+01:00- same as above</p><p>t+02:30- starting to feel normal</p><p>t+03:15- feel completly normal, except for a headache</p>",
+ "report": [
+  "<p>t+00:00- feeling normal, just can't get the taste out of my mouth",
+  "t+00:15- legs starting to feel a little heavy, slight sedation feeling",
+  "t+00:30- starting to feel warm, and have a slight headache",
+  "t+00:45- slight mental high, still feel heavy and warm, headache is gone",
+  "t+01:00- same as above",
+  "t+02:30- starting to feel normal",
+  "t+03:15- feel completly normal, except for a headache</p>"
+ ],
  "year": "2007",
  "id": "65961",
  "gender": "Male",
- "timestamp": "2007-09-24T07:00:00.000Z",
  "views": "5429",
  "dose": [
   {
@@ -18,5 +25,6 @@
    "substance": "Leonotis leonurus",
    "form": "(extract)"
   }
- ]
+ ],
+ "submissionDate": "2007-09-24T07:00:00.000Z"
 }

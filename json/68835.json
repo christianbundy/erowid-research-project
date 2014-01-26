@@ -4,11 +4,12 @@
  "citation": " Jaybo. \"No Problems: experience with 2C-E & Drug Testing (ID 68835)\". Erowid.org. Feb 3, 2008. erowid.org/exp/68835",
  "substance": "2C-E & Drug Testing",
  "bodyweight": "140 lb",
- "report": "<p>I am on an extended drug test, and I took 25 mg of 2c-e one night.  The next day I had drug testing, and I passed with no problems.</p>",
+ "report": [
+  "<p>I am on an extended drug test, and I took 25 mg of 2c-e one night.  The next day I had drug testing, and I passed with no problems.</p>"
+ ],
  "year": "2008",
  "id": "68835",
  "gender": "Male",
- "timestamp": "2008-02-03T08:00:00.000Z",
  "views": "6644",
  "dose": [
   {
@@ -17,5 +18,6 @@
    "administration": "",
    "substance": "2C-E"
   }
- ]
+ ],
+ "submissionDate": "2008-02-03T08:00:00.000Z"
 }

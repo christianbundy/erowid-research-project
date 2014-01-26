@@ -4,12 +4,14 @@
  "citation": " Trazodone Trooper. \"Not For Recreational Use: experience with Trazodone (ID 84566)\". Erowid.org. Feb 25, 2011. erowid.org/exp/84566",
  "substance": "Trazodone",
  "bodyweight": "170 lb",
- "report": "<p>I decided to take 400mg of Trazodone. After it began to kick in I started to feel 'fuzzy' and distant. I then proceded to get an atrocious headache. My heart beat like a jackhammer. I then went into a Secondary Generalized Tonic Clonic Seizure, This was the result of a Complex Partial Seizure.</p><p>I had to be taken to the hospital and given large amounts of Dilantin, Tegretol, and Lorazepam just to bring me out of the seizures. I went into coma-like state as a result of being in seizures for so long. Luckily it appears as though I did not suffer any brain damage. Please stay away from this stuff, it is a strong chemical, I have never had a seizure before in my life, but this stuff sure made me seize.</p>",
+ "report": [
+  "<p>I decided to take 400mg of Trazodone. After it began to kick in I started to feel 'fuzzy' and distant. I then proceded to get an atrocious headache. My heart beat like a jackhammer. I then went into a Secondary Generalized Tonic Clonic Seizure, This was the result of a Complex Partial Seizure.",
+  "I had to be taken to the hospital and given large amounts of Dilantin, Tegretol, and Lorazepam just to bring me out of the seizures. I went into coma-like state as a result of being in seizures for so long. Luckily it appears as though I did not suffer any brain damage. Please stay away from this stuff, it is a strong chemical, I have never had a seizure before in my life, but this stuff sure made me seize.</p>"
+ ],
  "year": "2010",
  "id": "84566",
  "gender": "Male",
  "age": "20",
- "timestamp": "2011-02-25T08:00:00.000Z",
  "views": "9970",
  "dose": [
   {
@@ -18,5 +20,6 @@
    "administration": "oral",
    "substance": "Pharms - Trazodone"
   }
- ]
+ ],
+ "submissionDate": "2011-02-25T08:00:00.000Z"
 }

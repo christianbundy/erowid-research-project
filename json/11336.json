@@ -4,11 +4,12 @@
  "citation": " Roger Essig. \"Contact with Apparent Intelligent Entity: experience with DMT (ID 11336)\". Erowid.org. Apr 28, 2002. erowid.org/exp/11336",
  "substance": "DMT",
  "bodyweight": "65 kg",
- "report": "<p>15th of September, 1998 E.V.</p>",
+ "report": [
+  "<p>15th of September, 1998 E.V.</p>"
+ ],
  "year": "1998",
  "id": "11336",
  "gender": "Male",
- "timestamp": "2002-04-28T07:00:00.000Z",
  "views": "10917",
  "dose": [
   {
@@ -18,5 +19,6 @@
    "substance": "DMT",
    "form": "(freebase)"
   }
- ]
+ ],
+ "submissionDate": "2002-04-28T07:00:00.000Z"
 }

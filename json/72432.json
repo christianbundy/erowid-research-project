@@ -4,11 +4,12 @@
  "citation": " Unregistered. \"Just a Headache: experience with Wormwood & Ephedra (ID 72432)\". Erowid.org. Dec 8, 2008. erowid.org/exp/72432",
  "substance": "Wormwood & Ephedra",
  "bodyweight": "110 lb",
- "report": "<p>I can't pay for weed its too expensive. So I found some wormwood and some ephedra navedensis in my pasture and I brewed a tea. I drank half a cup it tasted pretty bitter one hour later nothing except a headache, I prefer ephedra alone.</p>",
+ "report": [
+  "<p>I can't pay for weed its too expensive. So I found some wormwood and some ephedra navedensis in my pasture and I brewed a tea. I drank half a cup it tasted pretty bitter one hour later nothing except a headache, I prefer ephedra alone.</p>"
+ ],
  "year": "2008",
  "id": "72432",
  "gender": "Male",
- "timestamp": "2008-12-08T08:00:00.000Z",
  "views": "5816",
  "dose": [
   {
@@ -24,5 +25,6 @@
    "substance": "Ephedra sinica",
    "form": "(tea)"
   }
- ]
+ ],
+ "submissionDate": "2008-12-08T08:00:00.000Z"
 }

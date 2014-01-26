@@ -4,11 +4,13 @@
  "citation": " GMAT taker. \"Nothing Discernable for Me: experience with Ginkgo biloba  (ID 66492)\". Erowid.org. Nov 1, 2007. erowid.org/exp/66492",
  "substance": "Ginkgo biloba ",
  "bodyweight": "165 lb",
- "report": "<p>I took this herb to improve my mental processes and the effects were marginal. It made things more 'clear' but this can be misleading since I don't think the effect was very strong to be an advantage (at 150-250 mg). Taking a larger dose of 500mg made me feel buzzed.</p><p>I have to take it for about 1 week to notice the difference. But again the difference for me was marginal. Kind of the same difference as having half a cup of coffee. For others it may be different.</p>",
+ "report": [
+  "<p>I took this herb to improve my mental processes and the effects were marginal. It made things more 'clear' but this can be misleading since I don't think the effect was very strong to be an advantage (at 150-250 mg). Taking a larger dose of 500mg made me feel buzzed.",
+  "I have to take it for about 1 week to notice the difference. But again the difference for me was marginal. Kind of the same difference as having half a cup of coffee. For others it may be different.</p>"
+ ],
  "year": "2007",
  "id": "66492",
  "gender": "Male",
- "timestamp": "2007-11-01T07:00:00.000Z",
  "views": "9070",
  "dose": [
   {
@@ -16,5 +18,6 @@
    "administration": "oral",
    "substance": "Ginkgo biloba"
   }
- ]
+ ],
+ "submissionDate": "2007-11-01T07:00:00.000Z"
 }

@@ -4,12 +4,14 @@
  "citation": " Passed. \"Whew! Passed: experience with Cocaine & Drug Testing (ID 81358)\". Erowid.org. Sep 24, 2009. erowid.org/exp/81358",
  "substance": "Cocaine & Drug Testing",
  "bodyweight": "163 lb",
- "report": "<p>This is for people worrying about cocaine and a DT.  I had to get a background check/drug test for my job.  Failure would've ruined my life so I was anxious.  For cocaine I was 84 hours clean and passed.  I had to get a background check through the company Hireright and the whole process took 8 days.  This is just for reference for those worrying about not receiving results.  I worried my rear off thinking the long wait was bad.</p><p>Body type 5'9', athletic, ~10-15% body fat 163 pounds.</p>",
+ "report": [
+  "<p>This is for people worrying about cocaine and a DT.  I had to get a background check/drug test for my job.  Failure would've ruined my life so I was anxious.  For cocaine I was 84 hours clean and passed.  I had to get a background check through the company Hireright and the whole process took 8 days.  This is just for reference for those worrying about not receiving results.  I worried my rear off thinking the long wait was bad.",
+  "Body type 5'9', athletic, ~10-15% body fat 163 pounds.</p>"
+ ],
  "year": "2009",
  "id": "81358",
  "gender": "Male",
  "age": "24",
- "timestamp": "2009-09-24T07:00:00.000Z",
  "views": "4436",
  "dose": [
   {
@@ -18,5 +20,6 @@
    "administration": "",
    "substance": "Cocaine"
   }
- ]
+ ],
+ "submissionDate": "2009-09-24T07:00:00.000Z"
 }

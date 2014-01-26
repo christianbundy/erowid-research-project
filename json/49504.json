@@ -4,11 +4,13 @@
  "citation": " .... \"Never Touched It: experience with DXM & Drug Testing (ID 49504)\". Erowid.org. Sep 22, 2007. erowid.org/exp/49504",
  "substance": "DXM & Drug Testing",
  "bodyweight": "155 lb",
- "report": "<p>I was recently given one year of probation, which in any case requires drug screenings. being that the reason I was there was for drug possession I wanted to make sure I was clean for the screening. I never heard of DXM appearing in drug tests so I had done 2 bottles of robo max strength cough. Nothing else. I was expecting the test to come back clean but was surprised when I got a phone call saying it was positive for PCP.</p><p>I've never touched PCP before. The only thing I could think of was the DXM giving a false positive. I don't think the makers of robbitussin cut their cough medicine with PCP and I had not been on any other substance (besides alcohol) for a long enough time to pass a drug test.</p>",
+ "report": [
+  "<p>I was recently given one year of probation, which in any case requires drug screenings. being that the reason I was there was for drug possession I wanted to make sure I was clean for the screening. I never heard of DXM appearing in drug tests so I had done 2 bottles of robo max strength cough. Nothing else. I was expecting the test to come back clean but was surprised when I got a phone call saying it was positive for PCP.",
+  "I've never touched PCP before. The only thing I could think of was the DXM giving a false positive. I don't think the makers of robbitussin cut their cough medicine with PCP and I had not been on any other substance (besides alcohol) for a long enough time to pass a drug test.</p>"
+ ],
  "year": "2006",
  "id": "49504",
  "gender": "Male",
- "timestamp": "2007-09-22T07:00:00.000Z",
  "views": "3569",
  "dose": [
   {
@@ -18,5 +20,6 @@
    "substance": "DXM",
    "form": "(liquid)"
   }
- ]
+ ],
+ "submissionDate": "2007-09-22T07:00:00.000Z"
 }

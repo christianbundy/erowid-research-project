@@ -4,11 +4,13 @@
  "citation": " Chris. \"Heart Rate Extremely Increased: experience with Vinpocetine & Amphetamines (Adderall IR) (ID 56800)\". Erowid.org. Oct 21, 2006. erowid.org/exp/56800",
  "substance": "Vinpocetine & Amphetamines (Adderall IR)",
  "bodyweight": "148 lb",
- "report": "<p>I just started taking Vinpocetine (10MG twice daily with food) and I have noticed a substantial increase in heart rate. I am also currently on Adderall IR. My heart rate was also increased on this medication, but not as much as with vinpocetine.</p><p>The strange thing is that when I take vinpocetine after my adderall dose (as long as 4 hours after) my heart rate is high, but not as high as it is when the adderall wears off. Without Vinpocetine my heart rate is around 70-80 beats per minute. With vinpocetine for a duration of about 20 minutes my heart rate was 110 beats per minute, however it does start to return to normal 30 minutes after ingestion. So, if I am taking Vinpocetine I have to be careful and monitor my heart rate and blood pressure. I have heard it can lower blood pressure also.</p>",
+ "report": [
+  "<p>I just started taking Vinpocetine (10MG twice daily with food) and I have noticed a substantial increase in heart rate. I am also currently on Adderall IR. My heart rate was also increased on this medication, but not as much as with vinpocetine.",
+  "The strange thing is that when I take vinpocetine after my adderall dose (as long as 4 hours after) my heart rate is high, but not as high as it is when the adderall wears off. Without Vinpocetine my heart rate is around 70-80 beats per minute. With vinpocetine for a duration of about 20 minutes my heart rate was 110 beats per minute, however it does start to return to normal 30 minutes after ingestion. So, if I am taking Vinpocetine I have to be careful and monitor my heart rate and blood pressure. I have heard it can lower blood pressure also.</p>"
+ ],
  "year": "2006",
  "id": "56800",
  "gender": "Male",
- "timestamp": "2006-10-21T07:00:00.000Z",
  "views": "12180",
  "dose": [
   {
@@ -24,5 +26,6 @@
    "substance": "Vinpocetine",
    "form": "(daily)"
   }
- ]
+ ],
+ "submissionDate": "2006-10-21T07:00:00.000Z"
 }

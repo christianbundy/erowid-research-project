@@ -4,11 +4,13 @@
  "citation": " Peckerwood. \"Instant Withdrawal: experience with Buprenorphine with Naloxone (Suboxone) (ID 75705)\". Erowid.org. Dec 15, 2008. erowid.org/exp/75705",
  "substance": "Buprenorphine with Naloxone (Suboxone)",
  "bodyweight": "160 lb",
- "report": "<p>[Erowid Note: IV injection of crushed pills/tablets can be very dangerous due to unknown binders and fillers present in the tablets.]</p><p>I've been an opiate addict for years and (of coarse) my preferred delivery system is injection.  I got one of these orange octagons so like every thing else, I shot it.  I experienced instant withdrawal symptoms (diahrea, nausea).  My whole body went tingly and I experienced extreme vertigo.  I later found out that there is another drug in this pill which is an opiate inhibitor.  I have yet to take as directed so it may be very good.  Just my 2 cents.</p>",
+ "report": [
+  "<p>[Erowid Note: IV injection of crushed pills/tablets can be very dangerous due to unknown binders and fillers present in the tablets.]",
+  "I've been an opiate addict for years and (of coarse) my preferred delivery system is injection.  I got one of these orange octagons so like every thing else, I shot it.  I experienced instant withdrawal symptoms (diahrea, nausea).  My whole body went tingly and I experienced extreme vertigo.  I later found out that there is another drug in this pill which is an opiate inhibitor.  I have yet to take as directed so it may be very good.  Just my 2 cents.</p>"
+ ],
  "year": "2008",
  "id": "75705",
  "gender": "Male",
- "timestamp": "2008-12-15T08:00:00.000Z",
  "views": "24147",
  "dose": [
   {
@@ -25,5 +27,6 @@
    "substance": "Naloxone",
    "form": "(ground / crushed)"
   }
- ]
+ ],
+ "submissionDate": "2008-12-15T08:00:00.000Z"
 }
