@@ -20,30 +20,24 @@
   {
    "time": "0",
    "amount": "T+ 2:40",
-   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "4-Fluoroamphetamine",
-   "amount": "",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   },
   {
    "time": "smoked",
    "amount": "4-Fluoroamphetamine",
-   "administration": "",
    "substance": "T+ 0:00"
   },
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "4-Fluoroamphetamine",
-   "substance": ""
+   "administration": "4-Fluoroamphetamine"
   },
   {
    "time": "0:00",
-   "administration": "",
    "substance": "Lamotrigine "
   }
  ],

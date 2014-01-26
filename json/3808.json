@@ -20,12 +20,10 @@
   {
    "time": "0",
    "amount": "T+ 0:00",
-   "administration": "hits",
-   "substance": ""
+   "administration": "hits"
   },
   {
    "time": "Cannabis - Hash",
-   "amount": "",
    "administration": "T+ 3:00",
    "substance": "tablets"
   },
@@ -37,14 +35,11 @@
   },
   {
    "time": "repeated",
-   "amount": "",
-   "administration": "Cannabis - Hash",
-   "substance": ""
+   "administration": "Cannabis - Hash"
   },
   {
    "time": "4:00",
    "amount": "repeated",
-   "administration": "",
    "substance": "Diazepam"
   }
  ],

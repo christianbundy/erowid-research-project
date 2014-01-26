@@ -20,12 +20,10 @@
   {
    "time": "0",
    "amount": "T+ 0:00",
-   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
-   "amount": "",
    "administration": "T+ 1:00",
    "substance": "2.5 mg"
   },
@@ -38,8 +36,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "1:00",
@@ -61,14 +58,12 @@
   {
    "time": "inhaled",
    "amount": "Nitrous Oxide",
-   "administration": "",
    "substance": "T+ 6:45"
   },
   {
    "time": "repeated",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   }
  ],
  "report": [

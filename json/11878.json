@@ -13,26 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Opiates"
   },
   {
    "time": "0",
-   "amount": "",
-   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Pharms - Buprenorphine",
-   "amount": "(daily)",
-   "administration": "",
-   "substance": ""
+   "amount": "(daily)"
   },
   {
    "time": "oral",
    "amount": "Naloxone",
-   "administration": "(daily)",
-   "substance": ""
+   "administration": "(daily)"
   },
   {
    "time": "600 mg",

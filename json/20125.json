@@ -38,8 +38,7 @@
   {
    "time": "0",
    "amount": "insufflated",
-   "administration": "Tobacco",
-   "substance": ""
+   "administration": "Tobacco"
   },
   {
    "time": "19:00",
@@ -55,21 +54,18 @@
   },
   {
    "time": "Pharms - Alprazolam",
-   "amount": "",
    "administration": "T+ 20:00",
    "substance": "20 mg"
   },
   {
    "time": "oral",
    "amount": "Pharms - Diazepam",
-   "administration": "",
    "substance": "T+ 20:00"
   },
   {
    "time": "15 mg",
    "amount": "oral",
-   "administration": "Pharms - Zolpidem",
-   "substance": ""
+   "administration": "Pharms - Zolpidem"
   }
  ],
  "report": [

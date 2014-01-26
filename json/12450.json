@@ -20,12 +20,10 @@
   {
    "time": "0",
    "amount": "T+ 0:00",
-   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Acetaminophen",
-   "amount": "",
    "administration": "T+ 0:00",
    "substance": "86 mg"
   },
@@ -38,8 +36,7 @@
   {
    "time": "0",
    "amount": "oral",
-   "administration": "Codeine",
-   "substance": ""
+   "administration": "Codeine"
   },
   {
    "time": "0:39",

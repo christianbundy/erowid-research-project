@@ -19,21 +19,16 @@
   },
   {
    "time": "0",
-   "amount": "",
    "administration": "repeated",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
-   "amount": "",
-   "administration": "",
    "substance": "repeated"
   },
   {
    "time": "smoked",
-   "amount": "Tobacco",
-   "administration": "",
-   "substance": ""
+   "amount": "Tobacco"
   },
   {
    "time": "0",
@@ -50,8 +45,6 @@
   },
   {
    "time": "(dried)",
-   "amount": "",
-   "administration": "",
    "substance": "oral"
   }
  ],

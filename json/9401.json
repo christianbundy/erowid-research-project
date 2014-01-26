@@ -14,19 +14,15 @@
   {
    "time": "0",
    "amount": "repeated",
-   "administration": "",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "",
-   "administration": "repeated",
-   "substance": ""
+   "administration": "repeated"
   },
   {
    "time": "Cannabis",
    "amount": "(daily)",
-   "administration": "",
    "substance": "repeated"
   }
  ],

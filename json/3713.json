@@ -14,7 +14,6 @@
   {
    "time": "0",
    "amount": "20 mg",
-   "administration": "",
    "substance": "5-MeO-DiPT"
   },
   {
@@ -32,7 +31,6 @@
   {
    "time": "smoked",
    "amount": "Cannabis",
-   "administration": "",
    "substance": "T+ 8:00"
   },
   {
@@ -55,21 +53,18 @@
   },
   {
    "time": "Cannabis",
-   "amount": "",
    "administration": "T+ 10:30",
    "substance": "200 mg"
   },
   {
    "time": "oral",
    "amount": "Kava",
-   "administration": "",
    "substance": "T+ 11:30"
   },
   {
    "time": "4.0 mg",
    "amount": "oral",
-   "administration": "Pharms - Lorazepam",
-   "substance": ""
+   "administration": "Pharms - Lorazepam"
   }
  ],
  "report": [

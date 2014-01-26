@@ -14,48 +14,39 @@
   {
    "time": "0",
    "amount": "50 mg",
-   "administration": "",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
    "amount": "T+ 0:00",
-   "administration": "10 mg",
-   "substance": ""
+   "administration": "10 mg"
   },
   {
    "time": "Amphetamines",
-   "amount": "",
    "administration": "T+ 11:30",
    "substance": "500 mg"
   },
   {
    "time": "0",
    "amount": "Tryptophan - 5-HTP",
-   "administration": "",
    "substance": "T+ 11:30"
   },
   {
    "time": "600 mg",
-   "amount": "",
-   "administration": "Tyrosine",
-   "substance": ""
+   "administration": "Tyrosine"
   },
   {
    "time": "11:30",
    "amount": "1000 mg",
-   "administration": "",
    "substance": "Vitamin C"
   },
   {
    "time": "0",
    "amount": "T+ 11:30",
-   "administration": "800 mg",
-   "substance": ""
+   "administration": "800 mg"
   },
   {
    "time": "Piracetam",
-   "amount": "",
    "administration": "T+ 14:00",
    "substance": "1 tablet"
   },
@@ -68,8 +59,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Products - Spice and Synthetic Cannabinoids",
-   "substance": ""
+   "administration": "Products - Spice and Synthetic Cannabinoids"
   }
  ],
  "report": [

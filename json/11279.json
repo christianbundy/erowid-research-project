@@ -20,12 +20,10 @@
   {
    "time": "0",
    "amount": "T+ 0:00",
-   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Tobacco",
-   "amount": "",
    "administration": "T+ 1:00",
    "substance": "11 g"
   },
@@ -38,8 +36,7 @@
   {
    "time": "0",
    "amount": "IV",
-   "administration": "Pharms - Lorazepam",
-   "substance": ""
+   "administration": "Pharms - Lorazepam"
   }
  ],
  "report": [

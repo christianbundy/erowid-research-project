@@ -19,27 +19,23 @@
   },
   {
    "time": "0",
-   "amount": "",
    "administration": "1 tablet",
    "substance": "oral"
   },
   {
    "time": "MDMA",
-   "amount": "",
    "administration": "T+ 0:10",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "MDMA",
-   "administration": "",
    "substance": "T+ 4:00"
   },
   {
    "time": "1 tablet",
    "amount": "oral",
-   "administration": "MDMA",
-   "substance": ""
+   "administration": "MDMA"
   },
   {
    "time": "0",
@@ -55,16 +51,12 @@
    "substance": "smoked"
   },
   {
-   "time": "Cannabis",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "Cannabis"
   },
   {
    "time": "insufflated",
    "amount": "MDMA",
-   "administration": "(ground / crushed)",
-   "substance": ""
+   "administration": "(ground / crushed)"
   },
   {
    "time": "0",

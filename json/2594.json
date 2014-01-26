@@ -24,21 +24,18 @@
   },
   {
    "time": "MDMA",
-   "amount": "",
    "administration": "T+ 3:00",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "MDMA",
-   "administration": "",
    "substance": "T+ 4:00"
   },
   {
    "time": "1 tablet",
    "amount": "oral",
-   "administration": "MDMA",
-   "substance": ""
+   "administration": "MDMA"
   },
   {
    "time": "6:00",
@@ -47,10 +44,7 @@
    "substance": "MDMA"
   },
   {
-   "time": "0",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "0"
   }
  ],
  "report": [

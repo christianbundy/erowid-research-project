@@ -13,26 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Aniracetam"
   },
   {
-   "time": "0",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "0"
   },
   {
    "time": "Caffeine",
-   "amount": "(liquid)",
-   "administration": "",
-   "substance": ""
+   "amount": "(liquid)"
   },
   {
    "time": "smoked",
-   "amount": "Cannabis",
-   "administration": "",
-   "substance": ""
+   "amount": "Cannabis"
   },
   {
    "time": "0",
@@ -48,7 +40,6 @@
   },
   {
    "time": "0",
-   "amount": "",
    "administration": "600 mg",
    "substance": "oral"
   }

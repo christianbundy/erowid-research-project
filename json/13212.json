@@ -32,14 +32,12 @@
   {
    "time": "smoked",
    "amount": "Cannabis",
-   "administration": "",
    "substance": "T+ 2:20"
   },
   {
    "time": "1/2 g",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "2:50",
@@ -55,9 +53,7 @@
   },
   {
    "time": "Cannabis",
-   "amount": "",
-   "administration": "T+ 3:55",
-   "substance": ""
+   "administration": "T+ 3:55"
   }
  ],
  "report": [

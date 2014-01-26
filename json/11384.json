@@ -13,13 +13,11 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Damiana",
    "form": "tea"
   },
   {
    "time": "0",
-   "administration": "",
    "substance": "Passion Flower",
    "form": "tea"
   },
@@ -31,7 +29,6 @@
   },
   {
    "time": "0",
-   "administration": "",
    "substance": "Poppies",
    "form": "tea",
    "specific": "California"
@@ -50,7 +47,6 @@
   },
   {
    "time": "0",
-   "administration": "",
    "substance": "Ibuprofen"
   }
  ],

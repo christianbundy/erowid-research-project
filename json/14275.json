@@ -24,21 +24,17 @@
   },
   {
    "time": "Alcohol - Beer/Wine",
-   "amount": "",
-   "administration": "T+ 0:20",
-   "substance": ""
+   "administration": "T+ 0:20"
   },
   {
    "time": "smoked",
    "amount": "Cannabis",
-   "administration": "",
    "substance": "T+ 1:30"
   },
   {
    "time": "1 ",
    "amount": "oral",
-   "administration": "Alcohol - Beer/Wine",
-   "substance": ""
+   "administration": "Alcohol - Beer/Wine"
   },
   {
    "time": "1:30",
@@ -66,8 +62,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "3:00",
@@ -78,7 +73,6 @@
   {
    "time": "(powder / crystals)",
    "amount": "T+ 4:45",
-   "administration": "",
    "substance": "oral"
   },
   {

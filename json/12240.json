@@ -20,14 +20,12 @@
   {
    "time": "0",
    "amount": "T+ 0:25",
-   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "CP 55,940",
    "amount": "(powder / crystals)",
-   "administration": "T+ 0:32",
-   "substance": ""
+   "administration": "T+ 0:32"
   },
   {
    "time": "smoked",
@@ -38,8 +36,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Tobacco - Cigarettes",
-   "substance": ""
+   "administration": "Tobacco - Cigarettes"
   }
  ],
  "report": [

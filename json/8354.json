@@ -13,7 +13,6 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Quetiapine"
   },
   {
@@ -25,20 +24,17 @@
   {
    "time": "Pharms - Venlafaxine",
    "amount": "(daily)",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   },
   {
    "time": "smoked",
    "amount": "Cannabis",
-   "administration": "",
    "substance": "T+ 0:00"
   },
   {
    "time": "repeated",
    "amount": "insufflated",
-   "administration": "Pharms - Alprazolam",
-   "substance": ""
+   "administration": "Pharms - Alprazolam"
   },
   {
    "time": "0:00",
@@ -54,7 +50,6 @@
   },
   {
    "time": "Nitrous Oxide",
-   "amount": "",
    "administration": "T+ 7:00",
    "substance": "40 mg"
   },

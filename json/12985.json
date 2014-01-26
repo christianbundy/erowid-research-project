@@ -14,18 +14,15 @@
   {
    "time": "0",
    "amount": "1 hit",
-   "administration": "",
    "substance": "LSD"
   },
   {
    "time": "0",
    "amount": "T+ 0:30",
-   "administration": "1 hit",
-   "substance": ""
+   "administration": "1 hit"
   },
   {
    "time": "LSD",
-   "amount": "",
    "administration": "T+ 1:30",
    "substance": "repeated"
   },
@@ -38,8 +35,7 @@
   {
    "time": "2 carts.",
    "amount": "inhaled",
-   "administration": "Nitrous Oxide",
-   "substance": ""
+   "administration": "Nitrous Oxide"
   }
  ],
  "report": [

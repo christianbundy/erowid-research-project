@@ -13,7 +13,6 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Methcathinone",
    "form": "powder/crystals"
   },
@@ -27,14 +26,12 @@
   {
    "time": "0",
    "amount": "repeated",
-   "administration": "",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "0",
    "amount": "repeated",
-   "administration": "",
    "substance": "Ephedrine",
    "form": "pill/tablet"
   }

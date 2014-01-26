@@ -14,32 +14,25 @@
   {
    "time": "0",
    "amount": "repeated",
-   "administration": "",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "",
-   "administration": "repeated",
-   "substance": ""
+   "administration": "repeated"
   },
   {
    "time": "Alcohol",
-   "amount": "",
-   "administration": "",
    "substance": "6 drops"
   },
   {
    "time": "oral",
    "amount": "25I-NBOMe",
-   "administration": "(liquid)",
-   "substance": ""
+   "administration": "(liquid)"
   },
   {
    "time": "repeated",
    "amount": "oral",
-   "administration": "Mushrooms",
-   "substance": ""
+   "administration": "Mushrooms"
   }
  ],
  "report": [

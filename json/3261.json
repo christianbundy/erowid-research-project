@@ -32,7 +32,6 @@
   {
    "time": "smoked",
    "amount": "Tobacco - Cigarettes",
-   "administration": "",
    "substance": "T+ 1:00"
   },
   {
@@ -56,8 +55,7 @@
   {
    "time": "AMT",
    "amount": "(powder / crystals)",
-   "administration": "T+ 3:30",
-   "substance": ""
+   "administration": "T+ 3:30"
   }
  ],
  "report": [

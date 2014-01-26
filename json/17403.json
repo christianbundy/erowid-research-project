@@ -12,7 +12,6 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
@@ -25,8 +24,7 @@
   {
    "time": "Mugwort",
    "amount": "(tea)",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   }
  ],
  "report": [

@@ -25,21 +25,18 @@
   },
   {
    "time": "Mushrooms",
-   "amount": "",
    "administration": "T+ 1:42",
    "substance": "0.1 g"
   },
   {
    "time": "smoked",
    "amount": "Mushrooms",
-   "administration": "",
    "substance": "T+ 1:42"
   },
   {
    "time": "0.125 g",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "1:42",
@@ -62,14 +59,12 @@
   {
    "time": "smoked",
    "amount": "Tobacco",
-   "administration": "",
    "substance": "T+ 6:13"
   },
   {
    "time": "0.13 g",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   }
  ],
  "report": [

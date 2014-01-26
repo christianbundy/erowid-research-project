@@ -14,7 +14,6 @@
   {
    "time": "0",
    "amount": "repeated",
-   "administration": "",
    "substance": "Alcohol"
   },
   {
@@ -25,14 +24,12 @@
   },
   {
    "time": "Hydrocodone",
-   "amount": "",
    "administration": "T+ 2:30",
    "substance": "2 lines"
   },
   {
    "time": "insufflated",
    "amount": "Cocaine",
-   "administration": "",
    "substance": "T+ 4:00"
   },
   {
@@ -55,21 +52,18 @@
   },
   {
    "time": "Tobacco - Cigarettes",
-   "amount": "",
    "administration": "T+ 6:00",
    "substance": "repeated"
   },
   {
    "time": "insufflated",
    "amount": "Cocaine",
-   "administration": "",
    "substance": "T+ 7:30"
   },
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   }
  ],
  "report": [

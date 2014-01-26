@@ -13,18 +13,14 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Oxycodone"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
-   "administration": "",
-   "substance": ""
+   "amount": "T+ 0:00"
   },
   {
    "time": "Acetaminophen",
-   "amount": "",
    "administration": "T+ 0:00",
    "substance": "25 mg"
   },
@@ -55,8 +51,7 @@
   {
    "time": "5-MeO-DALT",
    "amount": "(powder / crystals)",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   },
   {
    "time": "oral",
@@ -67,8 +62,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "0:00",

@@ -25,21 +25,18 @@
   },
   {
    "time": "MDA",
-   "amount": "",
    "administration": "T+ 2:00",
    "substance": "1/2 tablet"
   },
   {
    "time": "oral",
    "amount": "MDA",
-   "administration": "",
    "substance": "T+ 2:20"
   },
   {
    "time": "1/2 tablet",
    "amount": "oral",
-   "administration": "MDA",
-   "substance": ""
+   "administration": "MDA"
   },
   {
    "time": "2:20",
@@ -55,21 +52,18 @@
   },
   {
    "time": "MDA",
-   "amount": "",
    "administration": "T+ 3:30",
    "substance": "1/2 tablet"
   },
   {
    "time": "oral",
    "amount": "MDA",
-   "administration": "",
    "substance": "T+ 0:00"
   },
   {
    "time": "repeated",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   }
  ],
  "report": [

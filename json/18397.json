@@ -13,26 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Oxycodone"
   },
   {
-   "time": "0",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "0"
   },
   {
    "time": "Pharms - Buprenorphine",
-   "amount": "(daily)",
-   "administration": "",
-   "substance": ""
+   "amount": "(daily)"
   },
   {
    "time": "0",
-   "amount": "Methadone",
-   "administration": "",
-   "substance": ""
+   "amount": "Methadone"
   },
   {
    "time": "0",
@@ -46,28 +38,18 @@
    "substance": "Morphine"
   },
   {
-   "time": "0",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "0"
   },
   {
-   "time": "Hydrocodone",
-   "amount": "",
-   "administration": "",
-   "substance": ""
+   "time": "Hydrocodone"
   },
   {
    "time": "0",
-   "amount": "Codeine",
-   "administration": "",
-   "substance": ""
+   "amount": "Codeine"
   },
   {
    "time": "0",
-   "amount": "",
-   "administration": "Pharms - Tramadol",
-   "substance": ""
+   "administration": "Pharms - Tramadol"
   }
  ],
  "report": [

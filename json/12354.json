@@ -67,8 +67,7 @@
   {
    "time": "0",
    "amount": "smoked",
-   "administration": "Cannabis",
-   "substance": ""
+   "administration": "Cannabis"
   },
   {
    "time": "0:00",
@@ -78,15 +77,11 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
-   "administration": "",
-   "substance": ""
+   "amount": "T+ 0:00"
   },
   {
    "time": "MDMA",
-   "amount": "",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   }
  ],
  "report": [

@@ -13,18 +13,14 @@
  "dose": [
   {
    "time": "0",
-   "administration": "",
    "substance": "Methadone"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
-   "administration": "",
-   "substance": ""
+   "amount": "T+ 0:00"
   },
   {
    "time": "Heroin",
-   "amount": "",
    "administration": "T+ 12:00",
    "substance": "4.0 mg"
   },

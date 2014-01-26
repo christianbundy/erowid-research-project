@@ -26,14 +26,11 @@
   },
   {
    "time": "Cannabis",
-   "amount": "",
-   "administration": "T+ 0:00",
-   "substance": ""
+   "administration": "T+ 0:00"
   },
   {
    "time": "smoked",
    "amount": "Tobacco",
-   "administration": "",
    "substance": "T+ 0:00"
   },
   {
@@ -51,12 +48,10 @@
   {
    "time": "(powder / crystals)",
    "amount": "T+ 2:42",
-   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Alcohol - Hard",
-   "amount": "",
    "administration": "T+ 2:54",
    "substance": "137 mg"
   }

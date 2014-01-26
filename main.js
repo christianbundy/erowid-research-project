@@ -6,8 +6,10 @@ collection = {};
 var main = function(e) {
 	if (typeof e.dose !== 'undefined') {
 		for (var i = 0; i < e.dose.length; i++) {
-			if (e.dose[i].form == '') {
-				delete e.dose[i].form;
+			for (var k in e.dose[i]) {
+				if (e.dose[i][k] == '') {
+					delete e.dose[i][k];
+				}
 			}
 		};
 	}
