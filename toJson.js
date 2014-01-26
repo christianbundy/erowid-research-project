@@ -19,7 +19,7 @@ for (var i in files) {
           var id = files[current].slice(0, -5);
 
           Experience[id] = {};
-
+          Experience[id].title = $('.title').text();
           Experience[id].author = $('.author a').text();
           Experience[id].citation = $('.ts-citation').text();
           Experience[id].substance = $('.substance').text();
