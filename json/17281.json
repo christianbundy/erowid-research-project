@@ -22,7 +22,7 @@
    "time": "0:45",
    "amount": "2 tablets",
    "administration": "oral",
-   "substance": "Pharms - Ibuprofen",
+   "substance": "Ibuprofen",
    "form": "pill/tablet"
   },
   {
@@ -36,21 +36,21 @@
    "time": "1:15",
    "amount": "2.5 mg",
    "administration": "insufflated",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
    "amount": "0.5 tablets",
    "administration": "oral",
-   "substance": "Pharms - Clonazepam",
+   "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "5:00",
    "amount": "0.5 tablets",
    "administration": "sublingual",
-   "substance": "Pharms - Clonazepam",
+   "substance": "Clonazepam",
    "form": "pill/tablet"
   }
  ],

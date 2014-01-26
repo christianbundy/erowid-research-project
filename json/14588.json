@@ -15,7 +15,7 @@
    "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
-   "substance": "Pharms - Meclizine",
+   "substance": "Meclizine",
    "form": "pill/tablet"
   },
   {
@@ -29,14 +29,14 @@
    "time": "0:20",
    "amount": "350 mg",
    "administration": "oral",
-   "substance": "Pharms - Carisoprodol",
+   "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
    "amount": "1.0 mg",
    "administration": "oral",
-   "substance": "Pharms - Alprazolam",
+   "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
@@ -50,7 +50,7 @@
    "time": "1:50",
    "amount": "175 mg",
    "administration": "oral",
-   "substance": "Pharms - Carisoprodol",
+   "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
@@ -71,7 +71,7 @@
    "time": "3:20",
    "amount": "87.5 mg",
    "administration": "oral",
-   "substance": "Pharms - Carisoprodol",
+   "substance": "Carisoprodol",
    "form": "pill/tablet"
   }
  ],

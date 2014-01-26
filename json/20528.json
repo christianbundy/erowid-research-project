@@ -29,7 +29,7 @@
    "time": "1:00",
    "amount": "2.0 mg",
    "administration": "oral",
-   "substance": "Pharms - Lorazepam",
+   "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
@@ -57,7 +57,7 @@
    "time": "2:30",
    "amount": "10 mg",
    "administration": "oral",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
@@ -70,7 +70,7 @@
    "time": "5:30",
    "amount": "15 mg",
    "administration": "oral",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
@@ -98,14 +98,14 @@
    "time": "9:00",
    "amount": "2.0 mg",
    "administration": "oral",
-   "substance": "Pharms - Clonazepam",
+   "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "9:00",
    "amount": "150 mg",
    "administration": "oral",
-   "substance": "Pharms - Meperidine",
+   "substance": "Meperidine",
    "form": "pill/tablet"
   }
  ],

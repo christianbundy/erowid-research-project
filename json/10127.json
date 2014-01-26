@@ -22,7 +22,7 @@
    "time": "0",
    "amount": "20 mg",
    "administration": "insufflated",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "daily"
   },
   {
@@ -43,7 +43,7 @@
    "time": "0",
    "amount": "20 mg",
    "administration": "oral",
-   "substance": "Pharms - Diazepam",
+   "substance": "Diazepam",
    "form": "daily"
   },
   {
@@ -62,7 +62,7 @@
   {
    "time": "0",
    "administration": "",
-   "substance": "Pharms - Buprenorphine",
+   "substance": "Buprenorphine",
    "form": "daily"
   }
  ],

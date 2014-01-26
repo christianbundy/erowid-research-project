@@ -15,21 +15,21 @@
    "time": "0",
    "amount": "30 mg",
    "administration": "oral",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
    "amount": "20 mg",
    "administration": "insufflated",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
    "amount": "150 mg",
    "administration": "oral",
-   "substance": "Pharms - Meperidine",
+   "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
@@ -43,7 +43,7 @@
    "time": "0:00",
    "amount": "2.0 mg",
    "administration": "oral",
-   "substance": "Pharms - Alprazolam",
+   "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {

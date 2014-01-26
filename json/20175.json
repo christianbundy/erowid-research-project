@@ -15,14 +15,14 @@
    "time": "0",
    "amount": "20 mg",
    "administration": "buccal",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
    "amount": "10 mg",
    "administration": "buccal",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
@@ -36,14 +36,14 @@
    "time": "7:00",
    "amount": "20 mg",
    "administration": "oral",
-   "substance": "Pharms - Oxycodone",
+   "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "11:20",
    "amount": "2.5 mg",
    "administration": "oral",
-   "substance": "Pharms - Doxylamine",
+   "substance": "Doxylamine",
    "form": "pill/tablet"
   }
  ],

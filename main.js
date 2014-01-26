@@ -4,8 +4,8 @@ var dive = require('dive');      // Recursive dir walking
 var main = function(e) {
 	if (typeof e.dose !== 'undefined') {
 		for (var i = 0; i < e.dose.length; i++) {
-			if (typeof e.dose[i].form !== 'undefined') {
-				e.dose[i].form = e.dose[i].form.replace(' - ', '-')
+			if (typeof e.dose[i].substance !== 'undefined') {
+				e.dose[i].substance = e.dose[i].substance.replace('Pharms - ', '')
 			}
 		};
 	}

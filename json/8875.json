@@ -15,7 +15,7 @@
    "time": "0",
    "amount": "200 mg",
    "administration": "oral",
-   "substance": "Pharms - Tramadol",
+   "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
@@ -36,32 +36,32 @@
    "time": "1:30",
    "amount": "100 mg",
    "administration": "oral",
-   "substance": "Pharms - Tramadol",
+   "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
    "amount": "50 mg",
    "administration": "oral",
-   "substance": "Pharms - Tramadol",
+   "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
    "administration": "IV",
-   "substance": "Pharms - Phenytoin",
+   "substance": "Phenytoin",
    "form": ""
   },
   {
    "time": "0:00",
    "administration": "IV",
-   "substance": "Pharms - Phenytoin",
+   "substance": "Phenytoin",
    "form": ""
   },
   {
    "time": "0:00",
    "administration": "",
-   "substance": "Pharms - Phenytoin",
+   "substance": "Phenytoin",
    "form": "daily"
   }
  ],

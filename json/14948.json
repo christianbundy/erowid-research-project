@@ -15,14 +15,14 @@
    "time": "0",
    "amount": "20 mg",
    "administration": "oral",
-   "substance": "Pharms - Citalopram",
+   "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0",
    "amount": "1.0 mg",
    "administration": "oral",
-   "substance": "Pharms - Lorazepam",
+   "substance": "Lorazepam",
    "form": "daily"
   },
   {
@@ -46,7 +46,7 @@
   {
    "time": "0",
    "administration": "",
-   "substance": "Pharms - Quetiapine",
+   "substance": "Quetiapine",
    "form": ""
   }
  ],
