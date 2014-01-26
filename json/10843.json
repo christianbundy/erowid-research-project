@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 shots",
+   "amount": {
+    "number": "5",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",

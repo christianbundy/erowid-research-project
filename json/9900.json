@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "8:00",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

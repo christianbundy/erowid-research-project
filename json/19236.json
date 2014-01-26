@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.4 ml",
+   "amount": {
+    "number": "0.4",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Buprenorphine",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:10",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -38,33 +47,48 @@
   },
   {
    "time": "1:00",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B"
   },
   {
    "time": "1:55",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B"
   },
   {
    "time": "4:15",
-   "amount": "0.4 ml",
+   "amount": {
+    "number": "0.4",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Buprenorphine",
    "form": "liquid"
   },
   {
    "time": "4:15",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

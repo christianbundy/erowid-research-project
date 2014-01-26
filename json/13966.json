@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
@@ -24,7 +27,10 @@
   },
   {
    "time": "17:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Sertraline"
   }

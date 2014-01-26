@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:20",
-   "amount": "17 mg",
+   "amount": {
+    "number": "17",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
   },
   {
    "time": "0:30",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-AcO-DMT"
   },
   {
    "time": "1:45",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
   },
@@ -44,31 +56,46 @@
   },
   {
    "time": "2:55",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "4:35",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "5:05",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "25I-NBOMe"
   },
   {
    "time": "8:20",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "9:35",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   }

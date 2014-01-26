@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 oz",
+   "amount": {
+    "number": "16",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "0.25 joints/cigs",
+   "amount": {
+    "number": "0.25",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

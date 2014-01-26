@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

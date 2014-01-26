@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 joints/cigs",
+   "amount": {
+    "number": "7",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Herbal Ecstasy",
    "form": "plant material"

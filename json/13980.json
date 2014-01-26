@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "liquid"
   },
   {
    "time": "1:14",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "3:00",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:00",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   }

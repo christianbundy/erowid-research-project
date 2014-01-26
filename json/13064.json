@@ -13,51 +13,75 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Adrafinil",
    "form": "pill/tablet"
   },
   {
    "time": "0:25",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "0:50",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "1:30",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "2:45",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:45",
-   "amount": "5 g",
+   "amount": {
+    "number": "5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "7:10",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

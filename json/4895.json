@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "20 ",
+   "amount": {
+    "number": "20",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   }

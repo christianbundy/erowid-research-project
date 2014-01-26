@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "DOSE:11:15",
-   "amount": "66 ug",
+   "amount": {
+    "number": "66",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

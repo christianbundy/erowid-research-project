@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-MIPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "5:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

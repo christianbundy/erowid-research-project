@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0:40",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"

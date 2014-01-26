@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Dimethocaine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Dimethocaine",
    "form": "liquid"

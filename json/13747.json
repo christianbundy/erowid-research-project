@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
@@ -24,17 +27,26 @@
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "substance": "MDMA"
   }
  ],

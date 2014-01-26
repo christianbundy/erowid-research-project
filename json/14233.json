@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.25 mg",
+   "amount": {
+    "number": "1.25",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-B-NBOMe",
    "form": "liquid"
   },
   {
    "time": "4:42",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   },
   {
    "time": "6:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   }

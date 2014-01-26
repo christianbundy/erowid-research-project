@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"
   },
   {
    "time": "1:20",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:55",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydromorphone",
    "form": "pill/tablet"
@@ -40,7 +49,10 @@
   },
   {
    "time": "7:03",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydromorphone",
    "form": "pill/tablet"

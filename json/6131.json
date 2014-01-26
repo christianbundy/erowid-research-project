@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.33 g",
+   "amount": {
+    "number": "0.33",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Kratom",
    "form": "extract"

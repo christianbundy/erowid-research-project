@@ -23,13 +23,19 @@
   },
   {
    "time": "24:00",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi"
   },
   {
    "time": "24:00",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora"
   }

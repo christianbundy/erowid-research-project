@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Tramadol",
    "form": "capsule"
   },
   {
    "time": "0:15",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "capsule"

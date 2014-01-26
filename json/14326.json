@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "0:25",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "3:45",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

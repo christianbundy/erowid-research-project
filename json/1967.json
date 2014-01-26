@@ -13,27 +13,42 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "30 hits",
+   "amount": {
+    "number": "30",
+    "unit": "hits"
+   },
    "substance": "Nitrous Oxide"
   },
   {
    "time": "0",
-   "amount": "15 hits",
+   "amount": {
+    "number": "15",
+    "unit": "hits"
+   },
    "substance": "Methamphetamine"
   },
   {
    "time": "0",
-   "amount": "10 hits",
+   "amount": {
+    "number": "10",
+    "unit": "hits"
+   },
    "substance": "Salvia divinorum"
   }
  ],

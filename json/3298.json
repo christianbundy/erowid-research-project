@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 repeated",
+   "amount": {
+    "number": "50",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"

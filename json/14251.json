@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "28 mg",
+   "amount": {
+    "number": "28",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "25I-NBOMe",
    "form": "powder/crystals"

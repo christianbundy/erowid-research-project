@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 leaves",
+   "amount": {
+    "number": "65",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Coleus",
    "form": "extract"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3600 mg",
+   "amount": {
+    "number": "3600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "pill/tablet"

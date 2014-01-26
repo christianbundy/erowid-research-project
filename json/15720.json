@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

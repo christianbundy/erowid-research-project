@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "295 mg",
+   "amount": {
+    "number": "295",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "liquid"

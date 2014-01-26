@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-6x"
   },
   {
    "time": "0:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-6x"

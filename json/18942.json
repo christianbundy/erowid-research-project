@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Psilocin",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Psilocin",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "vaporized",
    "substance": "Cannabis",
    "form": "plant material"

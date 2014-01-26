@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "4:00",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "6:30",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

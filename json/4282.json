@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "liquid"

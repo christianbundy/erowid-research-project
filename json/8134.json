@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "tea",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "6 bowls",
+   "amount": {
+    "number": "6",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "form": "ground/crushed",

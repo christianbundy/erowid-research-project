@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.4 g",
+   "amount": {
+    "number": "0.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -21,35 +24,50 @@
   },
   {
    "time": "0",
-   "amount": "0.2 g",
+   "amount": {
+    "number": "0.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract-10x"
   },
   {
    "time": "0",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "extract-10x"
   },
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Lagochilus inebrians",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "0.5 oz",
+   "amount": {
+    "number": "0.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -57,7 +75,10 @@
   },
   {
    "time": "0",
-   "amount": "0.5 oz",
+   "amount": {
+    "number": "0.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "liquid"

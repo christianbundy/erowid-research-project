@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"

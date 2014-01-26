@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
    "form": "powder/crystals"

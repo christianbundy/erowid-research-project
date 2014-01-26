@@ -44,7 +44,10 @@
   },
   {
    "time": "2C-T-2",
-   "amount": "(gel tab)",
+   "amount": {
+    "number": "(gel",
+    "unit": "tab)"
+   },
    "substance": "2.5 g"
   }
  ],

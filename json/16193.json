@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 cups",
+   "amount": {
+    "number": "4",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT"
   },
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-4"
   }

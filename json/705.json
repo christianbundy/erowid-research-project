@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 ",
+   "amount": {
+    "number": "6",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food",

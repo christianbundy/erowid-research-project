@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0:10",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0:50",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   }

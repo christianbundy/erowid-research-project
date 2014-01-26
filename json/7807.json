@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "190 mg",
+   "amount": {
+    "number": "190",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"

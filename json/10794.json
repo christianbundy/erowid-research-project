@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "3.2 g",
+   "amount": {
+    "number": "3.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

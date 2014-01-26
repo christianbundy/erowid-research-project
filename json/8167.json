@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "6.5 g",
+   "amount": {
+    "number": "6.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

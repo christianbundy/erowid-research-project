@@ -19,7 +19,10 @@
   },
   {
    "time": "1:00",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "2C-C",
    "form": "powder/crystals"

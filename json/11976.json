@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "2 Tbsp",
    "substance": "oral"
   },
@@ -32,7 +35,10 @@
   },
   {
    "time": "oral",
-   "amount": "Mimosa tenuiflora",
+   "amount": {
+    "number": "Mimosa",
+    "unit": "tenuiflora"
+   },
    "administration": "(tea)",
    "substance": "T+ 0:20"
   },
@@ -44,7 +50,10 @@
   },
   {
    "time": "0:20",
-   "amount": "6 leaves",
+   "amount": {
+    "number": "6",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis"
   }

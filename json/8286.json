@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Heroin"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Heroin"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Heroin"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Heroin"
   }

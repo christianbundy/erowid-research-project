@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 seeds",
+   "amount": {
+    "number": "11",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "6 seeds",
+   "amount": {
+    "number": "6",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

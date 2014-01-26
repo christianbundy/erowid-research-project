@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

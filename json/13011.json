@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "capsule"
   },
   {
    "time": "7:30",
-   "amount": "20 ",
+   "amount": {
+    "number": "20",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

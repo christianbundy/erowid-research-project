@@ -19,28 +19,40 @@
   },
   {
    "time": "12:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "13:00",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "14:00",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "14:30",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

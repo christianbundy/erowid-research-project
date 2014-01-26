@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-Acetoxy-DiPT",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
    "form": "capsule"
   },
   {
    "time": "1:45",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
    "form": "powder/crystals"

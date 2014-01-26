@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 5:00",
+   "amount": {
+    "number": "T+",
+    "unit": "5:00"
+   },
    "administration": "40 mg",
    "substance": "oral"
   },
@@ -41,7 +47,10 @@
   },
   {
    "time": "30:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Oxycodone"
   },

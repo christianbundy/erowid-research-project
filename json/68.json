@@ -20,13 +20,19 @@
   },
   {
    "time": "0:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "1:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
@@ -39,19 +45,28 @@
   },
   {
    "time": "2:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "3:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
    "time": "3:45",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

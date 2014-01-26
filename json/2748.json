@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ",
+   "amount": {
+    "number": "150",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "125 ",
+   "amount": {
+    "number": "125",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -41,7 +50,10 @@
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

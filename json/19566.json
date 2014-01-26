@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 nuts",
+   "amount": {
+    "number": "2",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
   },
   {
    "time": "1:30",
-   "amount": "2 nuts",
+   "amount": {
+    "number": "2",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"

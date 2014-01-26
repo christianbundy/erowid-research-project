@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   }

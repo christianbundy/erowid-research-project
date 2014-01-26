@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "3:15",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "6:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "7:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

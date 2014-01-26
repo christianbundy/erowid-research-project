@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "powder/crystals"
   },
   {
    "time": "0:33",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "powder/crystals"
   },
   {
    "time": "1:33",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin"
   },
   {
    "time": "1:33",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "1:33",
-   "amount": "10.8 ml",
+   "amount": {
+    "number": "10.8",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -49,7 +64,10 @@
   },
   {
    "time": "2:32",
-   "amount": "10.8 ml",
+   "amount": {
+    "number": "10.8",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -57,21 +75,30 @@
   },
   {
    "time": "3:09",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin"
   },
   {
    "time": "3:09",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "3:09",
-   "amount": "10.8 ml",
+   "amount": {
+    "number": "10.8",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -79,13 +106,19 @@
   },
   {
    "time": "3:47",
-   "amount": "6.5 mg",
+   "amount": {
+    "number": "6.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Doxylamine"
   },
   {
    "time": "3:47",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
@@ -98,13 +131,19 @@
   },
   {
    "time": "5:07",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "5:07",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Doxylamine"
   }

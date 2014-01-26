@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Phalaris Grass",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "extract"

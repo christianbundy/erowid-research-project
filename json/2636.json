@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DPT",
    "form": "capsule"

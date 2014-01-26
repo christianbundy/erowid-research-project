@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Ephedra sinica",
    "form": "pill/tablet"
@@ -26,21 +29,30 @@
   },
   {
    "time": "0:30",
-   "amount": "7 seeds",
+   "amount": {
+    "number": "7",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "extract"
   },
   {
    "time": "2:00",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "extract"
   },
   {
    "time": "4:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

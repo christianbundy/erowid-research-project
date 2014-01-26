@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.5 g",
+   "amount": {
+    "number": "9.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",
@@ -26,7 +29,10 @@
   },
   {
    "time": "1:40",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -34,7 +40,10 @@
   },
   {
    "time": "2:30",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -42,7 +51,10 @@
   },
   {
    "time": "3:00",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol"
   },
@@ -53,7 +65,10 @@
   },
   {
    "time": "3:20",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

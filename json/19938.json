@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 ml",
+   "amount": {
+    "number": "15",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Olanzapine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "60 ml",
+   "amount": {
+    "number": "60",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 ug",
+   "amount": {
+    "number": "900",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "LSD"
   },
@@ -24,25 +27,37 @@
   },
   {
    "time": "3:50",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "5:20",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "6:50",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "8:20",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   }

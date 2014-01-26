@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
-   "amount": "6 tablets",
+   "amount": {
+    "number": "6",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "15 tablets",
+   "amount": {
+    "number": "15",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   }

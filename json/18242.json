@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 in",
+   "amount": {
+    "number": "20",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",

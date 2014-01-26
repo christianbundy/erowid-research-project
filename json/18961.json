@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "3:13",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOI",
    "form": "blotter/tab"
   },
   {
    "time": "4:00",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4 glasses",
+   "amount": {
+    "number": "4",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -38,7 +38,10 @@
   },
   {
    "time": "0",
-   "amount": "34 mg",
+   "amount": {
+    "number": "34",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate"
   }

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "fresh"

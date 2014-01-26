@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-Acetoxy-DET",
    "form": "liquid"

@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion"
   },
   {
    "time": "1:00",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   },
   {
    "time": "2:20",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   }

@@ -12,25 +12,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT"
   },
   {
    "time": "3:30",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "12:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "13:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

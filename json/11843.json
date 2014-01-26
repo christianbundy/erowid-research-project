@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3600 mg",
+   "amount": {
+    "number": "3600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen"
   },
   {
    "time": "0",
-   "amount": "360 mg",
+   "amount": {
+    "number": "360",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   }

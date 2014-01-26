@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,14 +30,20 @@
   },
   {
    "time": "2:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "3:30",
-   "amount": "2 drops",
+   "amount": {
+    "number": "2",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

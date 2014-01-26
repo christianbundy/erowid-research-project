@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "7 bowls",
+   "amount": {
+    "number": "7",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material",

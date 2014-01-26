@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1179 mg",
+   "amount": {
+    "number": "1179",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   }

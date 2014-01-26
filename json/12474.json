@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "105 mg",
+   "amount": {
+    "number": "105",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zopiclone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Paroxetine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4500 mg",
+   "amount": {
+    "number": "4500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "pill/tablet"

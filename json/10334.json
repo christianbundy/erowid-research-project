@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "0:05",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "0:05",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"

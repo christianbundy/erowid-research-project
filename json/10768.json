@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 ml",
+   "amount": {
+    "number": "7",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",

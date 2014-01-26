@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0:05",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0:05",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

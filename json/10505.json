@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
@@ -27,7 +30,10 @@
   },
   {
    "time": "13:00",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"

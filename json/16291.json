@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "0:35",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"

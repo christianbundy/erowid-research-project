@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": ".7 ml",
+   "amount": {
+    "number": ".7",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"
   },
   {
    "time": "3:30",
-   "amount": ".3 ml",
+   "amount": {
+    "number": ".3",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

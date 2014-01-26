@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 cups",
+   "amount": {
+    "number": "7",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Periwinkle",
    "form": "tea"

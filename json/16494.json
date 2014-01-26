@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "15:00",
-   "amount": "190 mg",
+   "amount": {
+    "number": "190",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "20:30",
-   "amount": "1080 mg",
+   "amount": {
+    "number": "1080",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   }

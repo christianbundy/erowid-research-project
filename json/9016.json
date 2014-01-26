@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "tea",
@@ -21,21 +24,30 @@
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

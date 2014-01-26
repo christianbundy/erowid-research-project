@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"
   },
   {
    "time": "3:10",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"
   },
   {
    "time": "3:20",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"

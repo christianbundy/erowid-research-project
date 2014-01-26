@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "daily"

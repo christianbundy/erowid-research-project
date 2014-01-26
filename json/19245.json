@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
@@ -25,14 +28,20 @@
   },
   {
    "time": "0:45",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "1:30",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"

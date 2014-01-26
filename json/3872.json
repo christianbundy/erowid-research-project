@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 g",
+   "amount": {
+    "number": "13",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"

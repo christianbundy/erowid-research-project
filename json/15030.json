@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 oz",
+   "amount": {
+    "number": "5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "tea"

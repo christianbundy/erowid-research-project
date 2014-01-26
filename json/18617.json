@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "1:50",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "2:20",
-   "amount": "575 mg",
+   "amount": {
+    "number": "575",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

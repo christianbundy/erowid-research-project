@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"

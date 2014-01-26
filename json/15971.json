@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
@@ -25,14 +28,20 @@
   },
   {
    "time": "0",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil",
    "form": "pill/tablet"

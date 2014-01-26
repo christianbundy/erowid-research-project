@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Unknown",
    "form": "pill/tablet"

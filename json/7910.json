@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT"
   },
   {
    "time": "0",
-   "amount": "T+ 4:15",
+   "amount": {
+    "number": "T+",
+    "unit": "4:15"
+   },
    "administration": "25 mg",
    "substance": "smoked"
   }

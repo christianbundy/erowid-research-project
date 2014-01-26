@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "4 g",
+   "amount": {
+    "number": "4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

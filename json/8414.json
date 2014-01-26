@@ -17,7 +17,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00"
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   }
   },
   {
    "time": "Heroin",
@@ -38,7 +41,10 @@
   },
   {
    "time": "20:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine"
   }

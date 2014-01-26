@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
    "form": "liquid"

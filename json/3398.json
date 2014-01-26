@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.66 bowls",
+   "amount": {
+    "number": "0.66",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "flowers"

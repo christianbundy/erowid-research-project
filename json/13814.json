@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Paroxetine",
    "form": "daily"

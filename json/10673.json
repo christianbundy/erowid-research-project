@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "1:40",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "6:00",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "7:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

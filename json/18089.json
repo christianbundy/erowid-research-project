@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 leaves",
+   "amount": {
+    "number": "15",
+    "unit": "leaves"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "plant material"

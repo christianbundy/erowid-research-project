@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:50",
-   "amount": "24 g",
+   "amount": {
+    "number": "24",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "ground/crushed"
   },
   {
    "time": "0:50",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"

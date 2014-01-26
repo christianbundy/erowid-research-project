@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1600 ug",
+   "amount": {
+    "number": "1600",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "2C-I-NBOMe"
   },
   {
    "time": "0",
-   "amount": "800 ug",
+   "amount": {
+    "number": "800",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "2C-C-NBOMe"
   },

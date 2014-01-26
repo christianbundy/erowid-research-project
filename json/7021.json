@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "102 mg",
+   "amount": {
+    "number": "102",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "165 mg",
+   "amount": {
+    "number": "165",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "extract"
   },
   {
    "time": "0:45",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

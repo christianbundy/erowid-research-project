@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.3 mg",
+   "amount": {
+    "number": "1.3",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "liquid"

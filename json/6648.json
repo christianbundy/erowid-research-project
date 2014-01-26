@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "leaves"

@@ -13,37 +13,55 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDAI"
   },
   {
    "time": "0:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylethcathinone"
   },
   {
    "time": "0:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-I"
   },
   {
    "time": "0:00",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI"
   },
   {
    "time": "0:00",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylethcathinone"
   },
   {
    "time": "0:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
@@ -54,13 +72,19 @@
   },
   {
    "time": "8:45",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDAI"
   },
   {
    "time": "8:45",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylethcathinone"
   }

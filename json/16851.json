@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "700 mg",
+   "amount": {
+    "number": "700",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Carisoprodol",
    "form": "ground/crushed"
   },
   {
    "time": "1:30",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -42,7 +54,10 @@
   },
   {
    "time": "2:30",
-   "amount": "1/4 tablet",
+   "amount": {
+    "number": "1/4",
+    "unit": "tablet"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"

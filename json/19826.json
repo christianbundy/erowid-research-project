@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"

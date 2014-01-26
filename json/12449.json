@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.1 mg",
+   "amount": {
+    "number": "2.1",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Amphetamines",
    "form": "powder/crystals"
   },
   {
    "time": "0:11",
-   "amount": "0.6 mg",
+   "amount": {
+    "number": "0.6",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "powder/crystals"
   },
   {
    "time": "0:12",
-   "amount": "2.3 mg",
+   "amount": {
+    "number": "2.3",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Amphetamines",
    "form": "powder/crystals"

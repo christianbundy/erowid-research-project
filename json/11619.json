@@ -12,35 +12,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "capsule"
   },
   {
    "time": "5:00",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "capsule"
   },
   {
    "time": "5:00",
-   "amount": "12 glasses",
+   "amount": {
+    "number": "12",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "10:00",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "capsule"
   },
   {
    "time": "10:30",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"

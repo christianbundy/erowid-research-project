@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "262 mg",
+   "amount": {
+    "number": "262",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

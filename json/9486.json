@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vinpocetine",
    "form": "daily"

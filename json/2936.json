@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "162.5 mg",
+   "amount": {
+    "number": "162.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propoxyphene",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1625 mg",
+   "amount": {
+    "number": "1625",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"

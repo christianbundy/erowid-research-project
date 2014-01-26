@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 tsp",
+   "amount": {
+    "number": "0.75",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Coca",
    "form": "leaves"

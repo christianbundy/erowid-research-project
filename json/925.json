@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 cups",
+   "amount": {
+    "number": "4",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"

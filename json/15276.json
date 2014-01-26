@@ -18,13 +18,19 @@
   },
   {
    "time": "0:00",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
@@ -40,7 +46,10 @@
   },
   {
    "time": "3:30",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

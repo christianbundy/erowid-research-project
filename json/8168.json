@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "pill/tablet"

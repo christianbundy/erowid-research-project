@@ -12,19 +12,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Moclobemide"
   },
   {
    "time": "1:00",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DPT"
   },
   {
    "time": "3:15",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT"
   }

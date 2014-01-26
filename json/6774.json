@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "100 ml",
+   "amount": {
+    "number": "100",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,7 +34,10 @@
   },
   {
    "time": "1:45",
-   "amount": "225 ml",
+   "amount": {
+    "number": "225",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

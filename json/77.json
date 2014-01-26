@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:10",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "6:18",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5100 mg",
+   "amount": {
+    "number": "5100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "extract"

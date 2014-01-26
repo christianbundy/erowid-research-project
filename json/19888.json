@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "405 mg",
+   "amount": {
+    "number": "405",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

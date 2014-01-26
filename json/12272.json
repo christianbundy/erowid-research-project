@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Olanzapine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "325 mg",
+   "amount": {
+    "number": "325",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

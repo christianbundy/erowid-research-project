@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 in",
+   "amount": {
+    "number": "7",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Calamus",
    "form": "roots"

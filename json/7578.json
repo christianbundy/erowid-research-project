@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "fresh"

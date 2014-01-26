@@ -13,17 +13,26 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "substance": "Cocaine"
   },
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "substance": "L-DOPA"
   },
   {
    "time": "0",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "substance": "Carbidopa"
   }
  ],

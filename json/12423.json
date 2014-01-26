@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.5 oz",
+   "amount": {
+    "number": "7.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

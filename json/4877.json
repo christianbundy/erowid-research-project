@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "13:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "17:30",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"

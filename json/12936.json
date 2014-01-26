@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "capsule"

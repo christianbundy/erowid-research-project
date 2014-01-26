@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg"
   },
   {
    "time": "0:30",
-   "amount": "275 seeds",
+   "amount": {
+    "number": "275",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory"
   }

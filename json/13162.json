@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Eszopiclone"
   },
   {
    "time": "4:30",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   },
   {
    "time": "4:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   }

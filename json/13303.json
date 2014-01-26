@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -21,7 +24,10 @@
   },
   {
    "time": "2:00",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",

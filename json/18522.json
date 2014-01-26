@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "3:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "3:30",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "4:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

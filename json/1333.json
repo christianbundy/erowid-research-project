@@ -35,14 +35,20 @@
   },
   {
    "time": "2:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "2:15",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "extract"
@@ -55,14 +61,20 @@
   },
   {
    "time": "7:30",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
   },
   {
    "time": "9:00",
-   "amount": "1.75 g",
+   "amount": {
+    "number": "1.75",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

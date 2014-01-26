@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 capsls",
+   "amount": {
+    "number": "30",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "ground/crushed"

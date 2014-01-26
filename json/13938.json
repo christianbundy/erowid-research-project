@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3200 mg",
+   "amount": {
+    "number": "3200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "capsule"
   },
   {
    "time": "1:25",
-   "amount": "1600 mg",
+   "amount": {
+    "number": "1600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "capsule"

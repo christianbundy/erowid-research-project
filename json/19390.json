@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 glasses",
+   "amount": {
+    "number": "6",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

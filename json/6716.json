@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 in",
+   "amount": {
+    "number": "3",
+    "unit": "in"
+   },
    "administration": "buccal",
    "substance": "Banisteriopsis caapi",
    "form": "dried"

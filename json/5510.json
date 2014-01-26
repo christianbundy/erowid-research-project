@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "26 mg",
+   "amount": {
+    "number": "26",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   }

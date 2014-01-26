@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.8 g",
+   "amount": {
+    "number": "3.8",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:00",
-   "amount": "10 carts.",
+   "amount": {
+    "number": "10",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 ",
+   "amount": {
+    "number": "0.5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "LSA",
    "form": "cookie/food"
   },
   {
    "time": "1:00",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "LSA",
    "form": "cookie/food"

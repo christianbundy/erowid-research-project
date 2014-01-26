@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "substance": "Nutmeg"
   }
  ],

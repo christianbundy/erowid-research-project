@@ -13,18 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "2C-B"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

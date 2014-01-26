@@ -40,7 +40,10 @@
   },
   {
    "time": "0",
-   "amount": "50 leaves",
+   "amount": {
+    "number": "50",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Passion Flower"
   },

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Selegeline"
   },
@@ -39,13 +42,19 @@
   },
   {
    "time": "1:45",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },
@@ -69,7 +78,10 @@
   },
   {
    "time": "5:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA"
   },

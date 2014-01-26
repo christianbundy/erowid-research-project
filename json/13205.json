@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI"
   }

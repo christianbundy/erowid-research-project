@@ -21,14 +21,20 @@
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "Cyclobenzaprine",
    "form": "ground/crushed"

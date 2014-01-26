@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "4:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -12,20 +12,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18 oz",
+   "amount": {
+    "number": "18",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   }

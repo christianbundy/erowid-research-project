@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Buprenorphine",
    "form": "pill/tablet"

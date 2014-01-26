@@ -19,25 +19,37 @@
   },
   {
    "time": "0:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA"
   },
   {
    "time": "1:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA"
   },
   {
    "time": "1:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA"
   },
   {
    "time": "2:30",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
@@ -38,56 +41,80 @@
   },
   {
    "time": "5:00",
-   "amount": "3 ",
+   "amount": {
+    "number": "3",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "15:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "15:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "15:20",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "15:20",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "16:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "16:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "18:07",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

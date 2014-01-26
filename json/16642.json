@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:40",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cyanescens"
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lamotrigine ",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lithium",
    "form": "daily"

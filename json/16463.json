@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "420 mg",
+   "amount": {
+    "number": "420",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "64 mg",
+   "amount": {
+    "number": "64",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

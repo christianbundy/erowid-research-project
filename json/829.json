@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 carts.",
+   "amount": {
+    "number": "10",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-073",
    "form": "powder/crystals"

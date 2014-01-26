@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.66 g",
+   "amount": {
+    "number": "6.66",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0:20",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

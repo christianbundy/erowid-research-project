@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "4 joints/cigs",
+   "amount": {
+    "number": "4",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

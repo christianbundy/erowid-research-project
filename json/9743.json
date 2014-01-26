@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"
   },
   {
    "time": "0:45",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"

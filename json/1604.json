@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 gal",
+   "amount": {
+    "number": "1",
+    "unit": "gal"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

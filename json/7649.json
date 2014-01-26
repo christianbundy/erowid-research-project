@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
@@ -40,14 +46,20 @@
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

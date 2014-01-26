@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "substance": "oral"
   },
   {
@@ -40,13 +43,19 @@
   },
   {
    "time": "0:39",
-   "amount": "146 mg",
+   "amount": {
+    "number": "146",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "(capsule)",
-   "amount": "T+ 0:39",
+   "amount": {
+    "number": "T+",
+    "unit": "0:39"
+   },
    "administration": "1 glass",
    "substance": "oral"
   }

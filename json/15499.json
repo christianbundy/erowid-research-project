@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "23 mg",
+   "amount": {
+    "number": "23",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "0:10",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "3:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "5:30",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

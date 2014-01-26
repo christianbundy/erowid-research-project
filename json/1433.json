@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
@@ -26,42 +29,60 @@
   },
   {
    "time": "1:00",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "extract"
   },
   {
    "time": "4:30",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "extract"
   },
   {
    "time": "6:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "extract"
   },
   {
    "time": "9:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

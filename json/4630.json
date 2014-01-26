@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
   },
   {
    "time": "3:00",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
   },
   {
    "time": "6:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

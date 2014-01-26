@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 oz",
+   "amount": {
+    "number": "2",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "8:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "10:00",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "11:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "11:30",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

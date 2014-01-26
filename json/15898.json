@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "4:05",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "powder/crystals"

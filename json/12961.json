@@ -25,7 +25,10 @@
   },
   {
    "time": "0",
-   "amount": "16 oz",
+   "amount": {
+    "number": "16",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

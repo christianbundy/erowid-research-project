@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 Tbsp",
+   "amount": {
+    "number": "0.75",
+    "unit": "Tbsp"
+   },
    "administration": "rectal",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0:20",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "rectal",
    "substance": "Diplopterys cabrerana",
    "form": "extract"

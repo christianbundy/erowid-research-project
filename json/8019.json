@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 caps",
+   "amount": {
+    "number": "3",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "0",
-   "amount": "3 berries",
+   "amount": {
+    "number": "3",
+    "unit": "berries"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "33 caps",
+   "amount": {
+    "number": "33",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "3 flowers",
+   "amount": {
+    "number": "3",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "liquid"

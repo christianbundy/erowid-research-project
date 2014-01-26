@@ -19,7 +19,10 @@
   },
   {
    "time": "1:58",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "specific": "pFPP"

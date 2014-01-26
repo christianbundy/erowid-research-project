@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 glasses",
+   "amount": {
+    "number": "7",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "insufflated",
    "substance": "Vasopressin",
    "form": "liquid"

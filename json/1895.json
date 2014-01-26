@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "2:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": "2:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT"
   },
   {
    "time": "2:15",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": "3:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }

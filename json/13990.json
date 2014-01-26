@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Duloxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil",
    "form": "daily"

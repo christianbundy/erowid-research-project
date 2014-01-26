@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,14 +34,20 @@
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

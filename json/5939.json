@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylaminorex",
    "form": "powder/crystals"

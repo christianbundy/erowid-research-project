@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "1:45",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "2:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "2:00",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea",
@@ -43,7 +55,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -51,7 +66,10 @@
   },
   {
    "time": "2:02",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

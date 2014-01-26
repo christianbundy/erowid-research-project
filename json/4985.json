@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"
   },
   {
    "time": "3:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"

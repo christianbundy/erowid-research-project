@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1.5 Tbsp",
+   "amount": {
+    "number": "1.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1.5 joints/cigs",
+   "amount": {
+    "number": "1.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "PCP"
   },

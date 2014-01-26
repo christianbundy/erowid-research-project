@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "165 mg",
+   "amount": {
+    "number": "165",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmine"
   },
   {
    "time": "0:25",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MET"
   },
   {
    "time": "0:25",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmine"
   },
   {
    "time": "0:45",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MET"
   },
   {
    "time": "0:45",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmine"
   },
@@ -53,13 +68,19 @@
   },
   {
    "time": "2:35",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "MET"
   },
   {
    "time": "2:35",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Harmine"
   }

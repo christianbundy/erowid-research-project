@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "830 ug",
+   "amount": {
+    "number": "830",
+    "unit": "ug"
+   },
    "substance": "2C-C-NBOMe",
    "form": "powder/crystals"
   },

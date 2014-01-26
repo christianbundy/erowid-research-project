@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37.5 mg",
+   "amount": {
+    "number": "37.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "dried"
   },
   {
    "time": "0:10",
-   "amount": ".3 mg",
+   "amount": {
+    "number": ".3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"

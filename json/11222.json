@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DET",
    "form": "freebase"
   },
   {
    "time": "2:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "3:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

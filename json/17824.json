@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "23 mg",
+   "amount": {
+    "number": "23",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-G-N"
   }

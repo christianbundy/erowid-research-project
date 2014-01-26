@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"

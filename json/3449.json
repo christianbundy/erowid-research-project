@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"

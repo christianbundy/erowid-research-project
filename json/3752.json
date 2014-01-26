@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Risperidone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Paroxetine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "10 g",
+   "amount": {
+    "number": "10",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Divalproex",
    "form": "pill/tablet"

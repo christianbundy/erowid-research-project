@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 leaves",
+   "amount": {
+    "number": "1.5",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "ground/crushed"

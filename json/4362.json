@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
@@ -40,7 +46,10 @@
   },
   {
    "time": "6:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"

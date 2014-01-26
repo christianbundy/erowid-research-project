@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 ml",
+   "amount": {
+    "number": "100",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "0:10",
-   "amount": "150 ml",
+   "amount": {
+    "number": "150",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "3:30",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

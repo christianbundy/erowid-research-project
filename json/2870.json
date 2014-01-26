@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

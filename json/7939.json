@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "54 mg",
+   "amount": {
+    "number": "54",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "0:05",
-   "amount": "54 mg",
+   "amount": {
+    "number": "54",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "0:50",
-   "amount": "54 mg",
+   "amount": {
+    "number": "54",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -42,7 +54,10 @@
   },
   {
    "time": "2:10",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -50,7 +65,10 @@
   },
   {
    "time": "2:20",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -58,7 +76,10 @@
   },
   {
    "time": "2:35",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",

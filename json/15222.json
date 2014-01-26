@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "powder/crystals"
@@ -27,7 +30,10 @@
   },
   {
    "time": "2:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-2",
    "form": "powder/crystals"
@@ -41,7 +47,10 @@
   },
   {
    "time": "25:00",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-2",
    "form": "powder/crystals"

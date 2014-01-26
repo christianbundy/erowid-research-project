@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B-Fly"
   },
   {
    "time": "0",
-   "amount": "T+ 3:15",
+   "amount": {
+    "number": "T+",
+    "unit": "3:15"
+   },
    "administration": "2.0 mg",
    "substance": "oral"
   },

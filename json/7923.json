@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "flowers"
   },
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

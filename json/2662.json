@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.83 flowers",
+   "amount": {
+    "number": "0.83",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"

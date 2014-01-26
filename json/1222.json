@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "extract"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "29 mg",
+   "amount": {
+    "number": "29",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "powder/crystals"

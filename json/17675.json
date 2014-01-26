@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "22:40",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"

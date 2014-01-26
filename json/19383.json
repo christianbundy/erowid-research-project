@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 oz",
+   "amount": {
+    "number": "2",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"
   },
   {
    "time": "2:30",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"
   },
   {
    "time": "5:00",
-   "amount": "2 oz",
+   "amount": {
+    "number": "2",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "5:00",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"

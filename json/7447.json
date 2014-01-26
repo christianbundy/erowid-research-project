@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10ml repeated",
+   "amount": {
+    "number": "10ml",
+    "unit": "repeated"
+   },
    "administration": "IM",
    "substance": "Steroids",
    "form": "liquid"

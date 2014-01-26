@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "substance": "4-Methylmethcathinone"
   }
  ],

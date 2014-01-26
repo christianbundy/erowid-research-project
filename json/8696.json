@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "capsule"

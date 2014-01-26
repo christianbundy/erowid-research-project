@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "roots"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "pill/tablet"

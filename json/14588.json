@@ -13,63 +13,90 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Meclizine",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "1:50",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:50",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "2:50",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "3:20",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "3:20",
-   "amount": "87.5 mg",
+   "amount": {
+    "number": "87.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"

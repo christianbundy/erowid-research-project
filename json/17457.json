@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 flower",
+   "amount": {
+    "number": "1",
+    "unit": "flower"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "smoked",
    "substance": "Datura",
    "form": "leaves"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "64 oz",
+   "amount": {
+    "number": "64",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

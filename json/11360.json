@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "DOM"
   },
   {
    "time": "2:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "DOM"
   },
   {
    "time": "4:35",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOM"
   },
   {
    "time": "20:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "25:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOM"
   }

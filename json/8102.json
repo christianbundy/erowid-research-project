@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "48 drops",
+   "amount": {
+    "number": "48",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

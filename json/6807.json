@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "52 in",
+   "amount": {
+    "number": "52",
+    "unit": "in"
+   },
    "administration": "buccal",
    "substance": "Catha edulis",
    "form": "plant material"

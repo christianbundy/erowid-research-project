@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"
   },
   {
    "time": "3:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline",
    "form": "pill/tablet"

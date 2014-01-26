@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 ug",
+   "amount": {
+    "number": "50",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Fentanyl",
    "form": "patch"

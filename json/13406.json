@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "11 mg",
+   "amount": {
+    "number": "11",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E"
   },
@@ -30,27 +36,39 @@
   },
   {
    "time": "11:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "32:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"
   },
   {
    "time": "36:00",
-   "amount": "11 mg",
+   "amount": {
+    "number": "11",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "liquid"
   },
   {
    "time": "38:00",
-   "amount": "11 mg",
+   "amount": {
+    "number": "11",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "capsule"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "280 seeds",
+   "amount": {
+    "number": "280",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

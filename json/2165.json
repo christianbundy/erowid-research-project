@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 bowls",
+   "amount": {
+    "number": "2.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Red Rock"
   },
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

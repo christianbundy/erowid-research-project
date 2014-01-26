@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
@@ -32,7 +35,10 @@
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "plant material"
@@ -44,7 +50,10 @@
   },
   {
    "time": "0",
-   "amount": "8 hits",
+   "amount": {
+    "number": "8",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

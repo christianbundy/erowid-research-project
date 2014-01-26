@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 caps",
+   "amount": {
+    "number": "10",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "dried"
   },
   {
    "time": "0:15",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Heimia salicifolia",
    "form": "tea"

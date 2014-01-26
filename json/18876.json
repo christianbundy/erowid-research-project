@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "6:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-21",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-T-21",
    "form": "powder/crystals"

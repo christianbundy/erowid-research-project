@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "1:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:00",
-   "amount": "4.5 hits",
+   "amount": {
+    "number": "4.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   }

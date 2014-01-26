@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 tablets",
+   "amount": {
+    "number": "8",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mirtazapine"
   },
   {
    "time": "0",
-   "amount": "T+ 24:00",
+   "amount": {
+    "number": "T+",
+    "unit": "24:00"
+   },
    "administration": "125 mg",
    "substance": "oral"
   }

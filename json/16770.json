@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydromorphone",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydromorphone",
    "form": "pill/tablet"
   },
   {
    "time": "4:15",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "Amphetamines"
   }
  ],

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"
   },
   {
    "time": "5:00",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "tea"

@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"

@@ -19,14 +19,20 @@
   },
   {
    "time": "1:50",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "2:20",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

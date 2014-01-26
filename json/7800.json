@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 ml",
+   "amount": {
+    "number": "50",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "0:15",
-   "amount": "50 ml",
+   "amount": {
+    "number": "50",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"

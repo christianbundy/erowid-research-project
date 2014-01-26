@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   }

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "IAP"
   },
   {
    "time": "0:30",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "IAP"
   }

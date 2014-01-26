@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "extract"
@@ -41,7 +44,10 @@
   },
   {
    "time": "2:15",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

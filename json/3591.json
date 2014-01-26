@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "3:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "3:30",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

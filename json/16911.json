@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Ginger"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "2 cups",
    "substance": "oral"
   },

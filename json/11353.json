@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 tablets",
+   "amount": {
+    "number": "6",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "1:10",
-   "amount": "18 g",
+   "amount": {
+    "number": "18",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "tea"

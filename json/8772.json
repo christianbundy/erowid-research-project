@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.03 g",
+   "amount": {
+    "number": "0.03",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Kava",
    "form": "roots"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Kratom",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

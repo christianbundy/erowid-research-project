@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22.5 mg",
+   "amount": {
+    "number": "22.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "2250 mg",
+   "amount": {
+    "number": "2250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "0:50",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydroxyzine",
    "form": "pill/tablet"
   },
   {
    "time": "0:50",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline",
    "form": "pill/tablet"
   },
   {
    "time": "0:50",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pharmaceuticals",
    "form": "pill/tablet"

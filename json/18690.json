@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "substance": "Vitamin C"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "1.6 g"
   },
   {
@@ -38,12 +44,18 @@
   },
   {
    "time": "0:00",
-   "amount": "351 mg",
+   "amount": {
+    "number": "351",
+    "unit": "mg"
+   },
    "substance": "DMAE"
   },
   {
    "time": "0",
-   "amount": "T+ 0:15",
+   "amount": {
+    "number": "T+",
+    "unit": "0:15"
+   },
    "administration": "125 mg",
    "substance": "oral"
   },

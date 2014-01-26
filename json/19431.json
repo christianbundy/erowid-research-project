@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.75 g",
+   "amount": {
+    "number": "1.75",
+    "unit": "g"
+   },
    "substance": "Mushrooms",
    "form": "dried",
    "specific": "P. cubensis"

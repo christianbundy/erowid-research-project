@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "1:30",
-   "amount": "14 mg",
+   "amount": {
+    "number": "14",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },

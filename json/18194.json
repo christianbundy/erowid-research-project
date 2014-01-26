@@ -13,37 +13,55 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "4:00",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "8:15",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "9:00",
-   "amount": "135 mg",
+   "amount": {
+    "number": "135",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone"
   },
   {
    "time": "9:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "14:00",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   }

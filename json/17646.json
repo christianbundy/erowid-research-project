@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
   },
   {
    "time": "0:50",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

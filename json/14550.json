@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT"
   },
   {
    "time": "0:10",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:15",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }

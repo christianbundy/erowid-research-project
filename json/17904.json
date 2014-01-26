@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 glasses",
+   "amount": {
+    "number": "0.5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:15",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine",
    "form": "daily"

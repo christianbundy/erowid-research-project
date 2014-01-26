@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"

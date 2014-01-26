@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17 mg",
+   "amount": {
+    "number": "17",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cubensis"
   },
   {
    "time": "0:30",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "cookie/food"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

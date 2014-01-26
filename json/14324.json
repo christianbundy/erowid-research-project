@@ -12,20 +12,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue"
   },
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

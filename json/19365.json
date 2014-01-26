@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "2:30",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

@@ -13,70 +13,100 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "1:15",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "10:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
    "form": "pill/tablet"
   },
   {
    "time": "10:00",
-   "amount": ".25 mg",
+   "amount": {
+    "number": ".25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "10:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "10:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "10:00",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "10:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -84,7 +114,10 @@
   },
   {
    "time": "10:30",
-   "amount": ".5 mg",
+   "amount": {
+    "number": ".5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "powder/crystals"
@@ -25,14 +28,20 @@
   },
   {
    "time": "2:45",
-   "amount": "1.5 ml",
+   "amount": {
+    "number": "1.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "3:45",
-   "amount": "2.5 ml",
+   "amount": {
+    "number": "2.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

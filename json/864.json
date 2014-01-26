@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

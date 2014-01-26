@@ -13,63 +13,90 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:15",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:15",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "3C-B",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "pill/tablet"
   },
   {
    "time": "9:40",
-   "amount": "0.5 ",
+   "amount": {
+    "number": "0.5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

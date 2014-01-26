@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "1060 mg",
+   "amount": {
+    "number": "1060",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "530 mg",
+   "amount": {
+    "number": "530",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"
   },
   {
    "time": "2:30",
-   "amount": "1590 mg",
+   "amount": {
+    "number": "1590",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"

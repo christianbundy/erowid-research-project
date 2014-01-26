@@ -13,48 +13,69 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 ug",
+   "amount": {
+    "number": "1000",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"
   },
   {
    "time": "6:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "7:30",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "9:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "10:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "12:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "330 ml",
+   "amount": {
+    "number": "330",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

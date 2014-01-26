@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "220 mg",
+   "amount": {
+    "number": "220",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MBDB",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

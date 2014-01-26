@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1600 mg",
+   "amount": {
+    "number": "1600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Metaxalone",
    "form": "pill/tablet"

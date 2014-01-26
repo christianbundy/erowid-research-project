@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 bowls",
+   "amount": {
+    "number": "4",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

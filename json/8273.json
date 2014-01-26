@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Hops",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "form": "plant material",
@@ -42,7 +54,10 @@
   },
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

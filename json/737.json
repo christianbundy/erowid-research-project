@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

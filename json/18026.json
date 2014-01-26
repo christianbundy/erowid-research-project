@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "various repeated",
+   "amount": {
+    "number": "various",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"

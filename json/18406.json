@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methoxymethcathinone"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDPV"
   },
   {
    "time": "1:36",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:28",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:41",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tyrosine"
   },
@@ -48,7 +63,10 @@
   },
   {
    "time": "5:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"

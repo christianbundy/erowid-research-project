@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "0:45",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -28,7 +34,10 @@
   },
   {
    "time": "1:45",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -36,7 +45,10 @@
   },
   {
    "time": "4:30",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "powder/crystals",

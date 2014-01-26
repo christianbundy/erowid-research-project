@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Buprenorphine",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Clonazepam",
    "form": "ground/crushed"

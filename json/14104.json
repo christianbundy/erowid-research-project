@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 lbs",
+   "amount": {
+    "number": "0.5",
+    "unit": "lbs"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"

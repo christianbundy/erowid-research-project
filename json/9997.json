@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Leonotis nepetaefolia",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Leonurus sibiricus",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Leonurus sibiricus",
    "form": "dried"
@@ -46,14 +55,20 @@
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "daily"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"

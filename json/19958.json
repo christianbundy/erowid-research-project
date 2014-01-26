@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 seeds",
+   "amount": {
+    "number": "400",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "5 leaves",
+   "amount": {
+    "number": "5",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "leaves"

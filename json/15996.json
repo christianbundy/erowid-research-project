@@ -19,7 +19,10 @@
   },
   {
    "time": "1:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

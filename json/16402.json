@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "7:00",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "8:50",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

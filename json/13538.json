@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "1:10",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"

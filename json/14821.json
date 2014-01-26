@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "67.5 mg",
+   "amount": {
+    "number": "67.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zopiclone",
    "form": "pill/tablet"

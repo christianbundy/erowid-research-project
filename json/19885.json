@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Atomoxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mirtazapine",
    "form": "daily"

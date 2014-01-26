@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "760 mg",
+   "amount": {
+    "number": "760",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "capsule"

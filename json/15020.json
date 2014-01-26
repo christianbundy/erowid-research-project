@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 drops",
+   "amount": {
+    "number": "30",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "32 oz",
+   "amount": {
+    "number": "32",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

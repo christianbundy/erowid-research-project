@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6"
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.4 g",
+   "amount": {
+    "number": "3.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

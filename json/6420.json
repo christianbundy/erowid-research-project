@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
@@ -26,14 +29,20 @@
   },
   {
    "time": "2:25",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "3:15",
-   "amount": "40 oz",
+   "amount": {
+    "number": "40",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -47,7 +56,10 @@
   },
   {
    "time": "6:15",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"

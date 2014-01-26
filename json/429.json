@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "insufflated",
    "substance": "Vasopressin"
   },
   {
    "time": "0",
-   "amount": "2.5 shots",
+   "amount": {
+    "number": "2.5",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   }

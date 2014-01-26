@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "6-APB"
   },
   {
    "time": "1:00",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "6-APB"
   }

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:30",
-   "amount": "15 seeds",
+   "amount": {
+    "number": "15",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "0:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

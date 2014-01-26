@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "powder/crystals"

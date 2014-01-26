@@ -35,12 +35,18 @@
   },
   {
    "time": "0:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "substance": "2C-B-NBOMe"
   },
   {
    "time": "(blotter / tab)",
-   "amount": "T+ 3:00",
+   "amount": {
+    "number": "T+",
+    "unit": "3:00"
+   },
    "administration": "15 g"
   },
   {
@@ -49,7 +55,10 @@
   },
   {
    "time": "0",
-   "amount": "Nitrous Oxide",
+   "amount": {
+    "number": "Nitrous",
+    "unit": "Oxide"
+   },
    "substance": "T+ 5:15"
   },
   {

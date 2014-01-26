@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "5 lines",
+   "amount": {
+    "number": "5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -20,14 +20,20 @@
   },
   {
    "time": "0:30",
-   "amount": "3.75 seeds",
+   "amount": {
+    "number": "3.75",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "tea"
   },
   {
    "time": "4:30",
-   "amount": "3.75 seeds",
+   "amount": {
+    "number": "3.75",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "tea"

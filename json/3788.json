@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 tsp",
+   "amount": {
+    "number": "3",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

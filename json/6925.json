@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 g",
+   "amount": {
+    "number": "350",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",

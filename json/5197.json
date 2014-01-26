@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"

@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Unknown"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "repeated",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
-   "amount": "(plant material)",
+   "amount": {
+    "number": "(plant",
+    "unit": "material)"
+   },
    "administration": "T+ 0:45",
    "substance": "2 tablets"
   }

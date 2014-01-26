@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "1:00",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "1:30",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "3:00",
-   "amount": "300 g",
+   "amount": {
+    "number": "300",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   }

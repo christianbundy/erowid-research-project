@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 ug",
+   "amount": {
+    "number": "250",
+    "unit": "ug"
+   },
    "substance": "Bromo-Dragonfly"
   },
   {
    "time": "0",
-   "amount": "200 ug",
+   "amount": {
+    "number": "200",
+    "unit": "ug"
+   },
    "substance": "Bromo-Dragonfly"
   }
  ],

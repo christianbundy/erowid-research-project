@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:10",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0:00",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Products",
    "form": "powder/crystals",
@@ -37,7 +46,10 @@
   },
   {
    "time": "0:10",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Products",
    "form": "powder/crystals",

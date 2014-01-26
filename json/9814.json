@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 glasses",
+   "amount": {
+    "number": "4",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "4:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "5:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "9:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

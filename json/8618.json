@@ -18,14 +18,20 @@
   },
   {
    "time": "0",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "8 shots",
+   "amount": {
+    "number": "8",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "cookie/food",
@@ -27,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,63 +13,90 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "3:00",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "4:15",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "5:30",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "6:45",
-   "amount": "0.1667 nuts",
+   "amount": {
+    "number": "0.1667",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "7:30",
-   "amount": "0.5 nuts",
+   "amount": {
+    "number": "0.5",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "11:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

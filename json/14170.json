@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 ug",
+   "amount": {
+    "number": "200",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25B-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:40",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25B-NBOMe",
    "form": "blotter/tab"

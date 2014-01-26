@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "66 mg",
+   "amount": {
+    "number": "66",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"

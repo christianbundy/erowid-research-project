@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Adrafinil"
   },
   {
    "time": "11:00",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Adrafinil"
   },
   {
    "time": "22:00",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Adrafinil"
   }

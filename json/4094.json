@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 seeds",
+   "amount": {
+    "number": "100",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "20 seeds",
+   "amount": {
+    "number": "20",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "leaves"

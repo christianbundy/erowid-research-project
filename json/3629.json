@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "dried"
   },
   {
    "time": "2:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "rectal",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"

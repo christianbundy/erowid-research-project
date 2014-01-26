@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "25 seeds",
+   "amount": {
+    "number": "25",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"

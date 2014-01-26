@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
@@ -34,7 +37,10 @@
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "liquid",

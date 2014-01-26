@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.2 g",
+   "amount": {
+    "number": "3.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "4.1 g",
+   "amount": {
+    "number": "4.1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"

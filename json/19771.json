@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "80 seeds",
+   "amount": {
+    "number": "80",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "4 leaves",
+   "amount": {
+    "number": "4",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "tea"

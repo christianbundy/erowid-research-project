@@ -27,7 +27,10 @@
   },
   {
    "time": "0",
-   "amount": "8 hits",
+   "amount": {
+    "number": "8",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "form": "flowers",

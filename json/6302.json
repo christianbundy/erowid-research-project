@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "2:00",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

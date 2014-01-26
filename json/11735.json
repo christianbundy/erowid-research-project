@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet",
@@ -35,7 +44,10 @@
   },
   {
    "time": "1:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-I",
    "form": "powder/crystals"

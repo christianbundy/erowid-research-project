@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "powder/crystals",
@@ -21,7 +24,10 @@
   },
   {
    "time": "1:45",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

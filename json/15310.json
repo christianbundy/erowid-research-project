@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "108 mg",
+   "amount": {
+    "number": "108",
+    "unit": "mg"
+   },
    "substance": "Methylphenidate"
   }
  ],

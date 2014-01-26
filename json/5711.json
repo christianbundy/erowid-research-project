@@ -13,43 +13,64 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "0:40",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:40",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "1:30",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "1:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "2:10",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "2:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   }

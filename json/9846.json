@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "750 ml",
+   "amount": {
+    "number": "750",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "5 tablets",
+   "amount": {
+    "number": "5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

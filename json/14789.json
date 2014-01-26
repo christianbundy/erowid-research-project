@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 seeds",
+   "amount": {
+    "number": "150",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "10 seeds",
+   "amount": {
+    "number": "10",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "extract"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 Tbsp",
+   "amount": {
+    "number": "0.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom"
   },
   {
    "time": "0",
-   "amount": "T+ 0:25",
+   "amount": {
+    "number": "T+",
+    "unit": "0:25"
+   },
    "substance": "smoked"
   },
   {
@@ -29,7 +35,10 @@
   },
   {
    "time": "smoked",
-   "amount": "CP 55,940",
+   "amount": {
+    "number": "CP",
+    "unit": "55,940"
+   },
    "administration": "(powder / crystals)",
    "substance": "T+ 0:32"
   },

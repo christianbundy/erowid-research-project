@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -20,14 +23,20 @@
   },
   {
    "time": "0:05",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "0:13",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

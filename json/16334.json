@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 seeds",
+   "amount": {
+    "number": "25",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "2:10",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue"
   },

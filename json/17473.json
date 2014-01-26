@@ -13,56 +13,80 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:05",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "1:20",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Temazepam",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "2:10",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Temazepam",
    "form": "pill/tablet"
   },
   {
    "time": "2:20",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "3:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Temazepam",
    "form": "pill/tablet"

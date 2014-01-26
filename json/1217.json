@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:35",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "2:35",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "pill/tablet"

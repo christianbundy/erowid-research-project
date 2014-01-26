@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine",
    "form": "daily"
@@ -26,7 +29,10 @@
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "2C-B-NBOMe",
    "form": "blotter/tab"

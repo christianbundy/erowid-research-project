@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "2:05",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

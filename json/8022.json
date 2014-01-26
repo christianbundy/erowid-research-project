@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 capsls",
+   "amount": {
+    "number": "9",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"

@@ -20,13 +20,19 @@
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cubensis"

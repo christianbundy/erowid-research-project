@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 leaves",
+   "amount": {
+    "number": "60",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Coleus",
    "form": "tea"

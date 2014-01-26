@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
@@ -27,14 +30,20 @@
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "0:43",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

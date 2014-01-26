@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "1:15",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "6:42",
-   "amount": "210 mg",
+   "amount": {
+    "number": "210",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "10:00",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "substance": "Kratom"
   }
  ],

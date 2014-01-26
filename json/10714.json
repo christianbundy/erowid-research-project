@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 seeds",
+   "amount": {
+    "number": "7",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "extract"
   },
   {
    "time": "2:30",
-   "amount": "0.15 g",
+   "amount": {
+    "number": "0.15",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:30",
-   "amount": "0.15 g",
+   "amount": {
+    "number": "0.15",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

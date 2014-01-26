@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Meperidine",
    "form": "pill/tablet"

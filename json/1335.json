@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"

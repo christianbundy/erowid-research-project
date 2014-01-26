@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "LSZ ug",
+   "amount": {
+    "number": "LSZ",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "LSZ",
    "form": "blotter/tab"

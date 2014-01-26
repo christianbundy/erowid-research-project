@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory"
   },
   {
    "time": "0",
-   "amount": "708 mg",
+   "amount": {
+    "number": "708",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.05 g",
+   "amount": {
+    "number": "0.05",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

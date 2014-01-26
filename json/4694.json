@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 Tbsp",
+   "amount": {
+    "number": "1.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

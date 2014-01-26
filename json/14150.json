@@ -13,41 +13,59 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOI",
    "form": "powder/crystals"
   },
   {
    "time": "0:50",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Zolpidem",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Zolpidem",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "4 glasses",
+   "amount": {
+    "number": "4",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

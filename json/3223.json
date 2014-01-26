@@ -28,14 +28,20 @@
   },
   {
    "time": "2:45",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "6:30",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "capsule"

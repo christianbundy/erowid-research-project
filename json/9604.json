@@ -13,34 +13,49 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   }

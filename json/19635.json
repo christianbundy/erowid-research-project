@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Heimia salicifolia",
    "form": "tea"

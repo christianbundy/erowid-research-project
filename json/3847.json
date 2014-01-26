@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "147.5 mg",
+   "amount": {
+    "number": "147.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "236 mg",
+   "amount": {
+    "number": "236",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "65 g",
+   "amount": {
+    "number": "65",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -19,7 +19,10 @@
   },
   {
    "time": "0:00",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
@@ -32,14 +35,20 @@
   },
   {
    "time": "0:45",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "specific": "BZP"
   },
   {
    "time": "3:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

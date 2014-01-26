@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 g",
+   "amount": {
+    "number": "10",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "2:00",
-   "amount": "10 g",
+   "amount": {
+    "number": "10",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -29,7 +35,10 @@
   },
   {
    "time": "5:30",
-   "amount": "2 caps",
+   "amount": {
+    "number": "2",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -37,7 +46,10 @@
   },
   {
    "time": "6:00",
-   "amount": "4 caps",
+   "amount": {
+    "number": "4",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -45,7 +57,10 @@
   },
   {
    "time": "9:30",
-   "amount": "2 caps",
+   "amount": {
+    "number": "2",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -53,7 +68,10 @@
   },
   {
    "time": "10:30",
-   "amount": "2 caps",
+   "amount": {
+    "number": "2",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -61,7 +79,10 @@
   },
   {
    "time": "0:00",
-   "amount": "8 g",
+   "amount": {
+    "number": "8",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -69,7 +90,10 @@
   },
   {
    "time": "0:00",
-   "amount": "8 g",
+   "amount": {
+    "number": "8",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

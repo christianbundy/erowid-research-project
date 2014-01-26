@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "0:25",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "1:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"

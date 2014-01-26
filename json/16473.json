@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1900 mg",
+   "amount": {
+    "number": "1900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"

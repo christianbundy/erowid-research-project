@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 ml",
+   "amount": {
+    "number": "45",
+    "unit": "ml"
+   },
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "gas"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 glasses",
+   "amount": {
+    "number": "1.5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

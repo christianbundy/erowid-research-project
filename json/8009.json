@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 tablets",
+   "amount": {
+    "number": "5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0:35",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "12:30",
-   "amount": "6 tablets",
+   "amount": {
+    "number": "6",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
@@ -47,7 +59,10 @@
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

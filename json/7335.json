@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.86 g",
+   "amount": {
+    "number": "1.86",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

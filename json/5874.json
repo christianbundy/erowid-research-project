@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "plant material"
   },
   {
    "time": "1:00",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",
@@ -28,21 +34,30 @@
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "3 carts.",
+   "amount": {
+    "number": "3",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "3:00",
-   "amount": "0.2 g",
+   "amount": {
+    "number": "0.2",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

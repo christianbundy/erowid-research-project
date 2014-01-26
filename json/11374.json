@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "CP 55,940",
    "form": "capsule"
   },
   {
    "time": "2:05",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "CP 55,940",
    "form": "capsule"

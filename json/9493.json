@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"
   },
   {
    "time": "2:15",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet",
@@ -36,7 +45,10 @@
   },
   {
    "time": "2:15",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"

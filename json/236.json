@@ -13,32 +13,47 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Levmetamfetamine"
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibuprofen"
   },
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "St. John's Wort"
   },
   {
    "time": "0",
-   "amount": "135 mg",
+   "amount": {
+    "number": "135",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava"
   },

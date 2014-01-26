@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:20",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "tea"
   },
   {
    "time": "0:20",
-   "amount": "45 g",
+   "amount": {
+    "number": "45",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"
   },
   {
    "time": "3:00",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "tea"
   },
   {
    "time": "3:00",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"

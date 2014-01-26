@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 tablets",
+   "amount": {
+    "number": "15",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

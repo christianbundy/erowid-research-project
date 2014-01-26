@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lithium",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lamotrigine ",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

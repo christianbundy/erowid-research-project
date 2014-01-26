@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "2:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "4:00",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "4:02",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

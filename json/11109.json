@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "4 lines",
+   "amount": {
+    "number": "4",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Catha edulis",
    "form": "plant material"

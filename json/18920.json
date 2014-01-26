@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "substance": "bk-MBDB"
   },
   {
    "time": "2:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "substance": "bk-MBDB"
   },
   {

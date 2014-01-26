@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "115 mg",
+   "amount": {
+    "number": "115",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "2C-D-NBOMe",
    "form": "blotter/tab"
@@ -37,7 +43,10 @@
   },
   {
    "time": "9:00",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Etizolam",
    "form": "pill/tablet"

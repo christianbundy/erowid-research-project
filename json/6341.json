@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-4",
    "form": "capsule"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"

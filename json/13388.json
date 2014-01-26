@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT"
   },
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Methoxetamine "
   }

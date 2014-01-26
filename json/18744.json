@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 ml",
+   "amount": {
+    "number": "20",
+    "unit": "ml"
+   },
    "administration": "IV",
    "substance": "Cerebrolysin"
   },
   {
    "time": "0",
-   "amount": "T+ 0:10",
+   "amount": {
+    "number": "T+",
+    "unit": "0:10"
+   },
    "administration": "16 ug",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "0:10",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Pramiracetam"
   },
   {
    "time": "0",
-   "amount": "T+ 0:10",
+   "amount": {
+    "number": "T+",
+    "unit": "0:10"
+   },
    "administration": "1 g",
    "substance": "oral"
   },

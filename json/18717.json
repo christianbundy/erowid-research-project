@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "210 mg",
+   "amount": {
+    "number": "210",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "BDB ",
    "form": "capsule"
   },
   {
    "time": "1:58",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "BDB ",
    "form": "capsule"
   },
   {
    "time": "1:58",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"
   },
   {
    "time": "3:05",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "6:14",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"

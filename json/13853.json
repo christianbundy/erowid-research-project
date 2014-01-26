@@ -19,14 +19,20 @@
   },
   {
    "time": "3:00",
-   "amount": "9.0 g",
+   "amount": {
+    "number": "9.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material"
   },
   {
    "time": "5:00",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material"

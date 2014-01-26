@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 tsp",
+   "amount": {
+    "number": "0.25",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0:12",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

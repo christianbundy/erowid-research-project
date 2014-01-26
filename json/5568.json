@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT",
    "form": "liquid"
   },
   {
    "time": "4:40",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT",
    "form": "liquid"

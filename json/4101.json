@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "650 mg",
+   "amount": {
+    "number": "650",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "1:25",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:25",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "2:05",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

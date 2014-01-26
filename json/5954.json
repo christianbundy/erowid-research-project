@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "81 mg",
+   "amount": {
+    "number": "81",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "4 joints/cigs",
+   "amount": {
+    "number": "4",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",

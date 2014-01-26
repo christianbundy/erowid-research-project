@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,13 +30,19 @@
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "0:05",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   }

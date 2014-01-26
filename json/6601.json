@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.4 g",
+   "amount": {
+    "number": "9.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "cookie/food"
   },
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "pill/tablet"

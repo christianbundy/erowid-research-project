@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "2:00",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "extract"
   },
   {
    "time": "3:05",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "extract"
   },
   {
    "time": "11:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "18:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

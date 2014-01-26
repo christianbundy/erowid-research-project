@@ -13,70 +13,100 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "2:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "8:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "8:30",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "9:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "13:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "14:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"

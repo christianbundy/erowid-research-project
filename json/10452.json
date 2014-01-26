@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 seeds",
+   "amount": {
+    "number": "16",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
@@ -27,7 +30,10 @@
   },
   {
    "time": "5:00",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

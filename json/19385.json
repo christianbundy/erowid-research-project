@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 buttons",
+   "amount": {
+    "number": "6",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "fresh"
   },
   {
    "time": "1:00",
-   "amount": "8 tsp",
+   "amount": {
+    "number": "8",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "dried"
   },
   {
    "time": "2:00",
-   "amount": "4 tsp",
+   "amount": {
+    "number": "4",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "ground/crushed"
   },
   {
    "time": "3:00",
-   "amount": "8 cups",
+   "amount": {
+    "number": "8",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "tea"

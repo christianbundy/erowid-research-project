@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "425 mg",
+   "amount": {
+    "number": "425",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

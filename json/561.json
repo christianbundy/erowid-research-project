@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "94 mg",
+   "amount": {
+    "number": "94",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "0:45",
-   "amount": "94 mg",
+   "amount": {
+    "number": "94",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "94 mg",
+   "amount": {
+    "number": "94",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"

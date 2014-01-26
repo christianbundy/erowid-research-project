@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.3 g",
+   "amount": {
+    "number": "5.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"

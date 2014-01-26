@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.08 oz",
+   "amount": {
+    "number": "0.08",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

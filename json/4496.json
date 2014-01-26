@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:00",
-   "amount": "0.0333 g",
+   "amount": {
+    "number": "0.0333",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"
   },
   {
    "time": "0:10",
-   "amount": "0.05 g",
+   "amount": {
+    "number": "0.05",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

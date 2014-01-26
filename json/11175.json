@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.5 flowers",
+   "amount": {
+    "number": "4.5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "tea"

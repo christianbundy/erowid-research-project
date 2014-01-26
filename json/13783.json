@@ -13,34 +13,52 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "0:30",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "3:30",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "4:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "5:30",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines"
   }

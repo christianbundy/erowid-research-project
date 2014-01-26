@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "2:47",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"

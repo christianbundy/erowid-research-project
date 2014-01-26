@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "?? ",
+   "amount": {
+    "number": "??",
+    "unit": ""
+   },
    "substance": "Cannabis",
    "form": "tar/resin",
    "specific": "Hash"

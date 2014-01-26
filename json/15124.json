@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT"
   },
@@ -24,7 +27,10 @@
   },
   {
    "time": "9:00",
-   "amount": "0.125 mg",
+   "amount": {
+    "number": "0.125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   },

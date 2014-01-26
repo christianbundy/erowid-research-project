@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "2C-E",
    "form": "powder/crystals"

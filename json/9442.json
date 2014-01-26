@@ -20,21 +20,30 @@
   },
   {
    "time": "0:00",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:25",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "extract"
   },
   {
    "time": "0:25",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "plant material"

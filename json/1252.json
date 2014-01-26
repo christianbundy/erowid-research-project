@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "smoked",
    "substance": "Cocaine",
    "form": "freebase"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "smoked",
    "substance": "Cocaine",
    "form": "freebase"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

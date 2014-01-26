@@ -19,7 +19,10 @@
   },
   {
    "time": "1:46",
-   "amount": "1.75 g",
+   "amount": {
+    "number": "1.75",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

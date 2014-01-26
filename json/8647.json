@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "2:15",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Mescaline",
    "form": "powder/crystals"

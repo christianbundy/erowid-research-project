@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "700 mg",
+   "amount": {
+    "number": "700",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",
@@ -35,7 +44,10 @@
   },
   {
    "time": "0:45",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -43,21 +55,30 @@
   },
   {
    "time": "1:00",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -65,21 +86,30 @@
   },
   {
    "time": "3:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "5:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"

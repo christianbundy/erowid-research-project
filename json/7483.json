@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

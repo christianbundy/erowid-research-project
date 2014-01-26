@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

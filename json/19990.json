@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   },
   {
    "time": "0",
-   "amount": "T+ 0:05",
+   "amount": {
+    "number": "T+",
+    "unit": "0:05"
+   },
    "administration": "1.0 mg",
    "substance": "sublingual"
   },
@@ -43,7 +49,10 @@
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Tobacco"
   }

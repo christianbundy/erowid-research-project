@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

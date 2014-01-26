@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 tsp",
+   "amount": {
+    "number": "6",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Scopolamine",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Scopolamine",
    "form": "pill/tablet"

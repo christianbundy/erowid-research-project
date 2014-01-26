@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

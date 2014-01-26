@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "360 mg",
+   "amount": {
+    "number": "360",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion"
   },
   {
    "time": "2:30",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:10",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion"
   }

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "substance": "Buprenorphine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "substance": "Oxycodone",
    "form": "pill/tablet"
   }

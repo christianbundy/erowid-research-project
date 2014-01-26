@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 ml",
+   "amount": {
+    "number": "250",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

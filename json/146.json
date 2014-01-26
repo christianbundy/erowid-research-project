@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "10:25",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "12:25",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"

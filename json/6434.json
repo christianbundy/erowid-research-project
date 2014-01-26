@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "liquid",
@@ -27,7 +30,10 @@
   },
   {
    "time": "2:15",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "liquid",
@@ -35,7 +41,10 @@
   },
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

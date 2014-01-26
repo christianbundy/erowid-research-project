@@ -11,19 +11,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": ".25 tablets",
+   "amount": {
+    "number": ".25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   },
   {
    "time": "0:15",
-   "amount": ".25 tablets",
+   "amount": {
+    "number": ".25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   },
   {
    "time": "0:00",
-   "amount": "1.5 tablets",
+   "amount": {
+    "number": "1.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Bad/Suspect Ecstasy"
   }

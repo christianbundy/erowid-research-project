@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"

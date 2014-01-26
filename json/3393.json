@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "3:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "8:30",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "12:00",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

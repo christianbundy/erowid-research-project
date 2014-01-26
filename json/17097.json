@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 shots",
+   "amount": {
+    "number": "5",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

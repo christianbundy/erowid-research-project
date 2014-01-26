@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.4 joints/cigs",
+   "amount": {
+    "number": "0.4",
+    "unit": "joints/cigs"
+   },
    "administration": "inhaled",
    "substance": "Cannabis",
    "form": "flowers"
   },
   {
    "time": "0",
-   "amount": "0.4 joints/cigs",
+   "amount": {
+    "number": "0.4",
+    "unit": "joints/cigs"
+   },
    "administration": "inhaled",
    "substance": "Leonotis leonurus",
    "form": "flowers"
   },
   {
    "time": "0",
-   "amount": "0.2 joints/cigs",
+   "amount": {
+    "number": "0.2",
+    "unit": "joints/cigs"
+   },
    "administration": "inhaled",
    "substance": "Lotus/Lily",
    "form": "plant material",

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "4-AcO-DMT",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"

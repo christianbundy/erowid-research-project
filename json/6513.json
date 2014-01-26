@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0:05",
-   "amount": "0.075 mg",
+   "amount": {
+    "number": "0.075",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonidine",
    "form": "pill/tablet"

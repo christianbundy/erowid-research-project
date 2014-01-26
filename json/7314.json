@@ -24,7 +24,10 @@
   },
   {
    "time": "Cannabis",
-   "amount": "(plant material)",
+   "amount": {
+    "number": "(plant",
+    "unit": "material)"
+   },
    "substance": "1 cig."
   }
  ],

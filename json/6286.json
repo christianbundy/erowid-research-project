@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 tablets",
+   "amount": {
+    "number": "22",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"

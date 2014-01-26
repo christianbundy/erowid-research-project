@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "875 mg",
+   "amount": {
+    "number": "875",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline"
   }

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "2:30",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Risperidone",
    "form": "pill/tablet"

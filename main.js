@@ -6,9 +6,9 @@ collection = {};
 var main = function(e) {
 	if (typeof e.dose !== 'undefined') {
 		for (var i = 0; i < e.dose.length; i++) {
-			for (var k in e.dose[i]) {
-				if (e.dose[i][k] == '') {
-					delete e.dose[i][k];
+			if (typeof e.dose[i].amount !== 'undefined') {
+				if (e.dose[i].amount.unit === 'g') {
+					e.dose[i].amount.grams = e.dose[i].amount.number;
 				}
 			}
 		};

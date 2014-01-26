@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Albuterol"
   },
   {
    "time": "0:30",
-   "amount": "12 hits",
+   "amount": {
+    "number": "12",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Albuterol"
   }

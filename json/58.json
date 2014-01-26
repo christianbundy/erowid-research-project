@@ -18,7 +18,10 @@
   },
   {
    "time": "5:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methoxetamine "
   }

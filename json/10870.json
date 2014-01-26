@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 glasses",
+   "amount": {
+    "number": "8",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "form": "powder/crystals",

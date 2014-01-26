@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "5.5 oz",
+   "amount": {
+    "number": "5.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,7 +33,10 @@
   },
   {
    "time": "1:30",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

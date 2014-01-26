@@ -13,43 +13,64 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lecithin"
   },
   {
    "time": "0:00",
-   "amount": "32 oz",
+   "amount": {
+    "number": "32",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Coffee"
   },
   {
    "time": "0:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": "0:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:00",
-   "amount": "0.25 mg",
+   "amount": {
+    "number": "0.25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   },
   {
    "time": "0:00",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT"
   },
@@ -61,7 +82,10 @@
   },
   {
    "time": "5:00",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
@@ -73,13 +97,19 @@
   },
   {
    "time": "6:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "8:30",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   }

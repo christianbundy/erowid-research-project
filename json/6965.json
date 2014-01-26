@@ -13,41 +13,59 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"
   },
   {
    "time": "0:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0:45",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"
   },
   {
    "time": "4:00",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
@@ -59,14 +77,20 @@
   },
   {
    "time": "60:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil",
    "form": "pill/tablet"
   },
   {
    "time": "96:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",

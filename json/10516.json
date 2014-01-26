@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Lactuca spp.",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "IV",
    "substance": "Lactuca spp.",
    "form": "extract"

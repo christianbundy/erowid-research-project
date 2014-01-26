@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 Tbsp",
+   "amount": {
+    "number": "4",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "extract"
@@ -31,7 +34,10 @@
   },
   {
    "time": "0:00",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "extract"
@@ -44,14 +50,20 @@
   },
   {
    "time": "0:00",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "14 mg",
+   "amount": {
+    "number": "14",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mirtazapine",
    "form": "daily"

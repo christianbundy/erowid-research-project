@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:10",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "powder/crystals"

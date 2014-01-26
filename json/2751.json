@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "cookie/food"
   },
   {
    "time": "0:30",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "cookie/food"

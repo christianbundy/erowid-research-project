@@ -19,21 +19,30 @@
   },
   {
    "time": "0:00",
-   "amount": "90 ml",
+   "amount": {
+    "number": "90",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0:00",
-   "amount": "76 mg",
+   "amount": {
+    "number": "76",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

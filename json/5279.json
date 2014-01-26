@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "9:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "11:00",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"

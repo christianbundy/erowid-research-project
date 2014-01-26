@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "0:45",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"

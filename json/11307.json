@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "59 mg",
+   "amount": {
+    "number": "59",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "extract"

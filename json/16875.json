@@ -13,56 +13,80 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibuprofen",
    "form": "pill/tablet"
   },
   {
    "time": "1:10",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "1:16",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"
   },
   {
    "time": "1:45",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibuprofen",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 oz",
+   "amount": {
+    "number": "15",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

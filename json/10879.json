@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Aniracetam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.75 ",
+   "amount": {
+    "number": "0.75",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"

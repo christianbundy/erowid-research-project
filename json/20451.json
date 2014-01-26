@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

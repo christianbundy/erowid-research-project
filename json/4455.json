@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 caps",
+   "amount": {
+    "number": "40",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea",

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0:30",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"

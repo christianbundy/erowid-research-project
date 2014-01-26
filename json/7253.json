@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

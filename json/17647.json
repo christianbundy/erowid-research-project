@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Mucuna pruriens",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Mucuna pruriens",
    "form": "extract"

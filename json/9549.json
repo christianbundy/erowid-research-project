@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "1 tablet",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "6:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": "(gas)",
-   "amount": "T+ 6:00",
+   "amount": {
+    "number": "T+",
+    "unit": "6:00"
+   },
    "administration": "1 repeated",
    "substance": "smoked"
   }

@@ -25,14 +25,20 @@
   },
   {
    "time": "0",
-   "amount": "0.1 mg",
+   "amount": {
+    "number": "0.1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonidine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "daily"

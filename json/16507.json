@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "extract"
@@ -33,7 +39,10 @@
   },
   {
    "time": "2:15",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "pill/tablet"

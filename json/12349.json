@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil"
   },
   {
    "time": "0",
-   "amount": "75 ug",
+   "amount": {
+    "number": "75",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   }

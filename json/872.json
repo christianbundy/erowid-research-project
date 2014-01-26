@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1050 mg",
+   "amount": {
+    "number": "1050",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "2800 mg",
+   "amount": {
+    "number": "2800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"

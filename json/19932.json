@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"
@@ -27,7 +30,10 @@
   },
   {
    "time": "8:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   }

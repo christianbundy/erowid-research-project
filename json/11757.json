@@ -21,28 +21,40 @@
   },
   {
    "time": "0:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "1:10",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "1:40",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"

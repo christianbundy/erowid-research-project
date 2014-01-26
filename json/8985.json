@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lithium",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "LSA",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "capsule"
@@ -46,7 +55,10 @@
   },
   {
    "time": "0",
-   "amount": "5.5 joints/cigs",
+   "amount": {
+    "number": "5.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

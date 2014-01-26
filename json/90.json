@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methoxetamine "
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "1 mg",
    "substance": "sublingual"
   },

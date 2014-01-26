@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 oz",
+   "amount": {
+    "number": "12",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

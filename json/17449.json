@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "5:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

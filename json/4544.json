@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "630 seeds",
+   "amount": {
+    "number": "630",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory"
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "1:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

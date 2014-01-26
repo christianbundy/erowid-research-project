@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "3:30",
-   "amount": "3 capsls",
+   "amount": {
+    "number": "3",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "capsule"

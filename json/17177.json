@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

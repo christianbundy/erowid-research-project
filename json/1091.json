@@ -12,49 +12,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 bowls",
+   "amount": {
+    "number": "4",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "0.6667 tablets",
+   "amount": {
+    "number": "0.6667",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "0.6667 tablets",
+   "amount": {
+    "number": "0.6667",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "4 lines",
+   "amount": {
+    "number": "4",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"

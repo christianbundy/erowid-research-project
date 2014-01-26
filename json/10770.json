@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0:35",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "1:45",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "2:25",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "2:55",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "7:35",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

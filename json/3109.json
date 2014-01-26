@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT"
   },
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

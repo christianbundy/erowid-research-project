@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2-Aminoindan",
    "form": "capsule"
@@ -27,7 +30,10 @@
   },
   {
    "time": "1:00",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"
@@ -41,7 +47,10 @@
   },
   {
    "time": "2:45",
-   "amount": "3.5 hits",
+   "amount": {
+    "number": "3.5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

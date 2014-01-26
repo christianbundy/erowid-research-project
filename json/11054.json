@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3600 mg",
+   "amount": {
+    "number": "3600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Metaxalone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "40 ug",
+   "amount": {
+    "number": "40",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
    "form": "pill/tablet"

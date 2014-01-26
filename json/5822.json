@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 leaves",
+   "amount": {
+    "number": "5",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "fresh"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "9 seeds",
+   "amount": {
+    "number": "9",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "pill/tablet"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 bowls",
+   "amount": {
+    "number": "0.75",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

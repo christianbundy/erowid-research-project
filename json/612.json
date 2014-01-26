@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"

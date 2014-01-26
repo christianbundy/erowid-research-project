@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

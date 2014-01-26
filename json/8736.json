@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.75 g",
+   "amount": {
+    "number": "1.75",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

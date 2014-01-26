@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "375 mg",
+   "amount": {
+    "number": "375",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

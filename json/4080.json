@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Unknown",
    "form": "capsule"
   },
   {
    "time": "0:40",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Unknown",
    "form": "capsule"
   },
   {
    "time": "0:40",
-   "amount": "0.5 glasses",
+   "amount": {
+    "number": "0.5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -35,7 +44,10 @@
   },
   {
    "time": "0:00",
-   "amount": "0.3333 joints/cigs",
+   "amount": {
+    "number": "0.3333",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

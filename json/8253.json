@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "liquid"
   },
   {
    "time": "25:00",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"

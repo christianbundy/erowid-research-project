@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.2 mg",
+   "amount": {
+    "number": "2.2",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvinorin A"
   }

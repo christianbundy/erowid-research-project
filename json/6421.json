@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

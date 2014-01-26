@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "4 glasses",
+   "amount": {
+    "number": "4",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Yarrow",
    "form": "tea"

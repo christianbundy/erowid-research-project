@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Hydromorphone"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "MDMA"
   },
   {
    "time": "0:15",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:25",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Hydromorphone"
   }

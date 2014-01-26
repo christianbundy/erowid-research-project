@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "0",
-   "amount": "T+ 0:40",
+   "amount": {
+    "number": "T+",
+    "unit": "0:40"
+   },
    "administration": "1 seed",
    "substance": "oral"
   },
@@ -30,7 +36,10 @@
   },
   {
    "time": "oral",
-   "amount": "H.B. Woodrose",
+   "amount": {
+    "number": "H.B.",
+    "unit": "Woodrose"
+   },
    "administration": "(ground / crushed)",
    "substance": "T+ 2:20"
   },

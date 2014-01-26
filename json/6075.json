@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "tea",
@@ -21,7 +24,10 @@
   },
   {
    "time": "1:00",
-   "amount": "9.0 g",
+   "amount": {
+    "number": "9.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "tea",

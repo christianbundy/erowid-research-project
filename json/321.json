@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 ml",
+   "amount": {
+    "number": "2.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GVL",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
@@ -26,21 +29,30 @@
   },
   {
    "time": "0",
-   "amount": "10 glasses",
+   "amount": {
+    "number": "10",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "3 ",
+   "amount": {
+    "number": "3",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"

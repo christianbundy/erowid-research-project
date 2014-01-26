@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.7 mg",
+   "amount": {
+    "number": "3.7",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"

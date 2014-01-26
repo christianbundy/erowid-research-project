@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "0.25 mg",
+   "amount": {
+    "number": "0.25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
@@ -33,21 +39,30 @@
   },
   {
    "time": "5:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "5:30",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "6:00",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

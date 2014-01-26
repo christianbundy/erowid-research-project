@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 in",
+   "amount": {
+    "number": "12",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "2:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

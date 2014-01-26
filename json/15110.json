@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 seed",
+   "amount": {
+    "number": "1",
+    "unit": "seed"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"

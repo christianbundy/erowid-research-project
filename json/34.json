@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 g",
+   "amount": {
+    "number": "35",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "dried",
@@ -21,69 +24,102 @@
   },
   {
    "time": "0:47",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline"
   },
   {
    "time": "1:58",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "1:58",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Damiana"
   },
   {
    "time": "1:58",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Leonotis nepetaefolia"
   },
   {
    "time": "2:16",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "25C-NBOMe"
   },
   {
    "time": "3:35",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "4:45",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "4:45",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Damiana"
   },
   {
    "time": "4:45",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Leonotis nepetaefolia"
   },
   {
    "time": "12:09",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmaline",
    "form": "pill/tablet"
   },
   {
    "time": "12:09",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "pill/tablet"

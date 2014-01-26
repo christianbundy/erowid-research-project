@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0:30",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

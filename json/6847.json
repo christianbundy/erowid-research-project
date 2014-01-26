@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

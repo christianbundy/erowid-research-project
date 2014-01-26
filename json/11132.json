@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "powder/crystals"
@@ -27,21 +30,30 @@
   },
   {
    "time": "0:40",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"

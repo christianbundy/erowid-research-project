@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Moclobemide",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "55 ml",
+   "amount": {
+    "number": "55",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"

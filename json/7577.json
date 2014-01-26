@@ -19,21 +19,30 @@
   },
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Mandrake",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "roots"

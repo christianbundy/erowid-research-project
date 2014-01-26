@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSZ",
    "form": "blotter/tab"
   },
   {
    "time": "1:30",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSZ",
    "form": "blotter/tab"

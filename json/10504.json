@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "55 mg",
+   "amount": {
+    "number": "55",
+    "unit": "mg"
+   },
    "substance": "Oxycodone"
   },
   {
    "time": "4:00",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "substance": "Naltrexone"
   }
  ],

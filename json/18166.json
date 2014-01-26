@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 leaves",
+   "amount": {
+    "number": "7",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"

@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "2500 ml",
+   "amount": {
+    "number": "2500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "liquid"

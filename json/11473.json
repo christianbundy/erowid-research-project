@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Temazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Trazodone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": ".9 mg",
+   "amount": {
+    "number": ".9",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonidine",
    "form": "pill/tablet"

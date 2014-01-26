@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"

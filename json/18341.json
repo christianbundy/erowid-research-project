@@ -47,20 +47,29 @@
   },
   {
    "time": "6:30",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   },
   {
    "time": "24:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "34:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

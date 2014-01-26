@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "1:00",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -35,7 +44,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -43,14 +55,20 @@
   },
   {
    "time": "3:00",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "4:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
@@ -63,7 +81,10 @@
   },
   {
    "time": "4:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

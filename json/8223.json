@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "42 mg",
+   "amount": {
+    "number": "42",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DPT",
    "form": "freebase"

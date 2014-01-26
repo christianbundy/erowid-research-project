@@ -20,14 +20,20 @@
   },
   {
    "time": "15:00",
-   "amount": "1300 mg",
+   "amount": {
+    "number": "1300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "roots"
   },
   {
    "time": "15:40",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "powder/crystals"

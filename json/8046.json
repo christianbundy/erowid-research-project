@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOC"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "repeated",
    "substance": "smoked"
   },
@@ -39,7 +45,10 @@
   },
   {
    "time": "6:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone"
   }

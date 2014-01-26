@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 ml",
+   "amount": {
+    "number": "450",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Sassafras",
    "form": "tea"

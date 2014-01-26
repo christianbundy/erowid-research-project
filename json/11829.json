@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 ",
+   "amount": {
+    "number": "5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"
   },
   {
    "time": "0",
-   "amount": "7 ",
+   "amount": {
+    "number": "7",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"

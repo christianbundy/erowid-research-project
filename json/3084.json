@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Sertraline",
    "form": "ground/crushed"
   },
   {
    "time": "24:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Bupropion",
    "form": "ground/crushed"
   },
   {
    "time": "25:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Bupropion",
    "form": "ground/crushed"

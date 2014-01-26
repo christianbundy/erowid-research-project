@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "substance": "Amphetamines"
   }
  ],

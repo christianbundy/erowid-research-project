@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "260 ml",
+   "amount": {
+    "number": "260",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

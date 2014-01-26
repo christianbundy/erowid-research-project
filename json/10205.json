@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propranolol",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"

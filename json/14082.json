@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "96 mg",
+   "amount": {
+    "number": "96",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   },

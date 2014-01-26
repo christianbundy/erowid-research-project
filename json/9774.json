@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "165 mg",
+   "amount": {
+    "number": "165",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"

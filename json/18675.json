@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 ug",
+   "amount": {
+    "number": "800",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "800 ug",
+   "amount": {
+    "number": "800",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "4:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "280 mg",
+   "amount": {
+    "number": "280",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methcathinone",
    "form": "powder/crystals"

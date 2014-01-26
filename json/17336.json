@@ -19,7 +19,10 @@
   },
   {
    "time": "35:00",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"
@@ -33,7 +36,10 @@
   },
   {
    "time": "58:00",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"

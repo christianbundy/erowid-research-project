@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.4 g",
+   "amount": {
+    "number": "2.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "840 mg",
+   "amount": {
+    "number": "840",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "form": "daily",
@@ -28,14 +34,20 @@
   },
   {
    "time": "6:00",
-   "amount": "2.4 g",
+   "amount": {
+    "number": "2.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "6:00",
-   "amount": "840 mg",
+   "amount": {
+    "number": "840",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "form": "daily",
@@ -43,14 +55,20 @@
   },
   {
    "time": "11:00",
-   "amount": "2.4 g",
+   "amount": {
+    "number": "2.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "11:00",
-   "amount": "840 mg",
+   "amount": {
+    "number": "840",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "form": "daily",

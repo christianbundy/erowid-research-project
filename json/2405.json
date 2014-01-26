@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "85 g",
+   "amount": {
+    "number": "85",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "7 capsls",
+   "amount": {
+    "number": "7",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "0.3 bowls",
+   "amount": {
+    "number": "0.3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

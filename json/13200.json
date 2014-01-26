@@ -19,7 +19,10 @@
   },
   {
    "time": "0:45",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
@@ -32,7 +35,10 @@
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cacti",
    "form": "dried",

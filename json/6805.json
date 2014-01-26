@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "ground/crushed"

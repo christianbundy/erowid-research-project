@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 g",
+   "amount": {
+    "number": "35",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
-   "amount": "330 mg",
+   "amount": {
+    "number": "330",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "liquid"
   },
   {
    "time": "5:45",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

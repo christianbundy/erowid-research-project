@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 caps",
+   "amount": {
+    "number": "4",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "fresh",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0",
-   "amount": "4 caps",
+   "amount": {
+    "number": "4",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "pill/tablet"

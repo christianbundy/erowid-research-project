@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "175 ug",
+   "amount": {
+    "number": "175",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline"
   }

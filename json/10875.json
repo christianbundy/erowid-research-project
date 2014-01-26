@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "32 oz",
+   "amount": {
+    "number": "32",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,7 +30,10 @@
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonazepam",
    "form": "ground/crushed"

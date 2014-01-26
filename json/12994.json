@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0:18",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"
   },
   {
    "time": "7:37",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

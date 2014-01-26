@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "powder/crystals"
   },
   {
    "time": "0:30",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"

@@ -19,28 +19,40 @@
   },
   {
    "time": "0:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "capsule"
   },
   {
    "time": "3:30",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"
   },
   {
    "time": "3:45",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"

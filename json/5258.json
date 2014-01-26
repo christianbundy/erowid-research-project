@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "4.5 mg",
+   "amount": {
+    "number": "4.5",
+    "unit": "mg"
+   },
    "substance": "Alprazolam",
    "form": "pill/tablet"
   }

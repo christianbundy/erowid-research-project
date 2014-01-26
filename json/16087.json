@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "10:10",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "rectal",
    "substance": "MDMA",
    "form": "pill/tablet"

@@ -13,33 +13,48 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "5:00",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -13,18 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "substance": "2C-T-2"
   },
   {
    "time": "0",
-   "amount": "T+ 1:00",
+   "amount": {
+    "number": "T+",
+    "unit": "1:00"
+   },
    "administration": "1 repeated",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
-   "amount": "(plant material)",
+   "amount": {
+    "number": "(plant",
+    "unit": "material)"
+   },
    "administration": "T+ 1:00",
    "substance": "3 oz"
   }

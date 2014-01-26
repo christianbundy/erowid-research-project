@@ -13,56 +13,80 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "2:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "5:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "7:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "8:00",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "9:00",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "10:00",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

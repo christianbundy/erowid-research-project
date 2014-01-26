@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

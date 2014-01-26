@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 seeds",
+   "amount": {
+    "number": "250",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "4:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

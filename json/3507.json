@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 g",
+   "amount": {
+    "number": "22",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

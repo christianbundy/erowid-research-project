@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "substance": "Alprazolam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "substance": "Clonazepam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "substance": "Pharmaceuticals",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-MiPT",
    "form": "powder/crystals"

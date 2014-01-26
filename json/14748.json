@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "powder/crystals"
   },
   {
    "time": "4:35",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DPT",
    "form": "powder/crystals"
@@ -40,7 +49,10 @@
   },
   {
    "time": "5:15",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB"
   }

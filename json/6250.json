@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "660 ml",
+   "amount": {
+    "number": "660",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

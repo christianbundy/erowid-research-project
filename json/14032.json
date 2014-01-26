@@ -13,52 +13,76 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 tsp",
+   "amount": {
+    "number": "5",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "liquid"
   },
   {
    "time": "0:40",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "2:10",
-   "amount": "0.33 g",
+   "amount": {
+    "number": "0.33",
+    "unit": "g"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   },
   {
    "time": "7:50",
-   "amount": "0.6 g",
+   "amount": {
+    "number": "0.6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "8:50",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "12:10",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "14:20",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "17:20",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

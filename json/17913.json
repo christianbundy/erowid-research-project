@@ -12,28 +12,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0:04",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0:08",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0:12",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

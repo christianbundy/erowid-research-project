@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "0.5 cups",
+   "amount": {
+    "number": "0.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

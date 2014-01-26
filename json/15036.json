@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"

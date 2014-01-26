@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 drops",
+   "amount": {
+    "number": "2",
+    "unit": "drops"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

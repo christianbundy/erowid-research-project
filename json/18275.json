@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "2C-B"
   },
   {
    "time": "3:30",
-   "amount": ".25 tablets",
+   "amount": {
+    "number": ".25",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "2C-B"
   }

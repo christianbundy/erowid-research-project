@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.3 g",
+   "amount": {
+    "number": "2.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 shots",
+   "amount": {
+    "number": "7",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

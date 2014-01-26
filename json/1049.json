@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Temazepam",
    "form": "pill/tablet"

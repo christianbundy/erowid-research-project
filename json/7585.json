@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 bowls",
+   "amount": {
+    "number": "5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

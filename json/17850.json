@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,7 +34,10 @@
   },
   {
    "time": "3:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"

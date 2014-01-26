@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Virola spp.",
    "form": "tar/resin"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "2.5 seeds",
+   "amount": {
+    "number": "2.5",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"

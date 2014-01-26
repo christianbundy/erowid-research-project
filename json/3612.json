@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "340 mg",
+   "amount": {
+    "number": "340",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "powder/crystals",

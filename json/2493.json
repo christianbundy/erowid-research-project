@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

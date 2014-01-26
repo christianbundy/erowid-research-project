@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.25 g",
+   "amount": {
+    "number": "1.25",
+    "unit": "g"
+   },
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   }

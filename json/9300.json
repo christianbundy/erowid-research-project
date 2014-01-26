@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "specific": "BZP"
   },
   {
    "time": "0",
-   "amount": "4 joints/cigs",
+   "amount": {
+    "number": "4",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   }

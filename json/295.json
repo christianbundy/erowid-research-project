@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"

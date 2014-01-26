@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"

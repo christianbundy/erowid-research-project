@@ -13,49 +13,73 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Nicotine"
   },
   {
    "time": "0:00",
-   "amount": "260 mg",
+   "amount": {
+    "number": "260",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "1:16",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Nicotine"
   },
   {
    "time": "1:55",
-   "amount": "260 mg",
+   "amount": {
+    "number": "260",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "3:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "4:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "5:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "6:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   }

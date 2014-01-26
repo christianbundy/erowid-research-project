@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"

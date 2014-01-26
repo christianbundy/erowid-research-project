@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "42 g",
+   "amount": {
+    "number": "42",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "powder/crystals",

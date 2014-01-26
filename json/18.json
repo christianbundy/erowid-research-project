@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "2:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:45",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -43,7 +52,10 @@
   },
   {
    "time": "10:15",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Etizolam"
   }

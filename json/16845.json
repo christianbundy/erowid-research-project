@@ -12,53 +12,77 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"
   },
   {
    "time": "2:15",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "5:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "17:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"
   },
   {
    "time": "17:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "17:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "17:00",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "28:00",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   }

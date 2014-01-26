@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "52 mg",
+   "amount": {
+    "number": "52",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "extract"

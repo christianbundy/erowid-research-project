@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"
@@ -24,7 +27,10 @@
   },
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

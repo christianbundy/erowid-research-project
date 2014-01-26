@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
@@ -27,28 +30,40 @@
   },
   {
    "time": "21:00",
-   "amount": "800 ug",
+   "amount": {
+    "number": "800",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "28:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "30:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "45:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

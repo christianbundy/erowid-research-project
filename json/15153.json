@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

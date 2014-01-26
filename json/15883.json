@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "capsule",
@@ -35,7 +41,10 @@
   },
   {
    "time": "0:25",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 leaves",
+   "amount": {
+    "number": "3",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "plant material"

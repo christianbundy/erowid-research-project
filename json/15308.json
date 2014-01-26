@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dihydrocodeine"
   }

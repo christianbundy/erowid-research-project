@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.125 tsp",
+   "amount": {
+    "number": "0.125",
+    "unit": "tsp"
+   },
    "administration": "insufflated",
    "substance": "Virola spp.",
    "form": "tar/resin"

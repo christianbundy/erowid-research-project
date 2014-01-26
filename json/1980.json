@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

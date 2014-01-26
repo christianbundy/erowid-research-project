@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:55",
-   "amount": "108 mg",
+   "amount": {
+    "number": "108",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "70 mg",
    "substance": "oral"
   },

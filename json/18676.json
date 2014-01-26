@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-2",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"

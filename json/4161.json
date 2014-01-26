@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 g",
+   "amount": {
+    "number": "1000",
+    "unit": "g"
+   },
    "administration": "sublingual",
    "substance": "Catha edulis",
    "form": "plant material"

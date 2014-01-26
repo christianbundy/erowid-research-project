@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1500 ml",
+   "amount": {
+    "number": "1500",
+    "unit": "ml"
+   },
    "administration": "inhaled",
    "substance": "Ether",
    "form": "liquid"

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "7:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
@@ -26,28 +29,40 @@
   },
   {
    "time": "0:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "3:50",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

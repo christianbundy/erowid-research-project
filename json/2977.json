@@ -11,13 +11,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "T+ 2:30",
+   "amount": {
+    "number": "T+",
+    "unit": "2:30"
+   },
    "administration": "75 mg",
    "substance": "SC"
   }

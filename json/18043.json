@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pregabalin",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1400 mg",
+   "amount": {
+    "number": "1400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pregabalin",
    "form": "pill/tablet"

@@ -21,7 +21,10 @@
   },
   {
    "time": "0:00",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "Bromo-Dragonfly",
    "form": "powder/crystals"

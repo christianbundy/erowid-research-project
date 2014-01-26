@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
@@ -65,14 +74,20 @@
   },
   {
    "time": "0:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"

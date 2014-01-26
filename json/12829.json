@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/2 cap",
+   "amount": {
+    "number": "1/2",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"

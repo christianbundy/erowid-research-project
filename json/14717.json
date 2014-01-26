@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Venlafaxine"
   },
@@ -37,13 +40,19 @@
   },
   {
    "time": "0:00",
-   "amount": "7.0 mg",
+   "amount": {
+    "number": "7.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 2:45",
+   "amount": {
+    "number": "T+",
+    "unit": "2:45"
+   },
    "administration": "5.0 mg",
    "substance": "oral"
   },
@@ -67,7 +76,10 @@
   },
   {
    "time": "11:45",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   }

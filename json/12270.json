@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"
   },
   {
    "time": "0:05",
-   "amount": "1/4 bowl",
+   "amount": {
+    "number": "1/4",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

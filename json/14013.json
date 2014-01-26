@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 cups",
+   "amount": {
+    "number": "3",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "daily"

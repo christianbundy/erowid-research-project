@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-P",
    "form": "powder/crystals"

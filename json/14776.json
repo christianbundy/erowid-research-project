@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "powder/crystals",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:04",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "powder/crystals",

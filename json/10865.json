@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "95 mg",
+   "amount": {
+    "number": "95",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "1:10",
-   "amount": "55 mg",
+   "amount": {
+    "number": "55",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "powder/crystals"

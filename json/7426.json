@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 ug",
+   "amount": {
+    "number": "15",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "20 ug",
+   "amount": {
+    "number": "20",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "53 mg",
+   "amount": {
+    "number": "53",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT",
    "form": "powder/crystals"

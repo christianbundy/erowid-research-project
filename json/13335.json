@@ -37,7 +37,10 @@
   },
   {
    "time": "0",
-   "amount": "0 mg",
+   "amount": {
+    "number": "0",
+    "unit": "mg"
+   },
    "substance": "Amphetamines"
   }
  ],

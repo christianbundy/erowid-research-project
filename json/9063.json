@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Various",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"

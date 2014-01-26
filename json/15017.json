@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Paroxetine",
    "form": "pill/tablet"
   },
   {
    "time": "72:00",
-   "amount": "0.3333 g",
+   "amount": {
+    "number": "0.3333",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

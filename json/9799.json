@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
@@ -26,14 +29,20 @@
   },
   {
    "time": "0",
-   "amount": "0.4 g",
+   "amount": {
+    "number": "0.4",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "ground/crushed"

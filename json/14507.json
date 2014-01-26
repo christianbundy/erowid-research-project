@@ -39,14 +39,20 @@
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "T+ 7:00",
+   "amount": {
+    "number": "T+",
+    "unit": "7:00"
+   },
    "administration": "repeated",
    "substance": "smoked"
   },

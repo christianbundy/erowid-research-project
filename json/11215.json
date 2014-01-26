@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 drops",
+   "amount": {
+    "number": "6",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
   },
   {
    "time": "4:00",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
   },
   {
    "time": "6:00",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
   },
   {
    "time": "8:00",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"

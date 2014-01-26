@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1700 mg",
+   "amount": {
+    "number": "1700",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
@@ -31,7 +37,10 @@
   },
   {
    "time": "1:30",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "powder/crystals"
@@ -27,21 +30,30 @@
   },
   {
    "time": "0:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

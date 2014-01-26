@@ -31,7 +31,10 @@
   },
   {
    "time": "0",
-   "amount": "8 drops",
+   "amount": {
+    "number": "8",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "extract"

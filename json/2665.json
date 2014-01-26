@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "21 mg",
+   "amount": {
+    "number": "21",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "powder/crystals"

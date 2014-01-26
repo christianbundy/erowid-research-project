@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DET"
   },
   {
    "time": "2:30",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MBDB"
   }

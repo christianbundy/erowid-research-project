@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": "pill/tablet"

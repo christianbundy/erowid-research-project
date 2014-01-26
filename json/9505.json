@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "30 ml",
+   "amount": {
+    "number": "30",
+    "unit": "ml"
+   },
    "administration": "IV",
    "substance": "Ketamine",
    "form": "liquid"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "1:00",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "85 mg",
+   "amount": {
+    "number": "85",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"

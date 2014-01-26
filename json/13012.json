@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-T-7",
    "form": "powder/crystals"

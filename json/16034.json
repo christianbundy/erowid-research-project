@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Risperidone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "300 ml",
+   "amount": {
+    "number": "300",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

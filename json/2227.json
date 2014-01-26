@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "92 mg",
+   "amount": {
+    "number": "92",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "1:10",
-   "amount": "138 mg",
+   "amount": {
+    "number": "138",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

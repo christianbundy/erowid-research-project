@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:40",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "pill/tablet"
   },
   {
    "time": "0:40",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "pill/tablet"
   },
   {
    "time": "0:40",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT"
   },
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DET"
   }

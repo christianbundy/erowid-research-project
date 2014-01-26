@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "425 mg",
+   "amount": {
+    "number": "425",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

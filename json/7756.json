@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.8 mg",
+   "amount": {
+    "number": "2.8",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOC",
    "form": "powder/crystals"

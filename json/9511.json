@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mirtazapine",
    "form": "daily"

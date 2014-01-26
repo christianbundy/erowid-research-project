@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"
   },
   {
    "time": "1:50",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -28,7 +34,10 @@
   },
   {
    "time": "1:50",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

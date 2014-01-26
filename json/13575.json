@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 drops",
+   "amount": {
+    "number": "4",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"
   },
   {
    "time": "11:00",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   }

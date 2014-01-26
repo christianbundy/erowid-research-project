@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "MDMA"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "MDMA"
   },
   {
    "time": "1:00",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "4:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "2C-B"
   }

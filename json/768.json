@@ -23,14 +23,20 @@
   },
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

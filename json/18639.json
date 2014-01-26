@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 bowls",
+   "amount": {
+    "number": "5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "plant material"

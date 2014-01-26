@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Rhodiola rosea"
   },
   {
    "time": "1:30",
-   "amount": "35 ",
+   "amount": {
+    "number": "35",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   }

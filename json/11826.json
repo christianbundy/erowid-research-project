@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "transdermal",
    "substance": "Selegeline",
    "form": "patch"
   },
   {
    "time": "0",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Phenylalanine",
    "form": "daily"

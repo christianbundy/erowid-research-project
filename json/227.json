@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 bowls",
+   "amount": {
+    "number": "4",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "plant material"
@@ -27,7 +30,10 @@
   },
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

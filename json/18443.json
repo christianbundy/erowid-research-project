@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 g",
+   "amount": {
+    "number": "4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "1:20",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
@@ -41,7 +50,10 @@
   },
   {
    "time": "3:30",
-   "amount": "4 g",
+   "amount": {
+    "number": "4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

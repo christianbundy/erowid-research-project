@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"

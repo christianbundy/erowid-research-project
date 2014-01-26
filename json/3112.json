@@ -10,13 +10,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "3:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

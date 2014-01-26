@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,35 +24,50 @@
   },
   {
    "time": "0:30",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -57,7 +75,10 @@
   },
   {
    "time": "5:00",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   }

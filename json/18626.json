@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "3 tablets",
    "substance": "oral"
   },
@@ -43,7 +46,10 @@
   },
   {
    "time": "4:15",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MET"
   }

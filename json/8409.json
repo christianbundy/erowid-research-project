@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1600 mg",
+   "amount": {
+    "number": "1600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Aniracetam",
    "form": "daily"

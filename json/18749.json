@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "ground/crushed",

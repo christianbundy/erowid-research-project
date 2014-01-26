@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Eszopiclone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "825 mg",
+   "amount": {
+    "number": "825",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "capsule"

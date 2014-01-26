@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2.5 buttons",
+   "amount": {
+    "number": "2.5",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

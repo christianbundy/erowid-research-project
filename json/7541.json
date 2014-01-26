@@ -19,14 +19,20 @@
   },
   {
    "time": "0:00",
-   "amount": "8 oz",
+   "amount": {
+    "number": "8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"
   },
   {
    "time": "7:15",
-   "amount": "12 oz",
+   "amount": {
+    "number": "12",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

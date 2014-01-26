@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "2:15",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "6:15",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "7:15",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"

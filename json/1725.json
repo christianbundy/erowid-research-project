@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 mg",
+   "amount": {
+    "number": "3.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 cups",
+   "amount": {
+    "number": "4",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"
@@ -25,7 +28,10 @@
   },
   {
    "time": "0:00",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -33,7 +39,10 @@
   },
   {
    "time": "2:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -41,7 +50,10 @@
   },
   {
    "time": "2:30",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -49,7 +61,10 @@
   },
   {
    "time": "4:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -57,7 +72,10 @@
   },
   {
    "time": "4:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "extract"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 ug",
+   "amount": {
+    "number": "40",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "TMA-6"
   },
@@ -24,7 +27,10 @@
   },
   {
    "time": "8:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB"
   }

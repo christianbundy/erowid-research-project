@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibuprofen",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "extract"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0:35",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "powder/crystals"

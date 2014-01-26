@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "0",
-   "amount": "T+ 3:30",
+   "amount": {
+    "number": "T+",
+    "unit": "3:30"
+   },
    "administration": "1 bowl",
    "substance": "smoked"
   }

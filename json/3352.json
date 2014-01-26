@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 glasses",
+   "amount": {
+    "number": "12",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

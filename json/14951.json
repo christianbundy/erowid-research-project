@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 drops",
+   "amount": {
+    "number": "9",
+    "unit": "drops"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

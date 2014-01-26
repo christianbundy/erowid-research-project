@@ -25,7 +25,10 @@
   },
   {
    "time": "0",
-   "amount": "100 ml",
+   "amount": {
+    "number": "100",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

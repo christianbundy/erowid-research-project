@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9000 mg",
+   "amount": {
+    "number": "9000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"

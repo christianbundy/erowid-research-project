@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Mullein",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Lemon Balm",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Skullcap",
    "form": "tea"

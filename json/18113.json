@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "123 mg",
+   "amount": {
+    "number": "123",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "115 mg",
+   "amount": {
+    "number": "115",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

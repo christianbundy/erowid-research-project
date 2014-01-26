@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "0:50",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"

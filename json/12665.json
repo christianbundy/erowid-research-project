@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
-   "amount": "60 seeds",
+   "amount": {
+    "number": "60",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "extract"
@@ -33,7 +39,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
@@ -46,7 +55,10 @@
   },
   {
    "time": "4:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"

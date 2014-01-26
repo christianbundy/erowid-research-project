@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bry",
+   "amount": {
+    "number": "1",
+    "unit": "bry"
+   },
    "administration": "oral",
    "substance": "Miracle Berry",
    "form": "fresh"

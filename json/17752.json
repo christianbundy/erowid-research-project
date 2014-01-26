@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -21,14 +24,20 @@
   },
   {
    "time": "1:30",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

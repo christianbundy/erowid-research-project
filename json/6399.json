@@ -13,41 +13,59 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"
   },
   {
    "time": "24:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"
   },
   {
    "time": "48:00",
-   "amount": "2.3 g",
+   "amount": {
+    "number": "2.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"

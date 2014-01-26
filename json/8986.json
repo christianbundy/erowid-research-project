@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 g",
+   "amount": {
+    "number": "5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"

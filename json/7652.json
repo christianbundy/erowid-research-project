@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Coleus",
    "form": "plant material"

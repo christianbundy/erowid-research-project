@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 seeds",
+   "amount": {
+    "number": "35",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "seeds"
   },
   {
    "time": "2:00",
-   "amount": "70 seeds",
+   "amount": {
+    "number": "70",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "seeds"
   },
   {
    "time": "6:00",
-   "amount": "150 seeds",
+   "amount": {
+    "number": "150",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "seeds"

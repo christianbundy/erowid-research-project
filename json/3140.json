@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 buttons",
+   "amount": {
+    "number": "20",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "powder/crystals"

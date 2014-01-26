@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "plant material"
   },
   {
    "time": "0:20",
-   "amount": "1 flower",
+   "amount": {
+    "number": "1",
+    "unit": "flower"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "plant material"
   },
   {
    "time": "0:25",
-   "amount": "0.5 flowers",
+   "amount": {
+    "number": "0.5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

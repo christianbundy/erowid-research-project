@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "12 ",
+   "amount": {
+    "number": "12",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

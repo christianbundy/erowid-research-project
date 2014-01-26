@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Ziprasidone",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Ziprasidone",
    "form": "capsule"

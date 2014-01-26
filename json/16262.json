@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 seeds",
+   "amount": {
+    "number": "6",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Meclizine",
    "form": "pill/tablet"

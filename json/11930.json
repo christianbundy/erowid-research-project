@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "repeated joints/cigs",
+   "amount": {
+    "number": "repeated",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "PCP",
    "form": "liquid"

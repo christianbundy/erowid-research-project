@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

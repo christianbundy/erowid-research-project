@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -34,14 +37,20 @@
   },
   {
    "time": "4:00",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "7:00",
-   "amount": "0.25 capsls",
+   "amount": {
+    "number": "0.25",
+    "unit": "capsls"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

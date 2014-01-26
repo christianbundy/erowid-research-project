@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B-Fly",
    "form": "capsule"
@@ -25,7 +28,10 @@
   },
   {
    "time": "2:15",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B-Fly",
    "form": "capsule"
@@ -42,14 +48,20 @@
   },
   {
    "time": "4:40",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "pill/tablet"
   },
   {
    "time": "8:50",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "pill/tablet"

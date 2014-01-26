@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxymorphone"
   },
   {
    "time": "0:03",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0:05",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxymorphone"
   },

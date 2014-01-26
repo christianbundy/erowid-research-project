@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"
   },
   {
    "time": "1:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

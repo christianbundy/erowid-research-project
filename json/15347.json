@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "capsule",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:10",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "powder/crystals"

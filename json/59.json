@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1500 ug",
+   "amount": {
+    "number": "1500",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"

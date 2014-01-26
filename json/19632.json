@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "2:00",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

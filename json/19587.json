@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "180 ml",
+   "amount": {
+    "number": "180",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

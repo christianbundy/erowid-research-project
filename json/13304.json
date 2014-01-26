@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7"
   },
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7"
   }

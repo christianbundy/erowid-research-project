@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "CP 55,940",
    "form": "capsule"
@@ -26,14 +29,20 @@
   },
   {
    "time": "2:40",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "pill/tablet"
   },
   {
    "time": "8:40",
-   "amount": "0.3 tablets",
+   "amount": {
+    "number": "0.3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "pill/tablet"

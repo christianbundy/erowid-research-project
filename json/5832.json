@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 g",
+   "amount": {
+    "number": "10",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

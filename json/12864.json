@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 capsls",
+   "amount": {
+    "number": "15",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"

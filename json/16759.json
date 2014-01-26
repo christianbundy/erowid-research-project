@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "extract",
@@ -28,7 +31,10 @@
   },
   {
    "time": "0:00",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -36,14 +42,20 @@
   },
   {
    "time": "3:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",
@@ -51,7 +63,10 @@
   },
   {
    "time": "3:00",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

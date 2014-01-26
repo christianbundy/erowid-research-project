@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSZ",
    "form": "blotter/tab"
   },
   {
    "time": "2:15",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "vaporized",
    "substance": "Cannabis",
    "form": "plant material"

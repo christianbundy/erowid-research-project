@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"

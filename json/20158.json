@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 mg",
+   "amount": {
+    "number": "9",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "4-AcO-DMT"
   },
   {
    "time": "0",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Psilocin"
   }

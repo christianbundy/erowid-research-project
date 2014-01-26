@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "25I-NBOMe",
    "form": "liquid"

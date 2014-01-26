@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "130 seeds",
+   "amount": {
+    "number": "130",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

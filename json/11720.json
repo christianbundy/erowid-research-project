@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "8:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

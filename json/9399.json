@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 caps",
+   "amount": {
+    "number": "6",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -21,7 +24,10 @@
   },
   {
    "time": "3:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
    "form": "pill/tablet"

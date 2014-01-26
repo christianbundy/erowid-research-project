@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly"
   }

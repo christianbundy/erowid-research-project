@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "135 mg",
+   "amount": {
+    "number": "135",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "135 mg",
+   "amount": {
+    "number": "135",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"

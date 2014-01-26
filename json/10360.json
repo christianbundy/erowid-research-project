@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "pill/tablet"
   },
   {
    "time": "1:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "3:10",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "powder/crystals"

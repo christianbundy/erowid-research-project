@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "0:05",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-E",
    "form": "powder/crystals"
@@ -54,14 +60,20 @@
   },
   {
    "time": "0:00",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Haloperidol",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

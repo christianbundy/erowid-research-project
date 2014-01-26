@@ -13,53 +13,77 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "4:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "5:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "10:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

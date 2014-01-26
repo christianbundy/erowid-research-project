@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 in",
+   "amount": {
+    "number": "8",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",
@@ -21,13 +24,19 @@
   },
   {
    "time": "3:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "9:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

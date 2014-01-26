@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

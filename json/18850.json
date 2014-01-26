@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "ground/crushed"

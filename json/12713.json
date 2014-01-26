@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "bk-MBDB",
    "form": "powder/crystals"
   },
   {
    "time": "0:05",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MBDB",
    "form": "powder/crystals"
   },
   {
    "time": "2:45",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

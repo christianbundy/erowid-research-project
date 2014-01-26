@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "2:15",
-   "amount": "400 ug",
+   "amount": {
+    "number": "400",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:15",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
@@ -45,14 +57,20 @@
   },
   {
    "time": "4:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-C",
    "form": "powder/crystals"
   },
   {
    "time": "6:15",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

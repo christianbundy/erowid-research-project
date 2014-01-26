@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian"
   },
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   },
   {
    "time": "0",
-   "amount": "900 ug",
+   "amount": {
+    "number": "900",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6"
   }

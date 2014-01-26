@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-D",
    "form": "powder/crystals"

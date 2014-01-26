@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 drops",
+   "amount": {
+    "number": "65",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "extract"

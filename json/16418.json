@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "2 shots",
+   "amount": {
+    "number": "2",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

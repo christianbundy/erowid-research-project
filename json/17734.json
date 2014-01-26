@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:10",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0:10",
-   "amount": "10 g",
+   "amount": {
+    "number": "10",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
@@ -43,26 +52,38 @@
   },
   {
    "time": "0:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"
   },
   {
    "time": "0:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   },
   {
    "time": "0:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydergine"
   }

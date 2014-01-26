@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "390 mg",
+   "amount": {
+    "number": "390",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

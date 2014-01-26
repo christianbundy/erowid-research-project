@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 ",
+   "amount": {
+    "number": "5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "2 berries",
+   "amount": {
+    "number": "2",
+    "unit": "berries"
+   },
    "administration": "ocular",
    "substance": "Belladonna",
    "form": "fresh"

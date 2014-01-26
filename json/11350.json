@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"

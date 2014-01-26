@@ -45,7 +45,10 @@
   },
   {
    "time": "0:00",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

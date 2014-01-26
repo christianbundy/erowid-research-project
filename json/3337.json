@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
@@ -27,7 +30,10 @@
   },
   {
    "time": "14:00",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -13,49 +13,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propoxyphene",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "650 mg",
+   "amount": {
+    "number": "650",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "1:15",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methcathinone",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methcathinone",
    "form": "capsule"
   },
   {
    "time": "4:45",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propoxyphene",
    "form": "pill/tablet"
   },
   {
    "time": "4:45",
-   "amount": "650 mg",
+   "amount": {
+    "number": "650",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"

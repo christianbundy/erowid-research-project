@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2400 mg",
+   "amount": {
+    "number": "2400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "daily"

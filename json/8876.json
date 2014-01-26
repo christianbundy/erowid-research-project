@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 seeds",
+   "amount": {
+    "number": "200",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
   },
   {
    "time": "1:20",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin"

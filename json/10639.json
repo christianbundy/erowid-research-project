@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "0:00",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material",
@@ -28,14 +34,20 @@
   },
   {
    "time": "1:30",
-   "amount": "6 seeds",
+   "amount": {
+    "number": "6",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "1:30",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material",

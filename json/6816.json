@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "10 tablets",
+   "amount": {
+    "number": "10",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Barbiturates",
    "form": "pill/tablet",
@@ -35,7 +44,10 @@
   },
   {
    "time": "3:00",
-   "amount": "10 tablets",
+   "amount": {
+    "number": "10",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Barbiturates",
    "form": "pill/tablet",
@@ -43,7 +55,10 @@
   },
   {
    "time": "3:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

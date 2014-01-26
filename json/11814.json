@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "tea"

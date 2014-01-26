@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3mg repeated",
+   "amount": {
+    "number": "3mg",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "3mg repeated",
+   "amount": {
+    "number": "3mg",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "JWH-018",
    "form": "powder/crystals"

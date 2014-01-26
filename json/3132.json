@@ -11,19 +11,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 mg",
+   "amount": {
+    "number": "3.5",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "AMT"
   },
   {
    "time": "3:00",
-   "amount": "3.5 mg",
+   "amount": {
+    "number": "3.5",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "AMT"
   },
   {
    "time": "3:30",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"

@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Acetoxy-DET",
    "form": "powder/crystals"

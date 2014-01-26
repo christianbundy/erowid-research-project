@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1600 mg",
+   "amount": {
+    "number": "1600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "1:20",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "pill/tablet"
   },
   {
    "time": "1:20",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

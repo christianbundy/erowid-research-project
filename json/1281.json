@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14.5 mg",
+   "amount": {
+    "number": "14.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "powder/crystals"

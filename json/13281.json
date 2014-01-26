@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.4 mg",
+   "amount": {
+    "number": "1.4",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "liquid"
   },
   {
    "time": "8:30",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Cannabinoid Receptor Agonists"
   }

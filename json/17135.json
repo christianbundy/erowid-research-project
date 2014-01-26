@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Moclobemide",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"

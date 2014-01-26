@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "220 mg",
+   "amount": {
+    "number": "220",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"

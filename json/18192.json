@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "85 mg",
+   "amount": {
+    "number": "85",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "specific": "BZP"
   },
   {
    "time": "0:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "specific": "TFMPP"

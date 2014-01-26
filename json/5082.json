@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

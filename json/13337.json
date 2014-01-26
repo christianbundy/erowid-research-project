@@ -28,7 +28,10 @@
   },
   {
    "time": "smoked",
-   "amount": "Salvia divinorum",
+   "amount": {
+    "number": "Salvia",
+    "unit": "divinorum"
+   },
    "administration": "(extract)"
   },
   {

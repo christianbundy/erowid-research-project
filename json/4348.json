@@ -25,7 +25,10 @@
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Zaleplon",
    "form": "powder/crystals"

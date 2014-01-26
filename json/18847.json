@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "3:10",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"

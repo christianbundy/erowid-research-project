@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:30",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"

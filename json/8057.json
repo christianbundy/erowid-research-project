@@ -13,33 +13,48 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"
   },
   {
    "time": "3:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"
   },
   {
    "time": "3:00",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera peregrina"
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "0:00",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "extract"
@@ -51,7 +66,10 @@
   },
   {
    "time": "0:00",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"

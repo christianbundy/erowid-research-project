@@ -17,7 +17,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 1:02",
+   "amount": {
+    "number": "T+",
+    "unit": "1:02"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },
@@ -41,13 +44,19 @@
   },
   {
    "time": "2:48",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   },
   {
    "time": "(pill / tablet)",
-   "amount": "T+ 3:01",
+   "amount": {
+    "number": "T+",
+    "unit": "3:01"
+   },
    "administration": "50 mg",
    "substance": "oral"
   }

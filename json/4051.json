@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lithium",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "daily"

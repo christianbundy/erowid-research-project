@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18.3 mg",
+   "amount": {
+    "number": "18.3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMMDA",
    "form": "powder/crystals"

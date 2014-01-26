@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-MIPT",
    "form": "powder/crystals"
@@ -33,14 +39,20 @@
   },
   {
    "time": "3:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "2.5 hits",
+   "amount": {
+    "number": "2.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

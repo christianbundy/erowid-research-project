@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "liquid"
   },
   {
    "time": "24:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dihydrocodeine",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
@@ -26,7 +29,10 @@
   },
   {
    "time": "1:15",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"

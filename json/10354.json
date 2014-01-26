@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

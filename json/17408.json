@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "DOI",
    "form": "liquid"
   },
   {
    "time": "8:15",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline",
    "form": "pill/tablet"
   },
   {
    "time": "9:30",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

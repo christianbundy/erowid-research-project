@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 glasses",
+   "amount": {
+    "number": "15",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "0.3333 g",
+   "amount": {
+    "number": "0.3333",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

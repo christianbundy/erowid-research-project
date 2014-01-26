@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "180 mg",
+   "amount": {
+    "number": "180",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Temazepam",
    "form": "pill/tablet"
   },
   {
    "time": "4:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

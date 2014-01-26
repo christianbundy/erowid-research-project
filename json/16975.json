@@ -20,14 +20,20 @@
   },
   {
    "time": "0",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"

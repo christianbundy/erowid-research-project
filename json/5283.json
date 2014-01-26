@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 lines",
+   "amount": {
+    "number": "15",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "15 shots",
+   "amount": {
+    "number": "15",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

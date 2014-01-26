@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 g",
+   "amount": {
+    "number": "75",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "extract"
   },
   {
    "time": "0:05",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "extract"

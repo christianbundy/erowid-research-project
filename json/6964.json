@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DON",
    "form": "liquid"
   },
   {
    "time": "12:00",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
@@ -33,7 +39,10 @@
   },
   {
    "time": "12:00",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

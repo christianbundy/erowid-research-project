@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 ug",
+   "amount": {
+    "number": "1000",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"

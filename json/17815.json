@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 tablets",
+   "amount": {
+    "number": "1.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "powder/crystals"

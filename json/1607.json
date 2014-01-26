@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "4 glasses",
+   "amount": {
+    "number": "4",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0:30",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"

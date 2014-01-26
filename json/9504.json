@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "2.5 Tbsp",
+   "amount": {
+    "number": "2.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "5:30",
-   "amount": ".5 Tbsp",
+   "amount": {
+    "number": ".5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

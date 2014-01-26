@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "110 mg",
+   "amount": {
+    "number": "110",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "capsule"

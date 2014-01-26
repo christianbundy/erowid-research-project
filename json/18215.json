@@ -31,7 +31,10 @@
   },
   {
    "time": "1:10",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "leaves",
@@ -39,7 +42,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "leaves",

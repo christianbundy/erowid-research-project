@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "175 mg",
+   "amount": {
+    "number": "175",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

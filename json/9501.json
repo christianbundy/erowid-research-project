@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 capsls",
+   "amount": {
+    "number": "6",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom"
   },
   {
    "time": "0:20",
-   "amount": "6 capsls",
+   "amount": {
+    "number": "6",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom"
   }

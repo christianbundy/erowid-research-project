@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "insufflated",
    "substance": "LSD",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin",

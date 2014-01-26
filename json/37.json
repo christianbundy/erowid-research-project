@@ -13,32 +13,47 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "substance": "Mirtazapine",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "substance": "Gabapentin",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "0:06",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"

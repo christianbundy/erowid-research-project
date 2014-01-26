@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 in",
+   "amount": {
+    "number": "5",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"

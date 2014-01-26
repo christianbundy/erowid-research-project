@@ -13,33 +13,48 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MET",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MET",
    "form": "capsule"
   },
   {
    "time": "1:15",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "MET"
   },
   {
    "time": "1:15",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "MET"
   },
   {
    "time": "2:15",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "MET"
   }

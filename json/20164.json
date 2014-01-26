@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "650 mg",
+   "amount": {
+    "number": "650",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "powder/crystals"

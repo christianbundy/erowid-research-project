@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Caffeine",
    "form": "extract"

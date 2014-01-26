@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3 joints/cigs",
+   "amount": {
+    "number": "0.3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },

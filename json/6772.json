@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tiagabine",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
@@ -35,7 +41,10 @@
   },
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"

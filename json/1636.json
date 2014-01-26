@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "145 mg",
+   "amount": {
+    "number": "145",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 tablets",
+   "amount": {
+    "number": "11",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

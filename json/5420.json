@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Olanzapine",
    "form": "ground/crushed"

@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

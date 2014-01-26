@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lagochilus inebrians",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

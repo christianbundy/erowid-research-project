@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"

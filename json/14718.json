@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "100 ml",
+   "amount": {
+    "number": "100",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "liquid"

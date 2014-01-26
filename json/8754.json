@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7"
   },
   {
    "time": "0",
-   "amount": "T+ 1:40",
+   "amount": {
+    "number": "T+",
+    "unit": "1:40"
+   },
    "administration": "1 hit",
    "substance": "smoked"
   },
@@ -46,7 +52,10 @@
   },
   {
    "time": "(tea)",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "substance": "oral"
   }
  ],

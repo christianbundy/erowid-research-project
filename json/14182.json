@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:15",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco"
   }

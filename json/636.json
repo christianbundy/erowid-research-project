@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "tea",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Amanitas",
    "form": "dried",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0:45",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Amanitas",
    "form": "dried",
@@ -37,7 +46,10 @@
   },
   {
    "time": "1:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Amanitas",
    "form": "dried",

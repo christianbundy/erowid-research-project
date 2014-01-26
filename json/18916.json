@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": ".5 oz",
+   "amount": {
+    "number": ".5",
+    "unit": "oz"
+   },
    "substance": "Kratom",
    "form": "ground/crushed"
   }

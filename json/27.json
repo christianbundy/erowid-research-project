@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "DMT"
   },
   {
    "time": "0",
-   "amount": "T+ 0:07",
+   "amount": {
+    "number": "T+",
+    "unit": "0:07"
+   },
    "administration": "0.3 g",
    "substance": "oral"
   },
@@ -41,13 +47,19 @@
   },
   {
    "time": "3:00",
-   "amount": "1000 ug",
+   "amount": {
+    "number": "1000",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe"
   },
   {
    "time": "(blotter / tab)",
-   "amount": "T+ 3:00",
+   "amount": {
+    "number": "T+",
+    "unit": "3:00"
+   },
    "administration": "0.3 g",
    "substance": "oral"
   }

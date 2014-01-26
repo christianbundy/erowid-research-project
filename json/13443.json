@@ -19,7 +19,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "pill/tablet"

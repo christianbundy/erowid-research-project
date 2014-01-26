@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "162 mg",
+   "amount": {
+    "number": "162",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Lorazepam",
    "form": "ground/crushed"

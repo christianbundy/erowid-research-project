@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "smoked",
    "substance": "Syrian Rue",
    "form": "ground/crushed"

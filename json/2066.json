@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "28 g",
+   "amount": {
+    "number": "28",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"
   },
   {
    "time": "0:15",
-   "amount": "28 g",
+   "amount": {
+    "number": "28",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"
   },
   {
    "time": "0:30",
-   "amount": "28 g",
+   "amount": {
+    "number": "28",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"
   },
   {
    "time": "0:45",
-   "amount": "28 g",
+   "amount": {
+    "number": "28",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"

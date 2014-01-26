@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "3.6 g",
+   "amount": {
+    "number": "3.6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"

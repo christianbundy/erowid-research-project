@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1080 mg",
+   "amount": {
+    "number": "1080",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"

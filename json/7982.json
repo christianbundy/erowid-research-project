@@ -12,25 +12,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Valerian"
   },
   {
    "time": "0",
-   "amount": "7.0 mg",
+   "amount": {
+    "number": "7.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kava"
   },
   {
    "time": "0",
-   "amount": "21 mg",
+   "amount": {
+    "number": "21",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6"
   }

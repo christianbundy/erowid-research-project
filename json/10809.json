@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cubensis"
   },
   {
    "time": "0",
-   "amount": "T+ 0:25",
+   "amount": {
+    "number": "T+",
+    "unit": "0:25"
+   },
    "substance": "smoked"
   },
   {

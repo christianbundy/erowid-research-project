@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT"
   },
   {
    "time": "1:00",
-   "amount": "14 mg",
+   "amount": {
+    "number": "14",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E"
   },
   {
    "time": "26:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   },
   {
    "time": "26:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

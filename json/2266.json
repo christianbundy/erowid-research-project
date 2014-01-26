@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"

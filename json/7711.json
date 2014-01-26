@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1200 ug",
+   "amount": {
+    "number": "1200",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "Fentanyl"
   },

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"
   },
   {
    "time": "0",
-   "amount": "30 drops",
+   "amount": {
+    "number": "30",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   }

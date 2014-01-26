@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

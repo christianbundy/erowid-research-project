@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "0.0833 oz",
+   "amount": {
+    "number": "0.0833",
+    "unit": "oz"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"

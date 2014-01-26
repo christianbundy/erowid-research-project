@@ -18,7 +18,10 @@
   },
   {
    "time": "1:45",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "2C-E"
   }
  ],

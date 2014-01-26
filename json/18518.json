@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "360 mg",
+   "amount": {
+    "number": "360",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

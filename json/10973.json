@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.4 g",
+   "amount": {
+    "number": "0.4",
+    "unit": "g"
+   },
    "administration": "IV",
    "substance": "Cocaine"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Heroin"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Heroin"
   },
   {
    "time": "0",
-   "amount": ".5 mg",
+   "amount": {
+    "number": ".5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "extract"

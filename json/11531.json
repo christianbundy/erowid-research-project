@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "15 mg",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "0:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "(liquid)",
-   "amount": "T+ 0:15",
+   "amount": {
+    "number": "T+",
+    "unit": "0:15"
+   },
    "administration": "50 mg",
    "substance": "oral"
   }

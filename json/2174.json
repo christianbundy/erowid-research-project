@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 seeds",
+   "amount": {
+    "number": "300",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "300 tablets",
+   "amount": {
+    "number": "300",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

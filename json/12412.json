@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 g",
+   "amount": {
+    "number": "3",
+    "unit": "g"
+   },
    "substance": "Syrian Rue"
   },
   {
    "time": "0:45",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "substance": "Diplopterys cabrerana"
   }
  ],

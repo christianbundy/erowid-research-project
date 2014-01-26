@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"
@@ -25,21 +28,30 @@
   },
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 drops",
+   "amount": {
+    "number": "2",
+    "unit": "drops"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "6 cups",
+   "amount": {
+    "number": "6",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

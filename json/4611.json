@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.33 tablets",
+   "amount": {
+    "number": "0.33",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0:55",
-   "amount": "0.67 tablets",
+   "amount": {
+    "number": "0.67",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "6:30",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"

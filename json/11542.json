@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/4 tsp",
+   "amount": {
+    "number": "1/4",
+    "unit": "tsp"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

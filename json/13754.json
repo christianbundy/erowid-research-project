@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
@@ -32,7 +38,10 @@
   },
   {
    "time": "4:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
@@ -44,14 +53,20 @@
   },
   {
    "time": "6:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"

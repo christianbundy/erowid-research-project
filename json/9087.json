@@ -19,7 +19,10 @@
   },
   {
    "time": "2:30",
-   "amount": "3 buttons",
+   "amount": {
+    "number": "3",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "tea"

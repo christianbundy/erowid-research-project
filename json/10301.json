@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "substance": "Modafinil",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "substance": "Modafinil",
    "form": "pill/tablet"
   }

@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 drops",
+   "amount": {
+    "number": "7",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "liquid",
@@ -19,7 +22,10 @@
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

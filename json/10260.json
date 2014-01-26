@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37.5 mg",
+   "amount": {
+    "number": "37.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zopiclone",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

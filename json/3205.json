@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "2C-T-2",
    "form": "powder/crystals"
   }

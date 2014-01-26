@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 mg",
+   "amount": {
+    "number": "11",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "capsule"
   },
   {
    "time": "1:10",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -31,7 +37,10 @@
   },
   {
    "time": "4:30",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT"
   }

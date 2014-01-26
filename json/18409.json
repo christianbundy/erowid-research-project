@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
@@ -26,28 +29,40 @@
   },
   {
    "time": "2:30",
-   "amount": "9 mg",
+   "amount": {
+    "number": "9",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "4:30",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mirtazapine",
    "form": "pill/tablet"
@@ -60,21 +75,30 @@
   },
   {
    "time": "4:30",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "12:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "16:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"

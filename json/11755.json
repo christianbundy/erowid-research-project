@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "26 g",
+   "amount": {
+    "number": "26",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",

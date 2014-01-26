@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"

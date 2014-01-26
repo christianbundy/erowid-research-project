@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"
   },
   {
    "time": "0:01",
-   "amount": "2 repeated",
+   "amount": {
+    "number": "2",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

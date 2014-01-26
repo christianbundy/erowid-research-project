@@ -18,14 +18,20 @@
   },
   {
    "time": "6:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "liquid"
   },
   {
    "time": "6:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

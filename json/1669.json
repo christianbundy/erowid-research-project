@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 tablets",
+   "amount": {
+    "number": "20",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   },

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

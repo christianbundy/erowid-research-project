@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "plant material"
@@ -25,14 +28,20 @@
   },
   {
    "time": "1:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "plant material"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "2:00",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "3:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:30",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"

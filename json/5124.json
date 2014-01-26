@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1440 mg",
+   "amount": {
+    "number": "1440",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "192 mg",
+   "amount": {
+    "number": "192",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate",
    "form": "pill/tablet"

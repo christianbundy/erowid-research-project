@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
@@ -33,7 +36,10 @@
   },
   {
    "time": "5:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
@@ -52,7 +58,10 @@
   },
   {
    "time": "12:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

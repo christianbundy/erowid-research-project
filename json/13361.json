@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "pill/tablet"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "0:20",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"

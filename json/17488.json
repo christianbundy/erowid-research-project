@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   },
   {
    "time": "0",
-   "amount": "T+ 0:20",
+   "amount": {
+    "number": "T+",
+    "unit": "0:20"
+   },
    "administration": "6 seeds",
    "substance": "oral"
   },

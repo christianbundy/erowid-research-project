@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "extract"
   },
   {
    "time": "0:10",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "powder/crystals",
@@ -28,14 +34,20 @@
   },
   {
    "time": "2:53",
-   "amount": "2.1 ml",
+   "amount": {
+    "number": "2.1",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"
   },
   {
    "time": "3:20",
-   "amount": "0.7 ml",
+   "amount": {
+    "number": "0.7",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

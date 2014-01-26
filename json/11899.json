@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pharmaceuticals",
    "form": "pill/tablet"

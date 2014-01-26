@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "351 mg",
+   "amount": {
+    "number": "351",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMAE"
   },
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "specific": "Choline"

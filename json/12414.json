@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 ml",
+   "amount": {
+    "number": "350",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,14 +24,20 @@
   },
   {
    "time": "4:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "4:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "ground/crushed"

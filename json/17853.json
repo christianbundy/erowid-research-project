@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 ml",
+   "amount": {
+    "number": "1.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "0.5 ml",
+   "amount": {
+    "number": "0.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

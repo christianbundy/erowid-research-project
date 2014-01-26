@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "5:55",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "10:45",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "11:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

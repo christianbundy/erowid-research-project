@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "0:05",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,14 +34,20 @@
   },
   {
    "time": "0:45",
-   "amount": "1 seed",
+   "amount": {
+    "number": "1",
+    "unit": "seed"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "3:25",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

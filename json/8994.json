@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "plant material"
   },
   {
    "time": "0:10",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "0:55",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"

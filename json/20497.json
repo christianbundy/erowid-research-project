@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "4:50",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "4:50",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"

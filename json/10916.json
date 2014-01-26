@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 flowers",
+   "amount": {
+    "number": "4",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "fresh"
   },
   {
    "time": "0:40",
-   "amount": "3 flowers",
+   "amount": {
+    "number": "3",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "fresh"
   },
   {
    "time": "0:40",
-   "amount": "4 leaves",
+   "amount": {
+    "number": "4",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"

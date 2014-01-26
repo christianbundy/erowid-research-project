@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 seeds",
+   "amount": {
+    "number": "50",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "seeds"

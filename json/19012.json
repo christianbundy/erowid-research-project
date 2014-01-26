@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.75 g",
+   "amount": {
+    "number": "1.75",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "1:25",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Etizolam"
   },
   {
    "time": "2:40",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Etizolam"
   },

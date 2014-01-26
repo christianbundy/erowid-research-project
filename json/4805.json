@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material"
   },
   {
    "time": "2:20",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

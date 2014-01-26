@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "256 mg",
+   "amount": {
+    "number": "256",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 ",
+   "amount": {
+    "number": "12",
+    "unit": ""
+   },
    "administration": "transdermal",
    "substance": "Selegeline",
    "form": "patch"

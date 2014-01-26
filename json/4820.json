@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "700 mg",
+   "amount": {
+    "number": "700",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"

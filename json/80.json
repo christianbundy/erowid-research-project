@@ -20,40 +20,58 @@
   },
   {
    "time": "0:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "1:00",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "2:00",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "3:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "4:20",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "7:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"

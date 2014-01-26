@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "43 seeds",
+   "amount": {
+    "number": "43",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Voacanga africana",
    "form": "tea"

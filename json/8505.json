@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "875 mg",
+   "amount": {
+    "number": "875",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "315 mg",
+   "amount": {
+    "number": "315",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"

@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 ug",
+   "amount": {
+    "number": "100",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "25 mg",
    "substance": "smoked"
   },

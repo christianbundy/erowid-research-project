@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "powder/crystals"
   },
   {
    "time": "2:15",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "6-APB"
   },

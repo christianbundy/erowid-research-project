@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 ml",
+   "amount": {
+    "number": "3.5",
+    "unit": "ml"
+   },
    "administration": "IM",
    "substance": "Buprenorphine",
    "form": "liquid"

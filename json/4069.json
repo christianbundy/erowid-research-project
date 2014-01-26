@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "0:30",
-   "amount": "480 mg",
+   "amount": {
+    "number": "480",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

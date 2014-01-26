@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 ml",
+   "amount": {
+    "number": "160",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "extract",
@@ -20,14 +23,20 @@
   },
   {
    "time": "0:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:00",
-   "amount": "120 ml",
+   "amount": {
+    "number": "120",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -35,14 +44,20 @@
   },
   {
    "time": "1:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "100 ml",
+   "amount": {
+    "number": "100",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -50,7 +65,10 @@
   },
   {
    "time": "3:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"

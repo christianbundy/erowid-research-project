@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "52 tablets",
+   "amount": {
+    "number": "52",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

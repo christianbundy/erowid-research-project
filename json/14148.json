@@ -35,7 +35,10 @@
   },
   {
    "time": "0",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
@@ -53,7 +56,10 @@
   },
   {
    "time": "0",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"

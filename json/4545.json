@@ -29,14 +29,20 @@
   },
   {
    "time": "0",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Triazolam",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "0.3 mg",
+   "amount": {
+    "number": "0.3",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonidine",
    "form": "ground/crushed"

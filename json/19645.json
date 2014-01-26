@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "7:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Metaxalone"
   },
   {
    "time": "8:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

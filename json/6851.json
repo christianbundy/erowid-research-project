@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"

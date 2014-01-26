@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.58 g",
+   "amount": {
+    "number": "1.58",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "1:30",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

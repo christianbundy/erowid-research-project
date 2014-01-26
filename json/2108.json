@@ -13,17 +13,26 @@
  "dose": [
   {
    "time": "0",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "substance": "Dihydrocodeine"
   },
   {
    "time": "0",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "substance": "Vitamins / Supplements"
   },
   {
    "time": "0",
-   "amount": "67 mg",
+   "amount": {
+    "number": "67",
+    "unit": "mg"
+   },
    "substance": "Chlorpheniramine Maleate"
   }
  ],

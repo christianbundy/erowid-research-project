@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "4:00",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"

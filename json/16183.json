@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "525 mg",
+   "amount": {
+    "number": "525",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "daily"

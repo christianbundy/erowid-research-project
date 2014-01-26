@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 seeds",
+   "amount": {
+    "number": "300",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "1:30",
-   "amount": "50 seeds",
+   "amount": {
+    "number": "50",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "rootbark"
   },
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Moclobemide",
    "form": "pill/tablet"

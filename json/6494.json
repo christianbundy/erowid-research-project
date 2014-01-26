@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "0:15",
-   "amount": "1600 mg",
+   "amount": {
+    "number": "1600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian"
   }

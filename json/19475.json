@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "33 mg",
+   "amount": {
+    "number": "33",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "liquid"

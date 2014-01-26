@@ -24,14 +24,20 @@
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "3 carts.",
+   "amount": {
+    "number": "3",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

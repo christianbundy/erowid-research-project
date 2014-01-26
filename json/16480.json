@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Various",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "17 caps",
+   "amount": {
+    "number": "17",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea",

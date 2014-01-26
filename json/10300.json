@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/4 bowl",
+   "amount": {
+    "number": "1/4",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:14",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:18",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

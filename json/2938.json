@@ -21,7 +21,10 @@
   },
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -29,14 +32,20 @@
   },
   {
    "time": "0",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

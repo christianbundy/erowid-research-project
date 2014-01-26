@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "roots"

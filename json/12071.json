@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "67 mg",
+   "amount": {
+    "number": "67",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4500 mg",
+   "amount": {
+    "number": "4500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "144 mg",
+   "amount": {
+    "number": "144",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lecithin",
    "form": "daily"

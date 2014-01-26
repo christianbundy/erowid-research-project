@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 seeds",
+   "amount": {
+    "number": "250",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "2:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

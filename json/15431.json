@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "specific": "Nymphaea nouchali var caerulea"
   },
   {
    "time": "0:30",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

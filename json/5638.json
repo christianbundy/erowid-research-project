@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 seeds",
+   "amount": {
+    "number": "350",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

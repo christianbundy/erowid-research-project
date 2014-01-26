@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried"
   },
   {
    "time": "2:20",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "flowers"
   },
   {
    "time": "3:10",
-   "amount": "7.5 g",
+   "amount": {
+    "number": "7.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"

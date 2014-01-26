@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "2:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "3:45",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"

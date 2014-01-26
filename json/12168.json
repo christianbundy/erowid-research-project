@@ -13,49 +13,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:05",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:05",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:10",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:10",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:50",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"

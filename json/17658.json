@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "0.5 glasses",
+   "amount": {
+    "number": "0.5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"

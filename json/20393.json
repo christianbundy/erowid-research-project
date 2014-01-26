@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"
   },
   {
    "time": "0:45",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"
   },
   {
    "time": "1:15",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"
@@ -49,7 +58,10 @@
   },
   {
    "time": "0:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

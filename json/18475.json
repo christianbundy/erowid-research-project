@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 flowers",
+   "amount": {
+    "number": "0.5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "flowers"
   },
   {
    "time": "0:00",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "leaves"
   },
   {
    "time": "0:00",
-   "amount": "0.5 flowers",
+   "amount": {
+    "number": "0.5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "flowers"

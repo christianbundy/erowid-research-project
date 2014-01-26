@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-P",
    "form": "capsule"
   },
   {
    "time": "14:45",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

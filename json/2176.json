@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 flowers",
+   "amount": {
+    "number": "0.5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "flowers",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "0.5 flowers",
+   "amount": {
+    "number": "0.5",
+    "unit": "flowers"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "form": "flowers",

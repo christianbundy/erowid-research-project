@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 g",
+   "amount": {
+    "number": "15",
+    "unit": "g"
+   },
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "dried"
   },
   {
    "time": "0:20",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "freebase"

@@ -20,28 +20,40 @@
   },
   {
    "time": "0:00",
-   "amount": "49 mg",
+   "amount": {
+    "number": "49",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "1:15",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:35",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "9:40",
-   "amount": ".5 mg",
+   "amount": {
+    "number": ".5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bry",
+   "amount": {
+    "number": "1",
+    "unit": "bry"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "plant material"
   },
   {
    "time": "0:30",
-   "amount": "1 bry",
+   "amount": {
+    "number": "1",
+    "unit": "bry"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "plant material"

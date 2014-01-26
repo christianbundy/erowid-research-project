@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 ml",
+   "amount": {
+    "number": "10",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

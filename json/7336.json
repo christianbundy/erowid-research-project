@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "333 mg",
+   "amount": {
+    "number": "333",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "liquid"
   },
   {
    "time": "2:30",
-   "amount": "333 mg",
+   "amount": {
+    "number": "333",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "liquid"

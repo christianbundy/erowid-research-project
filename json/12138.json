@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "55 mg",
+   "amount": {
+    "number": "55",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
@@ -39,7 +48,10 @@
   },
   {
    "time": "0:00",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam"
   },
@@ -51,50 +63,74 @@
   },
   {
    "time": "0:00",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam"
   },
   {
    "time": "0:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cubensis"
   },
   {
    "time": "0:00",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "substance": "Chlorpheniramine Maleate"
   },
   {
    "time": "0:00",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "0:00",
-   "amount": "17.5 mg",
+   "amount": {
+    "number": "17.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone"
   },
   {
    "time": "0:00",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone"
   },
   {
    "time": "0:00",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   },
   {
    "time": "0:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pseudoephedrine"
   }

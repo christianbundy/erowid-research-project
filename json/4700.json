@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "108 mg",
+   "amount": {
+    "number": "108",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "54 mg",
+   "amount": {
+    "number": "54",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"

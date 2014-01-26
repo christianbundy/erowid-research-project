@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-D",
    "form": "powder/crystals"
@@ -33,7 +36,10 @@
   },
   {
    "time": "4:00",
-   "amount": "250 ml",
+   "amount": {
+    "number": "250",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

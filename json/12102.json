@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propylhexedrine"
   },
   {
    "time": "0:45",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   }

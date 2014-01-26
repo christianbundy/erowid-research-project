@@ -26,7 +26,10 @@
   },
   {
    "time": "1:50",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "dried",
@@ -34,7 +37,10 @@
   },
   {
    "time": "0",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Trazodone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1500 ml",
+   "amount": {
+    "number": "1500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "daily",

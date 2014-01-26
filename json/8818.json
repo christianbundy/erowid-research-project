@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "ground/crushed"
   },
   {
    "time": "48:00",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera peregrina",
    "form": "ground/crushed"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "daily"

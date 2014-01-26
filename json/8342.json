@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 seeds",
+   "amount": {
+    "number": "6",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "6:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

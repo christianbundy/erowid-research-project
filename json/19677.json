@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1300 mg",
+   "amount": {
+    "number": "1300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.333 g",
+   "amount": {
+    "number": "0.333",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
@@ -26,7 +29,10 @@
   },
   {
    "time": "0",
-   "amount": "8 ",
+   "amount": {
+    "number": "8",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",

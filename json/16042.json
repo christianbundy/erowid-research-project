@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 mg",
+   "amount": {
+    "number": "14",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
@@ -25,7 +28,10 @@
   },
   {
    "time": "5:09",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"

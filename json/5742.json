@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "195 mg",
+   "amount": {
+    "number": "195",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Barbiturates",
    "form": "pill/tablet",

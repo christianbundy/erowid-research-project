@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2758 mg",
+   "amount": {
+    "number": "2758",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "258 mg",
+   "amount": {
+    "number": "258",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Catnip"
   },
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hops"
   },

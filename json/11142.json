@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 ml",
+   "amount": {
+    "number": "20",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "15 ml",
+   "amount": {
+    "number": "15",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "liquid"
   },
   {
    "time": "1:30",
-   "amount": "15 ml",
+   "amount": {
+    "number": "15",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "liquid"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 ml",
+   "amount": {
+    "number": "20",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "dried",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0:30",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

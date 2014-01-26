@@ -13,50 +13,74 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1/2 tablet",
+   "amount": {
+    "number": "1/2",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

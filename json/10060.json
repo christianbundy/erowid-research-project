@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "5:00",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "13:30",
-   "amount": "2.5 ml",
+   "amount": {
+    "number": "2.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

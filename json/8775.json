@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 seeds",
+   "amount": {
+    "number": "250",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "ground/crushed",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

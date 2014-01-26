@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "-999.0 mg",
+   "amount": {
+    "number": "-999.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "capsule"

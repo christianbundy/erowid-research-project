@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
@@ -30,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

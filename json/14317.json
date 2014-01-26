@@ -10,7 +10,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

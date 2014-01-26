@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "3C-P",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,14 +34,20 @@
   },
   {
    "time": "8:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "powder/crystals"
   },
   {
    "time": "8:30",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

@@ -25,7 +25,10 @@
   },
   {
    "time": "0",
-   "amount": "300 ml",
+   "amount": {
+    "number": "300",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "daily",
@@ -39,7 +42,10 @@
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"

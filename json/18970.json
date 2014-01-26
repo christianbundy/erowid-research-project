@@ -13,56 +13,80 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "1:10",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "2:40",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "3:20",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "4:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "5:10",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Allylescaline",
    "form": "liquid"
   },
   {
    "time": "5:15",
-   "amount": "250 ug",
+   "amount": {
+    "number": "250",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "liquid"
   },
   {
    "time": "6:15",
-   "amount": "250 ug",
+   "amount": {
+    "number": "250",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "liquid"

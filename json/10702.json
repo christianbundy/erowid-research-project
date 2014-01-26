@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "1 fruit",
+   "amount": {
+    "number": "1",
+    "unit": "fruit"
+   },
    "administration": "oral",
    "substance": "Capsicum spp.",
    "form": "dried"

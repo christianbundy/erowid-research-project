@@ -20,21 +20,30 @@
   },
   {
    "time": "0:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"

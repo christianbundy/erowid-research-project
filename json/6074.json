@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "plant material"

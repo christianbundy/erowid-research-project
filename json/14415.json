@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 glasses",
+   "amount": {
+    "number": "8",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "8 tablets",
+   "amount": {
+    "number": "8",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "pill/tablet"

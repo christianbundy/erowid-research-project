@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 joints/cigs",
+   "amount": {
+    "number": "5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "tea"

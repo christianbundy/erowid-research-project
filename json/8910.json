@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "16:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"

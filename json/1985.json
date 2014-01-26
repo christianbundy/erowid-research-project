@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37 mg",
+   "amount": {
+    "number": "37",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

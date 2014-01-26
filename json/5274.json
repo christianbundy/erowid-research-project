@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "105 mg",
+   "amount": {
+    "number": "105",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"

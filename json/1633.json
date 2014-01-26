@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 mg",
+   "amount": {
+    "number": "12.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT",
    "form": "capsule"
@@ -27,14 +30,20 @@
   },
   {
    "time": "6:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "6.0 ml",
+   "amount": {
+    "number": "6.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"
@@ -47,7 +56,10 @@
   },
   {
    "time": "10:20",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

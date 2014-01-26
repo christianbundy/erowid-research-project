@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "5:00",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

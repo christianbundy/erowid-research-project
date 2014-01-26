@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"
   },
   {
    "time": "0:00",
-   "amount": "8 oz",
+   "amount": {
+    "number": "8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -28,14 +34,20 @@
   },
   {
    "time": "0:00",
-   "amount": "0.25 bowls",
+   "amount": {
+    "number": "0.25",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "tar/resin"
   },
   {
    "time": "1:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "700 mg",
+   "amount": {
+    "number": "700",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

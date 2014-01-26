@@ -12,28 +12,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.8 g",
+   "amount": {
+    "number": "1.8",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "3:30",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"

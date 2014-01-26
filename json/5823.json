@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 nuts",
+   "amount": {
+    "number": "4",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "7 nuts",
+   "amount": {
+    "number": "7",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "9 nuts",
+   "amount": {
+    "number": "9",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "capsule"

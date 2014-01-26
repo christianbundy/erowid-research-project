@@ -13,62 +13,89 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "0:15",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "capsule"
   },
   {
    "time": "3:30",
-   "amount": "3 ml",
+   "amount": {
+    "number": "3",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "3:30",
-   "amount": "0.25 mg",
+   "amount": {
+    "number": "0.25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "3:30",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "3:30",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Cannabis"
   },
   {
    "time": "5:30",
-   "amount": "2 ml",
+   "amount": {
+    "number": "2",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "5:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

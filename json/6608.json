@@ -18,14 +18,20 @@
   },
   {
    "time": "0",
-   "amount": "6 caps",
+   "amount": {
+    "number": "6",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "specific": "A. pantherina"
   },
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
@@ -39,7 +45,10 @@
   },
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "5-MeO-DMT"
   },
@@ -52,19 +61,28 @@
   },
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT"
   },
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "5-MeO-DMT"
   },
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "5-MeO-DMT"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "230 mg",
+   "amount": {
+    "number": "230",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "ground/crushed"

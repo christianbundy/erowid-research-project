@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Ephedrine"
   },
   {
    "time": "0",
-   "amount": "5 tablets",
+   "amount": {
+    "number": "5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Guarana"
   },
   {
    "time": "0",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines"
   }

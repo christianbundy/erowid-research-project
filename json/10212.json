@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "pill/tablet"
   },
   {
    "time": "5:30",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "substance": "MDMA",
    "form": "powder/crystals"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 buttons",
+   "amount": {
+    "number": "13",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "dried"

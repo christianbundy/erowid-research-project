@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "liquid"
@@ -32,7 +35,10 @@
   },
   {
    "time": "4:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
@@ -45,7 +51,10 @@
   },
   {
    "time": "7:30",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

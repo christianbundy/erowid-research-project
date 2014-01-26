@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 joints/cigs",
+   "amount": {
+    "number": "8",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

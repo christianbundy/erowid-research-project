@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "26 g",
+   "amount": {
+    "number": "26",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "leaves"

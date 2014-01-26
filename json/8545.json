@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

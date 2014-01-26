@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
    "form": "powder/crystals"
   },
   {
    "time": "12:00",
-   "amount": "2.2 g",
+   "amount": {
+    "number": "2.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "extract"
   },
   {
    "time": "13:00",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
    "form": "powder/crystals"

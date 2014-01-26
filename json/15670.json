@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16.2 g",
+   "amount": {
+    "number": "16.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"

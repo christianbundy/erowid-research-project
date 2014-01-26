@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSA",
    "form": "blotter/tab"
   },
   {
    "time": "3:00",
-   "amount": "1.25 tsp",
+   "amount": {
+    "number": "1.25",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"

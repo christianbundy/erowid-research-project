@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "423 mg",
+   "amount": {
+    "number": "423",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "pill/tablet"

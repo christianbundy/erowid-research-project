@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "133 mg",
+   "amount": {
+    "number": "133",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

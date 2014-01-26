@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "3:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

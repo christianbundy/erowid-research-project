@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "3:45",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-E",
    "form": "powder/crystals"

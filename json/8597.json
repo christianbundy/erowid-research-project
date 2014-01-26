@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"
   },
   {
    "time": "0:15",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"

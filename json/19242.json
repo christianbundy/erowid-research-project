@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 ml",
+   "amount": {
+    "number": "40",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "2:00",
-   "amount": "40 ml",
+   "amount": {
+    "number": "40",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "6:30",
-   "amount": "35 ml",
+   "amount": {
+    "number": "35",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "9:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.2 mg",
+   "amount": {
+    "number": "1.2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonidine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "daily"

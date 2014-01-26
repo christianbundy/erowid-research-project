@@ -13,37 +13,55 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOC"
   },
   {
    "time": "1:45",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "substance": "Mushrooms"
   },
   {
    "time": "6:30",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOC"
   },
   {
    "time": "6:30",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "specific": "Opium"
   },
   {
    "time": "6:45",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-C"
   },
   {
    "time": "10:00",
-   "amount": "6 flowers",
+   "amount": {
+    "number": "6",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "specific": "Opium"

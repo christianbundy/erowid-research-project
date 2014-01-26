@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 capsls",
+   "amount": {
+    "number": "8",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "8 capsls",
+   "amount": {
+    "number": "8",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

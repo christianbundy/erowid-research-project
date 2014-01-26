@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 Tbsp",
+   "amount": {
+    "number": "5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "5 Tbsp",
+   "amount": {
+    "number": "5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Skullcap",
    "form": "tea"
   },
   {
    "time": "2:00",
-   "amount": "5 Tbsp",
+   "amount": {
+    "number": "5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "2:00",
-   "amount": "5 Tbsp",
+   "amount": {
+    "number": "5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Skullcap",
    "form": "tea"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "625 ug",
+   "amount": {
+    "number": "625",
+    "unit": "ug"
+   },
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

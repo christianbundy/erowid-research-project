@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "2:15",
-   "amount": "0.5 cups",
+   "amount": {
+    "number": "0.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"

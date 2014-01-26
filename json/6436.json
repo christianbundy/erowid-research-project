@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "260 mg",
+   "amount": {
+    "number": "260",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMAE",
    "form": "daily"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Diplopterys cabrerana",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

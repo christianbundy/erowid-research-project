@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 oz",
+   "amount": {
+    "number": "3",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -27,14 +33,20 @@
   },
   {
    "time": "0:30",
-   "amount": "3 oz",
+   "amount": {
+    "number": "3",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

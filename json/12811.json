@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "5 g",
+   "amount": {
+    "number": "5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

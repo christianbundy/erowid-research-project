@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 ml",
+   "amount": {
+    "number": "8",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "2C-P",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Smoking Blends"
   },
   {
    "time": "8:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Trazodone"
   }

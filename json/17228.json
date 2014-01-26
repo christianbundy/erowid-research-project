@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "dried",
@@ -28,26 +34,38 @@
   },
   {
    "time": "2:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "2C-E"
   },
   {
    "time": "3:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "liquid"
   },
   {
    "time": "5:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DMT"
   },
   {
    "time": "5:09",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DMT"
   }

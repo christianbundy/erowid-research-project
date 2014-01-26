@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "740 mg",
+   "amount": {
+    "number": "740",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "capsule"

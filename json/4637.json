@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "958 mg",
+   "amount": {
+    "number": "958",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   }

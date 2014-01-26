@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

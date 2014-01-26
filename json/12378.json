@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4mg repeated",
+   "amount": {
+    "number": "4mg",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "daily"

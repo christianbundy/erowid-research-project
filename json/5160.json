@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1050 mg",
+   "amount": {
+    "number": "1050",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "capsule",
@@ -21,7 +24,10 @@
   },
   {
    "time": "1:20",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA"
   }

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

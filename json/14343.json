@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "0:30",
-   "amount": "7.5 g",
+   "amount": {
+    "number": "7.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "tea"
   },
   {
    "time": "0:50",
-   "amount": "17.5 mg",
+   "amount": {
+    "number": "17.5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "0:50",
-   "amount": "4.5 mg",
+   "amount": {
+    "number": "4.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "22.5 mg",
+   "amount": {
+    "number": "22.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"

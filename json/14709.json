@@ -19,7 +19,10 @@
   },
   {
    "time": "3:30",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phentermine",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phentermine",
    "form": "pill/tablet"

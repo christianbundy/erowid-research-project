@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "7 ",
+   "amount": {
+    "number": "7",
+    "unit": ""
+   },
    "administration": "transdermal",
    "substance": "Animals",
    "form": "extract",

@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E"
   },
   {
    "time": "0:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT"
   },
   {
    "time": "0:30",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E"
   },
   {
    "time": "0:30",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT"
   },
   {
    "time": "0:45",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },

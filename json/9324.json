@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram",
    "form": "daily"
@@ -25,14 +28,20 @@
   },
   {
    "time": "0:00",
-   "amount": "0.17 bowls",
+   "amount": {
+    "number": "0.17",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:00",
-   "amount": "0.33 bowls",
+   "amount": {
+    "number": "0.33",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Lactuca",
    "form": "plant material",
@@ -40,35 +49,50 @@
   },
   {
    "time": "0:00",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "extract"
   },
   {
    "time": "0:10",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Hyoscyamus niger",
    "form": "plant material"
   },
   {
    "time": "0:40",
-   "amount": "10 ml",
+   "amount": {
+    "number": "10",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Belladonna",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

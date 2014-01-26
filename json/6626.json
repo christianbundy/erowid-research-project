@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 tsp",
+   "amount": {
+    "number": "7",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "ground/crushed",

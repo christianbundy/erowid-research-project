@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propoxyphene",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "2600 mg",
+   "amount": {
+    "number": "2600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"

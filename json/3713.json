@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
-   "amount": "T+ 0:50",
+   "amount": {
+    "number": "T+",
+    "unit": "0:50"
+   },
    "administration": "5 hits",
    "substance": "oral"
   },
@@ -41,13 +47,19 @@
   },
   {
    "time": "9:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "0",
-   "amount": "T+ 9:00",
+   "amount": {
+    "number": "T+",
+    "unit": "9:00"
+   },
    "administration": "1 repeated",
    "substance": "smoked"
   },

@@ -13,52 +13,76 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "5:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "13:00",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"
   },
   {
    "time": "20:30",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMAE"
   },
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "22:39",
-   "amount": "2 oz",
+   "amount": {
+    "number": "2",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   }

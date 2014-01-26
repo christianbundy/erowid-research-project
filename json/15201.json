@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 caps",
+   "amount": {
+    "number": "2",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"
   },
   {
    "time": "1:30",
-   "amount": "3 caps",
+   "amount": {
+    "number": "3",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"
   },
   {
    "time": "1:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

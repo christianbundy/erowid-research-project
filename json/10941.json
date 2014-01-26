@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "8:45",
-   "amount": "325 mg",
+   "amount": {
+    "number": "325",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "10:00",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

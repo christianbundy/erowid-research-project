@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 nuts",
+   "amount": {
+    "number": "12",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

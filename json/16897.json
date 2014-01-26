@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17 mg",
+   "amount": {
+    "number": "17",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B-Fly",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

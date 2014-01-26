@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/2 g",
+   "amount": {
+    "number": "1/2",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "20 mg",
    "substance": "sublingual"
   },
@@ -41,13 +47,19 @@
   },
   {
    "time": "2:50",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 3:55",
+   "amount": {
+    "number": "T+",
+    "unit": "3:55"
+   },
    "administration": "1/2 g",
    "substance": "smoked"
   },

@@ -13,49 +13,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"
   },
   {
    "time": "0:15",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"
   },
   {
    "time": "0:25",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"
   },
   {
    "time": "0:35",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Zaleplon",
    "form": "ground/crushed"
   },
   {
    "time": "1:15",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Zaleplon",
    "form": "ground/crushed"
   },
   {
    "time": "2:30",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Alprazolam",
    "form": "ground/crushed"

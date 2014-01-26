@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 nuts",
+   "amount": {
+    "number": "1.5",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": ".75 nuts",
+   "amount": {
+    "number": ".75",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": ".75 nuts",
+   "amount": {
+    "number": ".75",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"

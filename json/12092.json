@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 seeds",
+   "amount": {
+    "number": "24",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"

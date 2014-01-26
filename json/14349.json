@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 leaves",
+   "amount": {
+    "number": "0.5",
+    "unit": "leaves"
+   },
    "administration": "buccal",
    "substance": "Kratom",
    "form": "leaves"

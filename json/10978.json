@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "0:30",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "0:45",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "3:00",
-   "amount": "5 glasses",
+   "amount": {
+    "number": "5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
@@ -32,7 +38,10 @@
   },
   {
    "time": "4:00",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },

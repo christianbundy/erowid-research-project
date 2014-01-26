@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "IV",
    "substance": "Cocaine",
    "form": "powder/crystals"
   },
   {
    "time": "0:25",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "IV",
    "substance": "Heroin",
    "form": "powder/crystals"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "tea",

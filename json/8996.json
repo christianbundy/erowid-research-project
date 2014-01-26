@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 1:15",
+   "amount": {
+    "number": "T+",
+    "unit": "1:15"
+   },
    "administration": "1 tablet",
    "substance": "oral"
   },
@@ -48,7 +54,10 @@
   },
   {
    "time": "(plant material)",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "substance": "oral"
   },
   {

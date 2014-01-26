@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Coleus",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "120 ml",
+   "amount": {
+    "number": "120",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Coleus",
    "form": "extract"

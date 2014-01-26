@@ -13,18 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "substance": "Smarts",
    "specific": "Phenibut"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "substance": "Theanine"
   },
   {
    "time": "0",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   }

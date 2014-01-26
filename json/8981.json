@@ -20,28 +20,40 @@
   },
   {
    "time": "0:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "powder/crystals"
   },
   {
    "time": "10:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Flunitrazepam",
    "form": "pill/tablet"
   },
   {
    "time": "11:00",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Flunitrazepam",
    "form": "ground/crushed"
   },
   {
    "time": "11:00",
-   "amount": "1.2 ml",
+   "amount": {
+    "number": "1.2",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

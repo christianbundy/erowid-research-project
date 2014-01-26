@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "110 mg",
+   "amount": {
+    "number": "110",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "capsule",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "capsule",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piperazines",
    "form": "capsule",
@@ -37,7 +46,10 @@
   },
   {
    "time": "0:30",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

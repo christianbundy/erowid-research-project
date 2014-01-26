@@ -13,53 +13,77 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "1:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "2:30",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "3:30",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "substance": "MDMA"
   },
   {
    "time": "3:30",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   }

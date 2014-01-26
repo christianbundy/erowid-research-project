@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"

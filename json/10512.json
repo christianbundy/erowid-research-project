@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "capsule"

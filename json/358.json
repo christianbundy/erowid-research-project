@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.375 oz",
+   "amount": {
+    "number": "0.375",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

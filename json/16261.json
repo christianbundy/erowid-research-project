@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 oz",
+   "amount": {
+    "number": "3",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
   },
   {
    "time": "0:05",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

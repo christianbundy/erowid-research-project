@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT"
   },

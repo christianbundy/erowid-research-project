@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 g",
+   "amount": {
+    "number": "0.25",
+    "unit": "g"
+   },
    "administration": "IV",
    "substance": "Heroin",
    "form": "tar/resin"

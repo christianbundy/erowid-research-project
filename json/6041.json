@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 ",
+   "amount": {
+    "number": "20",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -21,14 +24,20 @@
   },
   {
    "time": "1:10",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "1:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"

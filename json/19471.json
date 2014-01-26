@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 g",
+   "amount": {
+    "number": "12.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried"
   },
   {
    "time": "1:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

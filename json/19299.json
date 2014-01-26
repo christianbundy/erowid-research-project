@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "700 ug",
+   "amount": {
+    "number": "700",
+    "unit": "ug"
+   },
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   }

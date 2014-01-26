@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6800 mg",
+   "amount": {
+    "number": "6800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava"
   },
   {
    "time": "0:00",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian"
   },
   {
    "time": "0:00",
-   "amount": "730 mg",
+   "amount": {
+    "number": "730",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hops"
   },
   {
    "time": "0:00",
-   "amount": "730 mg",
+   "amount": {
+    "number": "730",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Passion Flower"
   },
   {
    "time": "0:00",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Catnip"
   },
@@ -63,13 +78,19 @@
   },
   {
    "time": "2:00",
-   "amount": "1.0 ml",
+   "amount": {
+    "number": "1.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Capsicum spp."
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

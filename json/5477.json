@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 bumps",
+   "amount": {
+    "number": "3",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

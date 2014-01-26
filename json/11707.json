@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "10:00",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Eszopiclone",
    "form": "pill/tablet"

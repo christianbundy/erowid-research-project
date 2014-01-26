@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1750 mg",
+   "amount": {
+    "number": "1750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

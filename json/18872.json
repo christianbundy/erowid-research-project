@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "smoked",
    "substance": "Coleus",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Harmala Alkaloids",
    "form": "powder/crystals"

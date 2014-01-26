@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "27 mg",
+   "amount": {
+    "number": "27",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "powder/crystals"

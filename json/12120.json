@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Selegeline",
    "form": "daily"
   },
   {
    "time": "0:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenethylamines",
    "form": "daily",

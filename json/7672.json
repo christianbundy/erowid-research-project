@@ -12,35 +12,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Pseudoephedrine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "inhaled",
    "substance": "Albuterol",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibuprofen",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "6 glasses",
+   "amount": {
+    "number": "6",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

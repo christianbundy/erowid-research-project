@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "13 shots",
+   "amount": {
+    "number": "13",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

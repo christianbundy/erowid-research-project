@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.125 oz",
+   "amount": {
+    "number": "0.125",
+    "unit": "oz"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 mg",
+   "amount": {
+    "number": "11",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "capsule"

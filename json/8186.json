@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 cups",
+   "amount": {
+    "number": "1.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coca",
    "form": "tea"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "3:49",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "cookie/food"
   },
   {
    "time": "4:00",
-   "amount": "16 ml",
+   "amount": {
+    "number": "16",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "4:06",
-   "amount": "12 ml",
+   "amount": {
+    "number": "12",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
@@ -48,7 +60,10 @@
   },
   {
    "time": "0:00",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"

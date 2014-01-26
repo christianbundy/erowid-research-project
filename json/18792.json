@@ -13,34 +13,49 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "500 ug",
+   "amount": {
+    "number": "500",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "liquid"
   },
   {
    "time": "2:28",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "inhaled",
    "substance": "Cannabis"
   },
   {
    "time": "2:52",
-   "amount": "500 ug",
+   "amount": {
+    "number": "500",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-I-NBOMe",
    "form": "liquid"
   },
   {
    "time": "3:31",
-   "amount": "0.2 g",
+   "amount": {
+    "number": "0.2",
+    "unit": "g"
+   },
    "administration": "inhaled",
    "substance": "Cannabis"
   }

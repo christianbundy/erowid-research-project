@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 ",
+   "amount": {
+    "number": "0.5",
+    "unit": ""
+   },
    "administration": "buccal",
    "substance": "Betel Nut",
    "form": "dried"

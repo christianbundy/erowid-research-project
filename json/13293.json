@@ -25,7 +25,10 @@
   },
   {
    "time": "1:50",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"

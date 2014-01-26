@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3/4 cups",
+   "amount": {
+    "number": "3/4",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

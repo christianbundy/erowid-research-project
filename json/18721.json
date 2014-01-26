@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "250 mg",
    "substance": "oral"
   },
@@ -43,13 +46,19 @@
   },
   {
    "time": "3:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 3:30",
+   "amount": {
+    "number": "T+",
+    "unit": "3:30"
+   },
    "administration": "50 mg",
    "substance": "insufflated"
   },

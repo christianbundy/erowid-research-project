@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:36",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "1:37",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "6:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }

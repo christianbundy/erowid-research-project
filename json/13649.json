@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "21 mg",
+   "amount": {
+    "number": "21",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

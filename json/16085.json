@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 seeds",
+   "amount": {
+    "number": "9",
+    "unit": "seeds"
+   },
    "administration": "buccal",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "0",
-   "amount": "T+ 0:10",
+   "amount": {
+    "number": "T+",
+    "unit": "0:10"
+   },
    "administration": "5.0 g",
    "substance": "oral"
   }

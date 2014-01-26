@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "powder/crystals"

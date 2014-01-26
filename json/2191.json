@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT"
   },
   {
    "time": "0",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT"
   },
   {
    "time": "0",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT"
   }

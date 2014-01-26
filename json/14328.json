@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 repeated",
+   "amount": {
+    "number": "300",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Adrafinil",
    "form": "pill/tablet"

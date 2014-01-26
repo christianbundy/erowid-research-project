@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "225 ug",
+   "amount": {
+    "number": "225",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "blotter/tab"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7500 mg",
+   "amount": {
+    "number": "7500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "daily"
@@ -31,7 +34,10 @@
   },
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

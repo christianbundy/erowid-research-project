@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "3.5 seeds",
+   "amount": {
+    "number": "3.5",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"

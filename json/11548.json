@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17 mg",
+   "amount": {
+    "number": "17",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"
@@ -32,14 +35,20 @@
   },
   {
    "time": "3:15",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"

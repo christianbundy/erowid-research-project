@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "175 caps",
+   "amount": {
+    "number": "175",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea",

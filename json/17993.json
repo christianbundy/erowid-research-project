@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"

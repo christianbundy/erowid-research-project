@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 tablets",
+   "amount": {
+    "number": "4",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   },
   {
    "time": "0",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   }

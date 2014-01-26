@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "administration": "insufflated",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "substance": "MDMA"
   },
   {
@@ -42,7 +54,10 @@
   },
   {
    "time": "12:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Paroxetine"
   },

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "3 lines",
+   "amount": {
+    "number": "3",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "2C-T-7",
    "form": "powder/crystals"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 cups",
+   "amount": {
+    "number": "1.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Yerba Mate",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

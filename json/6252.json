@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37.45 mg",
+   "amount": {
+    "number": "37.45",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "MDA",
    "form": "freebase"

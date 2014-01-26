@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Naloxone",
    "form": "pill/tablet"

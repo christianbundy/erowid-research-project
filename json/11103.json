@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6300 mg",
+   "amount": {
+    "number": "6300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "tea"

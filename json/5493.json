@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "substance": "Anadenanthera peregrina",
    "form": "ground/crushed"
   }

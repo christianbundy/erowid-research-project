@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "708 mg",
+   "amount": {
+    "number": "708",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0:45",
-   "amount": "354 mg",
+   "amount": {
+    "number": "354",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "1:15",
-   "amount": "972 mg",
+   "amount": {
+    "number": "972",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 bumps",
+   "amount": {
+    "number": "0.5",
+    "unit": "bumps"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

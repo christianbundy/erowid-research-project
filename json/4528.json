@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract"
   },
   {
    "time": "1:30",
-   "amount": "10 seeds",
+   "amount": {
+    "number": "10",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "capsule"
@@ -39,7 +45,10 @@
   },
   {
    "time": "5:30",
-   "amount": "5 seeds",
+   "amount": {
+    "number": "5",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "capsule"

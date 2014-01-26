@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "liquid"

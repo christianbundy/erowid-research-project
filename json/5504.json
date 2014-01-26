@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "488 seeds",
+   "amount": {
+    "number": "488",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "capsule"

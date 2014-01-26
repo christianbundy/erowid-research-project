@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 ml",
+   "amount": {
+    "number": "0.5",
+    "unit": "ml"
+   },
    "administration": "IM",
    "substance": "DMT",
    "form": "liquid"
   },
   {
    "time": "0:54",
-   "amount": "1.0 ml",
+   "amount": {
+    "number": "1.0",
+    "unit": "ml"
+   },
    "administration": "IM",
    "substance": "DMT",
    "form": "liquid"
   },
   {
    "time": "1:55",
-   "amount": "0.5 ml",
+   "amount": {
+    "number": "0.5",
+    "unit": "ml"
+   },
    "administration": "IM",
    "substance": "DMT",
    "form": "liquid"

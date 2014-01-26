@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ug",
+   "amount": {
+    "number": "1",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"

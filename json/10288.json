@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 caps",
+   "amount": {
+    "number": "6",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

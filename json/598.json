@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "inhaled",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "0.1 oz",
+   "amount": {
+    "number": "0.1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "6:40",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "dried",

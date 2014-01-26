@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "insufflated",
    "substance": "Butorphanol",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Divalproex",
    "form": "daily"

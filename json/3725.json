@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -21,13 +24,19 @@
   },
   {
    "time": "1:00",
-   "amount": "2.5 hits",
+   "amount": {
+    "number": "2.5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "4:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -35,7 +44,10 @@
   },
   {
    "time": "7:00",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 flower",
+   "amount": {
+    "number": "1",
+    "unit": "flower"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "fresh"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 flower",
+   "amount": {
+    "number": "1",
+    "unit": "flower"
+   },
    "administration": "smoked",
    "substance": "Brugmansia",
    "form": "fresh"

@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lithium",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Aripiprazole",
    "form": "daily"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 oz",
+   "amount": {
+    "number": "6",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "0:10",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"
   },
   {
    "time": "0:00",
-   "amount": "6 oz",
+   "amount": {
+    "number": "6",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"

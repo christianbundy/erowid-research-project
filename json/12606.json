@@ -25,7 +25,10 @@
   },
   {
    "time": "2:00",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenazepam"
   }

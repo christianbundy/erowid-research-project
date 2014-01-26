@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "ground/crushed",

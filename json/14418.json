@@ -13,27 +13,42 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "substance": "Venlafaxine"
   },
   {
    "time": "0",
-   "amount": "36 mg",
+   "amount": {
+    "number": "36",
+    "unit": "mg"
+   },
    "substance": "Methylphenidate"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "Olanzapine"
   },
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "substance": "5-MeO-DiPT"
   },
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "AMT"
   }

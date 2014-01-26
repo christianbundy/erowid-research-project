@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
@@ -27,28 +30,40 @@
   },
   {
    "time": "0",
-   "amount": "5.5 tablets",
+   "amount": {
+    "number": "5.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "28 g",
+   "amount": {
+    "number": "28",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"
   },
   {
    "time": "0",
-   "amount": "1.875 gal",
+   "amount": {
+    "number": "1.875",
+    "unit": "gal"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

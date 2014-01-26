@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "6 shots",
+   "amount": {
+    "number": "6",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -34,7 +37,10 @@
   },
   {
    "time": "0",
-   "amount": "0.3333 g",
+   "amount": {
+    "number": "0.3333",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

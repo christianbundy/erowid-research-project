@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 g",
+   "amount": {
+    "number": "3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "15:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"

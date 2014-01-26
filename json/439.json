@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 oz",
+   "amount": {
+    "number": "12",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

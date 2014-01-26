@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "8 shots",
+   "amount": {
+    "number": "8",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -13,63 +13,90 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "70 mg",
+   "amount": {
+    "number": "70",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "7:00",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

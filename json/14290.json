@@ -20,47 +20,68 @@
   },
   {
    "time": "0:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:00",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0:00",
-   "amount": "1.5 hits",
+   "amount": {
+    "number": "1.5",
+    "unit": "hits"
+   },
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "1:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "insufflated",
    "substance": "25I-NBOMe",
    "form": "liquid"
   },
   {
    "time": "3:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "3:15",
-   "amount": "8 tablets",
+   "amount": {
+    "number": "8",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "5:15",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   }

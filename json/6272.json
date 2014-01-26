@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37 g",
+   "amount": {
+    "number": "37",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "37 g",
+   "amount": {
+    "number": "37",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "tea"

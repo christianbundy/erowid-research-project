@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "27 mg",
+   "amount": {
+    "number": "27",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   }

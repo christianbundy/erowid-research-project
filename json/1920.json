@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 ml",
+   "amount": {
+    "number": "5.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "1:45",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"
   },
   {
    "time": "2:15",
-   "amount": "1.0 ml",
+   "amount": {
+    "number": "1.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "liquid"

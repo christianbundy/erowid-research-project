@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 caps",
+   "amount": {
+    "number": "3",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",

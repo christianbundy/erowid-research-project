@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "substance": "2C-T-2",
    "form": "powder/crystals"
   }

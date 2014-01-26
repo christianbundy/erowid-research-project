@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "3 ",
+   "amount": {
+    "number": "3",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

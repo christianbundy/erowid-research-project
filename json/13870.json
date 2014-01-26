@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.8 mg",
+   "amount": {
+    "number": "7.8",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TMA-6",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "3.6 mg",
+   "amount": {
+    "number": "3.6",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TMA-6",
    "form": "liquid"
   },
   {
    "time": "8:00",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"

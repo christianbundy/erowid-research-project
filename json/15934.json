@@ -19,7 +19,10 @@
   },
   {
    "time": "1:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "capsule"

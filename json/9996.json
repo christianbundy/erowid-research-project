@@ -20,28 +20,40 @@
   },
   {
    "time": "0:00",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-T-21",
    "form": "liquid"
   },
   {
    "time": "2:15",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-T-21",
    "form": "liquid"
   },
   {
    "time": "2:15",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-C",
    "form": "liquid"
   },
   {
    "time": "7:30",
-   "amount": "9.0 g",
+   "amount": {
+    "number": "9.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

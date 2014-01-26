@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.4 mg",
+   "amount": {
+    "number": "5.4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TCB-2",
    "form": "powder/crystals"
   },
   {
    "time": "15:00",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen"
   },
   {
    "time": "15:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   },
   {
    "time": "15:00",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   }

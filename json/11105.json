@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 ml",
+   "amount": {
+    "number": "35",
+    "unit": "ml"
+   },
    "administration": "inhaled",
    "substance": "Ether",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0",
-   "amount": "20 ml",
+   "amount": {
+    "number": "20",
+    "unit": "ml"
+   },
    "administration": "inhaled",
    "substance": "Ether",
    "form": "liquid"

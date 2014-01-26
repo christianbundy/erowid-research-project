@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "dried"
   },
   {
    "time": "1:55",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "dried"
   },
   {
    "time": "10:00",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "dried"

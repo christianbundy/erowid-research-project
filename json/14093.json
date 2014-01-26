@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0:06",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "0:31",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "0:31",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "4-HO-MET",
    "form": "powder/crystals"

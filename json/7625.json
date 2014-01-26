@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25600 ug",
+   "amount": {
+    "number": "25600",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "Fentanyl",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "200 ug",
+   "amount": {
+    "number": "200",
+    "unit": "ug"
+   },
    "administration": "transdermal",
    "substance": "Fentanyl",
    "form": "daily"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 seed",
+   "amount": {
+    "number": "1",
+    "unit": "seed"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"

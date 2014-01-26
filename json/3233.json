@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1070 mg",
+   "amount": {
+    "number": "1070",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "capsule"

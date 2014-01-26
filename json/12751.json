@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "15:00",
-   "amount": "33 mg",
+   "amount": {
+    "number": "33",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDPV",
    "form": "powder/crystals"
@@ -47,21 +59,30 @@
   },
   {
    "time": "24:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "28:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "inhaled",
    "substance": "MDPV",
    "form": "powder/crystals"
   },
   {
    "time": "32:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

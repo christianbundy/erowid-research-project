@@ -20,7 +20,10 @@
   },
   {
    "time": "0:00",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "powder/crystals",

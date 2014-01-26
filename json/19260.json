@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:40",
-   "amount": "750 ug",
+   "amount": {
+    "number": "750",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "4:10",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

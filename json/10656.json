@@ -19,21 +19,30 @@
   },
   {
    "time": "0:00",
-   "amount": "5 flowers",
+   "amount": {
+    "number": "5",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "flowers"
   },
   {
    "time": "0:00",
-   "amount": "2.5 Tbsp",
+   "amount": {
+    "number": "2.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "2.5 Tbsp",
+   "amount": {
+    "number": "2.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "capsule"
   },
   {
    "time": "0:30",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "3:00",
-   "amount": "0.667 tablets",
+   "amount": {
+    "number": "0.667",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

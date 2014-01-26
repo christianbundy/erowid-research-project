@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 ml",
+   "amount": {
+    "number": "400",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

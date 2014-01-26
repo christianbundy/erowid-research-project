@@ -18,19 +18,28 @@
   },
   {
    "time": "0:00",
-   "amount": "7.4 mg",
+   "amount": {
+    "number": "7.4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "0:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan"
   },
   {
    "time": "0:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6"
   },
@@ -42,7 +51,10 @@
   },
   {
    "time": "0:50",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan"
   },
@@ -58,7 +70,10 @@
   },
   {
    "time": "5:55",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lecithin"
   },

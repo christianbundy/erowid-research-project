@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.5 mg",
+   "amount": {
+    "number": "4.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
@@ -25,7 +28,10 @@
   },
   {
    "time": "2:30",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"

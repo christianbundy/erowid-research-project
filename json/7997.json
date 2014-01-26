@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 ug",
+   "amount": {
+    "number": "250",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
@@ -26,50 +29,74 @@
   },
   {
    "time": "4:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "9:00",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   },
   {
    "time": "9:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen"
   },
   {
    "time": "9:00",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "10:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "10:30",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   },
   {
    "time": "10:30",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen"
   },
   {
    "time": "11:30",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibuprofen"
   },
@@ -79,7 +106,10 @@
   },
   {
    "time": "16:30",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   }

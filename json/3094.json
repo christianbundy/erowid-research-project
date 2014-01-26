@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 leaves",
+   "amount": {
+    "number": "2",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "fresh"

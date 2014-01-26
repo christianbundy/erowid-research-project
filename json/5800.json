@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 seeds",
+   "amount": {
+    "number": "200",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Belladonna"
   },
   {
    "time": "0",
-   "amount": "600 seeds",
+   "amount": {
+    "number": "600",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Belladonna"
   },
   {
    "time": "0",
-   "amount": "900 seeds",
+   "amount": {
+    "number": "900",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Belladonna"
   }

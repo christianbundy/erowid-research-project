@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "substance": "Methiopropamine"
   },
   {
    "time": "2:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Methiopropamine"
   },

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1350 mg",
+   "amount": {
+    "number": "1350",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "0:15",
-   "amount": "165 mg",
+   "amount": {
+    "number": "165",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"

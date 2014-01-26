@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 caps",
+   "amount": {
+    "number": "16",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"

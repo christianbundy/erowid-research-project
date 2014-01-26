@@ -33,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Olanzapine",
    "form": "daily"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "25 mg",
    "substance": "insufflated"
   }

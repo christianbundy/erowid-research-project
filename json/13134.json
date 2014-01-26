@@ -13,55 +13,79 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "AMT",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "1000 ml",
+   "amount": {
+    "number": "1000",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "2:50",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI",
    "form": "powder/crystals"
   },
   {
    "time": "5:20",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI",
    "form": "powder/crystals"
   },
   {
    "time": "6:45",
-   "amount": "21 mg",
+   "amount": {
+    "number": "21",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "9:30",
-   "amount": "250 ml",
+   "amount": {
+    "number": "250",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "14:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "15:00",
-   "amount": "0.25 mg",
+   "amount": {
+    "number": "0.25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Triazolam",
    "form": "pill/tablet"

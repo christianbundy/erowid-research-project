@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 hits",
+   "amount": {
+    "number": "0.75",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 0:20",
+   "amount": {
+    "number": "T+",
+    "unit": "0:20"
+   },
    "administration": "4.5 g",
    "substance": "oral"
   },
@@ -43,7 +49,10 @@
   },
   {
    "time": "1:30",
-   "amount": "5.0 g",
+   "amount": {
+    "number": "5.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora"
   }

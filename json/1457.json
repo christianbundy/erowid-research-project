@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 shots",
+   "amount": {
+    "number": "0.5",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

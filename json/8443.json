@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "substance": "Atomoxetine",
    "form": "daily"
   }

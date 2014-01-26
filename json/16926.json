@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "2C-T-2",
    "form": "powder/crystals"

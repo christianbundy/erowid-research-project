@@ -19,23 +19,35 @@
   },
   {
    "time": "0:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propranolol"
   },
   {
    "time": "0:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "substance": "Methoxetamine "
   },
   {
    "time": "2:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "substance": "Methoxetamine "
   },
   {
    "time": "4:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "substance": "Methoxetamine "
   }
  ],

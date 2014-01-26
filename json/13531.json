@@ -13,56 +13,80 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "1:10",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "3:20",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"
   },
   {
    "time": "8:30",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "capsule"
   },
   {
    "time": "8:30",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "13:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"
   },
   {
    "time": "13:00",
-   "amount": "37.5 mg",
+   "amount": {
+    "number": "37.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "17:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"

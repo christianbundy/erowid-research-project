@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 ",
+   "amount": {
+    "number": "3.5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -21,21 +24,30 @@
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "dried"
   },
   {
    "time": "2:15",
-   "amount": "4 ",
+   "amount": {
+    "number": "4",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",

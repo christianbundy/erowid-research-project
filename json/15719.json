@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 seeds",
+   "amount": {
+    "number": "8",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "3:00",
-   "amount": "4 caps",
+   "amount": {
+    "number": "4",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"

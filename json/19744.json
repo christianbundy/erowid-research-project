@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lecithin"
   },
   {
    "time": "0",
-   "amount": "T+ 4:00",
+   "amount": {
+    "number": "T+",
+    "unit": "4:00"
+   },
    "administration": "0.5 g",
    "substance": "oral"
   },
@@ -31,7 +37,10 @@
   },
   {
    "time": "oral",
-   "amount": "Leonotis leonurus",
+   "amount": {
+    "number": "Leonotis",
+    "unit": "leonurus"
+   },
    "administration": "(extract)",
    "substance": "T+ 4:00"
   },
@@ -43,14 +52,20 @@
   },
   {
    "time": "4:00",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0",
-   "amount": "T+ 4:00",
+   "amount": {
+    "number": "T+",
+    "unit": "4:00"
+   },
    "administration": "1 tsp",
    "substance": "buccal"
   },

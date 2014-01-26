@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 tsp",
+   "amount": {
+    "number": "3",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Erythrina mulungu",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "4 tsp",
+   "amount": {
+    "number": "4",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Erythrina mulungu",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "3 tsp",
+   "amount": {
+    "number": "3",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Erythrina mulungu",
    "form": "powder/crystals"

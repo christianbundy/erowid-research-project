@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 drops",
+   "amount": {
+    "number": "2",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Products",
    "form": "liquid",

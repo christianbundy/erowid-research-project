@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": ".5 tablets",
+   "amount": {
+    "number": ".5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "1:00",
-   "amount": ".5 tablets",
+   "amount": {
+    "number": ".5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "1:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "4:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "6:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

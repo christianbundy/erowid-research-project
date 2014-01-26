@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14.4 mg",
+   "amount": {
+    "number": "14.4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B-Fly",
    "form": "liquid"
   },
   {
    "time": "2:57",
-   "amount": "5 hits",
+   "amount": {
+    "number": "5",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"
   },
   {
    "time": "1:30",
-   "amount": "2.5 tsp",
+   "amount": {
+    "number": "2.5",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

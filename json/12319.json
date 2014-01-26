@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

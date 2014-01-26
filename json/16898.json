@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Haloperidol",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": ".25 g",
+   "amount": {
+    "number": ".25",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

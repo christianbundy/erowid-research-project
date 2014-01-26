@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "28 oz",
+   "amount": {
+    "number": "28",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "tea"

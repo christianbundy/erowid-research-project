@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydromorphone",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "0.5 glasses",
+   "amount": {
+    "number": "0.5",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "170 mg",
+   "amount": {
+    "number": "170",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "liquid"

@@ -17,7 +17,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00"
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   }
   },
   {
    "time": "Ginkgo biloba",

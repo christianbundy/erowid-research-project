@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MBDP",
    "form": "powder/crystals"
   },
   {
    "time": "0:45",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "bk-MBDP",
    "form": "powder/crystals"
   },
   {
    "time": "1:45",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "bk-MBDP",
    "form": "powder/crystals"
   },
   {
    "time": "3:15",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MBDP",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MBDP",
    "form": "powder/crystals"

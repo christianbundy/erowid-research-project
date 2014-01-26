@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "6 shots",
+   "amount": {
+    "number": "6",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

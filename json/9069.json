@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "437.5 g",
+   "amount": {
+    "number": "437.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",
@@ -27,7 +30,10 @@
   },
   {
    "time": "0",
-   "amount": "6 glasses",
+   "amount": {
+    "number": "6",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

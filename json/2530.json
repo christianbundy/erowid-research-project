@@ -23,7 +23,10 @@
   },
   {
    "time": "0",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Bupropion",
    "form": "ground/crushed"

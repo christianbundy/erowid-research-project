@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tsp",
+   "amount": {
+    "number": "2",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
   },
   {
    "time": "0:35",
-   "amount": "270 mg",
+   "amount": {
+    "number": "270",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Kava",
    "form": "ground/crushed"

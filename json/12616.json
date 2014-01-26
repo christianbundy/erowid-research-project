@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "8:30",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "8:50",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"
   },
   {
    "time": "9:10",
-   "amount": "4 bumps",
+   "amount": {
+    "number": "4",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

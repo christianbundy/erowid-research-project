@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "substance": "DOC"
   },
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "substance": "Cocaine"
   }
  ],

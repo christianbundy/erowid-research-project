@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 Tbsp",
+   "amount": {
+    "number": "4",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Boophone disticha",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Boophone disticha",
    "form": "tea"

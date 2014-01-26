@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "liquid"
   },
   {
    "time": "0:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "liquid"

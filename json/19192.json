@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:00",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "specific": "Niacin"
   },
   {
    "time": "8:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine"
   }

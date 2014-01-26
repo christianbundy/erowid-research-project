@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "28 mg",
+   "amount": {
+    "number": "28",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "capsule"

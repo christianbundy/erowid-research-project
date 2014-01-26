@@ -20,7 +20,10 @@
   },
   {
    "time": "1:45",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
@@ -33,14 +36,20 @@
   },
   {
    "time": "2:35",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"
   },
   {
    "time": "5:10",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "cookie/food"

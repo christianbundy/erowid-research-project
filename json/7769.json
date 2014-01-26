@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "buccal",
    "substance": "Banisteriopsis caapi",
    "form": "dried"
   },
   {
    "time": "1:00",
-   "amount": "6.5 g",
+   "amount": {
+    "number": "6.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "ground/crushed"
   },
   {
    "time": "1:13",
-   "amount": "3 bowls",
+   "amount": {
+    "number": "3",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
@@ -39,7 +48,10 @@
   },
   {
    "time": "5:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

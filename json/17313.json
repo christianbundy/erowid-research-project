@@ -13,49 +13,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.2 mg",
+   "amount": {
+    "number": "3.2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOI",
    "form": "powder/crystals"
   },
   {
    "time": "6:20",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "10:20",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "10:20",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "12:20",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "14:20",
-   "amount": "50 ml",
+   "amount": {
+    "number": "50",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid"
   },
   {
    "time": "14:20",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zopiclone",
    "form": "pill/tablet"

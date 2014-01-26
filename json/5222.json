@@ -19,7 +19,10 @@
   },
   {
    "time": "1:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "substance": "LSD"
   },
   {
@@ -42,7 +45,10 @@
   },
   {
    "time": "9:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

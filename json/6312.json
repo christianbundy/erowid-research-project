@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "2.0 mg",
    "substance": "oral"
   },
@@ -42,7 +45,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   }

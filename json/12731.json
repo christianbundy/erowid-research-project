@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "55 mg",
+   "amount": {
+    "number": "55",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DMT"
   }

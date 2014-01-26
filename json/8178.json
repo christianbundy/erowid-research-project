@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.31 g",
+   "amount": {
+    "number": "1.31",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"

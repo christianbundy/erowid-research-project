@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methotrimeprazine",
    "form": "pill/tablet"

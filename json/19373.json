@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"

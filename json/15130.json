@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "7 glasses",
+   "amount": {
+    "number": "7",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

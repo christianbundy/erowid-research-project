@@ -19,7 +19,10 @@
   },
   {
    "time": "3:00",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "blotter/tab"

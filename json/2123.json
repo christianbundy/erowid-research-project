@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.6 mg",
+   "amount": {
+    "number": "0.6",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Scopolamine",
    "form": "pill/tablet"
   },
   {
    "time": "0:20",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0:40",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
    "form": "extract"

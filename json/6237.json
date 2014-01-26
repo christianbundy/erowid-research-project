@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "2 joints/cigs",
+   "amount": {
+    "number": "2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "3:15",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

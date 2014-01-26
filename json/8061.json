@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 caps",
+   "amount": {
+    "number": "20",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

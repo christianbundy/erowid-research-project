@@ -40,7 +40,10 @@
   },
   {
    "time": "0",
-   "amount": "0.125 oz",
+   "amount": {
+    "number": "0.125",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },

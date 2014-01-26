@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 seeds",
+   "amount": {
+    "number": "450",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "1:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "2:10",
-   "amount": "2.3 g",
+   "amount": {
+    "number": "2.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -35,7 +44,10 @@
   },
   {
    "time": "2:10",
-   "amount": "24 oz",
+   "amount": {
+    "number": "24",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -43,7 +55,10 @@
   },
   {
    "time": "3:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

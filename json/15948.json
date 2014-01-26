@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.66 buttons",
+   "amount": {
+    "number": "3.66",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "extract"

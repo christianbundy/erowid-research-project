@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "0:05",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MIPT",
    "form": "capsule"
@@ -33,28 +39,40 @@
   },
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "7:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "10 ug",
+   "amount": {
+    "number": "10",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 buttons",
+   "amount": {
+    "number": "2",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18 in",
+   "amount": {
+    "number": "18",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "1:00",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"

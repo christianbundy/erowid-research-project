@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3600 mg",
+   "amount": {
+    "number": "3600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-2"
   }

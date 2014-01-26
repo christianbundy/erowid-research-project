@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "IAP",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1.5 shots",
+   "amount": {
+    "number": "1.5",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

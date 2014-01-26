@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1100 mg",
+   "amount": {
+    "number": "1100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "1100 mg",
+   "amount": {
+    "number": "1100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "26 in",
+   "amount": {
+    "number": "26",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 g",
+   "amount": {
+    "number": "400",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "seeds",

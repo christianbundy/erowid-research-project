@@ -13,70 +13,100 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "0:20",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "1:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "1:55",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "2:15",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ethylphenidate",
    "form": "powder/crystals"
   },
   {
    "time": "2:15",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "2:45",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "4:45",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cyclobenzaprine",
    "form": "pill/tablet"
   },
   {
    "time": "6:45",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "6:45",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"

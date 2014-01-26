@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylone",
    "form": "liquid"
   },
   {
    "time": "0:25",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylone",
    "form": "liquid"
   },
   {
    "time": "0:40",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylone",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylone",
    "form": "liquid"

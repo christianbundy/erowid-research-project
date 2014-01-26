@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "650 mg",
+   "amount": {
+    "number": "650",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"

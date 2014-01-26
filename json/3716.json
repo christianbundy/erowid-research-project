@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -21,7 +24,10 @@
   },
   {
    "time": "12:00",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "gel tab"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

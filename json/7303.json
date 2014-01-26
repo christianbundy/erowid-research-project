@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "2 nuts",
+   "amount": {
+    "number": "2",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Betel Nut"
   }

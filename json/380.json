@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 drops",
+   "amount": {
+    "number": "60",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"

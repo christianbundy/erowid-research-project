@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-D",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C",
    "form": "liquid"
@@ -38,34 +44,49 @@
   },
   {
    "time": "1:30",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "1:30",
-   "amount": ".5 mg",
+   "amount": {
+    "number": ".5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   },
   {
    "time": "4:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "4:30",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "4:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
@@ -77,7 +98,10 @@
   },
   {
    "time": "6:00",
-   "amount": ".5 mg",
+   "amount": {
+    "number": ".5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   }

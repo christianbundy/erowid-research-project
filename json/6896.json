@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "0",
-   "amount": "T+ 3:15",
+   "amount": {
+    "number": "T+",
+    "unit": "3:15"
+   },
    "administration": "10 carts.",
    "substance": "inhaled"
   },

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4800 mg",
+   "amount": {
+    "number": "4800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DHEA"
   }

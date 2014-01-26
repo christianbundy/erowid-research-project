@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37.5 mg",
+   "amount": {
+    "number": "37.5",
+    "unit": "mg"
+   },
    "substance": "IAP",
    "form": "powder/crystals"
   }

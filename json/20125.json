@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Escitalopram"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "30 mg",
    "substance": "oral"
   },
@@ -42,13 +48,19 @@
   },
   {
    "time": "19:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil"
   },
   {
    "time": "0",
-   "amount": "T+ 20:00",
+   "amount": {
+    "number": "T+",
+    "unit": "20:00"
+   },
    "administration": "2 mg",
    "substance": "oral"
   },

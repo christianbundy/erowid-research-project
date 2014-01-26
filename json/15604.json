@@ -24,14 +24,20 @@
   },
   {
    "time": "0",
-   "amount": "7 bowls",
+   "amount": {
+    "number": "7",
+    "unit": "bowls"
+   },
    "administration": "oral",
    "substance": "Opium",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "5 cups",
+   "amount": {
+    "number": "5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coca",
    "form": "tea"

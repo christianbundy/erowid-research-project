@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "240 ml",
+   "amount": {
+    "number": "240",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "0:20",
-   "amount": "20 seeds",
+   "amount": {
+    "number": "20",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "capsule"
   },
   {
    "time": "0:20",
-   "amount": "20 seeds",
+   "amount": {
+    "number": "20",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "capsule"
   },
   {
    "time": "0:20",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calamus",
    "form": "capsule"
@@ -54,7 +66,10 @@
   },
   {
    "time": "0:20",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"

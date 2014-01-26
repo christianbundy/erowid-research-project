@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "liquid"
   },
   {
    "time": "2:15",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "capsule"

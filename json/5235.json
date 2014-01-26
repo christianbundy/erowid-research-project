@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3000 mg",
+   "amount": {
+    "number": "3000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

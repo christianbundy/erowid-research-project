@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 cups",
+   "amount": {
+    "number": "0.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

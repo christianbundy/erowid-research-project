@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "900 ml",
+   "amount": {
+    "number": "900",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

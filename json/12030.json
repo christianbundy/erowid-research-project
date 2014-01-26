@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 ug",
+   "amount": {
+    "number": "200",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Huperzine ",
    "form": "pill/tablet"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 mg",
+   "amount": {
+    "number": "14",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOI"
   },
   {
    "time": "0",
-   "amount": "T+ 5:50",
+   "amount": {
+    "number": "T+",
+    "unit": "5:50"
+   },
    "substance": "smoked"
   },
   {
@@ -40,7 +46,10 @@
   },
   {
    "time": "9:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amitriptyline"
   }

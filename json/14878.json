@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 tablets",
+   "amount": {
+    "number": "0.25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "25:00",
-   "amount": "0.25 tablets",
+   "amount": {
+    "number": "0.25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "30:00",
-   "amount": "0.25 tablets",
+   "amount": {
+    "number": "0.25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "32:00",
-   "amount": "0.25 tablets",
+   "amount": {
+    "number": "0.25",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

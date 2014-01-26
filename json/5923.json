@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "4500 mg",
+   "amount": {
+    "number": "4500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methocarbamol"
   },
   {
    "time": "2:30",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "pill/tablet"

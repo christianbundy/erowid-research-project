@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 caps",
+   "amount": {
+    "number": "5",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

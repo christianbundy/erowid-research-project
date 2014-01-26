@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "147.5 mg",
+   "amount": {
+    "number": "147.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "236 mg",
+   "amount": {
+    "number": "236",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "liquid"

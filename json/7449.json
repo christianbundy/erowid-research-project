@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 hits",
+   "amount": {
+    "number": "7",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Acacia",
    "form": "tar/resin"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 seeds",
+   "amount": {
+    "number": "8",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "Stipa robusta"
   },
   {
    "time": "0:19",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"

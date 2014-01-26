@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "2C-I",
    "form": "powder/crystals"

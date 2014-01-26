@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 Tbsp",
+   "amount": {
+    "number": "3",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"
   },
   {
    "time": "7:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"
   },
   {
    "time": "7:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "8:30",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"
   },
   {
    "time": "8:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

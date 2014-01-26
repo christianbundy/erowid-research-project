@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 glasses",
+   "amount": {
+    "number": "0.75",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "0:45",
-   "amount": "0.2 joints/cigs",
+   "amount": {
+    "number": "0.2",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "1:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

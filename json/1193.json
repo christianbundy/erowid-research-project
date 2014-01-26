@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.08 ml",
+   "amount": {
+    "number": "0.08",
+    "unit": "ml"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"

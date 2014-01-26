@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"

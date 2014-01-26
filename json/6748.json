@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

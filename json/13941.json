@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "420 mg",
+   "amount": {
+    "number": "420",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"

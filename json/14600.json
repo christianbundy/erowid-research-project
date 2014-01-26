@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT",
    "form": "capsule"

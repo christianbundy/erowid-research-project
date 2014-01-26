@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13.5 mg",
+   "amount": {
+    "number": "13.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"

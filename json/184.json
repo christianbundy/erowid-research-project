@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "JWH-200",
    "form": "daily"
@@ -30,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-200"
   }

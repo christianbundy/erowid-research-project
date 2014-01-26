@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Buprenorphine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Naloxone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Benzodiazepines",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "6 glasses",
+   "amount": {
+    "number": "6",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "daily",

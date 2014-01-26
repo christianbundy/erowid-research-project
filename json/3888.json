@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.6 g",
+   "amount": {
+    "number": "0.6",
+    "unit": "g"
+   },
    "administration": "sublingual",
    "substance": "Kratom",
    "form": "leaves"
   },
   {
    "time": "0:25",
-   "amount": "0.4 g",
+   "amount": {
+    "number": "0.4",
+    "unit": "g"
+   },
    "administration": "sublingual",
    "substance": "Kratom",
    "form": "leaves"
   },
   {
    "time": "0:50",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Kratom",
    "form": "leaves"

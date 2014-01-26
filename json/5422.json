@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 hits",
+   "amount": {
+    "number": "11",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Ether",
    "form": "gas"

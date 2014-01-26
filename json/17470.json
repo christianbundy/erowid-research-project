@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.36 g",
+   "amount": {
+    "number": "0.36",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "dried"

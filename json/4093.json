@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "190 mg",
+   "amount": {
+    "number": "190",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "powder/crystals"

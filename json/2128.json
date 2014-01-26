@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3600 mg",
+   "amount": {
+    "number": "3600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Guarana",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 gal",
+   "amount": {
+    "number": "1",
+    "unit": "gal"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

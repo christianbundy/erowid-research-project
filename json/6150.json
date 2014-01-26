@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 cups",
+   "amount": {
+    "number": "0.75",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Lactuca",
    "form": "tea",
@@ -20,14 +23,20 @@
   },
   {
    "time": "0",
-   "amount": "4 ",
+   "amount": {
+    "number": "4",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "45 g",
+   "amount": {
+    "number": "45",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "tea",

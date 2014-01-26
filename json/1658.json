@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "325 ml",
+   "amount": {
+    "number": "325",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract"

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 seeds",
+   "amount": {
+    "number": "25",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "liquid",

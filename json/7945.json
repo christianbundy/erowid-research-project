@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 seeds",
+   "amount": {
+    "number": "10",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2.5 seeds",
+   "amount": {
+    "number": "2.5",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Meclizine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "37.5 mg",
+   "amount": {
+    "number": "37.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "capsule"

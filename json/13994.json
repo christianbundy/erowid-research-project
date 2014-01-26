@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Aleph-4"
   }

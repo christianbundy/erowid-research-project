@@ -20,14 +20,20 @@
   },
   {
    "time": "0",
-   "amount": "15 seeds",
+   "amount": {
+    "number": "15",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "8 caps",
+   "amount": {
+    "number": "8",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -35,21 +41,30 @@
   },
   {
    "time": "0",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "2 caps",
+   "amount": {
+    "number": "2",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

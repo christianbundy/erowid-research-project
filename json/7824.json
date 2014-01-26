@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MiPT",
    "form": "capsule"
@@ -27,49 +30,70 @@
   },
   {
    "time": "7:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "7:15",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "7:50",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "8:15",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-HO-MiPT",
    "form": "powder/crystals"
   },
   {
    "time": "8:15",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "4-HO-MiPT",
    "form": "capsule"
   },
   {
    "time": "11:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "11:40",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Melatonin",
    "form": "pill/tablet"

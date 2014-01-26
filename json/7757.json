@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 in",
+   "amount": {
+    "number": "15",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",
@@ -21,13 +24,19 @@
   },
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam"
   },
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Lorazepam"
   }

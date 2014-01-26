@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3500 mg",
+   "amount": {
+    "number": "3500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "form": "powder/crystals",

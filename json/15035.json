@@ -20,21 +20,30 @@
   },
   {
    "time": "0:00",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Trazodone",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Trazodone",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "substance": "Melatonin"
   }
  ],

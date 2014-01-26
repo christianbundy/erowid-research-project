@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3000 ug",
+   "amount": {
+    "number": "3000",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 oz",
+   "amount": {
+    "number": "3.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "1:00",
-   "amount": "3.5 oz",
+   "amount": {
+    "number": "3.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },

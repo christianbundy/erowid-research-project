@@ -12,20 +12,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.125 oz",
+   "amount": {
+    "number": "0.125",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh"
   },
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Opium"
   },
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"

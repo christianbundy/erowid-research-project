@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "850 ml",
+   "amount": {
+    "number": "850",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

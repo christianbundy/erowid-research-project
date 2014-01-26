@@ -16,7 +16,10 @@
   },
   {
    "time": "0",
-   "amount": "2.5 tablets",
+   "amount": {
+    "number": "2.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   }

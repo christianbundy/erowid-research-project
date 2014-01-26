@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -21,28 +24,40 @@
   },
   {
    "time": "0:10",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "1:00",
-   "amount": "8 leaves",
+   "amount": {
+    "number": "8",
+    "unit": "leaves"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "1:12",
-   "amount": "8 leaves",
+   "amount": {
+    "number": "8",
+    "unit": "leaves"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "1:45",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -50,7 +65,10 @@
   },
   {
    "time": "0:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

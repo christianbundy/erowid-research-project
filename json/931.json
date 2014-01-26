@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "gel tab"
   },
   {
    "time": "0:45",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DPT",
    "form": "freebase"

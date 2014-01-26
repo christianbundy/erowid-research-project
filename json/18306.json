@@ -20,14 +20,20 @@
   },
   {
    "time": "0",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "0",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "plant material"

@@ -16,7 +16,10 @@
   },
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil"
   }

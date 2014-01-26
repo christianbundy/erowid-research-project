@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "64 tablets",
+   "amount": {
+    "number": "64",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM"
   },

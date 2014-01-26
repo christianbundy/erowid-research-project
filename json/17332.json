@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 drops",
+   "amount": {
+    "number": "6",
+    "unit": "drops"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"

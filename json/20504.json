@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Skullcap",
    "form": "plant material"

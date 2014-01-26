@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cyclizine"
   },
   {
    "time": "0",
-   "amount": "T+ 1:00",
+   "amount": {
+    "number": "T+",
+    "unit": "1:00"
+   },
    "administration": "400 mg",
    "substance": "oral"
   }

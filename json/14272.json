@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "capsule"
   },
   {
    "time": "2:00",
-   "amount": "1.25 g",
+   "amount": {
+    "number": "1.25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "capsule"

@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Datura",
    "form": "leaves"
   },
   {
    "time": "1:00",
-   "amount": "75 seeds",
+   "amount": {
+    "number": "75",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "2:00",
-   "amount": "75 seeds",
+   "amount": {
+    "number": "75",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "3:30",
-   "amount": "100 seeds",
+   "amount": {
+    "number": "100",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "4:00",
-   "amount": "50 seeds",
+   "amount": {
+    "number": "50",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

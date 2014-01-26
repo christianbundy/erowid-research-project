@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "80 mg",
+   "amount": {
+    "number": "80",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-D",
    "form": "powder/crystals"
@@ -26,14 +29,20 @@
   },
   {
    "time": "0",
-   "amount": "24 carts.",
+   "amount": {
+    "number": "24",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "48:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   },

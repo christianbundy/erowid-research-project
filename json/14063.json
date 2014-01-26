@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "powder/crystals"
   },
   {
    "time": "0:50",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "powder/crystals"
@@ -34,7 +40,10 @@
   },
   {
    "time": "6:00",
-   "amount": "2 carts.",
+   "amount": {
+    "number": "2",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

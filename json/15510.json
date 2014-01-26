@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.2 mg",
+   "amount": {
+    "number": "7.2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-MIPT",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "2:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

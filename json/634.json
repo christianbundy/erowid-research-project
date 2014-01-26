@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 seeds",
+   "amount": {
+    "number": "12",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "5:00",
-   "amount": "48 hits",
+   "amount": {
+    "number": "48",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

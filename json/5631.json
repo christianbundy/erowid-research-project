@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 mg",
+   "amount": {
+    "number": "7.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-P",
    "form": "liquid"

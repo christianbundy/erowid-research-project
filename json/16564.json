@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2800 mg",
+   "amount": {
+    "number": "2800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"

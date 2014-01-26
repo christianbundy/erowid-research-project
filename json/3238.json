@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "310 mg",
+   "amount": {
+    "number": "310",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline"
   }

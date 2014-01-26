@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "1:20",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:40",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "3:40",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "12 tablets",
+   "amount": {
+    "number": "12",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   }

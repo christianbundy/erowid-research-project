@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 lines",
+   "amount": {
+    "number": "3",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

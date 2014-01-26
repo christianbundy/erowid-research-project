@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.25 g",
+   "amount": {
+    "number": "5.25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Sakae Naa ",
    "form": "tea"

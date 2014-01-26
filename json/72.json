@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 ug",
+   "amount": {
+    "number": "900",
+    "unit": "ug"
+   },
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   }

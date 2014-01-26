@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "960 mg",
+   "amount": {
+    "number": "960",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "480 mg",
+   "amount": {
+    "number": "480",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

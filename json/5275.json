@@ -12,28 +12,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 tablets",
+   "amount": {
+    "number": "7",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "7 tablets",
+   "amount": {
+    "number": "7",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "7 tablets",
+   "amount": {
+    "number": "7",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Guarana",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

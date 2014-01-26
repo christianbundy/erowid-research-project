@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -20,7 +23,10 @@
   },
   {
    "time": "15:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -28,7 +34,10 @@
   },
   {
    "time": "24:00",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -36,7 +45,10 @@
   },
   {
    "time": "34:00",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -44,7 +56,10 @@
   },
   {
    "time": "40:00",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",
@@ -52,7 +67,10 @@
   },
   {
    "time": "50:00",
-   "amount": "1 bump",
+   "amount": {
+    "number": "1",
+    "unit": "bump"
+   },
    "administration": "insufflated",
    "substance": "Products",
    "form": "powder/crystals",

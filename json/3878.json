@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1050 mg",
+   "amount": {
+    "number": "1050",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"

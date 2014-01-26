@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0",
-   "amount": "25 g",
+   "amount": {
+    "number": "25",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0",
-   "amount": "35 g",
+   "amount": {
+    "number": "35",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -36,7 +45,10 @@
   },
   {
    "time": "0",
-   "amount": "35 g",
+   "amount": {
+    "number": "35",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",

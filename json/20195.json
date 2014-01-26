@@ -20,7 +20,10 @@
   },
   {
    "time": "12:00",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "ground/crushed"

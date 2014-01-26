@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 flowers",
+   "amount": {
+    "number": "7",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "tea"
   },
   {
    "time": "0:12",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "flowers"
   },
   {
    "time": "0:40",
-   "amount": "7 flowers",
+   "amount": {
+    "number": "7",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Catnip",
    "form": "tea"
   },
   {
    "time": "2:20",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "2:20",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "flowers"

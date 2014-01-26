@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "33 mg",
+   "amount": {
+    "number": "33",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TMA-2",
    "form": "powder/crystals"
   },
   {
    "time": "2:40",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "TMA-2",
    "form": "powder/crystals"
   },
   {
    "time": "3:30",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "TMA-2",
    "form": "powder/crystals"

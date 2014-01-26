@@ -26,7 +26,10 @@
   },
   {
    "time": "0:00",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Lactuca",
    "form": "plant material",
@@ -34,7 +37,10 @@
   },
   {
    "time": "1:00",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Lactuca",
    "form": "plant material",

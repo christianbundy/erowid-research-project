@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 ",
+   "amount": {
+    "number": "1.5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "flowers"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"

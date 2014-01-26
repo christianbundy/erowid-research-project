@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 Tbsp",
+   "amount": {
+    "number": "3",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DPT",
    "form": "powder/crystals"

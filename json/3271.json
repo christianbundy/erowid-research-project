@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food",
@@ -21,46 +24,67 @@
   },
   {
    "time": "0:59",
-   "amount": "0.75 tablets",
+   "amount": {
+    "number": "0.75",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "ground/crushed"
   },
   {
    "time": "2:10",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "4:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "13:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "0.25 tablets",
+   "amount": {
+    "number": "0.25",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "ground/crushed"

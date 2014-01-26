@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "95 mg",
+   "amount": {
+    "number": "95",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"

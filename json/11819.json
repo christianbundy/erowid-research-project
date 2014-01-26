@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

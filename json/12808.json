@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "plant material",
@@ -35,7 +44,10 @@
   },
   {
    "time": "168:00",
-   "amount": "1.5 bowls",
+   "amount": {
+    "number": "1.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "plant material",

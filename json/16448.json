@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 capsls",
+   "amount": {
+    "number": "50",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kava"
   }

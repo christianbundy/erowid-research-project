@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "substance": "Amanitas",
    "form": "extract-10x"
   },
   {
    "time": "1:30",
-   "amount": "0.25 tsp",
+   "amount": {
+    "number": "0.25",
+    "unit": "tsp"
+   },
    "substance": "Ephedra sinica",
    "form": "dried"
   },
   {
    "time": "0:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2600 mg",
+   "amount": {
+    "number": "2600",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Meperidine",
    "form": "liquid"

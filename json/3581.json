@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "3:30",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "3:30",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"

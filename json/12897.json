@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 g",
+   "amount": {
+    "number": "4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "2:45",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Products",
    "specific": "Spice and Synthetic Cannabinoids"

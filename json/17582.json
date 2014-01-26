@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": ".8725 g",
+   "amount": {
+    "number": ".8725",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

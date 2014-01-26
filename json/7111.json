@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material"
@@ -26,7 +29,10 @@
   },
   {
    "time": "0",
-   "amount": "0.25 tsp",
+   "amount": {
+    "number": "0.25",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"

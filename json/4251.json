@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:10",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "powder/crystals"

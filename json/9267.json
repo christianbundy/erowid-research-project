@@ -17,7 +17,10 @@
   },
   {
    "time": "0:30",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
@@ -28,7 +31,10 @@
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -44,13 +50,19 @@
   },
   {
    "time": "3:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:00",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "Cocaine"
   },

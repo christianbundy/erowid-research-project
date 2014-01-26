@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TMA-2",
    "form": "capsule"
   },
   {
    "time": "3:05",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-DMT",
    "form": "powder/crystals"
   },
   {
    "time": "5:05",
-   "amount": "12 oz",
+   "amount": {
+    "number": "12",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "150 mg",
    "substance": "oral"
   },
@@ -42,13 +48,19 @@
   },
   {
    "time": "8:40",
-   "amount": "56 mg",
+   "amount": {
+    "number": "56",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylethcathinone"
   },
   {
    "time": "0",
-   "amount": "T+ 9:08",
+   "amount": {
+    "number": "T+",
+    "unit": "9:08"
+   },
    "administration": "60 mg",
    "substance": "insufflated"
   },

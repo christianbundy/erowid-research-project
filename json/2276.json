@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Ginkgo biloba",
    "form": "tar/resin"
   },
   {
    "time": "0:00",
-   "amount": "370 mg",
+   "amount": {
+    "number": "370",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "tar/resin"
   },
   {
    "time": "0:30",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

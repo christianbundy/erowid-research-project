@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 ",
+   "amount": {
+    "number": "4",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
@@ -27,7 +30,10 @@
   },
   {
    "time": "0",
-   "amount": ".66 tablets",
+   "amount": {
+    "number": ".66",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "Methylphenidate",
    "form": "powder/crystals"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 seeds",
+   "amount": {
+    "number": "8",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "dried"
@@ -27,35 +30,50 @@
   },
   {
    "time": "2:30",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "ground/crushed"
   },
   {
    "time": "6:30",
-   "amount": ".5 bowls",
+   "amount": {
+    "number": ".5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"
   },
   {
    "time": "6:30",
-   "amount": ".5 bowls",
+   "amount": {
+    "number": ".5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "dried"
   },
   {
    "time": "6:30",
-   "amount": ".5 bowls",
+   "amount": {
+    "number": ".5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"
   },
   {
    "time": "6:30",
-   "amount": ".5 bowls",
+   "amount": {
+    "number": ".5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Poppies",
    "form": "seeds",

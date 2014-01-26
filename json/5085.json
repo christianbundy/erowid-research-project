@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "90 mg",
+   "amount": {
+    "number": "90",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methadone",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Heroin",
    "form": "tar/resin"

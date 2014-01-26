@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 ",
+   "amount": {
+    "number": "4",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "extract",

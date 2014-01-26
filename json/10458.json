@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -35,14 +38,20 @@
   },
   {
    "time": "0",
-   "amount": "18 mg",
+   "amount": {
+    "number": "18",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Crack",
    "form": "freebase"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,42 +24,60 @@
   },
   {
    "time": "0:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Catnip",
    "form": "ground/crushed"

@@ -19,13 +19,19 @@
   },
   {
    "time": "0:00",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOC"
   },
   {
    "time": "9:00",
-   "amount": "425 ug",
+   "amount": {
+    "number": "425",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe"
   },

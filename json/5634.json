@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1100 mg",
+   "amount": {
+    "number": "1100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "48:00",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "60:00",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "63:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "120:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "125:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

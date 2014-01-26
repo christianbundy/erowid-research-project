@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "inhaled",
    "substance": "Ether",
    "form": "gas"

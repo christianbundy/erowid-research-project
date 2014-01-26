@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:10",
+   "amount": {
+    "number": "T+",
+    "unit": "0:10"
+   },
    "administration": "1 ",
    "substance": "oral"
   },
@@ -43,7 +46,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 1:45",
+   "amount": {
+    "number": "T+",
+    "unit": "1:45"
+   },
    "administration": "150 mg",
    "substance": "insufflated"
   },
@@ -66,13 +72,19 @@
   },
   {
    "time": "3:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 4:45",
+   "amount": {
+    "number": "T+",
+    "unit": "4:45"
+   },
    "substance": "oral"
   },
   {

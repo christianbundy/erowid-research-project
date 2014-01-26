@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "23 ml",
+   "amount": {
+    "number": "23",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "8:00",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "cookie/food"

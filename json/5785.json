@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 seeds",
+   "amount": {
+    "number": "9",
+    "unit": "seeds"
+   },
    "administration": "sublingual",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"

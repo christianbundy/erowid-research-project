@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "36 caps",
+   "amount": {
+    "number": "36",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cyanescens"

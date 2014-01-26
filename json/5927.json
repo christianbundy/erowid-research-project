@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "55 mg",
+   "amount": {
+    "number": "55",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "110 mg",
+   "amount": {
+    "number": "110",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Morphine",
    "form": "powder/crystals"

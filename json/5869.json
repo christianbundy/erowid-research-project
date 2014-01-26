@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 tsp",
+   "amount": {
+    "number": "0.5",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Monotropa uniflora"
   },
   {
    "time": "0",
-   "amount": "T+ 0:15",
+   "amount": {
+    "number": "T+",
+    "unit": "0:15"
+   },
    "administration": "30 mg",
    "substance": "insufflated"
   },

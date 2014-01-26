@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "62 mg",
+   "amount": {
+    "number": "62",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"

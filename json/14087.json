@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 caps",
+   "amount": {
+    "number": "24",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",

@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "45 ml",
+   "amount": {
+    "number": "45",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"

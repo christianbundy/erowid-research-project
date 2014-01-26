@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-210",
    "form": "powder/crystals"

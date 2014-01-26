@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
    "form": "pill/tablet"
@@ -31,21 +34,30 @@
   },
   {
    "time": "6:45",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "7:30",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
    "form": "pill/tablet"
   },
   {
    "time": "15:15",
-   "amount": "5 mg",
+   "amount": {
+    "number": "5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": " Dexmethylphenidate",
    "form": "pill/tablet"
@@ -57,7 +69,10 @@
   },
   {
    "time": "24:15",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": " Dexmethylphenidate",
    "form": "ground/crushed"

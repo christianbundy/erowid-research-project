@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "T+ 4:00",
+   "amount": {
+    "number": "T+",
+    "unit": "4:00"
+   },
    "administration": "75 mg",
    "substance": "oral"
   },

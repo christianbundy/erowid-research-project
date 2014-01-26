@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.4 mg",
+   "amount": {
+    "number": "2.4",
+    "unit": "mg"
+   },
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   }

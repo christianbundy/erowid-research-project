@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 fruits",
+   "amount": {
+    "number": "3",
+    "unit": "fruits"
+   },
    "administration": "oral",
    "substance": "Miracle Berry"
   }

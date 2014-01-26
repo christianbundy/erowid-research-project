@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "Buprenorphine",
    "form": "liquid"

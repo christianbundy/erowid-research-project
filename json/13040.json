@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.2 g",
+   "amount": {
+    "number": "3.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "1:15",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   },
   {
    "time": "3:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum"
   }

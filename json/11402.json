@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.4 g",
+   "amount": {
+    "number": "3.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "GHB"
   },
   {
    "time": "0",
-   "amount": "T+ 3:30",
+   "amount": {
+    "number": "T+",
+    "unit": "3:30"
+   },
    "administration": "1 cup",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "4:30",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Unknown"
   },
   {
    "time": "0",
-   "amount": "T+ 5:00",
+   "amount": {
+    "number": "T+",
+    "unit": "5:00"
+   },
    "administration": "30 mg",
    "substance": "oral"
   },
@@ -67,13 +79,19 @@
   },
   {
    "time": "6:57",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Methylmethcathinone"
   },
   {
    "time": "0",
-   "amount": "T+ 7:52",
+   "amount": {
+    "number": "T+",
+    "unit": "7:52"
+   },
    "administration": "50 mg",
    "substance": "oral"
   },

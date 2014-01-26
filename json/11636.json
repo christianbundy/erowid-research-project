@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "114 g",
+   "amount": {
+    "number": "114",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Heimia salicifolia",
    "form": "tar/resin"

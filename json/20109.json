@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 mg",
+   "amount": {
+    "number": "24",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Buprenorphine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Naloxone",
    "form": "daily"

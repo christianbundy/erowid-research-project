@@ -13,33 +13,48 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ",
+   "amount": {
+    "number": "150",
+    "unit": ""
+   },
    "administration": "rectal",
    "substance": "4-Fluoromethcathinone",
    "form": "capsule"
   },
   {
    "time": "1:40",
-   "amount": "200 ",
+   "amount": {
+    "number": "200",
+    "unit": ""
+   },
    "administration": "rectal",
    "substance": "4-Fluoromethcathinone",
    "form": "capsule"
   },
   {
    "time": "9:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   },
   {
    "time": "10:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   },
   {
    "time": "12:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam"
   }

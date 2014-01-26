@@ -19,14 +19,20 @@
   },
   {
    "time": "0:00",
-   "amount": "3 cups",
+   "amount": {
+    "number": "3",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"
   },
   {
    "time": "4:00",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Aniracetam",
    "form": "daily"

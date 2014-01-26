@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 g",
+   "amount": {
+    "number": "120",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea",

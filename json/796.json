@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "4:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "smoked",
    "substance": "Codeine",
    "form": "pill/tablet"

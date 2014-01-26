@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Ephedra sinica",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "750 mg",
+   "amount": {
+    "number": "750",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Guarana",
    "form": "tea"

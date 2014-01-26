@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Acetoxy-DET",
    "form": "powder/crystals"
   },
   {
    "time": "0:45",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "4-Acetoxy-DET",
    "form": "powder/crystals"

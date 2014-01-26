@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "480 ml",
+   "amount": {
+    "number": "480",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

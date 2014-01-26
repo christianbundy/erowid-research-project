@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB",
    "form": "capsule"
   },
   {
    "time": "2:30",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB",
    "form": "capsule"
   },
   {
    "time": "3:30",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB",
    "form": "capsule"
   },
   {
    "time": "4:30",
-   "amount": "240 mg",
+   "amount": {
+    "number": "240",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB",
    "form": "capsule"
   },
   {
    "time": "16:00",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "16:00",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

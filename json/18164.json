@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "333 ml",
+   "amount": {
+    "number": "333",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

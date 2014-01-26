@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 cups",
+   "amount": {
+    "number": "2",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coca",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "20 leaves",
+   "amount": {
+    "number": "20",
+    "unit": "leaves"
+   },
    "administration": "buccal",
    "substance": "Coca"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 g",
+   "amount": {
+    "number": "9",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tar/resin"
@@ -30,7 +33,10 @@
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

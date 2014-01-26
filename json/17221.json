@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 mg",
+   "amount": {
+    "number": "65",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "liquid"
@@ -29,7 +32,10 @@
   },
   {
    "time": "3:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "powder/crystals"

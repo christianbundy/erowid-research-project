@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 mg",
+   "amount": {
+    "number": "0.75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Triazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "20 drops",
+   "amount": {
+    "number": "20",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "extract"

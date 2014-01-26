@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "325 mg",
+   "amount": {
+    "number": "325",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "1:30",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "1:30",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

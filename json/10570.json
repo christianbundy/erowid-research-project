@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "36 g",
+   "amount": {
+    "number": "36",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",

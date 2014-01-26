@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1540 mg",
+   "amount": {
+    "number": "1540",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

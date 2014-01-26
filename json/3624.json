@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "112.5 mg",
+   "amount": {
+    "number": "112.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "pill/tablet"

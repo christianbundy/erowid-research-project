@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "5 g",
    "substance": "oral"
   },
@@ -42,13 +45,19 @@
   },
   {
    "time": "1:00",
-   "amount": "6 mg",
+   "amount": {
+    "number": "6",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "0",
-   "amount": "T+ 4:00",
+   "amount": {
+    "number": "T+",
+    "unit": "4:00"
+   },
    "administration": "3 leaves",
    "substance": "oral"
   },

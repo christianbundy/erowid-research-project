@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 oz",
+   "amount": {
+    "number": "8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -21,14 +24,20 @@
   },
   {
    "time": "1:35",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera peregrina",
    "form": "seeds"
   },
   {
    "time": "1:35",
-   "amount": "1.5 bowls",
+   "amount": {
+    "number": "1.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 caps",
+   "amount": {
+    "number": "5",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

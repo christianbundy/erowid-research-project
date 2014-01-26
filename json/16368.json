@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 ml",
+   "amount": {
+    "number": "22",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

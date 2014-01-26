@@ -10,7 +10,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.75 Tbsp",
+   "amount": {
+    "number": "3.75",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

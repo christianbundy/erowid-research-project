@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "bk-MBDB"
   },
   {
    "time": "0:02",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB"
   },
   {
    "time": "1:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "bk-MBDB"
   },
   {
    "time": "1:03",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "bk-MBDB"
   }

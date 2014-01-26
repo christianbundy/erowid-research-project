@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 seeds",
+   "amount": {
+    "number": "60",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "0:25",
-   "amount": "60 seeds",
+   "amount": {
+    "number": "60",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "1:10",
-   "amount": "60 seeds",
+   "amount": {
+    "number": "60",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "2:05",
-   "amount": "150 seeds",
+   "amount": {
+    "number": "150",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"

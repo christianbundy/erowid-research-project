@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "= repeated",
+   "amount": {
+    "number": "=",
+    "unit": "repeated"
+   },
    "administration": "insufflated",
    "substance": "Napthylpyrovalerone",
    "form": "powder/crystals"

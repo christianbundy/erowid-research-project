@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "substance": "Syrian Rue",
    "form": "extract-10x"
   },
   {
    "time": "0:20",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "substance": "Amanitas",
    "form": "extract-10x",
    "specific": "A. muscaria"
   },
   {
    "time": "0:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

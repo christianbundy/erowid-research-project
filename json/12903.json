@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 mg",
+   "amount": {
+    "number": "3",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Desoxypipradrol  "
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "repeated",
    "substance": "smoked"
   },
@@ -46,7 +52,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 10:45",
+   "amount": {
+    "number": "T+",
+    "unit": "10:45"
+   },
    "administration": "20 mg",
    "substance": "sublingual"
   },

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "PCP"
   },
   {
    "time": "0",
-   "amount": "508 mg",
+   "amount": {
+    "number": "508",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "Ketamine"
   }

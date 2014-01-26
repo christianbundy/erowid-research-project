@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-DiPT",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-HO-DiPT",
    "form": "liquid"

@@ -19,21 +19,30 @@
   },
   {
    "time": "0:00",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "smoked",
    "substance": "Coleus",
    "form": "dried"
   },
   {
    "time": "0:30",
-   "amount": "3 leaves",
+   "amount": {
+    "number": "3",
+    "unit": "leaves"
+   },
    "administration": "smoked",
    "substance": "Coleus",
    "form": "dried"
   },
   {
    "time": "4:45",
-   "amount": "0.0625 tsp",
+   "amount": {
+    "number": "0.0625",
+    "unit": "tsp"
+   },
    "administration": "insufflated",
    "substance": "Silene capensis",
    "form": "ground/crushed"

@@ -20,7 +20,10 @@
   },
   {
    "time": "0:10",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Lactuca",
    "form": "extract",

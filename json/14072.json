@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "95 mg",
+   "amount": {
+    "number": "95",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"

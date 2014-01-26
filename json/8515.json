@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2-Aminoindan",
    "form": "powder/crystals"

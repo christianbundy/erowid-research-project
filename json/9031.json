@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2500 mg",
+   "amount": {
+    "number": "2500",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "GABA",
    "form": "powder/crystals"

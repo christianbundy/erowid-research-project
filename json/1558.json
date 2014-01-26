@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 mg",
+   "amount": {
+    "number": "0.75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Triazolam",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "0.5 oz",
+   "amount": {
+    "number": "0.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "1:15",
-   "amount": "0.25 gal",
+   "amount": {
+    "number": "0.25",
+    "unit": "gal"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

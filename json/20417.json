@@ -19,14 +19,20 @@
   },
   {
    "time": "0:05",
-   "amount": "2.1 g",
+   "amount": {
+    "number": "2.1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "ground/crushed"
   },
   {
    "time": "0:45",
-   "amount": "3.5 g",
+   "amount": {
+    "number": "3.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "14:00",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam"
   },
   {
    "time": "14:30",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "ground/crushed"
@@ -47,7 +59,10 @@
   },
   {
    "time": "24:00",
-   "amount": "2 lines",
+   "amount": {
+    "number": "2",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methamphetamine",
    "form": "powder/crystals"
@@ -60,7 +75,10 @@
   },
   {
    "time": "34:00",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   }

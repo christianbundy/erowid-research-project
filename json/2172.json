@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "48 oz",
+   "amount": {
+    "number": "48",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "48 oz",
+   "amount": {
+    "number": "48",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"

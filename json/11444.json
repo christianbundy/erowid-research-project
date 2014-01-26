@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 flowers",
+   "amount": {
+    "number": "2",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "fresh"

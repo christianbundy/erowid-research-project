@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "550 mg",
+   "amount": {
+    "number": "550",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ginger",
    "form": "extract"
   },
   {
    "time": "0:20",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C",
    "form": "liquid"
   },
   {
    "time": "0:30",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "capsule"

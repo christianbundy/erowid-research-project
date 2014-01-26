@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "1:30",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:30",
-   "amount": "0.25 hits",
+   "amount": {
+    "number": "0.25",
+    "unit": "hits"
+   },
    "administration": "buccal",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"

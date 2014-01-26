@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue"
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "4.0 g",
    "substance": "oral"
   },

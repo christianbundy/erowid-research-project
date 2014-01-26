@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "substance": "smoked"
   },
   {
@@ -39,14 +42,20 @@
   },
   {
    "time": "5:45",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"
   },
   {
    "time": "0",
-   "amount": "T+ 6:00",
+   "amount": {
+    "number": "T+",
+    "unit": "6:00"
+   },
    "substance": "smoked"
   },
   {

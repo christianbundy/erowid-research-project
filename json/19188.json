@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "38 mg",
+   "amount": {
+    "number": "38",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-DALT",
    "form": "powder/crystals"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:45",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "plant material",

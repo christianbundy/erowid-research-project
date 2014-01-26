@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "2C-I",
    "form": "powder/crystals"
   },
   {
    "time": "0:20",
-   "amount": "4.0 mg",
+   "amount": {
+    "number": "4.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "capsule"

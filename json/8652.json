@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Psychotria viridis",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "1/3 bowl",
+   "amount": {
+    "number": "1/3",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "dried"

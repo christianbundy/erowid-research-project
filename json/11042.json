@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "0:40",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "extract"
   },
   {
    "time": "0:40",
-   "amount": "12 caps",
+   "amount": {
+    "number": "12",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -35,7 +44,10 @@
   },
   {
    "time": "2:10",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "extract"

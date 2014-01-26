@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 oz",
+   "amount": {
+    "number": "0.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
@@ -34,7 +37,10 @@
   },
   {
    "time": "2:00",
-   "amount": "2.8 g",
+   "amount": {
+    "number": "2.8",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "extract"

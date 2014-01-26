@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 cups",
+   "amount": {
+    "number": "3",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"
   },
   {
    "time": "0:05",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "pill/tablet"
   },
   {
    "time": "4:15",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "liquid"

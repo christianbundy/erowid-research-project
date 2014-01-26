@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "909 g",
+   "amount": {
+    "number": "909",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "seeds",

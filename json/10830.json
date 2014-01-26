@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "DOSE:2:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "BDB "
   },
   {
    "time": "0:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "BDB "
   }

@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "3 flowers",
+   "amount": {
+    "number": "3",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"

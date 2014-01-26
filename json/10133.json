@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"

@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2500 mg",
+   "amount": {
+    "number": "2500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine"
   },
   {
    "time": "3:15",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "6:15",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine"
   }

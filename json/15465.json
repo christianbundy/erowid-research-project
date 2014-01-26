@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 seeds",
+   "amount": {
+    "number": "1.5",
+    "unit": "seeds"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

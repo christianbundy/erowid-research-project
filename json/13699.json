@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "245 seeds",
+   "amount": {
+    "number": "245",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory"
   },
   {
    "time": "3:00",
-   "amount": "15 tablets",
+   "amount": {
+    "number": "15",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"

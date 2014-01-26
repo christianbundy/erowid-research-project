@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "sublingual",
    "substance": "Tobacco",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "sublingual",
    "substance": "Tobacco",
    "form": "plant material"

@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 nuts",
+   "amount": {
+    "number": "1.5",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "1.75 nuts",
+   "amount": {
+    "number": "1.75",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "1.75 nuts",
+   "amount": {
+    "number": "1.75",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "4:00",
-   "amount": "2.5 nuts",
+   "amount": {
+    "number": "2.5",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
-   "amount": "2.5 nuts",
+   "amount": {
+    "number": "2.5",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 bowls",
+   "amount": {
+    "number": "15",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Opium",
    "form": "tar/resin"

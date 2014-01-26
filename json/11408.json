@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 seeds",
+   "amount": {
+    "number": "300",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "seeds"
   },
   {
    "time": "3:00",
-   "amount": "1 cup",
+   "amount": {
+    "number": "1",
+    "unit": "cup"
+   },
    "administration": "oral",
    "substance": "Coca",
    "form": "tea"

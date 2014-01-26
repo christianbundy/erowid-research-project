@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.25 mg",
+   "amount": {
+    "number": "2.25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOM"
   },
   {
    "time": "13:30",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem"
   },
   {
    "time": "13:55",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem"
   },
   {
    "time": "14:10",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem"
   }

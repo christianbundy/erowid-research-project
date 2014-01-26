@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "tea",
@@ -21,20 +24,29 @@
   },
   {
    "time": "0",
-   "amount": "6.0 g",
+   "amount": {
+    "number": "6.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "66 g",
+   "amount": {
+    "number": "66",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "specific": "A. muscaria"

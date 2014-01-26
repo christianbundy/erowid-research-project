@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 g",
+   "amount": {
+    "number": "450",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "fresh",

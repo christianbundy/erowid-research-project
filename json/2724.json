@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 oz",
+   "amount": {
+    "number": "14",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

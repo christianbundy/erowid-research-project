@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 flowers",
+   "amount": {
+    "number": "12",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "liquid"

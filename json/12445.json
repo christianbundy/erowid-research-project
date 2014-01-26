@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "1 hit",
    "substance": "smoked"
   },
@@ -31,7 +34,10 @@
   },
   {
    "time": "smoked",
-   "amount": "Salvia divinorum",
+   "amount": {
+    "number": "Salvia",
+    "unit": "divinorum"
+   },
    "administration": "(extract - 10x)",
    "substance": "T+ 0:00"
   },

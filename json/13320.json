@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6000 mg",
+   "amount": {
+    "number": "6000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "capsule"

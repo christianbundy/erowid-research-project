@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4 ",
+   "amount": {
+    "number": "4",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "capsule"

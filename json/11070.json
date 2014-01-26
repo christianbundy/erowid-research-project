@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.66 g",
+   "amount": {
+    "number": "1.66",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "2:30",
-   "amount": "1.66 g",
+   "amount": {
+    "number": "1.66",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "5:30",
-   "amount": "1.66 g",
+   "amount": {
+    "number": "1.66",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"

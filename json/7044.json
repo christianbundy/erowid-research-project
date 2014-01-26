@@ -19,7 +19,10 @@
   },
   {
    "time": "0:15",
-   "amount": "8.0 g",
+   "amount": {
+    "number": "8.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "ground/crushed",
@@ -27,7 +30,10 @@
   },
   {
    "time": "0:50",
-   "amount": "4 bowls",
+   "amount": {
+    "number": "4",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

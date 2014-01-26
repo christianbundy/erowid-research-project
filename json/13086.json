@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": "powder/crystals"

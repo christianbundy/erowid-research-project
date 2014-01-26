@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"
   },
   {
    "time": "2:00",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"

@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylphenidate",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Heroin",
    "form": "liquid"

@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 tablets",
+   "amount": {
+    "number": "12",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

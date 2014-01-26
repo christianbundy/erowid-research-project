@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "21 mg",
+   "amount": {
+    "number": "21",
+    "unit": "mg"
+   },
    "administration": "buccal",
    "substance": "Psilocin",
    "form": "liquid"
   },
   {
    "time": "1:00",
-   "amount": "7.0 mg",
+   "amount": {
+    "number": "7.0",
+    "unit": "mg"
+   },
    "administration": "buccal",
    "substance": "Psilocin",
    "form": "liquid"

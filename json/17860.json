@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "110 seeds",
+   "amount": {
+    "number": "110",
+    "unit": "seeds"
+   },
    "administration": "transdermal",
    "substance": "Morning Glory",
    "form": "extract"

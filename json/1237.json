@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 tablets",
+   "amount": {
+    "number": "8",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "0:10",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "1:20",
-   "amount": "6 tablets",
+   "amount": {
+    "number": "6",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "DXM"
   },

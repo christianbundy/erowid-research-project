@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis",
    "form": "plant material"

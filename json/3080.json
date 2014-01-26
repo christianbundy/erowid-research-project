@@ -26,7 +26,10 @@
   },
   {
    "time": "1:00",
-   "amount": "3 glasses",
+   "amount": {
+    "number": "3",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",

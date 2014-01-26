@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "454 mg",
+   "amount": {
+    "number": "454",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "589 mg",
+   "amount": {
+    "number": "589",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "589 mg",
+   "amount": {
+    "number": "589",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "capsule"

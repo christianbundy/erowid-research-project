@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.2 g",
+   "amount": {
+    "number": "7.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

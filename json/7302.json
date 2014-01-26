@@ -13,27 +13,39 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "17 seeds",
+   "amount": {
+    "number": "17",
+    "unit": "seeds"
+   },
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-10x"
   },
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

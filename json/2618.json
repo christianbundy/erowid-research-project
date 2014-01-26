@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3333 g",
+   "amount": {
+    "number": "0.3333",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -28,7 +31,10 @@
   },
   {
    "time": "smoked",
-   "amount": "Salvia divinorum",
+   "amount": {
+    "number": "Salvia",
+    "unit": "divinorum"
+   },
    "administration": "(leaves)"
   },
   {

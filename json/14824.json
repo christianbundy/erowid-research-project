@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "4 caps",
+   "amount": {
+    "number": "4",
+    "unit": "caps"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"

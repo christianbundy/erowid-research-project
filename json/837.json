@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1200 mg",
+   "amount": {
+    "number": "1200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "pill/tablet"
   },
   {
    "time": "0:15",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "pill/tablet"

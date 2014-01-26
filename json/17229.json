@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 mg",
+   "amount": {
+    "number": "350",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DHEA",
    "form": "capsule"

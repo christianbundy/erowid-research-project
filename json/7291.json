@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 cups",
+   "amount": {
+    "number": "0.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Calamus",
    "form": "tea"

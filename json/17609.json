@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 mg",
+   "amount": {
+    "number": "4",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydromorphone",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxymorphone",
    "form": "ground/crushed"

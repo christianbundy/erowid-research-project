@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "141 mg",
+   "amount": {
+    "number": "141",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "extract"

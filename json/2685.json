@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 drops",
+   "amount": {
+    "number": "60",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "3.75 ml",
+   "amount": {
+    "number": "3.75",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract"
   },
   {
    "time": "1:30",
-   "amount": "60 drops",
+   "amount": {
+    "number": "60",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "extract"
   },
   {
    "time": "1:30",
-   "amount": "2.5 ml",
+   "amount": {
+    "number": "2.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract"

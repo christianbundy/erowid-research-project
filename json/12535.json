@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "0",
-   "amount": "T+ 3:00",
+   "amount": {
+    "number": "T+",
+    "unit": "3:00"
+   },
    "administration": "150 mg",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "10:05",
-   "amount": "360 mg",
+   "amount": {
+    "number": "360",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "0",
-   "amount": "T+ 13:20",
+   "amount": {
+    "number": "T+",
+    "unit": "13:20"
+   },
    "administration": "300 mg",
    "substance": "oral"
   },
@@ -67,13 +79,19 @@
   },
   {
    "time": "21:10",
-   "amount": "220 mg",
+   "amount": {
+    "number": "220",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine"
   },
   {
    "time": "0",
-   "amount": "T+ 25:30",
+   "amount": {
+    "number": "T+",
+    "unit": "25:30"
+   },
    "administration": "320 mg",
    "substance": "oral"
   },

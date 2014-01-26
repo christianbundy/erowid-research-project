@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17.5 mg",
+   "amount": {
+    "number": "17.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DiPT",
    "form": "freebase"

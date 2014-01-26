@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "extract",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "30750 ml",
+   "amount": {
+    "number": "30750",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

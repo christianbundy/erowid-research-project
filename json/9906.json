@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract-10x"
   },
   {
    "time": "0:40",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "37 mg",
+   "amount": {
+    "number": "37",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "powder/crystals"
   },
   {
    "time": "3:30",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"

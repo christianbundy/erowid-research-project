@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "0.3333 joints/cigs",
+   "amount": {
+    "number": "0.3333",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

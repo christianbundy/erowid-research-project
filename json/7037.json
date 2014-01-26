@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 g",
+   "amount": {
+    "number": "45",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "dried",

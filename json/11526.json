@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 in",
+   "amount": {
+    "number": "7",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -27,7 +30,10 @@
   },
   {
    "time": "0:00",
-   "amount": "6 in",
+   "amount": {
+    "number": "6",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -35,7 +41,10 @@
   },
   {
    "time": "0:00",
-   "amount": "6 in",
+   "amount": {
+    "number": "6",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",

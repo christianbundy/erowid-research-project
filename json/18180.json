@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "275 mg",
+   "amount": {
+    "number": "275",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Unknown",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "daily"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "1:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "2:55",
-   "amount": "16 g",
+   "amount": {
+    "number": "16",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"

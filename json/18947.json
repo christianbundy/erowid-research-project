@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "substance": "bk-MBDB",
    "form": "powder/crystals"
   },
   {
    "time": "1:30",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "substance": "bk-MBDB",
    "form": "powder/crystals"
   }

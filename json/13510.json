@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 seeds",
+   "amount": {
+    "number": "2.5",
+    "unit": "seeds"
+   },
    "administration": "insufflated",
    "substance": "Anadenanthera colubrina",
    "form": "ground/crushed"

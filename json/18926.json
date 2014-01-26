@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.1 g",
+   "amount": {
+    "number": "0.1",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "T+ 0:15",
+   "amount": {
+    "number": "T+",
+    "unit": "0:15"
+   },
    "administration": "1 g",
    "substance": "oral"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "1:42",
-   "amount": "60 g",
+   "amount": {
+    "number": "60",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Psychotria viridis"
   },
   {
    "time": "(extract)",
-   "amount": "T+ 1:42",
+   "amount": {
+    "number": "T+",
+    "unit": "1:42"
+   },
    "administration": "60 g",
    "substance": "oral"
   },

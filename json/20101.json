@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "19 tablets",
+   "amount": {
+    "number": "19",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"

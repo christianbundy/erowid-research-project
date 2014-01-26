@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "60 g",
+   "amount": {
+    "number": "60",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",

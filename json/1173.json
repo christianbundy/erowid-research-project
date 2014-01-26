@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "T+ 0:36",
+   "amount": {
+    "number": "T+",
+    "unit": "0:36"
+   },
    "administration": "15 mg",
    "substance": "insufflated"
   },
@@ -40,13 +46,19 @@
   },
   {
    "time": "12:00",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   },
   {
    "time": "(pill / tablet)",
-   "amount": "T+ 15:16",
+   "amount": {
+    "number": "T+",
+    "unit": "15:16"
+   },
    "substance": "smoked"
   }
  ],

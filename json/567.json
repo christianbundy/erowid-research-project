@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "72 mg",
+   "amount": {
+    "number": "72",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "pill/tablet"

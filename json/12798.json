@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "6:00",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "7:45",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin",
    "form": "pill/tablet"
   },
   {
    "time": "8:00",
-   "amount": "4 hits",
+   "amount": {
+    "number": "4",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Inhalants",
    "form": "gas"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 seeds",
+   "amount": {
+    "number": "500",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"

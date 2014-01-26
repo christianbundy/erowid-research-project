@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 drops",
+   "amount": {
+    "number": "10",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Salvia officinalis",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5600 mg",
+   "amount": {
+    "number": "5600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydergine"
   }

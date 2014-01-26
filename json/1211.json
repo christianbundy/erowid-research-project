@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "28 mg",
+   "amount": {
+    "number": "28",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-T-7",
    "form": "capsule"
   },
   {
    "time": "3:10",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "liquid"

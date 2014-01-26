@@ -13,26 +13,38 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "capsule"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "5:00",
-   "amount": "0.125 oz",
+   "amount": {
+    "number": "0.125",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   }

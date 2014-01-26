@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "930 mg",
+   "amount": {
+    "number": "930",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 oz",
+   "amount": {
+    "number": "20",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Ginseng",
    "form": "tea"

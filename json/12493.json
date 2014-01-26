@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "16 mg",
+   "amount": {
+    "number": "16",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "powder/crystals"

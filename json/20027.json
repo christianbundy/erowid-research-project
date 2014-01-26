@@ -13,47 +13,68 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.4 g",
+   "amount": {
+    "number": "3.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "1:45",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi"
   },
   {
    "time": "24:00",
-   "amount": "3.4 g",
+   "amount": {
+    "number": "3.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "26:00",
-   "amount": "0.7 g",
+   "amount": {
+    "number": "0.7",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi"
   },
   {
    "time": "47:00",
-   "amount": "3.4 g",
+   "amount": {
+    "number": "3.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "48:00",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "49:50",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi"
   }

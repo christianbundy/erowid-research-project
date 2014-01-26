@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "0:20",
-   "amount": "600 ug",
+   "amount": {
+    "number": "600",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
@@ -38,13 +44,19 @@
   },
   {
    "time": "12:00",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Buprenorphine"
   },
   {
    "time": "12:00",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenazepam"
   }

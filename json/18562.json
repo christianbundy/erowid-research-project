@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "10 mg"
   },
   {
@@ -37,12 +43,18 @@
   },
   {
    "time": "11:30",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "substance": "Vitamin C"
   },
   {
    "time": "0",
-   "amount": "T+ 11:30",
+   "amount": {
+    "number": "T+",
+    "unit": "11:30"
+   },
    "administration": "800 mg"
   },
   {

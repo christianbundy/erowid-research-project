@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17.5 mg",
+   "amount": {
+    "number": "17.5",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "4-AcO-DALT"
   },
   {
    "time": "1:30",
-   "amount": "17.5 mg",
+   "amount": {
+    "number": "17.5",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "4-AcO-DALT"
   }

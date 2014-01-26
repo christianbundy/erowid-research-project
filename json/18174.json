@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
   },
   {
    "time": "0:40",
-   "amount": "2.5 g",
+   "amount": {
+    "number": "2.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -33,7 +39,10 @@
   },
   {
    "time": "1:40",
-   "amount": ".4 g",
+   "amount": {
+    "number": ".4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -41,21 +50,30 @@
   },
   {
    "time": "3:00",
-   "amount": ".5 carts.",
+   "amount": {
+    "number": ".5",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "4:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Datura",
    "form": "dried"
   },
   {
    "time": "4:00",
-   "amount": ".5 carts.",
+   "amount": {
+    "number": ".5",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

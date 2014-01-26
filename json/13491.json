@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 oz",
+   "amount": {
+    "number": "1.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Absinthe"
   }

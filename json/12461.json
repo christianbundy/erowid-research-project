@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"
   },
   {
    "time": "0:00",
-   "amount": "2 g",
+   "amount": {
+    "number": "2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"
   },
   {
    "time": "0:40",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"
   },
   {
    "time": "1:25",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "rootbark"
   },
   {
    "time": "0",
-   "amount": "45 g",
+   "amount": {
+    "number": "45",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Ibogaine",
    "form": "rootbark"

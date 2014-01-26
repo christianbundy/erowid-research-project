@@ -13,67 +13,97 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3000 mg",
+   "amount": {
+    "number": "3000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "4000 mg",
+   "amount": {
+    "number": "4000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "0:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "daily"
   },
   {
    "time": "0:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "daily"
   },
   {
    "time": "9:00",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "9:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "11:00",
-   "amount": "2000 mg",
+   "amount": {
+    "number": "2000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "11:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

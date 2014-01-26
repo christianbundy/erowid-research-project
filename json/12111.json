@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.12 g",
+   "amount": {
+    "number": "2.12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "tea"

@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 hits",
+   "amount": {
+    "number": "13",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Albuterol",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "13 hits",
+   "amount": {
+    "number": "13",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Albuterol",
    "form": "gas"
   },
   {
    "time": "0",
-   "amount": "13 hits",
+   "amount": {
+    "number": "13",
+    "unit": "hits"
+   },
    "administration": "inhaled",
    "substance": "Albuterol",
    "form": "gas"

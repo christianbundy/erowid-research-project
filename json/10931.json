@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 flowers",
+   "amount": {
+    "number": "5",
+    "unit": "flowers"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "dried"

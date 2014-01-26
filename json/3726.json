@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "1.85 in",
+   "amount": {
+    "number": "1.85",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -26,7 +29,10 @@
   },
   {
    "time": "1:30",
-   "amount": "1.85 in",
+   "amount": {
+    "number": "1.85",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",

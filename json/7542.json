@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "DOSE:35:30",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

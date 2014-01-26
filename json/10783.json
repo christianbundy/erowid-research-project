@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "8 capsls",
+   "amount": {
+    "number": "8",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "ground/crushed"
   },
   {
    "time": "0:40",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMT",
    "form": "extract"
   },
   {
    "time": "2:30",
-   "amount": "2.25 ",
+   "amount": {
+    "number": "2.25",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

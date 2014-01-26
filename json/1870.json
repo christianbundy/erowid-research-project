@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "364 g",
+   "amount": {
+    "number": "364",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:00",
-   "amount": "392 g",
+   "amount": {
+    "number": "392",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material",
@@ -29,7 +35,10 @@
   },
   {
    "time": "2:00",
-   "amount": "1.5 bowls",
+   "amount": {
+    "number": "1.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

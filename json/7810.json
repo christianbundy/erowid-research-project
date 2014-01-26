@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Lactuca",
    "form": "dried",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0:15",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Poppies",
    "form": "dried",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0:20",
-   "amount": "3 joints/cigs",
+   "amount": {
+    "number": "3",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi"
   }

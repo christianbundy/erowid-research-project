@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "LSZ",
    "form": "blotter/tab"

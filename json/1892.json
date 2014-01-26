@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "330 mg",
+   "amount": {
+    "number": "330",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "3.3 g",
+   "amount": {
+    "number": "3.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "pill/tablet"

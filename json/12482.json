@@ -13,49 +13,70 @@
  "dose": [
   {
    "time": "0",
-   "amount": "11 g",
+   "amount": {
+    "number": "11",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "ground/crushed"
   },
   {
    "time": "3:00",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "3:00",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "5:00",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "5:48",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "5:48",
-   "amount": "0.5 lines",
+   "amount": {
+    "number": "0.5",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "powder/crystals"

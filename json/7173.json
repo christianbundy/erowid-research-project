@@ -19,7 +19,10 @@
   },
   {
    "time": "1:30",
-   "amount": "1 leaf",
+   "amount": {
+    "number": "1",
+    "unit": "leaf"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"

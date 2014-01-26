@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0:30",
-   "amount": "125 mg",
+   "amount": {
+    "number": "125",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "liquid",
@@ -29,7 +35,10 @@
   },
   {
    "time": "3:00",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

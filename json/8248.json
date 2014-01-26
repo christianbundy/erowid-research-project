@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "23 g",
+   "amount": {
+    "number": "23",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"
   },
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -18,14 +18,20 @@
   },
   {
    "time": "0:00",
-   "amount": "13.5 mg",
+   "amount": {
+    "number": "13.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"
   },
   {
    "time": "1:05",
-   "amount": "13.5 mg",
+   "amount": {
+    "number": "13.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "capsule"

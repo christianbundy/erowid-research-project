@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 48:00",
+   "amount": {
+    "number": "T+",
+    "unit": "48:00"
+   },
    "administration": "50 mg",
    "substance": "insufflated"
   }

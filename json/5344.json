@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "15 hits",
+   "amount": {
+    "number": "15",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

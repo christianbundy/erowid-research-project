@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.5 oz",
+   "amount": {
+    "number": "4.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
@@ -26,7 +29,10 @@
   },
   {
    "time": "1:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "powder/crystals"

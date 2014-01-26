@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "700 mg",
+   "amount": {
+    "number": "700",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "40 tablets",
+   "amount": {
+    "number": "40",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   },
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

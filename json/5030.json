@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "480 mg",
+   "amount": {
+    "number": "480",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "480 mg",
+   "amount": {
+    "number": "480",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "extract"
@@ -33,14 +39,20 @@
   },
   {
    "time": "2:00",
-   "amount": "256 mg",
+   "amount": {
+    "number": "256",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"
   },
   {
    "time": "2:00",
-   "amount": "480 mg",
+   "amount": {
+    "number": "480",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"

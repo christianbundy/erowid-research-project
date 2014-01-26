@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 tablets",
+   "amount": {
+    "number": "13",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "pill/tablet"

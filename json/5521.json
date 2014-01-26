@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 drops",
+   "amount": {
+    "number": "35",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",

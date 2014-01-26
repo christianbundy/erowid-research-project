@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Methylone",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "110 mg",
+   "amount": {
+    "number": "110",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "4-Methylethcathinone",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "75 mg",
+   "amount": {
+    "number": "75",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "3-Methylmethcathinone",
    "form": "powder/crystals"

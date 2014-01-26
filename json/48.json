@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "3:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "substance": "25B-NBOMe",
    "form": "blotter/tab"
   },

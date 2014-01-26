@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:05",
+   "amount": {
+    "number": "T+",
+    "unit": "0:05"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "sublingual",
    "substance": "Salvia splendens",
    "form": "plant material"
   },
   {
    "time": "0:30",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "12 g",
+   "amount": {
+    "number": "12",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Chocolate",
    "form": "cookie/food"

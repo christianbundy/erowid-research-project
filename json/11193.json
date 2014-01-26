@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 slice",
+   "amount": {
+    "number": "1",
+    "unit": "slice"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "TMA-2",
    "form": "pill/tablet"
@@ -26,7 +29,10 @@
   },
   {
    "time": "10:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Oxycodone",
    "form": "pill/tablet"

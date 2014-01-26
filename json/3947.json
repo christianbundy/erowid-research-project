@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Diazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Acetaminophen",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Codeine",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "1950 mg",
+   "amount": {
+    "number": "1950",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Acetaminophen",
    "form": "ground/crushed"

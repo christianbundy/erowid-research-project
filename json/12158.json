@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "powder/crystals"

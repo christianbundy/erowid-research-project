@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Bupropion",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2.5 Tbsp",
+   "amount": {
+    "number": "2.5",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

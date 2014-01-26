@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "pill/tablet"
   },
   {
    "time": "2:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Promethazine",
    "form": "ground/crushed"
   },
   {
    "time": "5:30",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"

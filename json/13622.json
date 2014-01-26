@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 tablets",
+   "amount": {
+    "number": "12",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "8 tablets",
+   "amount": {
+    "number": "8",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Meclizine",
    "form": "pill/tablet"

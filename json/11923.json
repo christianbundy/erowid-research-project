@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Piperazines"
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "25 mg",
    "substance": "oral"
   }

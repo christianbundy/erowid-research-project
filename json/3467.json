@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 tablets",
+   "amount": {
+    "number": "1.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "AMT"
   }

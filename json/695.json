@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 capsls",
+   "amount": {
+    "number": "9",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },

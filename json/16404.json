@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "T+ 0:10",
+   "amount": {
+    "number": "T+",
+    "unit": "0:10"
+   },
    "administration": "40 mg",
    "substance": "oral"
   },

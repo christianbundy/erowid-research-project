@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Atomoxetine",
    "form": "pill/tablet"
   },
   {
    "time": "0:30",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Atomoxetine",
    "form": "pill/tablet"

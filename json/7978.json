@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 bowls",
+   "amount": {
+    "number": "2.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "flowers"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3333 shots",
+   "amount": {
+    "number": "0.3333",
+    "unit": "shots"
+   },
    "administration": "smoked",
    "substance": "Damiana",
    "form": "plant material"

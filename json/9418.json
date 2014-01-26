@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "230 ml",
+   "amount": {
+    "number": "230",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "150 ml",
+   "amount": {
+    "number": "150",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "75 ml",
+   "amount": {
+    "number": "75",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

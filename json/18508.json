@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 ml",
+   "amount": {
+    "number": "7",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "tea"

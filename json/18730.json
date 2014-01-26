@@ -17,7 +17,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 5:00",
+   "amount": {
+    "number": "T+",
+    "unit": "5:00"
+   },
    "substance": "oral"
   },
   {
@@ -26,7 +29,10 @@
   },
   {
    "time": "insufflated",
-   "amount": "Nitrous Oxide",
+   "amount": {
+    "number": "Nitrous",
+    "unit": "Oxide"
+   },
    "substance": "T+ 5:00"
   },
   {
@@ -37,7 +43,10 @@
   },
   {
    "time": "5:20",
-   "amount": "1 line",
+   "amount": {
+    "number": "1",
+    "unit": "line"
+   },
    "administration": "insufflated",
    "substance": "Methoxetamine "
   }

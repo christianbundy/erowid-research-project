@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C",
    "form": "powder/crystals"
   },
   {
    "time": "0:30",
-   "amount": "63 mg",
+   "amount": {
+    "number": "63",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C",
    "form": "powder/crystals"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "550 mg",
+   "amount": {
+    "number": "550",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "225 mg",
+   "amount": {
+    "number": "225",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"

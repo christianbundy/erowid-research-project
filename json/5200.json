@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 ml",
+   "amount": {
+    "number": "0.75",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"
   },
   {
    "time": "4:00",
-   "amount": "0.75 ml",
+   "amount": {
+    "number": "0.75",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"
   },
   {
    "time": "8:00",
-   "amount": "0.75 ml",
+   "amount": {
+    "number": "0.75",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"

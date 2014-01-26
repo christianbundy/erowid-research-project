@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Hydrocodone"
   },
   {
    "time": "0",
-   "amount": "T+ 1:00",
+   "amount": {
+    "number": "T+",
+    "unit": "1:00"
+   },
    "administration": "2 tablets",
    "substance": "oral"
   },

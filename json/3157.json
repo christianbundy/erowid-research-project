@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tramadol",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "3.9 g",
+   "amount": {
+    "number": "3.9",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "liquid"

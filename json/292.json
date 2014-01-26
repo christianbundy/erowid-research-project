@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.4 g",
+   "amount": {
+    "number": "1.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -20,21 +23,30 @@
   },
   {
    "time": "1:00",
-   "amount": "1.7 g",
+   "amount": {
+    "number": "1.7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "3.0 g",
+   "amount": {
+    "number": "3.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "specific": "Hash"
   },
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 bumps",
+   "amount": {
+    "number": "2",
+    "unit": "bumps"
+   },
    "administration": "insufflated",
    "substance": "MDPV",
    "form": "powder/crystals"

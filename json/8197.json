@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 nuts",
+   "amount": {
+    "number": "1",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Betel Nut"
   }

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },
@@ -45,7 +51,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 5:00",
+   "amount": {
+    "number": "T+",
+    "unit": "5:00"
+   },
    "administration": "0.75 hits",
    "substance": "oral"
   },
@@ -66,13 +75,19 @@
   },
   {
    "time": "8:00",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone"
   },
   {
    "time": "(ground / crushed)",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "10 g",
    "substance": "oral"
   },

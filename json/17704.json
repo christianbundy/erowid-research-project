@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "repeated hits",
+   "amount": {
+    "number": "repeated",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "dried"

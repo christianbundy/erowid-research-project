@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

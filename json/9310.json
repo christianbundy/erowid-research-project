@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 seeds",
+   "amount": {
+    "number": "12",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "0:00",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "1:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "888 mg",
+   "amount": {
+    "number": "888",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

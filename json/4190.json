@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "30 ",
+   "amount": {
+    "number": "30",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

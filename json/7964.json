@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "plant material",
@@ -29,7 +35,10 @@
   },
   {
    "time": "0",
-   "amount": "1500 ml",
+   "amount": {
+    "number": "1500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

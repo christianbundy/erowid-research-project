@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-6x"
   },
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

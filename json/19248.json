@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 mg",
+   "amount": {
+    "number": "2",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "2C-I-NBOMe",
    "form": "blotter/tab"

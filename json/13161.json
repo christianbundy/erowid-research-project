@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "250 mg",
    "substance": "oral"
   },

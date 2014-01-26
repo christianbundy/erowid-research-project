@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 ",
+   "amount": {
+    "number": "15",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

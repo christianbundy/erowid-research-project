@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1560 mg",
+   "amount": {
+    "number": "1560",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "0",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   }

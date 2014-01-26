@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.25 mg",
+   "amount": {
+    "number": "1.25",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Butorphanol",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "3.75 mg",
+   "amount": {
+    "number": "3.75",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Butorphanol",
    "form": "pill/tablet"

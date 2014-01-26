@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 tablets",
+   "amount": {
+    "number": "30",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   }

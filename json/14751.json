@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "111.7 mg",
+   "amount": {
+    "number": "111.7",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Ketamine",
    "form": "liquid"

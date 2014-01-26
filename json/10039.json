@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "2.5 cups",
+   "amount": {
+    "number": "2.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Heimia salicifolia",
    "form": "tea"

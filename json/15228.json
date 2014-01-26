@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "74 mg",
+   "amount": {
+    "number": "74",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DiPT",
    "form": "liquid"

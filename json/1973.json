@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1500 mg",
+   "amount": {
+    "number": "1500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "1000 mg",
+   "amount": {
+    "number": "1000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "pill/tablet"

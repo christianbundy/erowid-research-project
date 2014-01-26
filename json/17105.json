@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenytoin"
   },
   {
    "time": "0",
-   "amount": "3000 mg",
+   "amount": {
+    "number": "3000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenytoin"
   }

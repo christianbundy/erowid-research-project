@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 Tbsp",
+   "amount": {
+    "number": "2",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "liquid"
   },
   {
    "time": "0:25",
-   "amount": "4 Tbsp",
+   "amount": {
+    "number": "4",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Various",
    "form": "liquid"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.25 hits",
+   "amount": {
+    "number": "1.25",
+    "unit": "hits"
+   },
    "substance": "25I-NBOMe",
    "form": "blotter/tab"
   }

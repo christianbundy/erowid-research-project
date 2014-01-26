@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "4-AcO-DMT",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "Methoxetamine ",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "pill/tablet"

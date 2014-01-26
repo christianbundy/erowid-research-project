@@ -11,13 +11,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "sublingual",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 3:30",
+   "amount": {
+    "number": "T+",
+    "unit": "3:30"
+   },
    "administration": "1 tablet",
    "substance": "oral"
   },
@@ -41,14 +47,20 @@
   },
   {
    "time": "10:00",
-   "amount": "3 shots",
+   "amount": {
+    "number": "3",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0",
-   "amount": "T+ 10:00",
+   "amount": {
+    "number": "T+",
+    "unit": "10:00"
+   },
    "administration": "1 ",
    "substance": "oral"
   }

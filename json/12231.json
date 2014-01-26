@@ -20,14 +20,20 @@
   },
   {
    "time": "1:30",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"
   },
   {
    "time": "0:00",
-   "amount": "5.75 mg",
+   "amount": {
+    "number": "5.75",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Lorazepam",
    "form": "pill/tablet"

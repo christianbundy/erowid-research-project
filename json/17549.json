@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 lines",
+   "amount": {
+    "number": "4",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "MDMA",
    "form": "powder/crystals"

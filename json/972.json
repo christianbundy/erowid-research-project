@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 cups",
+   "amount": {
+    "number": "9",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "liquid"

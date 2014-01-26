@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"
   },
   {
    "time": "0:15",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "2.0 ml",
+   "amount": {
+    "number": "2.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "extract"
   },
   {
    "time": "0:50",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"

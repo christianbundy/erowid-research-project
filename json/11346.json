@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 seeds",
+   "amount": {
+    "number": "9",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "5 g",
+   "amount": {
+    "number": "5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Calamus",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "6 g",
+   "amount": {
+    "number": "6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Milk Thistle",
    "form": "capsule"

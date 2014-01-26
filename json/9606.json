@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 oz",
+   "amount": {
+    "number": "40",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -21,21 +24,30 @@
   },
   {
    "time": "1:00",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonazepam",
    "form": "ground/crushed"
   },
   {
    "time": "1:30",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonazepam",
    "form": "ground/crushed"
   },
   {
    "time": "2:00",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

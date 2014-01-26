@@ -19,7 +19,10 @@
   },
   {
    "time": "1:30",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "DPT",
    "form": "powder/crystals"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12.5 seeds",
+   "amount": {
+    "number": "12.5",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "cookie/food"

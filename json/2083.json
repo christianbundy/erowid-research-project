@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 flowers",
+   "amount": {
+    "number": "35",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "liquid",

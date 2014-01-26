@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "repeated",
    "substance": "insufflated"
   },
@@ -43,13 +46,19 @@
   },
   {
    "time": "1:00",
-   "amount": "5 ",
+   "amount": {
+    "number": "5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Datura"
   },
   {
    "time": "(seeds)",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "45 ",
    "substance": "oral"
   },
@@ -73,7 +82,10 @@
   },
   {
    "time": "5:30",
-   "amount": "90 ",
+   "amount": {
+    "number": "90",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Datura"
   }

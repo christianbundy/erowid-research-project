@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "4.5 mg",
+   "amount": {
+    "number": "4.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Hydergine",
    "form": "pill/tablet"

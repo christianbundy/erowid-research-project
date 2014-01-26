@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 g",
+   "amount": {
+    "number": "0.75",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": "1.0 g",
+   "amount": {
+    "number": "1.0",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Mushrooms"
   }

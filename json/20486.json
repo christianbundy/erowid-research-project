@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0:30",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Poppies",
    "form": "tea",

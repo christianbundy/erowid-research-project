@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "22 oz",
+   "amount": {
+    "number": "22",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

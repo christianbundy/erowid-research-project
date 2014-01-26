@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 capsls",
+   "amount": {
+    "number": "3",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "ground/crushed"

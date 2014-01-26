@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1750 ml",
+   "amount": {
+    "number": "1750",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

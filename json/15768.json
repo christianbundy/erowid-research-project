@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:15",
-   "amount": "52 mg",
+   "amount": {
+    "number": "52",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "pill/tablet"
   },
   {
    "time": "1:15",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

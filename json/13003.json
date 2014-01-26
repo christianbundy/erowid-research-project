@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 nuts",
+   "amount": {
+    "number": "3",
+    "unit": "nuts"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "tea"
   },
   {
    "time": "0:00",
-   "amount": "325 mg",
+   "amount": {
+    "number": "325",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedra sinica",
    "form": "capsule"
   },
   {
    "time": "5:30",
-   "amount": "0.25 tsp",
+   "amount": {
+    "number": "0.25",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"

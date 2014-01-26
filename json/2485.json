@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.3 g",
+   "amount": {
+    "number": "3.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "0.25 bowls",
+   "amount": {
+    "number": "0.25",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 flowers",
+   "amount": {
+    "number": "4",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"
   },
   {
    "time": "0:45",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

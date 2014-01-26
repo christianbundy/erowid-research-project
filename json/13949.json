@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "95 mg",
+   "amount": {
+    "number": "95",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Methoxetamine ",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

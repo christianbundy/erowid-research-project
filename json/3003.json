@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 ml",
+   "amount": {
+    "number": "12",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL"
   },

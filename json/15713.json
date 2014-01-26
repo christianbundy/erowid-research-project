@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 g",
+   "amount": {
+    "number": "20",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "fresh",
@@ -20,7 +23,10 @@
   },
   {
    "time": "0",
-   "amount": "330 mg",
+   "amount": {
+    "number": "330",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"

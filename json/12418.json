@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Products",
    "form": "dried",
@@ -21,7 +24,10 @@
   },
   {
    "time": "24:00",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Products",
    "form": "tea",

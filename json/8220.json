@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "substance": "Cacti",
    "form": "ground/crushed",
    "specific": "T. peruvianus"

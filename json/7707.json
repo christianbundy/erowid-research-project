@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 ug",
+   "amount": {
+    "number": "100",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
   },
   {
    "time": "3:00",
-   "amount": "100 ug",
+   "amount": {
+    "number": "100",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"
   },
   {
    "time": "4:00",
-   "amount": "24 oz",
+   "amount": {
+    "number": "24",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -35,7 +44,10 @@
   },
   {
    "time": "6:00",
-   "amount": "100 ug",
+   "amount": {
+    "number": "100",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Bromo-Dragonfly",
    "form": "liquid"

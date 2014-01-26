@@ -13,34 +13,49 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Tea",
    "form": "extract"
   },
   {
    "time": "0:00",
-   "amount": "5 capsls",
+   "amount": {
+    "number": "5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Yohimbe"
   },
   {
    "time": "0:00",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"
   },
   {
    "time": "0:20",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "3:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DPT",
    "form": "powder/crystals"

@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "powder/crystals"
   },
   {
    "time": "6:00",
-   "amount": "300 ug",
+   "amount": {
+    "number": "300",
+    "unit": "ug"
+   },
    "administration": "insufflated",
    "substance": "2C-C-NBOMe",
    "form": "powder/crystals"
   },
   {
    "time": "8:30",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "substance": "MDMA"
   }
  ],

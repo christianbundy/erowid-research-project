@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.6667 joints/cigs",
+   "amount": {
+    "number": "0.6667",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "0.3333 bowls",
+   "amount": {
+    "number": "0.3333",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

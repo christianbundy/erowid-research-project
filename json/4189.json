@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cubensis"
@@ -25,7 +28,10 @@
   },
   {
    "time": "0",
-   "amount": "6.7 g",
+   "amount": {
+    "number": "6.7",
+    "unit": "g"
+   },
    "substance": "Mushrooms",
    "specific": "P. cubensis"
   }

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 ug",
+   "amount": {
+    "number": "75",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "blotter/tab"
   },
   {
    "time": "1:05",
-   "amount": "75 ug",
+   "amount": {
+    "number": "75",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "blotter/tab"

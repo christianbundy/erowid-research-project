@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMAE",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DMAE",
    "form": "capsule"

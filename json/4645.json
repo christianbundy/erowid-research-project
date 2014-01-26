@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "23 mg",
+   "amount": {
+    "number": "23",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"
   },
   {
    "time": "4:00",
-   "amount": "3 capsls",
+   "amount": {
+    "number": "3",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "specific": "P. cyanescens"

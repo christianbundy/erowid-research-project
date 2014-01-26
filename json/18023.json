@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 capsls",
+   "amount": {
+    "number": "5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Herbal Ecstasy",
    "form": "capsule"
   },
   {
    "time": "1:30",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "4:00",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

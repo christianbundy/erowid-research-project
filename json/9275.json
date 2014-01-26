@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "17 mg",
+   "amount": {
+    "number": "17",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "2:30",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

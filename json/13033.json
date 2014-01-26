@@ -18,7 +18,10 @@
   },
   {
    "time": "0:00",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -26,14 +29,20 @@
   },
   {
    "time": "1:30",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "2:35",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I",
    "form": "liquid"
@@ -52,7 +61,10 @@
   },
   {
    "time": "5:23",
-   "amount": "4 carts.",
+   "amount": {
+    "number": "4",
+    "unit": "carts."
+   },
    "substance": "Nitrous Oxide",
    "form": "gas"
   },

@@ -20,28 +20,40 @@
   },
   {
    "time": "6:00",
-   "amount": "4.0 ml",
+   "amount": {
+    "number": "4.0",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Clonazepam",
    "form": "liquid"
   },
   {
    "time": "6:20",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Tramadol",
    "form": "ground/crushed"
   },
   {
    "time": "6:40",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "7:20",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

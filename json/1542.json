@@ -25,7 +25,10 @@
   },
   {
    "time": "1:30",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "pill/tablet"

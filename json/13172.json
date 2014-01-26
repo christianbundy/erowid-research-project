@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22.5 mg",
+   "amount": {
+    "number": "22.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "11 g",
    "substance": "oral"
   },

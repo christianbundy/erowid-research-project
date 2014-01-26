@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.6667 tablets",
+   "amount": {
+    "number": "0.6667",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "0.3333 tablets",
+   "amount": {
+    "number": "0.3333",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

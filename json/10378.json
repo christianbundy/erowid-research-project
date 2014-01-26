@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "130 mg",
+   "amount": {
+    "number": "130",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AET",
    "form": "capsule"
   },
   {
    "time": "3:15",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Hydromorphone",
    "form": "liquid"
   },
   {
    "time": "3:45",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "IV",
    "substance": "Hydromorphone",
    "form": "liquid"
@@ -41,7 +50,10 @@
   },
   {
    "time": "6:30",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
@@ -55,7 +67,10 @@
   },
   {
    "time": "7:00",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

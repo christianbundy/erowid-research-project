@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3000 mg",
+   "amount": {
+    "number": "3000",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamin C"
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Unknown"
   },
   {
    "time": "0",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },

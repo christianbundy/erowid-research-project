@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 hits",
+   "amount": {
+    "number": "30",
+    "unit": "hits"
+   },
    "administration": "vaporized",
    "substance": "Cannabis"
   }

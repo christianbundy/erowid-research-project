@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 drop",
+   "amount": {
+    "number": "1",
+    "unit": "drop"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",

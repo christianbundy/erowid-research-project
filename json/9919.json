@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "14 g",
+   "amount": {
+    "number": "14",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "dried",
@@ -33,7 +36,10 @@
   },
   {
    "time": "3:00",
-   "amount": "12 seeds",
+   "amount": {
+    "number": "12",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"

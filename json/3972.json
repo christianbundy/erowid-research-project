@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.3 g",
+   "amount": {
+    "number": "0.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food",
@@ -21,7 +24,10 @@
   },
   {
    "time": "0",
-   "amount": "3 tsp",
+   "amount": {
+    "number": "3",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "tea"

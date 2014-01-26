@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 ",
+   "amount": {
+    "number": "0.5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",
@@ -27,7 +30,10 @@
   },
   {
    "time": "0",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

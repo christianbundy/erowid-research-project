@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18.5 g",
+   "amount": {
+    "number": "18.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"
   },
   {
    "time": "0:37",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

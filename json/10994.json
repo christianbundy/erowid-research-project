@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0:00",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Temazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Clonazepam",
    "form": "ground/crushed"
   },
   {
    "time": "0:30",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Temazepam",
    "form": "ground/crushed"

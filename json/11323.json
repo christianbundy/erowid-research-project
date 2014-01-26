@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "3 tsp",
+   "amount": {
+    "number": "3",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

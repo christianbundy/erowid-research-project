@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 joints/cigs",
+   "amount": {
+    "number": "0.5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "flowers"
   },
   {
    "time": "3:00",
-   "amount": "70 seeds",
+   "amount": {
+    "number": "70",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "seeds"

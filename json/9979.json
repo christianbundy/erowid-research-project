@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 tablets",
+   "amount": {
+    "number": "9",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

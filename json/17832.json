@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 hits",
+   "amount": {
+    "number": "0.5",
+    "unit": "hits"
+   },
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "T+ 6:00",
+   "amount": {
+    "number": "T+",
+    "unit": "6:00"
+   },
    "substance": "oral"
   },
   {

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22.5 mg",
+   "amount": {
+    "number": "22.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"
@@ -27,7 +30,10 @@
   },
   {
    "time": "5:00",
-   "amount": "7.5 mg",
+   "amount": {
+    "number": "7.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-B",
    "form": "powder/crystals"
@@ -39,13 +45,19 @@
   },
   {
    "time": "0:00",
-   "amount": "45 mg",
+   "amount": {
+    "number": "45",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "DMT"
   },
   {
    "time": "0:00",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

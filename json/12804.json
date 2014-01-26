@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10g repeated",
+   "amount": {
+    "number": "10g",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "60g mg",
+   "amount": {
+    "number": "60g",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "powder/crystals"

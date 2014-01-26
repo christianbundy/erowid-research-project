@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 oz",
+   "amount": {
+    "number": "3.5",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"

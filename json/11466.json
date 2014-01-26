@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   },
   {
    "time": "0",
-   "amount": "T+ 2:40",
+   "amount": {
+    "number": "T+",
+    "unit": "2:40"
+   },
    "substance": "smoked"
   },
   {

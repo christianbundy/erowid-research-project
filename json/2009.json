@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 ug",
+   "amount": {
+    "number": "20",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "daily"

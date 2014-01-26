@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Herbal Ecstasy",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Herbal Ecstasy",
    "form": "pill/tablet"
   },
   {
    "time": "1:15",
-   "amount": "5 tablets",
+   "amount": {
+    "number": "5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Herbal Ecstasy",
    "form": "pill/tablet"

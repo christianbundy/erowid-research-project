@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.23 g",
+   "amount": {
+    "number": "2.23",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "tea"

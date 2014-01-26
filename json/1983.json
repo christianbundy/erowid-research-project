@@ -20,21 +20,30 @@
   },
   {
    "time": "0:00",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "DXM",
    "form": "powder/crystals"
   },
   {
    "time": "1:50",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "DXM",
    "form": "capsule"
   },
   {
    "time": "2:45",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "DXM",
    "form": "pill/tablet"

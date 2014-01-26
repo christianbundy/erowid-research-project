@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.2 g",
+   "amount": {
+    "number": "3.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "1 g",
    "substance": "oral"
   },
@@ -42,13 +48,19 @@
   },
   {
    "time": "3:30",
-   "amount": "1.5 mg",
+   "amount": {
+    "number": "1.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clonazepam"
   },
   {
    "time": "(pill / tablet)",
-   "amount": "T+ 3:30",
+   "amount": {
+    "number": "T+",
+    "unit": "3:30"
+   },
    "administration": "7.5 mg",
    "substance": "oral"
   }

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 g",
+   "amount": {
+    "number": "16",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Tabernanthe iboga",
    "form": "rootbark"

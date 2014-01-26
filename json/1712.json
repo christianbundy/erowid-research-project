@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1660 mg",
+   "amount": {
+    "number": "1660",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "powder/crystals"

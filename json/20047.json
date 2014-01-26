@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "1:00",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "2:00",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"
   },
   {
    "time": "3:00",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "pill/tablet"

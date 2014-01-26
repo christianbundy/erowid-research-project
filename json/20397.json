@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "350 ml",
+   "amount": {
+    "number": "350",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"

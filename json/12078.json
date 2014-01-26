@@ -11,14 +11,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 capsls",
+   "amount": {
+    "number": "6",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "9 capsls",
+   "amount": {
+    "number": "9",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Ginkgo biloba",
    "form": "capsule"

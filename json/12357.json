@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "330 mg",
+   "amount": {
+    "number": "330",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "1:20",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Mescaline",
    "form": "capsule"
   },
   {
    "time": "1:25",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

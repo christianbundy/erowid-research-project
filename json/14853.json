@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 g",
+   "amount": {
+    "number": "0.75",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "leaves"
   },
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine",
    "form": "powder/crystals"

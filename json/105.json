@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 mg",
+   "amount": {
+    "number": "0.5",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "2:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"
   },
   {
    "time": "5:00",
-   "amount": "1 mg",
+   "amount": {
+    "number": "1",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25C-NBOMe",
    "form": "blotter/tab"

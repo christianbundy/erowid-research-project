@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22 mg",
+   "amount": {
+    "number": "22",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "2C-T-2",
    "form": "powder/crystals"

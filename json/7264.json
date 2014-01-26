@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylphenidate",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "3.0 ml",
+   "amount": {
+    "number": "3.0",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Salvia divinorum",
    "form": "extract"

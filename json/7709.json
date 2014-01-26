@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "37 mg",
+   "amount": {
+    "number": "37",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"
   },
   {
    "time": "7:00",
-   "amount": "37 mg",
+   "amount": {
+    "number": "37",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "ground/crushed"

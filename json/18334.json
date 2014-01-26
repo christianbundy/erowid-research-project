@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 mg",
+   "amount": {
+    "number": "800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "310 mg",
+   "amount": {
+    "number": "310",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "form": "daily",
@@ -28,7 +34,10 @@
   },
   {
    "time": "0",
-   "amount": "310 mg",
+   "amount": {
+    "number": "310",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Vitamins",
    "form": "daily",

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 tsp",
+   "amount": {
+    "number": "0.25",
+    "unit": "tsp"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract"

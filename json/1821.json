@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "0:00",
-   "amount": "0.06 g",
+   "amount": {
+    "number": "0.06",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "powder/crystals"
   },
   {
    "time": "2:30",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "pill/tablet"
@@ -40,7 +49,10 @@
   },
   {
    "time": "2:30",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

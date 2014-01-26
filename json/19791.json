@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 glasses",
+   "amount": {
+    "number": "20",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
@@ -31,7 +37,10 @@
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Ketamine"
   }

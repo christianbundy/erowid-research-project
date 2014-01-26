@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 repeated",
+   "amount": {
+    "number": "1",
+    "unit": "repeated"
+   },
    "administration": "smoked",
    "substance": "DMT",
    "form": "powder/crystals"

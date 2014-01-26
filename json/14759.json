@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.0 mg",
+   "amount": {
+    "number": "6.0",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DiPT",
    "form": "freebase"

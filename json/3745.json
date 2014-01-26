@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 tablets",
+   "amount": {
+    "number": "6",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   },
   {
    "time": "0",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

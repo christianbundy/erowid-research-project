@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.1 repeated",
+   "amount": {
+    "number": "0.1",
+    "unit": "repeated"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "blotter/tab"

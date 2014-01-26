@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7.5 ml",
+   "amount": {
+    "number": "7.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "extract"
   },
   {
    "time": "0:20",
-   "amount": "7.5 ml",
+   "amount": {
+    "number": "7.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Valerian",
    "form": "extract"
   },
   {
    "time": "0:30",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lactuca",
    "form": "tea",
@@ -35,7 +44,10 @@
   },
   {
    "time": "0:30",
-   "amount": "7.0 g",
+   "amount": {
+    "number": "7.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Damiana",
    "form": "tea"

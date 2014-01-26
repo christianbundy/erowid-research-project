@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 glasses",
+   "amount": {
+    "number": "2",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "1 cig.",
    "substance": "smoked"
   },
@@ -41,13 +47,19 @@
   },
   {
    "time": "1:50",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 2:42",
+   "amount": {
+    "number": "T+",
+    "unit": "2:42"
+   },
    "substance": "oral"
   },
   {

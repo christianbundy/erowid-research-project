@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 capsls",
+   "amount": {
+    "number": "5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "capsule",

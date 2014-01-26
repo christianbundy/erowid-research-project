@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "various ",
+   "amount": {
+    "number": "various",
+    "unit": ""
+   },
    "substance": "4-Methylmethcathinone"
   }
  ],

@@ -25,21 +25,30 @@
   },
   {
    "time": "8:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "pill/tablet"
   },
   {
    "time": "16:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "Quetiapine",
    "form": "pill/tablet"
   },
   {
    "time": "16:00",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diazepam",
    "form": "pill/tablet"

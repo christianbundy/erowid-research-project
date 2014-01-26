@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.5 mg",
+   "amount": {
+    "number": "6.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Clenbuterol",
    "form": "powder/crystals"

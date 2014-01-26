@@ -19,7 +19,10 @@
   },
   {
    "time": "1:30",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": "dried"

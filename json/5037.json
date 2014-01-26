@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 buttons",
+   "amount": {
+    "number": "4",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "fresh"
   },
   {
    "time": "0:30",
-   "amount": "3 buttons",
+   "amount": {
+    "number": "3",
+    "unit": "buttons"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "fresh"

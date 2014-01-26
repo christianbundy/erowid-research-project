@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "135 mg",
+   "amount": {
+    "number": "135",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "4:20",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

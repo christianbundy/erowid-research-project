@@ -13,42 +13,60 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 ",
+   "amount": {
+    "number": "5",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "seeds"
   },
   {
    "time": "0:05",
-   "amount": "32 ",
+   "amount": {
+    "number": "32",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "seeds"
   },
   {
    "time": "0:45",
-   "amount": "2 ",
+   "amount": {
+    "number": "2",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "8 ",
+   "amount": {
+    "number": "8",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "4:45",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"
   },
   {
    "time": "6:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Zolpidem",
    "form": "pill/tablet"

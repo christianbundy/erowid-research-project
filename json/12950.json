@@ -13,31 +13,46 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "6-APB"
   },
   {
    "time": "1:00",
-   "amount": "1 tablet",
+   "amount": {
+    "number": "1",
+    "unit": "tablet"
+   },
    "administration": "oral",
    "substance": "6-APB"
   },
   {
    "time": "2:00",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "6-APB"
   },
   {
    "time": "0:00",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Phenazepam"
   },
   {
    "time": "0:00",
-   "amount": "7 g",
+   "amount": {
+    "number": "7",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom"
   }

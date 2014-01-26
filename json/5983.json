@@ -13,20 +13,29 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 seeds",
+   "amount": {
+    "number": "7",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "tea"
   },
   {
    "time": "2:30",
-   "amount": "4 seeds",
+   "amount": {
+    "number": "4",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },
   {
    "time": "3:41",
-   "amount": "9 seeds",
+   "amount": {
+    "number": "9",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose"
   },

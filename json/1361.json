@@ -18,7 +18,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:30",
+   "amount": {
+    "number": "T+",
+    "unit": "0:30"
+   },
    "administration": "3.8 g",
    "substance": "oral"
   }

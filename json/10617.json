@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 oz",
+   "amount": {
+    "number": "6",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Passion Flower",
    "form": "tea"
   },
   {
    "time": "0:45",
-   "amount": "2.0 g",
+   "amount": {
+    "number": "2.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "capsule",

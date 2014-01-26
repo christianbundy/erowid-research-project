@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
   },
   {
    "time": "0:40",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "liquid"
@@ -33,7 +39,10 @@
   },
   {
    "time": "21:40",
-   "amount": "4.5 mg",
+   "amount": {
+    "number": "4.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "capsule"
@@ -54,21 +63,30 @@
   },
   {
    "time": "94:40",
-   "amount": "1.0 mg",
+   "amount": {
+    "number": "1.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"
   },
   {
    "time": "100:40",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"
   },
   {
    "time": "111:40",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "5-MeO-AMT",
    "form": "powder/crystals"

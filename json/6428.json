@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "140 mg",
+   "amount": {
+    "number": "140",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDA",
    "form": "capsule"
   },
   {
    "time": "6:00",
-   "amount": "160 mg",
+   "amount": {
+    "number": "160",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "Ketamine",
    "form": "liquid"

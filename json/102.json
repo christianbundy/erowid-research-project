@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 ug",
+   "amount": {
+    "number": "75",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "LSZ",
    "form": "blotter/tab"
   },
   {
    "time": "1:00",
-   "amount": "75 ug",
+   "amount": {
+    "number": "75",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "LSZ",
    "form": "blotter/tab"

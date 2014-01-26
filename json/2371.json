@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 oz",
+   "amount": {
+    "number": "4",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Absinthe"
   }

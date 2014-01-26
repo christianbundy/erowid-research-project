@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15.9 mg",
+   "amount": {
+    "number": "15.9",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DOI",
    "form": "powder/crystals"

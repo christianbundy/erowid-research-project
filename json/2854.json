@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 gal",
+   "amount": {
+    "number": "3",
+    "unit": "gal"
+   },
    "administration": "oral",
    "substance": "Syrian Rue"
   },

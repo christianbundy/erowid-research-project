@@ -27,14 +27,20 @@
   },
   {
    "time": "0:30",
-   "amount": "1 cart.",
+   "amount": {
+    "number": "1",
+    "unit": "cart."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"
   },
   {
    "time": "2:00",
-   "amount": "1.5 ",
+   "amount": {
+    "number": "1.5",
+    "unit": ""
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "specific": "Cigarettes"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9.4 g",
+   "amount": {
+    "number": "9.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "5 carts.",
+   "amount": {
+    "number": "5",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

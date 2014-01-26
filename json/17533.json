@@ -12,21 +12,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "27.5 mg",
+   "amount": {
+    "number": "27.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Sceletium tortuosum",
    "form": "plant material"
   },
   {
    "time": "0",
-   "amount": "500 mg",
+   "amount": {
+    "number": "500",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sceletium tortuosum",
    "form": "plant material"
@@ -39,7 +48,10 @@
   },
   {
    "time": "0",
-   "amount": "24 oz",
+   "amount": {
+    "number": "24",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Coffee",
    "form": "liquid"

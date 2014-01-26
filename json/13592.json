@@ -13,46 +13,67 @@
  "dose": [
   {
    "time": "0",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "1.6 g",
+   "amount": {
+    "number": "1.6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "8:00",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "8:00",
-   "amount": "2.4 g",
+   "amount": {
+    "number": "2.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "13:00",
-   "amount": "25 mg",
+   "amount": {
+    "number": "25",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-Fluoroamphetamine",
    "form": "powder/crystals"
   },
   {
    "time": "13:00",
-   "amount": "1.6 g",
+   "amount": {
+    "number": "1.6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "20:00",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet"

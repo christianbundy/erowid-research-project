@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "110 mg",
+   "amount": {
+    "number": "110",
+    "unit": "mg"
+   },
    "administration": "IM",
    "substance": "DPT",
    "form": "liquid"

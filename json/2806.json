@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 ml",
+   "amount": {
+    "number": "40",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GHB",
    "form": "liquid"

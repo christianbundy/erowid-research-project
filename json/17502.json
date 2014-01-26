@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "267 mg",
+   "amount": {
+    "number": "267",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Ephedrine",
    "form": "capsule"
   },
   {
    "time": "4:33",
-   "amount": "1 glass",
+   "amount": {
+    "number": "1",
+    "unit": "glass"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

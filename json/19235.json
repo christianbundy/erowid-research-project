@@ -13,19 +13,28 @@
  "dose": [
   {
    "time": "0",
-   "amount": "900 mg",
+   "amount": {
+    "number": "900",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "0:30",
-   "amount": "1800 mg",
+   "amount": {
+    "number": "1800",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   },
   {
    "time": "5:30",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Gabapentin"
   }

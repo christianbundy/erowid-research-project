@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7200 mg",
+   "amount": {
+    "number": "7200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "daily"

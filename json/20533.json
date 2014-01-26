@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 oz",
+   "amount": {
+    "number": "1",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Lady's Slipper",
    "form": "tea"

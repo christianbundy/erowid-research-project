@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "36 oz",
+   "amount": {
+    "number": "36",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

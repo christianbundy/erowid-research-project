@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3/8 oz",
+   "amount": {
+    "number": "3/8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "dried"
   },
   {
    "time": "0:15",
-   "amount": "3/8 oz",
+   "amount": {
+    "number": "3/8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Peyote",
    "form": "dried"

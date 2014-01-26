@@ -20,7 +20,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 8:00",
+   "amount": {
+    "number": "T+",
+    "unit": "8:00"
+   },
    "administration": "200 mg",
    "substance": "oral"
   },
@@ -43,13 +46,19 @@
   },
   {
    "time": "8:00",
-   "amount": "1300 mg",
+   "amount": {
+    "number": "1300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Acetaminophen"
   },
   {
    "time": "(pill / tablet)",
-   "amount": "T+ 15:00",
+   "amount": {
+    "number": "T+",
+    "unit": "15:00"
+   },
    "administration": "200 mg",
    "substance": "oral"
   },

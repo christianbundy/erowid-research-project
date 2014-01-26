@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.3 g",
+   "amount": {
+    "number": "3.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",
@@ -21,7 +24,10 @@
   },
   {
    "time": "1:00",
-   "amount": "3.3 g",
+   "amount": {
+    "number": "3.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",
@@ -29,7 +35,10 @@
   },
   {
    "time": "2:00",
-   "amount": "3.3 g",
+   "amount": {
+    "number": "3.3",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material",

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 Tbsp",
+   "amount": {
+    "number": "1",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"

@@ -12,13 +12,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1000 seeds",
+   "amount": {
+    "number": "1000",
+    "unit": "seeds"
+   },
    "substance": "Turbina corymbosa",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "750 ml",
+   "amount": {
+    "number": "750",
+    "unit": "ml"
+   },
    "substance": "Alcohol",
    "form": "liquid",
    "specific": "Hard"

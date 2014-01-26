@@ -19,14 +19,20 @@
   },
   {
    "time": "0",
-   "amount": "1600 ug",
+   "amount": {
+    "number": "1600",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "Fentanyl",
    "form": "cookie/food"
   },
   {
    "time": "0",
-   "amount": "8 mg",
+   "amount": {
+    "number": "8",
+    "unit": "mg"
+   },
    "substance": "Hydromorphone"
   }
  ],

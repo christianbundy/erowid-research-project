@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "144 mg",
+   "amount": {
+    "number": "144",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine",
    "form": "extract"

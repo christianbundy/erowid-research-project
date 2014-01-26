@@ -17,7 +17,10 @@
   },
   {
    "time": "0",
-   "amount": "T+ 0:00"
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   }
   },
   {
    "time": "Acetaminophen",
@@ -38,13 +41,19 @@
   },
   {
    "time": "2:00",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "5-MeO-DALT"
   },
   {
    "time": "(powder / crystals)",
-   "amount": "T+ 2:20",
+   "amount": {
+    "number": "T+",
+    "unit": "2:20"
+   },
    "administration": "10 mg",
    "substance": "smoked"
   },

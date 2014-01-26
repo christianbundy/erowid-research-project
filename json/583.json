@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.25 bowls",
+   "amount": {
+    "number": "0.25",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Salvia divinorum",
    "form": "extract-5x"

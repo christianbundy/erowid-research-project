@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 hits",
+   "amount": {
+    "number": "8",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "0.25 oz",
+   "amount": {
+    "number": "0.25",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"

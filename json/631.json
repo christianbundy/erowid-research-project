@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.5 in",
+   "amount": {
+    "number": "4.5",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",
@@ -21,7 +24,10 @@
   },
   {
    "time": "3:00",
-   "amount": "4.5 in",
+   "amount": {
+    "number": "4.5",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",

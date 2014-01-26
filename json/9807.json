@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13 mg",
+   "amount": {
+    "number": "13",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "liquid"

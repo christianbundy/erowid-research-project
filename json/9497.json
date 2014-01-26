@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 flowers",
+   "amount": {
+    "number": "15",
+    "unit": "flowers"
+   },
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": "dried"
   },
   {
    "time": "0",
-   "amount": "3 flowers",
+   "amount": {
+    "number": "3",
+    "unit": "flowers"
+   },
    "administration": "smoked",
    "substance": "Passion Flower",
    "form": "dried"

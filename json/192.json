@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 ug",
+   "amount": {
+    "number": "150",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "AL-LAD",
    "form": "blotter/tab"
   },
   {
    "time": "0",
-   "amount": "0.5 tablets",
+   "amount": {
+    "number": "0.5",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "4-AcO-DMT",
    "form": "pill/tablet"

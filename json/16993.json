@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 tablets",
+   "amount": {
+    "number": "24",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"
   },
   {
    "time": "0",
-   "amount": "830 mg",
+   "amount": {
+    "number": "830",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

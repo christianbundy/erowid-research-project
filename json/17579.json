@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
+   "amount": {
+    "number": "35",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Oxycodone",
    "form": "ground/crushed"
   },
   {
    "time": "0",
-   "amount": "2450 mg",
+   "amount": {
+    "number": "2450",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Acetaminophen",
    "form": "ground/crushed"

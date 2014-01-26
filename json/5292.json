@@ -19,7 +19,10 @@
   },
   {
    "time": "4:00",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C",
    "form": "powder/crystals"
@@ -38,7 +41,10 @@
   },
   {
    "time": "0",
-   "amount": "400 mg",
+   "amount": {
+    "number": "400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Carbamazepine",
    "form": "daily"

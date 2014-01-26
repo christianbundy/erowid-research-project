@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "PCP",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "administration": "insufflated",
    "substance": "PCP",
    "form": "capsule"

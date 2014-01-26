@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "185 mg",
+   "amount": {
+    "number": "185",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDAI",
    "form": "powder/crystals"

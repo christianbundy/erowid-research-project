@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4.0 g",
+   "amount": {
+    "number": "4.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "extract-10x"
   },
   {
    "time": "0",
-   "amount": "6 oz",
+   "amount": {
+    "number": "6",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "liquid"

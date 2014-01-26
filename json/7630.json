@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "16 leaves",
+   "amount": {
+    "number": "16",
+    "unit": "leaves"
+   },
    "administration": "buccal",
    "substance": "Salvia divinorum",
    "form": "dried"

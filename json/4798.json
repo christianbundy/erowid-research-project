@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 capsls",
+   "amount": {
+    "number": "0.5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "capsule"
   },
   {
    "time": "2:30",
-   "amount": "0.3333 bowls",
+   "amount": {
+    "number": "0.3333",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

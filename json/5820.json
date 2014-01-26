@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 hits",
+   "amount": {
+    "number": "9",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

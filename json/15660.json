@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "5 joints/cigs",
+   "amount": {
+    "number": "5",
+    "unit": "joints/cigs"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Amphetamines"
   },
   {
    "time": "0",
-   "amount": "1400 mg",
+   "amount": {
+    "number": "1400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "St. John's Wort"
   }

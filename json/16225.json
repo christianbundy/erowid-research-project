@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "150 mg",
+   "amount": {
+    "number": "150",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "bk-MDEA",
    "form": "capsule"
@@ -26,13 +29,19 @@
   },
   {
    "time": "0:00",
-   "amount": "42 mg",
+   "amount": {
+    "number": "42",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone"
   },
   {
    "time": "3:40",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone"
   },

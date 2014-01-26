@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 Tbsp",
+   "amount": {
+    "number": "3",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"
   },
   {
    "time": "1:00",
-   "amount": "1 seed",
+   "amount": {
+    "number": "1",
+    "unit": "seed"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "1 seed",
+   "amount": {
+    "number": "1",
+    "unit": "seed"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "seeds"
   },
   {
    "time": "1:00",
-   "amount": "3 seeds",
+   "amount": {
+    "number": "3",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Turbina corymbosa",
    "form": "seeds"

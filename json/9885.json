@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 g",
+   "amount": {
+    "number": "500",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"
   },
   {
    "time": "1:00",
-   "amount": "250 g",
+   "amount": {
+    "number": "250",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "plant material"
   },
   {
    "time": "3:15",
-   "amount": "0.5 bowls",
+   "amount": {
+    "number": "0.5",
+    "unit": "bowls"
+   },
    "administration": "inhaled",
    "substance": "Cannabis",
    "form": "flowers"
   },
   {
    "time": "7:30",
-   "amount": "1 cap",
+   "amount": {
+    "number": "1",
+    "unit": "cap"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "plant material"

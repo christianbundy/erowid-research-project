@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "specific": "5-HTP"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00"
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   }
   },
   {
    "time": "Vitamins / Supplements",
@@ -29,7 +35,10 @@
   },
   {
    "time": "oral",
-   "amount": "Ginkgo biloba",
+   "amount": {
+    "number": "Ginkgo",
+    "unit": "biloba"
+   },
    "substance": "T+ 0:00"
   },
   {
@@ -46,7 +55,10 @@
   },
   {
    "time": "(tea)",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "38 mg",
    "substance": "insufflated"
   },
@@ -70,7 +82,10 @@
   },
   {
    "time": "12:30",
-   "amount": "9.0 mg",
+   "amount": {
+    "number": "9.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin"
   }

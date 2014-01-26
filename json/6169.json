@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 seeds",
+   "amount": {
+    "number": "4",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "2 seeds",
+   "amount": {
+    "number": "2",
+    "unit": "seeds"
+   },
    "administration": "smoked",
    "substance": "Anadenanthera colubrina",
    "form": "seeds"

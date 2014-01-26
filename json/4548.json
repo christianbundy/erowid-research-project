@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1750 seeds",
+   "amount": {
+    "number": "1750",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "extract"
   },
   {
    "time": "0",
-   "amount": "87.5 ml",
+   "amount": {
+    "number": "87.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

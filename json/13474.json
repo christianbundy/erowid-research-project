@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "21 tablets",
+   "amount": {
+    "number": "21",
+    "unit": "tablets"
+   },
    "administration": "smoked",
    "substance": "Hydrocodone",
    "form": "pill/tablet"

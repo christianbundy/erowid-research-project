@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 leaves",
+   "amount": {
+    "number": "3.5",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "leaves"

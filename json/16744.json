@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.4 g",
+   "amount": {
+    "number": "1.4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"
   },
   {
    "time": "0:45",
-   "amount": "1.225 g",
+   "amount": {
+    "number": "1.225",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Carisoprodol",
    "form": "pill/tablet"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "190 mg",
+   "amount": {
+    "number": "190",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"
@@ -27,7 +30,10 @@
   },
   {
    "time": "7:00",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

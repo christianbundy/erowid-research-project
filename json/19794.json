@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:10",
-   "amount": "2.5 mg",
+   "amount": {
+    "number": "2.5",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "0:50",
-   "amount": "5.0 mg",
+   "amount": {
+    "number": "5.0",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "ground/crushed"
   },
   {
    "time": "2:32",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "plant material",

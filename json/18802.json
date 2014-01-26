@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "substance": "2C-P"
   },
   {
    "time": "23:30",
-   "amount": "40 mg",
+   "amount": {
+    "number": "40",
+    "unit": "mg"
+   },
    "substance": "Methoxetamine "
   }
  ],

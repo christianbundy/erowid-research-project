@@ -13,33 +13,48 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 ml",
+   "amount": {
+    "number": "4",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "liquid"
   },
   {
    "time": "5:00",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Zopiclone"
   },
   {
    "time": "5:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "5:00",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0:00",
-   "amount": "3 tablets",
+   "amount": {
+    "number": "3",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Zopiclone"
   },
@@ -51,7 +66,10 @@
   },
   {
    "time": "24:00",
-   "amount": "4 lbs",
+   "amount": {
+    "number": "4",
+    "unit": "lbs"
+   },
    "administration": "oral",
    "substance": "Zopiclone"
   },

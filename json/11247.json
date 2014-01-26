@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8.0 mg",
+   "amount": {
+    "number": "8.0",
+    "unit": "mg"
+   },
    "administration": "rectal",
    "substance": "2C-E",
    "form": "liquid"
   },
   {
    "time": "0:30",
-   "amount": "215 mg",
+   "amount": {
+    "number": "215",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Methylone",
    "form": "capsule"
   },
   {
    "time": "2:15",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "smoked",
    "substance": "Cannabis"
   }

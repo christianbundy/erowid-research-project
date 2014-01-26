@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "0:58",
-   "amount": "2 capsls",
+   "amount": {
+    "number": "2",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "3:09",
-   "amount": "3 capsls",
+   "amount": {
+    "number": "3",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "5:00",
-   "amount": "4 capsls",
+   "amount": {
+    "number": "4",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"
   },
   {
    "time": "6:01",
-   "amount": "5 capsls",
+   "amount": {
+    "number": "5",
+    "unit": "capsls"
+   },
    "administration": "oral",
    "substance": "Kratom",
    "form": "ground/crushed"

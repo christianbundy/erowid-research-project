@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "115 mg",
+   "amount": {
+    "number": "115",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "pill/tablet"
   },
   {
    "time": "1:10",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "AMT",
    "form": "pill/tablet"

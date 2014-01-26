@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 shot",
+   "amount": {
+    "number": "1",
+    "unit": "shot"
+   },
    "administration": "oral",
    "substance": "Ayahuasca",
    "form": "tea"

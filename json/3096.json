@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 oz",
+   "amount": {
+    "number": "3",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "ground/crushed"

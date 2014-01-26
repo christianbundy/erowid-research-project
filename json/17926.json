@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6.5 ml",
+   "amount": {
+    "number": "6.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "6.5 ml",
+   "amount": {
+    "number": "6.5",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "plant material"

@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "12 carts.",
+   "amount": {
+    "number": "12",
+    "unit": "carts."
+   },
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "gas"

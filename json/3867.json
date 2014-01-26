@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Fluoxetine",
    "form": "daily"
@@ -26,7 +29,10 @@
   },
   {
    "time": "0:00",
-   "amount": "50 mg",
+   "amount": {
+    "number": "50",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Tryptophan",
    "form": "pill/tablet",
@@ -34,7 +40,10 @@
   },
   {
    "time": "0:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Melatonin",
    "form": "pill/tablet"
@@ -47,7 +56,10 @@
   },
   {
    "time": "24:00",
-   "amount": "6.5 g",
+   "amount": {
+    "number": "6.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "leaves"

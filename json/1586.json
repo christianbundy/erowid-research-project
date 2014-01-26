@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 oz",
+   "amount": {
+    "number": "0.75",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Cannabis",
    "form": "cookie/food"

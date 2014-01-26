@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sertraline",
    "form": "pill/tablet"
   },
   {
    "time": "7:00",
-   "amount": "465 mg",
+   "amount": {
+    "number": "465",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Catuaba",
    "form": "ground/crushed"
@@ -32,7 +38,10 @@
   },
   {
    "time": "7:30",
-   "amount": "100 mg",
+   "amount": {
+    "number": "100",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Sildenafil",
    "form": "pill/tablet"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.75 tablets",
+   "amount": {
+    "number": "1.75",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "MDMA"
   },
   {
    "time": "0",
-   "amount": "12 mg",
+   "amount": {
+    "number": "12",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-C"
   }

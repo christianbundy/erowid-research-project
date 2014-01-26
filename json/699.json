@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2 tablets",
+   "amount": {
+    "number": "2",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Dimenhydrinate"
   },
   {
    "time": "0",
-   "amount": "T+ 0:45",
+   "amount": {
+    "number": "T+",
+    "unit": "0:45"
+   },
    "administration": "52 mg",
    "substance": "oral"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 leaves",
+   "amount": {
+    "number": "20",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Catha edulis",
    "form": "tea"

@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Modafinil"
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },
@@ -40,14 +46,20 @@
   },
   {
    "time": "8:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Smarts",
    "specific": "Phenibut"
   },
   {
    "time": "0",
-   "amount": "T+ 8:00",
+   "amount": {
+    "number": "T+",
+    "unit": "8:00"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },

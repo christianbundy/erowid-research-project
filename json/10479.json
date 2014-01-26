@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "250 mg",
+   "amount": {
+    "number": "250",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Propylhexedrine"
   },
   {
    "time": "0",
-   "amount": "T+ 0:45",
+   "amount": {
+    "number": "T+",
+    "unit": "0:45"
+   },
    "administration": "250 mg",
    "substance": "oral"
   },

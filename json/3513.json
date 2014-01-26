@@ -10,7 +10,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "20 hits",
+   "amount": {
+    "number": "20",
+    "unit": "hits"
+   },
    "administration": "smoked",
    "substance": "Nutmeg"
   }

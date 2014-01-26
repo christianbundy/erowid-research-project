@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "500 ml",
+   "amount": {
+    "number": "500",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",
@@ -20,7 +23,10 @@
   },
   {
    "time": "1:00",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "dried",

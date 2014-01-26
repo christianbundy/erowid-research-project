@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "2.0 mg",
+   "amount": {
+    "number": "2.0",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Selegeline"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "20 mg",
    "substance": "oral"
   },
@@ -43,13 +49,19 @@
   },
   {
    "time": "0:45",
-   "amount": "1 capsl",
+   "amount": {
+    "number": "1",
+    "unit": "capsl"
+   },
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": "(ground / crushed)",
-   "amount": "T+ 0:50",
+   "amount": {
+    "number": "T+",
+    "unit": "0:50"
+   },
    "administration": "1 capsl",
    "substance": "oral"
   }

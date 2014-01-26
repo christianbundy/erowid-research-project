@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "161 mg",
+   "amount": {
+    "number": "161",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "pill/tablet"

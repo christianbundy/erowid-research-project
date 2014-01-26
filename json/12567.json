@@ -37,14 +37,20 @@
   },
   {
    "time": "0",
-   "amount": "4 shots",
+   "amount": {
+    "number": "4",
+    "unit": "shots"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Hard"
   },
   {
    "time": "0",
-   "amount": "T+ 1:30",
+   "amount": {
+    "number": "T+",
+    "unit": "1:30"
+   },
    "substance": "smoked"
   }
  ],

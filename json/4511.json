@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.1 ",
+   "amount": {
+    "number": "0.1",
+    "unit": ""
+   },
    "administration": "buccal",
    "substance": "Fentanyl",
    "form": "patch"

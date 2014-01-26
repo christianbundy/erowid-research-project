@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "36 g",
+   "amount": {
+    "number": "36",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "powder/crystals",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0:00",
-   "amount": "1.5 g",
+   "amount": {
+    "number": "1.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "tea"
   },
   {
    "time": "0:30",
-   "amount": "9.0 g",
+   "amount": {
+    "number": "9.0",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "powder/crystals",

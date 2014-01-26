@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 drops",
+   "amount": {
+    "number": "4",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "extract",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0:00",
-   "amount": "3 oz",
+   "amount": {
+    "number": "3",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:30",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Lotus/Lily",
    "form": "dried",
@@ -36,14 +45,20 @@
   },
   {
    "time": "0:30",
-   "amount": "8 oz",
+   "amount": {
+    "number": "8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "specific": "Beer/Wine"
   },
   {
    "time": "0:30",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "smoked",
    "substance": "Lotus/Lily",
    "form": "dried",

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "705 mg",
+   "amount": {
+    "number": "705",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "40 g",
+   "amount": {
+    "number": "40",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mimosa tenuiflora"
   }

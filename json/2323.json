@@ -11,13 +11,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 4:30",
+   "amount": {
+    "number": "T+",
+    "unit": "4:30"
+   },
    "administration": "4 hits",
    "substance": "smoked"
   }

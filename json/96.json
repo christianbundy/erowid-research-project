@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.2 mg",
+   "amount": {
+    "number": "1.2",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe"
   },
   {
    "time": "0:20",
-   "amount": "1.2 mg",
+   "amount": {
+    "number": "1.2",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "25I-NBOMe"
   }

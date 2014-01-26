@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "320 mg",
+   "amount": {
+    "number": "320",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Codeine"
   },
   {
    "time": "0",
-   "amount": "600 mg",
+   "amount": {
+    "number": "600",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine"
   }

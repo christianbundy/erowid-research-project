@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "9 leaves",
+   "amount": {
+    "number": "9",
+    "unit": "leaves"
+   },
    "administration": "buccal",
    "substance": "Catha edulis"
   }

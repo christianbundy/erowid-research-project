@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "525 ug",
+   "amount": {
+    "number": "525",
+    "unit": "ug"
+   },
    "administration": "sublingual",
    "substance": "2C-C-NBOMe",
    "form": "blotter/tab"

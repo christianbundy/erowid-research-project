@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 tsp",
+   "amount": {
+    "number": "0.75",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "seeds"
   },
   {
    "time": "0",
-   "amount": "300 seeds",
+   "amount": {
+    "number": "300",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Morning Glory",
    "form": "tea"

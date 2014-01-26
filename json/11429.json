@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Yohimbe",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "St. John's Wort",
    "form": "daily"
   },
   {
    "time": "0",
-   "amount": "885 mg",
+   "amount": {
+    "number": "885",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM"
   }

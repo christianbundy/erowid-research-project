@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 mg",
+   "amount": {
+    "number": "10",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-I"
   },
   {
    "time": "0",
-   "amount": "T+ 1:00",
+   "amount": {
+    "number": "T+",
+    "unit": "1:00"
+   },
    "administration": "130 mg",
    "substance": "oral"
   },

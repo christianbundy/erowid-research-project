@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 tsp",
+   "amount": {
+    "number": "1",
+    "unit": "tsp"
+   },
    "administration": "oral",
    "substance": "Belladonna",
    "form": "flowers"

@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 ",
+   "amount": {
+    "number": "30",
+    "unit": ""
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "capsule"

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "13.5 in",
+   "amount": {
+    "number": "13.5",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",

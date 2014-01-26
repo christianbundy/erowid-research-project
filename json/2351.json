@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 lines",
+   "amount": {
+    "number": "3",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "4 lines",
+   "amount": {
+    "number": "4",
+    "unit": "lines"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"

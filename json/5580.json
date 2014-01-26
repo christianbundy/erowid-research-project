@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 in",
+   "amount": {
+    "number": "6",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Banisteriopsis caapi",
    "form": "tea"
   },
   {
    "time": "0",
-   "amount": "5 in",
+   "amount": {
+    "number": "5",
+    "unit": "in"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "tea",

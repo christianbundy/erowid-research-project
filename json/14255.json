@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "4 g",
+   "amount": {
+    "number": "4",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "T+ 2:00",
+   "amount": {
+    "number": "T+",
+    "unit": "2:00"
+   },
    "administration": "100 mg",
    "substance": "oral"
   },
@@ -42,13 +48,19 @@
   },
   {
    "time": "3:00",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam"
   },
   {
    "time": "0",
-   "amount": "T+ 4:30",
+   "amount": {
+    "number": "T+",
+    "unit": "4:30"
+   },
    "administration": "220 mg",
    "substance": "oral"
   },

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "240 oz",
+   "amount": {
+    "number": "240",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Kava",
    "form": "tea"

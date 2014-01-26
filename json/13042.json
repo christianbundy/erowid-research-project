@@ -13,13 +13,19 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 glasses",
+   "amount": {
+    "number": "7",
+    "unit": "glasses"
+   },
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "0:00",
-   "amount": "6 hits",
+   "amount": {
+    "number": "6",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "Unknown"
   },

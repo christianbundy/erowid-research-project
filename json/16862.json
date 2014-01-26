@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1.6 g",
+   "amount": {
+    "number": "1.6",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Piracetam",
    "form": "capsule"

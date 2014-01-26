@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "22.5 mg",
+   "amount": {
+    "number": "22.5",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "BOD",
    "form": "powder/crystals"

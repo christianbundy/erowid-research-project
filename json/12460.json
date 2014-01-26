@@ -13,12 +13,18 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 ",
+   "amount": {
+    "number": "1",
+    "unit": ""
+   },
    "substance": "Herbal Ecstasy"
   },
   {
    "time": "0",
-   "amount": "T+ 3:00",
+   "amount": {
+    "number": "T+",
+    "unit": "3:00"
+   },
    "administration": "10 seeds",
    "substance": "oral"
   },

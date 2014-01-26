@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.75 Tbsp",
+   "amount": {
+    "number": "0.75",
+    "unit": "Tbsp"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "extract"
   },
   {
    "time": "1:25",
-   "amount": "50 g",
+   "amount": {
+    "number": "50",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Cacti",
    "form": "extract",

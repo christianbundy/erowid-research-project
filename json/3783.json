@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "10 leaves",
+   "amount": {
+    "number": "10",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Brunfelsia",
    "form": "fresh"

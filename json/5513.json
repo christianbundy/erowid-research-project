@@ -12,14 +12,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 g",
+   "amount": {
+    "number": "30",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Nutmeg",
    "form": "liquid"
   },
   {
    "time": "0:00",
-   "amount": "19 g",
+   "amount": {
+    "number": "19",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Sassafras",
    "form": "liquid"
@@ -32,7 +38,10 @@
   },
   {
    "time": "3:00",
-   "amount": "28 oz",
+   "amount": {
+    "number": "28",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "Alcohol",
    "form": "liquid",

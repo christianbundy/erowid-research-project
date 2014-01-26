@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "24 ml",
+   "amount": {
+    "number": "24",
+    "unit": "ml"
+   },
    "administration": "sublingual",
    "substance": "Buprenorphine",
    "form": "daily"

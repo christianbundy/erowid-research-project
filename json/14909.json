@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "65 seeds",
+   "amount": {
+    "number": "65",
+    "unit": "seeds"
+   },
    "substance": "Datura",
    "form": "seeds"
   }

@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "195 mg",
+   "amount": {
+    "number": "195",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MMDA",
    "form": "powder/crystals"

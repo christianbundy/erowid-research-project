@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "25 ml",
+   "amount": {
+    "number": "25",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "2C-B",
    "form": "powder/crystals"

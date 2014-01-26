@@ -13,35 +13,50 @@
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "0:15",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "0:40",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "1:10",
-   "amount": "30 mg",
+   "amount": {
+    "number": "30",
+    "unit": "mg"
+   },
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "ground/crushed"
   },
   {
    "time": "69:40",
-   "amount": "120 mg",
+   "amount": {
+    "number": "120",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Morphine",
    "form": "liquid"

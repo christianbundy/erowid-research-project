@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:20",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:40",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "capsule"
   },
   {
    "time": "0:40",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "capsule",
@@ -42,7 +54,10 @@
   },
   {
    "time": "1:00",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "capsule",
@@ -50,7 +65,10 @@
   },
   {
    "time": "1:20",
-   "amount": "1 g",
+   "amount": {
+    "number": "1",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "capsule",
@@ -58,56 +76,80 @@
   },
   {
    "time": "1:20",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "1:50",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "2:20",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "2:50",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "3:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Anadenanthera spp.",
    "form": "plant material"
   },
   {
    "time": "3:20",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "3:50",
-   "amount": "1.2 g",
+   "amount": {
+    "number": "1.2",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Acacia",
    "form": "capsule"
   },
   {
    "time": "4:00",
-   "amount": "200 mg",
+   "amount": {
+    "number": "200",
+    "unit": "mg"
+   },
    "administration": "sublingual",
    "substance": "Anadenanthera spp.",
    "form": "plant material"

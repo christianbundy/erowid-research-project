@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "50 drops",
+   "amount": {
+    "number": "50",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract"
   },
   {
    "time": "1:00",
-   "amount": "40 drops",
+   "amount": {
+    "number": "40",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "Wormwood",
    "form": "extract"

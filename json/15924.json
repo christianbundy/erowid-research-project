@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "18 g",
+   "amount": {
+    "number": "18",
+    "unit": "g"
+   },
    "administration": "oral",
    "substance": "Amanitas",
    "form": "plant material",
@@ -21,14 +24,20 @@
   },
   {
    "time": "0:00",
-   "amount": "1 bowl",
+   "amount": {
+    "number": "1",
+    "unit": "bowl"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
   },
   {
    "time": "1:30",
-   "amount": "2 bowls",
+   "amount": {
+    "number": "2",
+    "unit": "bowls"
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"

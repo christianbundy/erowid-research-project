@@ -19,7 +19,10 @@
   },
   {
    "time": "0",
-   "amount": "3 drops",
+   "amount": {
+    "number": "3",
+    "unit": "drops"
+   },
    "administration": "oral",
    "substance": "LSD",
    "form": "liquid"

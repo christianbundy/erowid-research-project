@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": ".5 hits",
+   "amount": {
+    "number": ".5",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "blotter/tab"
   },
   {
    "time": "1:30",
-   "amount": ".25 hits",
+   "amount": {
+    "number": ".25",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "blotter/tab"
   },
   {
    "time": "2:00",
-   "amount": ".25 hits",
+   "amount": {
+    "number": ".25",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "DOB",
    "form": "blotter/tab"

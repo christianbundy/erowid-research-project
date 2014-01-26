@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "53 tablets",
+   "amount": {
+    "number": "53",
+    "unit": "tablets"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "pill/tablet"

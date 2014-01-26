@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "6 seeds",
+   "amount": {
+    "number": "6",
+    "unit": "seeds"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "fresh"
   },
   {
    "time": "0",
-   "amount": "7 leaves",
+   "amount": {
+    "number": "7",
+    "unit": "leaves"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "475 mg",
+   "amount": {
+    "number": "475",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "capsule"
   },
   {
    "time": "4:00",
-   "amount": "3.0 mg",
+   "amount": {
+    "number": "3.0",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Alprazolam",
    "form": "pill/tablet"

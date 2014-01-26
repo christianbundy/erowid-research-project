@@ -13,28 +13,40 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 mg",
+   "amount": {
+    "number": "15",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "4-HO-MET",
    "form": "powder/crystals"
   },
   {
    "time": "0:00",
-   "amount": "20 mg",
+   "amount": {
+    "number": "20",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "2C-E",
    "form": "powder/crystals"
   },
   {
    "time": "0:50",
-   "amount": "115 mg",
+   "amount": {
+    "number": "115",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "powder/crystals"
   },
   {
    "time": "2:00",
-   "amount": "85 mg",
+   "amount": {
+    "number": "85",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "6-APB",
    "form": "powder/crystals"

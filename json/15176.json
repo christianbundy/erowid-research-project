@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "450 mg",
+   "amount": {
+    "number": "450",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"
   },
   {
    "time": "2:00",
-   "amount": "270 ug",
+   "amount": {
+    "number": "270",
+    "unit": "ug"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

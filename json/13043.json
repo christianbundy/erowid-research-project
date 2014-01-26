@@ -13,21 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": "7 mg",
+   "amount": {
+    "number": "7",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "JWH-018",
    "form": "capsule"
   },
   {
    "time": "0",
-   "amount": "3.5 mg",
+   "amount": {
+    "number": "3.5",
+    "unit": "mg"
+   },
    "administration": "smoked",
    "substance": "JWH-018",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "60 mg",
+   "amount": {
+    "number": "60",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Citalopram",
    "form": "daily"

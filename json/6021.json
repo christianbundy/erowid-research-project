@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "1400 mg",
+   "amount": {
+    "number": "1400",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "Caffeine",
    "form": "pill/tablet"

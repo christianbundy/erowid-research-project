@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.14 g",
+   "amount": {
+    "number": "0.14",
+    "unit": "g"
+   },
    "substance": "Methamphetamine",
    "form": "daily"
   }

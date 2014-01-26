@@ -19,17 +19,26 @@
   },
   {
    "time": "6:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "substance": "LSD"
   },
   {
    "time": "19:00",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "substance": "LSD"
   },
   {
    "time": "23:00",
-   "amount": "2 hits",
+   "amount": {
+    "number": "2",
+    "unit": "hits"
+   },
    "substance": "LSD"
   }
  ],

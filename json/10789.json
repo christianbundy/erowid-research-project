@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "800 ug",
+   "amount": {
+    "number": "800",
+    "unit": "ug"
+   },
    "administration": "buccal",
    "substance": "Fentanyl",
    "form": "pill/tablet"

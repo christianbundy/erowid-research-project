@@ -29,7 +29,10 @@
   },
   {
    "time": "0:00",
-   "amount": "300 mg",
+   "amount": {
+    "number": "300",
+    "unit": "mg"
+   },
    "administration": "oral",
    "substance": "MDMA",
    "form": "powder/crystals"
@@ -46,13 +49,19 @@
   },
   {
    "time": "2:00",
-   "amount": "6 leaves",
+   "amount": {
+    "number": "6",
+    "unit": "leaves"
+   },
    "administration": "buccal",
    "substance": "Coleus"
   },
   {
    "time": "3:30",
-   "amount": "1 hit",
+   "amount": {
+    "number": "1",
+    "unit": "hit"
+   },
    "administration": "sublingual",
    "substance": "LSD",
    "form": "blotter/tab"

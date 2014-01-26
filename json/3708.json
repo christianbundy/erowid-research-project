@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "8 oz",
+   "amount": {
+    "number": "8",
+    "unit": "oz"
+   },
    "administration": "oral",
    "substance": "DXM",
    "form": "liquid"

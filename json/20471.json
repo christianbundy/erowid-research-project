@@ -13,7 +13,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3.5 cups",
+   "amount": {
+    "number": "3.5",
+    "unit": "cups"
+   },
    "administration": "oral",
    "substance": "Brugmansia",
    "form": "tea"

@@ -13,25 +13,37 @@
  "dose": [
   {
    "time": "0",
-   "amount": "3 hits",
+   "amount": {
+    "number": "3",
+    "unit": "hits"
+   },
    "administration": "oral",
    "substance": "LSD"
   },
   {
    "time": "0",
-   "amount": "T+ 0:00",
+   "amount": {
+    "number": "T+",
+    "unit": "0:00"
+   },
    "administration": "repeated",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
-   "amount": "(plant material)",
+   "amount": {
+    "number": "(plant",
+    "unit": "material)"
+   },
    "administration": "T+ 6:00",
    "substance": "repeated"
   },
   {
    "time": "smoked",
-   "amount": "Salvia divinorum",
+   "amount": {
+    "number": "Salvia",
+    "unit": "divinorum"
+   },
    "administration": "(leaves)",
    "substance": "T+ 0:00"
   },

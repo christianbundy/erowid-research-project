@@ -11,7 +11,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "15 ml",
+   "amount": {
+    "number": "15",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "GBL",
    "form": "daily"

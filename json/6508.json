@@ -12,7 +12,10 @@
  "dose": [
   {
    "time": "0",
-   "amount": "320 mg",
+   "amount": {
+    "number": "320",
+    "unit": "mg"
+   },
    "substance": "Oxycodone"
   }
  ],

@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "0.5 g",
+   "amount": {
+    "number": "0.5",
+    "unit": "g"
+   },
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "powder/crystals"
   },
   {
    "time": "0",
-   "amount": "1 cig.",
+   "amount": {
+    "number": "1",
+    "unit": "cig."
+   },
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "plant material"
@@ -34,7 +40,10 @@
   },
   {
    "time": "0",
-   "amount": "3 flowers",
+   "amount": {
+    "number": "3",
+    "unit": "flowers"
+   },
    "administration": "oral",
    "substance": "Datura",
    "form": "tea"

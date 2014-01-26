@@ -13,14 +13,20 @@
  "dose": [
   {
    "time": "0",
-   "amount": "75 ml",
+   "amount": {
+    "number": "75",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
   },
   {
    "time": "0",
-   "amount": "75 ml",
+   "amount": {
+    "number": "75",
+    "unit": "ml"
+   },
    "administration": "oral",
    "substance": "Absinthe",
    "form": "liquid"
