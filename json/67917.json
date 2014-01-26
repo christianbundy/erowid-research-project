@@ -12,7 +12,7 @@
  "views": "5048",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "4 ml",
    "administration": "oral",
    "substance": "GBL",
@@ -48,7 +48,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
@@ -62,7 +61,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""

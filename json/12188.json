@@ -12,13 +12,13 @@
  "views": "26954",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "0.5 mg",
    "substance": "oral"
@@ -42,7 +42,7 @@
    "substance": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard"

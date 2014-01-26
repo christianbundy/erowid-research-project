@@ -12,7 +12,7 @@
  "views": "107855",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 4:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Methadone",
    "form": "(pill / tablet)"
@@ -55,14 +54,12 @@
   },
   {
    "time": " T+ 6:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
    "time": " T+ 6:35",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

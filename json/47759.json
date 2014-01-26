@@ -12,13 +12,13 @@
  "views": "7007",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "2 hits",
    "substance": "oral"
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "Pharms - Sertraline",
    "substance": "(daily)"

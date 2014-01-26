@@ -13,13 +13,13 @@
  "views": "489",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": "0.5 hits",
    "substance": ""
@@ -31,7 +31,7 @@
    "substance": "0.5 hits"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "LSD",
    "administration": "(blotter / tab)",
    "substance": " T+ 0:50"

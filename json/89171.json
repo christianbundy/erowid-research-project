@@ -13,26 +13,22 @@
  "views": "3435",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "insufflated",
    "substance": "Unknown"
   },
   {
    "time": " T+ 6:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": " T+ 6:00",
-   "amount": " ",
    "administration": "insufflated",
    "substance": "Unknown"
   },
   {
    "time": " T+ 6:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Clonidine"
   },
@@ -44,13 +40,11 @@
   },
   {
    "time": " T+ 8:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": " T+ 8:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Gabapentin"
   },

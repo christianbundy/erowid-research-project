@@ -12,22 +12,21 @@
  "views": "25422",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "inhaled",
    "substance": "Inhalants - Nitrites",
    "form": ""

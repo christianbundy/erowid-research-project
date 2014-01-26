@@ -12,26 +12,25 @@
  "views": "13458",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 glass",
    "administration": "oral",
    "substance": "Alcohol - Hard"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Tobacco"
   }

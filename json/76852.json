@@ -12,35 +12,32 @@
  "views": "5640",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Clozapine ",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "300 ml",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis - Hash",

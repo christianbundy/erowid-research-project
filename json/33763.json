@@ -12,13 +12,12 @@
  "views": "14144",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Vitamins / Supplements"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " repeated",
    "substance": "inhaled"
@@ -36,7 +35,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"

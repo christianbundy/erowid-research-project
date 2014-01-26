@@ -12,15 +12,13 @@
  "views": "16991",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 1:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
@@ -33,8 +31,7 @@
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"

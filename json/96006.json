@@ -13,13 +13,12 @@
  "views": "3501",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": " ",
    "substance": "oral"
@@ -37,7 +36,7 @@
    "substance": " T+ 0:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "2C-P",
    "substance": "(powder / crystals)"
@@ -49,7 +48,7 @@
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 13:30",
    "administration": " repeated",
    "substance": "smoked"

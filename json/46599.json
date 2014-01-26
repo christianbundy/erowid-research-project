@@ -12,28 +12,27 @@
  "views": "22913",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Catuaba",
    "form": "(tea)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 g",
    "administration": "smoked",
    "substance": "Mandrake",
    "form": "(ground / crushed)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.1 g",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",

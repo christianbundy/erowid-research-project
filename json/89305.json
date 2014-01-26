@@ -13,13 +13,12 @@
  "views": "10953",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "2 hits",
    "substance": "smoked"
@@ -37,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""

@@ -12,13 +12,13 @@
  "views": "31953",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "30 g",
    "administration": "oral",
    "substance": "Cloves"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "7 joints/cigs",
    "substance": "smoked"
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "Alcohol - Hard",
    "substance": "(liquid)"

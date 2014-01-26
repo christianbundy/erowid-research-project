@@ -12,13 +12,13 @@
  "views": "22031",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": "30 mg",
    "substance": "oral"
@@ -36,7 +36,7 @@
    "substance": " T+ 0:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "insufflated",
    "administration": "Tobacco",
    "substance": ""
@@ -48,7 +48,7 @@
    "substance": "Modafinil"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 20:00",
    "administration": "2 mg",
    "substance": "oral"

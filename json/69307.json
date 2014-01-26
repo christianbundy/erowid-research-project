@@ -12,7 +12,7 @@
  "views": "28362",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "2C-E",
@@ -41,14 +41,12 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Absinthe",
    "form": "(liquid)"
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Various",
    "form": "(pill / tablet)"
@@ -69,14 +67,12 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Various",
    "form": "(pill / tablet)"
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(extract)"

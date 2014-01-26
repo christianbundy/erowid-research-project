@@ -12,50 +12,47 @@
  "views": "26590",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": " repeated",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Codeine",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Ephedrine",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Carisoprodol",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": ""
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "MDMA",
    "form": "(pill / tablet)"

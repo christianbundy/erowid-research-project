@@ -12,20 +12,18 @@
  "views": "19243",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1500 ug",
    "administration": "oral",
    "substance": "Bromo-Dragonfly"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Benzodiazepines"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "IV",
    "substance": "Pharms - Haloperidol"
   }

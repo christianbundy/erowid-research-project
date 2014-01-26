@@ -12,7 +12,7 @@
  "views": "10341",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Zolpidem",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"

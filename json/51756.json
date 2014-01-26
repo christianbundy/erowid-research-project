@@ -12,22 +12,21 @@
  "views": "12622",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "7.5 mg",
    "administration": "oral",
    "substance": "Pharms - Amitriptyline",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 line",
    "administration": "insufflated",
    "substance": "DPT",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

@@ -12,35 +12,34 @@
  "views": "22337",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Melatonin",

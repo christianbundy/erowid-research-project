@@ -12,7 +12,7 @@
  "views": "17499",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "35 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
@@ -55,7 +55,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(tea)"
@@ -69,7 +68,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

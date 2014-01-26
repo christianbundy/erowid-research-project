@@ -13,21 +13,21 @@
  "views": "10004",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Butalbital",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Acetaminophen",

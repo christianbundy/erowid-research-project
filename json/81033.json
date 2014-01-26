@@ -13,19 +13,17 @@
  "views": "12334",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Opium"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "100 mg",
    "administration": "smoked",
    "substance": "DMT"

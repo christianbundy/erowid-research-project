@@ -12,14 +12,13 @@
  "views": "5750",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 tsp",
    "administration": "smoked",
    "substance": "Syrian Rue",

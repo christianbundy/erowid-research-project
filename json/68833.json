@@ -12,22 +12,21 @@
  "views": "16771",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3600 mg",
    "administration": "oral",
    "substance": "Pharms - Metaxalone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "40 ug",
    "administration": "oral",
    "substance": "Pharms - Cyclobenzaprine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

@@ -12,13 +12,12 @@
  "views": "8279",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "30 mg",
    "substance": "oral"
@@ -36,7 +35,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "Valerian",
    "substance": ""

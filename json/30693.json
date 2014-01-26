@@ -12,21 +12,20 @@
  "views": "18855",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Olanzapine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "8 hits",
    "administration": "smoked",
    "substance": "Cannabis - Hash",

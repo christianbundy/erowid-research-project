@@ -12,8 +12,7 @@
  "views": "12281",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -37,7 +36,6 @@
   },
   {
    "time": " T+ 0:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   },
@@ -49,13 +47,11 @@
   },
   {
    "time": " T+ 1:45",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": " T+ 3:53",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -67,7 +63,6 @@
   },
   {
    "time": " T+ 6:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }

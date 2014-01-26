@@ -12,7 +12,7 @@
  "views": "5734",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "125 mg",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
@@ -34,14 +34,12 @@
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Cacti - T. pachanoi",
    "form": "(liquid)"
   },
   {
    "time": " T+ 8:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

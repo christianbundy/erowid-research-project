@@ -13,13 +13,13 @@
  "views": "1791",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:30",
    "administration": "150 mg",
    "substance": "oral"
@@ -49,7 +49,7 @@
    "substance": "4-Methylethcathinone"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 9:08",
    "administration": "60 mg",
    "substance": "insufflated"

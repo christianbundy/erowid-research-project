@@ -12,13 +12,13 @@
  "views": "30757",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "4-Fluoroamphetamine"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 2:40",
    "administration": " ",
    "substance": "smoked"
@@ -36,14 +36,13 @@
    "substance": " T+ 0:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "4-Fluoroamphetamine",
    "substance": ""
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "",
    "substance": "Pharms - Lamotrigine "
   }

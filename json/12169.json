@@ -12,7 +12,7 @@
  "views": "30058",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 tablets",
    "administration": "oral",
    "substance": "Codeine",
@@ -41,7 +41,6 @@
   },
   {
    "time": " T+ 4:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

@@ -12,14 +12,14 @@
  "views": "16448",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.25 mg",
    "administration": "sublingual",
    "substance": "Naloxone",

@@ -13,7 +13,7 @@
  "views": "6848",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Allylescaline",
@@ -70,7 +70,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

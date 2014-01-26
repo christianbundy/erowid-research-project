@@ -12,21 +12,20 @@
  "views": "24128",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Methamphetamine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "Pharms - Lithium",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Aripiprazole",

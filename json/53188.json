@@ -12,21 +12,20 @@
  "views": "22129",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4.5 mg",
    "administration": "oral",
    "substance": "Melatonin",

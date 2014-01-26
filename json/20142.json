@@ -12,7 +12,7 @@
  "views": "16464",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Salvia divinorum",
@@ -26,8 +26,7 @@
    "form": "(extract - 5x)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

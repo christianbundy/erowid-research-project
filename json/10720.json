@@ -12,22 +12,20 @@
  "views": "19635",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 tablets",
    "administration": "insufflated",
    "substance": "PMA",
    "form": "(ground / crushed)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

@@ -13,13 +13,13 @@
  "views": "1417",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "0.25 oz",
    "substance": "oral"
@@ -43,7 +43,7 @@
    "substance": "(cookie / food)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.125 oz",
    "administration": "oral",
    "substance": "Mushrooms"

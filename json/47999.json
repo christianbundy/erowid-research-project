@@ -12,7 +12,7 @@
  "views": "12881",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Vitamins / Supplements",
    "form": ""
@@ -55,7 +54,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "sublingual",
    "substance": "2C-C",
    "form": "(powder / crystals)"
@@ -69,21 +67,18 @@
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "2C-C",
    "form": "(powder / crystals)"
   },
   {
    "time": " T+ 2:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "",
    "substance": "Alcohol",
    "form": ""

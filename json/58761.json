@@ -12,21 +12,21 @@
  "views": "6618",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "6.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4.0 mg",
    "administration": "sublingual",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.0 mg",
    "administration": "sublingual",
    "substance": "Naloxone",

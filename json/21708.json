@@ -12,22 +12,20 @@
  "views": "35782",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Venlafaxine",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": ""
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(extract)"

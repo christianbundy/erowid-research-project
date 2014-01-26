@@ -12,14 +12,13 @@
  "views": "10099",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "21 mg",
    "administration": "oral",
    "substance": "Melatonin",

@@ -12,14 +12,14 @@
  "views": "22355",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Acetaminophen",

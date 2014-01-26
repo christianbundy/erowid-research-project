@@ -12,15 +12,13 @@
  "views": "30031",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Morphine",
    "form": "(pill / tablet)"

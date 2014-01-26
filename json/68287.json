@@ -12,7 +12,7 @@
  "views": "24684",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 0:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "GABA",
    "form": "(daily)"
@@ -34,7 +33,6 @@
   },
   {
    "time": " T+ 8:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "GABA",
    "form": "(daily)"
@@ -55,7 +53,6 @@
   },
   {
    "time": " T+ 14:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "GABA",
    "form": "(daily)"

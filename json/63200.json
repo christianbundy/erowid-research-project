@@ -12,14 +12,13 @@
  "views": "20911",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "12 g",
    "administration": "oral",
    "substance": "Chocolate",

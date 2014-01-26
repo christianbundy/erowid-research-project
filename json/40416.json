@@ -12,21 +12,21 @@
  "views": "16931",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
@@ -55,7 +55,6 @@
   },
   {
    "time": " T+ 5:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

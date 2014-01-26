@@ -13,38 +13,33 @@
  "views": "995",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 mg",
    "administration": "buccal",
    "substance": "25I-NBOMe"
   },
   {
    "time": " T+ 1:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco"
   },
   {
    "time": " T+ 1:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": " T+ 1:15",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco"
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   }

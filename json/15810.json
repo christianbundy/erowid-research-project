@@ -12,7 +12,7 @@
  "views": "71667",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "4.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
@@ -61,8 +61,7 @@
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Acetaminophen",
    "form": ""

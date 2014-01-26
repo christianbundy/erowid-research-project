@@ -13,13 +13,13 @@
  "views": "6029",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
@@ -37,7 +37,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "Amanitas - A. muscaria",
    "substance": "(dried)"

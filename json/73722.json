@@ -12,14 +12,14 @@
  "views": "21034",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "9.0 mg",
    "administration": "transdermal",
    "substance": "Pharms - Selegeline",
    "form": "(patch)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.5 g",
    "administration": "oral",
    "substance": "Phenylalanine",

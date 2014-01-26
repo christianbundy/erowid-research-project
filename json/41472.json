@@ -12,7 +12,7 @@
  "views": "2224",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1.75 g",
    "administration": "oral",
    "substance": "Mushrooms",
@@ -20,21 +20,18 @@
   },
   {
    "time": " T+ 0:10",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 4:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

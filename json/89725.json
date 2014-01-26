@@ -13,21 +13,20 @@
  "views": "8212",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "8 mg",
    "administration": "oral",
    "substance": "5-MeO-DiPT",

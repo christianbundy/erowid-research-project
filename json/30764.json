@@ -12,7 +12,7 @@
  "views": "12238",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "4-Acetoxy-DiPT",
@@ -33,8 +33,7 @@
    "form": "(capsule)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -48,14 +47,12 @@
   },
   {
    "time": " T+ 14:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

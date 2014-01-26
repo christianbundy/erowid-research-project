@@ -13,12 +13,11 @@
  "dose": [
   {
    "time": "DOSE: T+ 4:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": "35 mg",
    "substance": "oral"

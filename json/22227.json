@@ -12,13 +12,13 @@
  "views": "492",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "55 mg",
    "administration": "oral",
    "substance": "AMT"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": " hits",
    "substance": ""
@@ -30,7 +30,7 @@
    "substance": " tablets"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "Pharms - Diazepam",
    "administration": "(pill / tablet)",
    "substance": " T+ 4:00"

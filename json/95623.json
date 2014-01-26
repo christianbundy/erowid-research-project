@@ -13,15 +13,13 @@
  "views": "1646",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Amphetamines",
    "form": "(daily)"
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "",
    "substance": "Tryptophan - 5-HTP",
    "form": "(daily)"
@@ -35,7 +33,6 @@
   },
   {
    "time": " T+ 0:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

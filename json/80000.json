@@ -12,21 +12,21 @@
  "views": "13266",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "30 ml",
    "administration": "",
    "substance": "Morphine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "260 mg",
    "administration": "IV",
    "substance": "Ketamine",

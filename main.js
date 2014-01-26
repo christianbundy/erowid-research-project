@@ -2,9 +2,10 @@ var fs = require('graceful-fs'); // Queues fs.readFile()
 var dive = require('dive');      // Recursive dir walking
 
 var main = function(experience) {
-	console.log(experience.id);
-	experience.dose = experience.dosage;
-	delete experience.dosage;
+	//console.log(experience.id);
+	if (experience.dose === []) {
+		delete experience.dose;
+	}
 	return experience;
 }
 

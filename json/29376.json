@@ -11,21 +11,19 @@
  "views": "15116",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "250 mg",
    "administration": "insufflated",
    "substance": "DiPT",

@@ -12,7 +12,7 @@
  "views": "38085",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
@@ -41,7 +41,6 @@
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "5-MeO-DMT",
    "form": "(powder / crystals)"

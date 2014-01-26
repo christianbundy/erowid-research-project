@@ -12,15 +12,14 @@
  "views": "21681",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue",
    "form": "(extract)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -40,7 +39,7 @@
    "form": "(extract)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "11 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -54,7 +53,7 @@
    "form": "(extract)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "6.0 g",
    "administration": "oral",
    "substance": "Mimosa tenuiflora",
@@ -68,8 +67,7 @@
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

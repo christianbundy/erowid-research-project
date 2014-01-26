@@ -13,21 +13,20 @@
  "views": "1013",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "300 mg",
    "administration": "oral",
    "substance": "BK-2C-B",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",

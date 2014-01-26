@@ -12,7 +12,7 @@
  "views": "17452",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "TMA-2",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

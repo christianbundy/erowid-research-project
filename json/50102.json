@@ -12,14 +12,13 @@
  "views": "12266",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "900 mg",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",

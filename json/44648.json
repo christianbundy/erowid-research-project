@@ -12,14 +12,13 @@
  "views": "24216",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "700 mg",
    "administration": "oral",
    "substance": "Pharms - Amitriptyline",

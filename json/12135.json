@@ -12,15 +12,14 @@
  "views": "36245",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Acetaminophen",
    "form": ""

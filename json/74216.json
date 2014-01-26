@@ -12,13 +12,12 @@
  "views": "18307",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Opiates"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": "oral"
@@ -42,7 +41,7 @@
    "substance": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline"

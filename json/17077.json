@@ -12,20 +12,18 @@
  "views": "25285",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "AMT"
   },
   {
    "time": " T+ 5:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
    "time": " T+ 14:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "GBL"
   }

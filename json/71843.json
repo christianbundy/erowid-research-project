@@ -12,13 +12,13 @@
  "views": "6795",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": "1 tablet",
    "substance": "oral"
@@ -43,7 +43,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes"
   }

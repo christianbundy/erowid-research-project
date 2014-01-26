@@ -12,13 +12,13 @@
  "views": "19062",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "3.4 g",
    "administration": "oral",
    "substance": "GHB"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 3:30",
    "administration": "1 cup",
    "substance": "oral"
@@ -48,7 +48,7 @@
    "substance": "Unknown"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 5:00",
    "administration": "30 mg",
    "substance": "oral"
@@ -78,7 +78,7 @@
    "substance": "4-Methylmethcathinone"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 7:52",
    "administration": "50 mg",
    "substance": "oral"

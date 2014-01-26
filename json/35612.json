@@ -12,7 +12,7 @@
  "views": "35836",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Amphetamines",
@@ -41,7 +41,6 @@
   },
   {
    "time": " T+ 38:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
@@ -55,7 +54,6 @@
   },
   {
    "time": " T+ 38:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Pharms - Albuterol",
    "form": ""

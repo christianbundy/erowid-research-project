@@ -12,22 +12,21 @@
  "views": "10577",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "3.5 g",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -40,7 +39,7 @@
    "form": "(blotter / tab)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
@@ -48,13 +47,12 @@
   },
   {
    "time": " T+ 5:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 hit",
    "administration": "oral",
    "substance": "LSD",
@@ -62,21 +60,18 @@
   },
   {
    "time": " T+ 10:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 13:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Opium",
    "form": ""

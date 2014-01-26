@@ -12,22 +12,21 @@
  "views": "55315",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 ",
    "administration": "insufflated",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "8 ",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "IV",
    "substance": "Naloxone",
    "form": ""

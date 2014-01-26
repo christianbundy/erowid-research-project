@@ -12,20 +12,18 @@
  "views": "20211",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2.5 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol"
   }

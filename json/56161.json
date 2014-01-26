@@ -12,14 +12,13 @@
  "views": "8192",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Datura",
    "form": "(seeds)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 joints/cigs",
    "administration": "smoked",
    "substance": "Datura",

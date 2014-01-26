@@ -12,7 +12,7 @@
  "views": "12971",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Tabernanthe iboga",
@@ -48,7 +48,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Leonotis leonurus",
    "form": ""

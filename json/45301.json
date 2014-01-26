@@ -12,7 +12,7 @@
  "views": "16891",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "7.0 g",
    "administration": "oral",
    "substance": "Amanitas",
@@ -34,21 +34,18 @@
   },
   {
    "time": " T+ 5:10",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(leaves)"
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": ""
   },
   {
    "time": " T+ 8:45",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Calea zacatechichi",
    "form": ""

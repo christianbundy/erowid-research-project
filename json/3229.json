@@ -12,15 +12,14 @@
  "views": "33311",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Acetaminophen",
    "form": ""

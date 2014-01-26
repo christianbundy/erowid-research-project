@@ -12,21 +12,20 @@
  "views": "36128",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "400 mg",
    "administration": "oral",
    "substance": "Pharms - Tramadol",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Acetaminophen",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Codeine",

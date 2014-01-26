@@ -13,42 +13,37 @@
  "views": "55947",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Aconitum napellus",
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Datura",
    "form": "(extract)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Mandrake",
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Poppies - Opium",
    "form": "(tar / resin)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Cannabis",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",

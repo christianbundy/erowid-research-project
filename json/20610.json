@@ -12,7 +12,7 @@
  "views": "22476",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Cannabis - Hash",
@@ -40,14 +40,14 @@
    "form": "(capsule)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.5 mg",
    "administration": "oral",
    "substance": "DOB",
    "form": "(capsule)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Vitamin C",
@@ -61,7 +61,7 @@
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.25 tablets",
    "administration": "insufflated",
    "substance": "MDMA",

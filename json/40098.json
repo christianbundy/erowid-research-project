@@ -11,13 +11,12 @@
  "views": "37231",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": "oral"
@@ -29,13 +28,13 @@
    "substance": " "
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "Cannabis",
    "administration": "",
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "insufflated",
    "administration": "Ketamine",
    "substance": "(powder / crystals)"

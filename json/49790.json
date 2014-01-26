@@ -12,35 +12,34 @@
  "views": "11641",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Yerba Mate",
    "form": "(tea)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Bupropion",

@@ -12,21 +12,20 @@
  "views": "30460",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4.0 mg",
    "administration": "smoked",
    "substance": "Hydrocodone",
    "form": "(extract)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Cannabis",

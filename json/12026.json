@@ -12,22 +12,20 @@
  "views": "14080",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "25 g",
    "administration": "oral",
    "substance": "Calamus",
    "form": "(tea)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Paroxetine",
    "form": "(daily)"

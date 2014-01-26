@@ -13,13 +13,12 @@
  "views": "1668",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:10",
    "administration": "1 ",
    "substance": "oral"
@@ -44,12 +43,11 @@
   },
   {
    "time": " T+ 1:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 1:45",
    "administration": "150 mg",
    "substance": "insufflated"
@@ -67,7 +65,7 @@
    "substance": " T+ 2:20"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""

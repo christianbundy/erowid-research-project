@@ -12,7 +12,7 @@
  "views": "17734",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "65 mg",
    "administration": "oral",
    "substance": "AMT",
@@ -20,14 +20,12 @@
   },
   {
    "time": " T+ 1:30",
-   "amount": " ",
    "administration": "",
    "substance": "Kratom",
    "form": ""
   },
   {
    "time": " T+ 2:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
@@ -41,7 +39,6 @@
   },
   {
    "time": " T+ 7:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

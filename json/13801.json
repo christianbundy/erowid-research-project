@@ -12,14 +12,13 @@
  "views": "21106",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "100 mg",
    "administration": "insufflated",
    "substance": "DPT",

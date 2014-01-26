@@ -12,22 +12,20 @@
  "views": "1276",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

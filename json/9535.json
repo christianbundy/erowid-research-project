@@ -12,21 +12,21 @@
  "views": "53262",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Pharms - Bupropion",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "Amphetamines",
    "form": "(ground / crushed)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "7.5 mg",
    "administration": "insufflated",
    "substance": "Hydrocodone",

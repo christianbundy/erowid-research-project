@@ -12,28 +12,27 @@
  "views": "4711",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 ",
    "administration": "oral",
    "substance": "Cannabis - Hash",
    "form": "(cookie / food)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4 caps",
    "administration": "oral",
    "substance": "Mushrooms",
    "form": "(fresh)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "20 caps",
    "administration": "oral",
    "substance": "Mushrooms",

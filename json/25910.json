@@ -12,29 +12,26 @@
  "views": "14731",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "40 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "DPT",
    "form": "(freebase)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "DiPT",
    "form": "(freebase)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(freebase)"

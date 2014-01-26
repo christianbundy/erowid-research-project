@@ -12,13 +12,13 @@
  "views": "85502",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3 tablets",
    "administration": "oral",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "2 glasses",
    "substance": "oral"
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "",
    "administration": "Pharms - Bupropion",
    "substance": "(daily)"

@@ -13,15 +13,14 @@
  "views": "1672",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2.6 mg",
    "administration": "oral",
    "substance": "DOB",
    "form": "(blotter / tab)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"

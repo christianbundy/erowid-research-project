@@ -13,14 +13,12 @@
  "views": "17745",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "insufflated",
    "substance": "bk-MBDB"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "IV",
    "substance": "bk-MBDB"
   }

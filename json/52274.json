@@ -12,14 +12,13 @@
  "views": "15430",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "SSRIs",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Pharms - Tramadol",

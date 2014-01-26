@@ -12,14 +12,14 @@
  "views": "35344",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Acetaminophen",

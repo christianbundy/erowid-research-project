@@ -12,14 +12,14 @@
  "views": "11226",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "15 seeds",
    "administration": "oral",
    "substance": "H.B. Woodrose",
    "form": "(ground / crushed)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "500 mg",
    "administration": "oral",
    "substance": "Vitamin C",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 10:59",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""

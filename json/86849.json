@@ -13,14 +13,14 @@
  "views": "389",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "PMA",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Hydrocodone",

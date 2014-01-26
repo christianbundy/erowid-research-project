@@ -12,21 +12,20 @@
  "views": "4608",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",

@@ -13,22 +13,21 @@
  "views": "7214",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "30 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "350 mg",
    "administration": "oral",
    "substance": "Clozapine ",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(daily)"

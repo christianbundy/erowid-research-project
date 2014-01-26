@@ -13,15 +13,14 @@
  "views": "6083",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "30 ml",
    "administration": "oral",
    "substance": "TMA-2",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"

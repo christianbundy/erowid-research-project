@@ -13,13 +13,13 @@
  "views": "2274",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "15 mg",
    "administration": "insufflated",
    "substance": "Methoxetamine "
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": " ",
    "substance": "smoked"
@@ -31,25 +31,24 @@
    "substance": "2.5 mg"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "25I-NBOMe",
    "administration": "(blotter / tab)",
    "substance": " T+ 1:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   },
   {
    "time": " T+ 1:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 1:45",
    "administration": "1 tablet",
    "substance": "oral"

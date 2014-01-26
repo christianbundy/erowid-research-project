@@ -12,28 +12,28 @@
  "views": "12250",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "10 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.5 g",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "Pharms - Quetiapine",

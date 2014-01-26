@@ -12,21 +12,20 @@
  "views": "28115",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4 ",
    "administration": "oral",
    "substance": "Ginseng",

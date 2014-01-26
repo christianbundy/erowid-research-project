@@ -12,7 +12,7 @@
  "views": "698",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 hit",
    "administration": "buccal",
    "substance": "25I-NBOMe",
@@ -20,14 +20,12 @@
   },
   {
    "time": " T+ 2:45",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
   {
    "time": " T+ 24:00",
-   "amount": " ",
    "administration": "",
    "substance": "25I-NBOMe",
    "form": ""
@@ -41,7 +39,6 @@
   },
   {
    "time": " T+ 24:00",
-   "amount": " ",
    "administration": "",
    "substance": "Cannabis",
    "form": ""

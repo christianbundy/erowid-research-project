@@ -13,7 +13,7 @@
  "views": "2394",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
@@ -28,7 +28,6 @@
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "",
    "substance": "Alcohol",
    "form": ""

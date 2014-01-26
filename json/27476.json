@@ -12,13 +12,13 @@
  "views": "22710",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "20 seeds",
    "administration": "oral",
    "substance": "Morning Glory"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "0.5 caps",
    "substance": "oral"
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Sceletium tortuosum",
    "substance": "(ground / crushed)"

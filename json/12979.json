@@ -12,21 +12,21 @@
  "views": "7693",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "20 mg",
    "administration": "smoked",
    "substance": "MDMA",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "10 mg",
    "administration": "smoked",
    "substance": "5-MeO-DiPT",
    "form": "(freebase)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
@@ -40,7 +40,7 @@
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "MDMA",

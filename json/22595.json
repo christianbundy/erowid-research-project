@@ -12,20 +12,18 @@
  "views": "15018",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "Mushrooms"
   },
   {
    "time": " T+ 0:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": " T+ 1:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
@@ -37,7 +35,6 @@
   },
   {
    "time": " T+ 4:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   }

@@ -12,13 +12,12 @@
  "views": "8249",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "insufflated",
    "substance": "Hydrocodone"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "4 glasses",
    "substance": "oral"
@@ -42,7 +41,7 @@
    "substance": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "34 mg",
    "administration": "oral",
    "substance": "Chlorpheniramine Maleate"

@@ -12,7 +12,7 @@
  "views": "15141",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Unknown",
@@ -20,21 +20,18 @@
   },
   {
    "time": " T+ 0:30",
-   "amount": " ",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
   {
    "time": " T+ 4:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
   {
    "time": " T+ 15:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"

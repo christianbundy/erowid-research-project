@@ -12,13 +12,13 @@
  "views": "30859",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Tobacco"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "6 caps",
    "substance": "oral"
@@ -42,7 +42,7 @@
    "substance": "(tea)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "50 leaves",
    "administration": "oral",
    "substance": "Passion Flower"

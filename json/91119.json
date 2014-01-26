@@ -13,22 +13,20 @@
  "views": "11610",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Pharms - Propylhexedrine",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "",
    "substance": "4-Fluoroamphetamine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Poppies - Opium",
    "form": "(tea)"

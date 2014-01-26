@@ -13,7 +13,7 @@
  "views": "1005",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "6-APB",
@@ -21,14 +21,12 @@
   },
   {
    "time": " T+ 4:10",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
   },
   {
    "time": " T+ 4:10",
-   "amount": " ",
    "administration": "smoked",
    "substance": "5-MeO-DALT",
    "form": ""

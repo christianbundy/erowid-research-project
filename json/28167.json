@@ -12,7 +12,7 @@
  "views": "7580",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "4.0 mg",
    "administration": "insufflated",
    "substance": "2C-I",
@@ -20,27 +20,24 @@
   },
   {
    "time": " T+ 1:30",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Cannabis",
    "form": ""
   },
   {
    "time": " T+ 3:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Cannabis",
    "form": ""
   },
   {
    "time": " T+ 5:30",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Cannabis",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "8 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",

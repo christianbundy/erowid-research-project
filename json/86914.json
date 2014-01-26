@@ -13,7 +13,7 @@
  "views": "11800",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "250 mg",
    "administration": "oral",
    "substance": "Methylone",
@@ -21,14 +21,12 @@
   },
   {
    "time": " T+ 2:27",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 4:58",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -42,35 +40,30 @@
   },
   {
    "time": " T+ 10:14",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 11:05",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 12:22",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 22:26",
-   "amount": " ",
    "administration": "oral",
    "substance": "Pharms - Trazodone",
    "form": "(pill / tablet)"
   },
   {
    "time": " T+ 22:51",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

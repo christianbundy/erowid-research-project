@@ -12,14 +12,13 @@
  "views": "22220",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Sertraline",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1600 mg",
    "administration": "oral",
    "substance": "Caffeine",

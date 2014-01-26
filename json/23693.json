@@ -12,29 +12,26 @@
  "views": "23592",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1.0 ml",
    "administration": "oral",
    "substance": "GBL",
    "form": "(capsule)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Diphenhydramine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""

@@ -11,13 +11,13 @@
  "views": "8077",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " repeated",
    "substance": "smoked"
@@ -35,13 +35,13 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Amanitas - A. muscaria",
    "substance": "(dried)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.35 g",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis"

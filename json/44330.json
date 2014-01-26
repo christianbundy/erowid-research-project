@@ -12,14 +12,14 @@
  "views": "23012",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "10 mg",
    "administration": "oral",
    "substance": "Pharms - Oxycodone",
    "form": "(daily)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "525 mg",
    "administration": "oral",
    "substance": "Acetaminophen",

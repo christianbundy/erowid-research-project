@@ -12,14 +12,13 @@
  "views": "7294",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "IV",
    "substance": "Pharms - Lorazepam",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1000 mg",
    "administration": "IV",
    "substance": "Pharms - Phenytoin",

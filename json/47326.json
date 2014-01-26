@@ -12,13 +12,12 @@
  "views": "5000",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Pedicularis spp."
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:55",
    "administration": "7.5 g",
    "substance": "oral"

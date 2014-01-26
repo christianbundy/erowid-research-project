@@ -13,13 +13,12 @@
  "views": "7143",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Tea"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "100 mg",
    "administration": "oral",
    "substance": "Modafinil"

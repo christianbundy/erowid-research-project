@@ -13,21 +13,19 @@
  "views": "3910",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "8 ",
    "administration": "oral",
    "substance": "Mushrooms - P. cubensis",

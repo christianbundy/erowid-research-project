@@ -12,7 +12,7 @@
  "views": "19849",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "5.0 ml",
    "administration": "oral",
    "substance": "GBL",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Wormwood",
    "form": "(extract)"

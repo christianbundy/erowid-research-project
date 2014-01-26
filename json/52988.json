@@ -12,43 +12,41 @@
  "views": "15824",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3.2 mg",
    "administration": "oral",
    "substance": "DOC",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "900 mg",
    "administration": "oral",
    "substance": "Piracetam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4.5 mg",
    "administration": "oral",
    "substance": "Hydergine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Kratom",
    "form": ""

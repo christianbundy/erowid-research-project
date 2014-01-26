@@ -12,13 +12,12 @@
  "views": "3103",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": ""
@@ -30,7 +29,7 @@
    "substance": " "
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "Mushrooms",
    "administration": "",
    "substance": ""

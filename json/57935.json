@@ -12,28 +12,28 @@
  "views": "20423",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "5 glasses",
    "administration": "oral",
    "substance": "Alcohol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.0 g",
    "administration": "insufflated",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1.0 g",
    "administration": "smoked",
    "substance": "Cannabis",

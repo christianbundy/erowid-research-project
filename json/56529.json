@@ -12,7 +12,7 @@
  "views": "24299",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "",
    "substance": "Pharms - Quetiapine",
    "form": "(daily)"

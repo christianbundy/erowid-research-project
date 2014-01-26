@@ -12,13 +12,12 @@
  "views": "34789",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "LSD"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": "oral"
@@ -36,7 +35,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "insufflated",
    "administration": "Methamphetamine",
    "substance": "(powder / crystals)"

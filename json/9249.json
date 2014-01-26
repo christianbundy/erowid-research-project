@@ -12,14 +12,14 @@
  "views": "15205",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "AMT",
    "form": "(capsule)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "DPT",

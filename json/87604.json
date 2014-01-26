@@ -13,14 +13,13 @@
  "views": "9341",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Cannabis",
    "form": "(cookie / food)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "28 mg",
    "administration": "oral",
    "substance": "AMT",

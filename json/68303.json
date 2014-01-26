@@ -12,7 +12,7 @@
  "views": "24248",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 ",
    "administration": "oral",
    "substance": "2C-B",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 1:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -34,7 +33,6 @@
   },
   {
    "time": " T+ 5:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

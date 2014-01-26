@@ -12,13 +12,13 @@
  "views": "8017",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "3.0 g",
    "administration": "oral",
    "substance": "Syrian Rue"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:30",
    "administration": "0.5 g",
    "substance": "oral"
@@ -36,7 +36,7 @@
    "substance": " T+ 2:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "oral",
    "administration": "Psychotria viridis",
    "substance": "(tea)"

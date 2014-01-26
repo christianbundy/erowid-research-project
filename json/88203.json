@@ -13,13 +13,12 @@
  "views": "24823",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "MAOI"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:30",
    "administration": "250 mg",
    "substance": "oral"

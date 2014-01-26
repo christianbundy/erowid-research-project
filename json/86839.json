@@ -13,22 +13,21 @@
  "views": "4223",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 mg",
    "administration": "buccal",
    "substance": "Pharms - Buprenorphine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": ".5 mg",
    "administration": "buccal",
    "substance": "Naloxone",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Pharms - Quetiapine",
    "form": ""

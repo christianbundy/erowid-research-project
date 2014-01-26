@@ -12,7 +12,7 @@
  "views": "16722",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1.0 mg",
    "administration": "oral",
    "substance": "5-MeO-AMT",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 15:00",
-   "amount": " ",
    "administration": "",
    "substance": "Cocaine",
    "form": "(powder / crystals)"
@@ -62,7 +61,6 @@
   },
   {
    "time": " T+ 110:40",
-   "amount": " ",
    "administration": "oral",
    "substance": "5-MeO-AMT",
    "form": "(powder / crystals)"
@@ -75,7 +73,7 @@
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "insufflated",
    "substance": "Cocaine",

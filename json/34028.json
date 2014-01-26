@@ -11,13 +11,12 @@
  "views": "21957",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Methadone"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1000 mg",
    "administration": "oral",
    "substance": "Modafinil"

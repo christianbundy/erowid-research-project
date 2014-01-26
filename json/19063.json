@@ -12,21 +12,20 @@
  "views": "20538",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Heimia salicifolia",
    "form": "(dried)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "15 mg",
    "administration": "smoked",
    "substance": "Sceletium tortuosum",
    "form": "(dried)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "15 mg",
    "administration": "oral",
    "substance": "Sceletium tortuosum",
@@ -40,36 +39,31 @@
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   },
   {
    "time": " T+ 1:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Caffeine",
    "form": "(tea)"
   },
   {
    "time": " T+ 2:30",
-   "amount": " ",
    "administration": "",
    "substance": "Valerian",
    "form": "(tea)"
@@ -82,8 +76,7 @@
    "form": "(dried)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "form": "(dried)"

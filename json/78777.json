@@ -12,13 +12,12 @@
  "views": "3528",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "2 hits",
    "substance": "oral"
@@ -36,7 +35,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""

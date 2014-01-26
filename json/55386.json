@@ -12,13 +12,13 @@
  "views": "29730",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "1 line",
    "substance": "insufflated"
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "inhaled",
    "administration": "Nitrous Oxide",
    "substance": "(gas)"

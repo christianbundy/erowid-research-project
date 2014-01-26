@@ -12,28 +12,26 @@
  "views": "13293",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2 drops",
    "administration": "oral",
    "substance": "LSD",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2 bowls",
    "administration": "smoked",
    "substance": "Salvia divinorum",

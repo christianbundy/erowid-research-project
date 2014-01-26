@@ -12,13 +12,12 @@
  "views": "10603",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": "200 mg",
    "substance": "oral"
@@ -66,19 +65,18 @@
    "substance": " T+ 0:00"
   },
   {
-   "time": " ",
+   "time": "0",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 0:00",
    "administration": " ",
    "substance": ""

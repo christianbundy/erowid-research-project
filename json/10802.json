@@ -12,21 +12,20 @@
  "views": "9567",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "3 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "40 mg",
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",

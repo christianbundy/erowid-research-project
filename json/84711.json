@@ -13,7 +13,7 @@
  "views": "4983",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "5 g",
    "administration": "oral",
    "substance": "Mushrooms",
@@ -28,35 +28,30 @@
   },
   {
    "time": " T+ 0:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 0:15",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
   {
    "time": " T+ 2:30",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
   },
   {
    "time": " T+ 3:45",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 3:45",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"

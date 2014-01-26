@@ -12,7 +12,7 @@
  "views": "19704",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "5.0 mg",
    "administration": "oral",
    "substance": "Pharms - Citalopram",
@@ -41,7 +41,6 @@
   },
   {
    "time": " T+ 4:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

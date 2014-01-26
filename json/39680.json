@@ -12,14 +12,14 @@
  "views": "15289",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 cups",
    "administration": "oral",
    "substance": "Calea zacatechichi",
    "form": "(tea)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 bowl",
    "administration": "smoked",
    "substance": "Calea zacatechichi",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 0:05",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": "(plant material)"

@@ -13,7 +13,7 @@
  "views": "4426",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "200 mg",
    "administration": "oral",
    "substance": "Pharms - Lamotrigine ",
@@ -28,7 +28,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(dried)"
@@ -49,7 +48,6 @@
   },
   {
    "time": " T+ 2:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(dried)"
@@ -63,7 +61,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "insufflated",
    "substance": "4-Methylmethcathinone",
    "form": "(powder / crystals)"
@@ -84,7 +81,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco",
    "form": ""

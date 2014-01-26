@@ -12,15 +12,14 @@
  "views": "20010",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2 hits",
    "administration": "sublingual",
    "substance": "LSD",
    "form": "(blotter / tab)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
@@ -33,8 +32,7 @@
    "form": "(blotter / tab)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

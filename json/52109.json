@@ -12,29 +12,28 @@
  "views": "10232",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2758 mg",
    "administration": "oral",
    "substance": "Valerian",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "258 mg",
    "administration": "oral",
    "substance": "Catnip",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "Hops",
    "form": ""
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"

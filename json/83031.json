@@ -13,22 +13,21 @@
  "views": "6985",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "150 mg",
    "administration": "insufflated",
    "substance": "Dimethocaine",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "150 mg",
    "administration": "IV",
    "substance": "Dimethocaine",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(liquid)"

@@ -12,7 +12,7 @@
  "views": "47059",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Pharms - Clonazepam",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 10:00",
-   "amount": " ",
    "administration": "IV",
    "substance": "Heroin",
    "form": "(powder / crystals)"

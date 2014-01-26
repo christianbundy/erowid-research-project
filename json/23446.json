@@ -12,29 +12,27 @@
  "views": "11298",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1 tablet",
    "administration": "oral",
    "substance": "Amphetamines",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "4 shots",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Opium",
    "form": "(tar / resin)"

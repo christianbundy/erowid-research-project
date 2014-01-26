@@ -12,21 +12,21 @@
  "views": "12190",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1.0 g",
    "administration": "oral",
    "substance": "Vitamin C",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "60 mg",
    "administration": "oral",
    "substance": "Vitamin B-6",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",
@@ -41,7 +41,6 @@
   },
   {
    "time": " T+ 1:30",
-   "amount": " ",
    "administration": "oral",
    "substance": "MDMA",
    "form": "(pill / tablet)"
@@ -61,7 +60,7 @@
    "form": "(capsule)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "150 mg",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP",

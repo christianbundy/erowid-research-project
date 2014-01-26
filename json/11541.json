@@ -11,15 +11,14 @@
  "views": "18150",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1600 mg",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"

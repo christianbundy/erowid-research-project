@@ -12,7 +12,7 @@
  "views": "29057",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "0.5 hits",
    "administration": "oral",
    "substance": "LSD",
@@ -33,22 +33,19 @@
    "form": "(blotter / tab)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""
   },
   {
    "time": " T+ 9:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 9:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "MDMA",
    "form": "(pill / tablet)"

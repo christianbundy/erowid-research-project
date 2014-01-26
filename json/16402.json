@@ -12,7 +12,7 @@
  "views": "4128",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "3.0 mg",
    "administration": "insufflated",
    "substance": "5-MeO-DiPT",
@@ -34,14 +34,12 @@
   },
   {
    "time": " T+ 3:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
    "time": " T+ 3:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": ""

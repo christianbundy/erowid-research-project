@@ -12,7 +12,7 @@
  "views": "22457",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2.3 g",
    "administration": "oral",
    "substance": "Syrian Rue",
@@ -26,15 +26,13 @@
    "form": "(tea)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Pharmaceuticals",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Pharms - Risperidone",
    "form": "(daily)"

@@ -12,29 +12,25 @@
  "views": "16282",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Fluoxetine",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Coffee",
    "form": "(daily)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Gabapentin",
    "form": "(daily)"

@@ -12,22 +12,21 @@
  "views": "14393",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "25 mg",
    "administration": "oral",
    "substance": "Morphine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "20 mg",
    "administration": "oral",
    "substance": "Pharms - Diazepam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "transdermal",
    "substance": "Pharms - Fentanyl",
    "form": "(patch)"

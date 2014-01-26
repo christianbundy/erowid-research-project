@@ -12,7 +12,7 @@
  "views": "26944",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "130 mg",
    "administration": "oral",
    "substance": "AET",
@@ -34,7 +34,6 @@
   },
   {
    "time": " T+ 3:45",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
@@ -48,7 +47,6 @@
   },
   {
    "time": " T+ 6:30",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"
@@ -62,7 +60,6 @@
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis - Hash",
    "form": "(tar / resin)"

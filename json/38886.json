@@ -12,21 +12,20 @@
  "views": "28251",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "2.0 mg",
    "administration": "oral",
    "substance": "Melatonin",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Doxylamine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 cup",
    "administration": "oral",
    "substance": "Coffee",

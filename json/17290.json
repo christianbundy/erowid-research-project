@@ -12,22 +12,21 @@
  "views": "19911",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "1.5 ml",
    "administration": "oral",
    "substance": "1,4-Butanediol",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "2.0 g",
    "administration": "oral",
    "substance": "GHB",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Vitamins / Supplements",
    "form": "(daily)"

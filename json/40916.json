@@ -12,28 +12,27 @@
  "views": "12151",
  "dose": [
   {
-   "time": "DOSE:",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 cig.",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "10 tablets",
    "administration": "oral",
    "substance": "Dimenhydrinate",
    "form": ""
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "3 leaves",
    "administration": "oral",
    "substance": "Datura",

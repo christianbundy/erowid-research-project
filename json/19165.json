@@ -12,14 +12,14 @@
  "views": "54184",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "16 mg",
    "administration": "oral",
    "substance": "2C-E",
    "form": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 hit",
    "administration": "smoked",
    "substance": "Cannabis",
@@ -27,7 +27,6 @@
   },
   {
    "time": " T+ 5:40",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

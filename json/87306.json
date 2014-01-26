@@ -13,8 +13,7 @@
  "views": "1028",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "",
    "substance": "Pharms - Ziprasidone",
    "form": "(daily)"
@@ -42,14 +41,12 @@
   },
   {
    "time": " T+ 3:46",
-   "amount": " ",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
   },
   {
    "time": " T+ 4:41",
-   "amount": " ",
    "administration": "oral",
    "substance": "Methylone",
    "form": "(liquid)"
@@ -63,14 +60,12 @@
   },
   {
    "time": " T+ 10:19",
-   "amount": " ",
    "administration": "oral",
    "substance": "Methylone",
    "form": ""
   },
   {
    "time": " T+ 11:18",
-   "amount": " ",
    "administration": "",
    "substance": "Nitrous Oxide",
    "form": "(gas)"

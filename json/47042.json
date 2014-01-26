@@ -12,7 +12,7 @@
  "views": "14037",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "50 mg",
    "administration": "oral",
    "substance": "DiPT",
@@ -20,14 +20,12 @@
   },
   {
    "time": " T+ 2:10",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"
   },
   {
    "time": " T+ 3:25",
-   "amount": " ",
    "administration": "oral",
    "substance": "Kratom",
    "form": "(tea)"

@@ -12,14 +12,14 @@
  "views": "11200",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "120 mg",
    "administration": "oral",
    "substance": "Codeine",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1200 mg",
    "administration": "oral",
    "substance": "Acetaminophen",

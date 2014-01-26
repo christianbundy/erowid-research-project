@@ -12,7 +12,7 @@
  "views": "18815",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "4 Tbsp",
    "administration": "oral",
    "substance": "Kratom",
@@ -20,14 +20,12 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""
   },
   {
    "time": " T+ 0:15",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": ""
@@ -41,7 +39,6 @@
   },
   {
    "time": " T+ 0:00",
-   "amount": " ",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": ""

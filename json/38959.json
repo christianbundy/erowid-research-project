@@ -12,22 +12,21 @@
  "views": "14863",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "4 tablets",
    "administration": "oral",
    "substance": "Pharms - Alprazolam",
    "form": "(pill / tablet)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "6 glasses",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
-   "time": "",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Pharms - Escitalopram",
    "form": "(daily)"

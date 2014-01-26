@@ -12,7 +12,7 @@
  "views": "22647",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "250 ug",
    "administration": "sublingual",
    "substance": "Bromo-Dragonfly",
@@ -20,7 +20,6 @@
   },
   {
    "time": " T+ 3:30",
-   "amount": " ",
    "administration": "inhaled",
    "substance": "Nitrous Oxide",
    "form": "(gas)"
@@ -83,7 +82,6 @@
   },
   {
    "time": " T+ 15:30",
-   "amount": " ",
    "administration": "",
    "substance": "Ketamine",
    "form": ""

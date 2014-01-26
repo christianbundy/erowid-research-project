@@ -12,31 +12,31 @@
  "views": "49627",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "1 capsl",
    "administration": "oral",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 capsls",
    "administration": "insufflated",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "0.5 capsls",
    "administration": "",
    "substance": "MDMA"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Vitamin C"
@@ -48,7 +48,7 @@
    "substance": "Pharms - Paroxetine"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " repeated",
    "administration": "oral",
    "substance": "Tryptophan - 5-HTP"

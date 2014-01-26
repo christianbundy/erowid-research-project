@@ -12,13 +12,13 @@
  "views": "18522",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
+   "time": "0",
    "amount": "2 hits",
    "administration": "oral",
    "substance": "LSD"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": " ",
    "substance": "smoked"
@@ -43,12 +43,11 @@
   },
   {
    "time": " T+ 7:00",
-   "amount": " ",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": " T+ 9:00",
    "administration": "100 mg",
    "substance": "oral"

@@ -12,15 +12,13 @@
  "views": "1091",
  "dose": [
   {
-   "time": "DOSE: T+ 0:00",
-   "amount": " ",
+   "time": "0",
    "administration": "oral",
    "substance": "Datura",
    "form": "(tea)"
   },
   {
    "time": " T+ 0:20",
-   "amount": " ",
    "administration": "oral",
    "substance": "Caffeine",
    "form": "(liquid)"

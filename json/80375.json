@@ -12,13 +12,13 @@
  "views": "8723",
  "dose": [
   {
-   "time": "DOSE:",
+   "time": "0",
    "amount": "3 ",
    "administration": "",
    "substance": "Alcohol - Beer/Wine"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "",
    "administration": "7.5 mg",
    "substance": ""
@@ -42,7 +42,7 @@
    "substance": "(powder / crystals)"
   },
   {
-   "time": "",
+   "time": "0",
    "amount": "50 mg",
    "administration": "smoked",
    "substance": "DMT"
