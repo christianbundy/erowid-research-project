@@ -46,6 +46,12 @@ for (var i in files) {
             }
           });
 
+
+          reportio = cheerio.load(doc)
+          reportio('.report-text-surround table').empty();
+          report = reportio('.report-text-surround').text();
+          Experience[id].report = report; 
+
           //todo report
           fs.writeFile(config.output + id + '.json', JSON.stringify(Experience[id], null, 1), function(err) {
             if(err) {
