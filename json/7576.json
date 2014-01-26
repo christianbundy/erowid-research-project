@@ -1,0 +1,39 @@
+{
+ "id": 7576,
+ "title": "Interesting Combination",
+ "date": {
+  "submission": "2009-01-11T08:00:00.000Z",
+  "experience": "2005"
+ },
+ "author": {
+  "name": "Mr. Asialo",
+  "gender": "Male",
+  "weight": "150 lb"
+ },
+ "dose": [
+  {
+   "time": "0",
+   "amount": "240 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  },
+  {
+   "time": " T+ 0:20",
+   "amount": "450 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ ],
+ "report": [
+  "<p>I'm starting to become immune to DxM, because of the supposed 50 dose rule, I guess. So, I took double the minimal dose in order to get a mild high. Since I was experimenting with the recreational/etcetera effects of valerian, I popped one pill of said Valerian. What was unexpected, however, was my trip which felt as heavy as when I took 240 mg doses with 0-tolerance and 0-immunity.",
+  "Further testing is needed, but I just wanted to share this with others.</p>"
+ ],
+ "erowid": {
+  "id": "46598",
+  "citation": " Mr. Asialo. \"Interesting Combination: experience with DXM & Valerian (ID 46598)\". Erowid.org. Jan 11, 2009. erowid.org/exp/46598",
+  "substance": "DXM & Valerian",
+  "views": "8101"
+ }
+}

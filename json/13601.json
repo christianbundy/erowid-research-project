@@ -1,25 +1,31 @@
 {
- "title": "A Waste of Time",
- "author": "Anonymous",
- "citation": " Anonymous. \"A Waste of Time: experience with Ginkgo biloba (ID 13601)\". Erowid.org. Mar 8, 2007. erowid.org/exp/13601",
- "substance": "Ginkgo biloba",
- "bodyweight": "120 lb",
- "report": [
-  "<p>It was about 8:00p.m  and I was bored so I decided to see what gingko biloba could do to me if I took a high dosage.  I went to my medicine cabinet and found a box of pills of gingko biloba.  They were 100mg pills. I took 10 of them, wanting to see if I could get an effect.  All that happened was that I felt a little more energetic and was more clear minded.  I went to sleep then.",
-  "I woke up in the morning, got ready for school, and so on.  I had weight- lifting this morning.  During lifting I felt a little less tired then I usually am.  Nothing more happened through the day.  One thing that I noticed was that my memory was quite well.</p>"
- ],
- "year": "2002",
- "id": "13601",
- "gender": "Male",
- "views": "10996",
+ "id": 13601,
+ "title": "Ugh...",
+ "date": {
+  "submission": "2011-08-03T07:00:00.000Z",
+  "experience": "2011"
+ },
+ "author": {
+  "name": "depressed_guy",
+  "gender": "Male",
+  "weight": "145 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "1.0 g",
-   "administration": "oral",
-   "substance": "Ginkgo biloba",
-   "form": "(pill / tablet)"
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Bupropion",
+   "form": "(ground / crushed)"
   }
  ],
- "submissionDate": "2007-03-08T08:00:00.000Z"
+ "report": [
+  "<p>Today I was prescribed wellbutrin.  After reading some reports I decided to give it a try.  I ignored the posts about how much it burns.  After all, everybody told me that ketamine and mdma would burn a lot and it wasn't that big a deal.  I was dead WRONG!  Snorting this stuff was the most unpleasant drug experience I've ever had.  It burns a lot in both my nose and my throat.  The drip tastes nasty as hell, and everything tastes weird now.  My nose wont stop producing mucus, and I feel like I need to sneeze. I don't feel high in any way (although I realize 100mg isnt much).  I will never attempt to use this drug recreationally again.  It simply isn't worth it.  The person who reported getting 'used to it' must have iron nostrils.  I strongly recommend against snorting this foul chemical no matter how curious one may be about it.  Do yourself a favor and just take as prescribed.</p>"
+ ],
+ "erowid": {
+  "id": "91047",
+  "citation": " depressed_guy. \"Ugh...: experience with Bupropion (ID 91047)\". Erowid.org. Aug 3, 2011. erowid.org/exp/91047",
+  "substance": "Bupropion",
+  "views": "4606"
+ }
 }

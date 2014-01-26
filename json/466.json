@@ -1,25 +1,31 @@
 {
- "title": "Valerian for Period Pain",
- "author": "Anna",
- "citation": " Anna. \"Valerian for Period Pain: experience with Valerian (ID 466)\". Erowid.org. Jul 16, 2000. erowid.org/exp/466",
- "substance": "Valerian",
- "bodyweight": "60 kg",
- "report": [
-  "<p>Since coming off the Pill, I had the most painful periods  - great big cramps. I have Valerian growing wild in my backyard, so I simply ate a small green leaf every two hours. The leaf took about an hour to take effect, and almost completely removed the cramps, and another leaf lightly chewed (tastes awful!) every two hours kept the cramps at bay for the next 8 hours. Side effects: made me a bit lethargic, and I went to bed early and slept very deeply.",
-  "Verdict: worked just as well as conventional anti-inflammatories! Highly recommended, though probably best to avoid alcohol or driving while taking it.</p>"
- ],
- "year": "2000",
- "id": "466",
- "gender": "Female",
- "views": "21751",
+ "id": 466,
+ "title": "Happy Trails",
+ "date": {
+  "submission": "2002-01-12T08:00:00.000Z",
+  "experience": "2001"
+ },
+ "author": {
+  "name": "Rock",
+  "gender": "Female",
+  "weight": "130 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "1 leaf",
+   "amount": "20 mg",
    "administration": "oral",
-   "substance": "Valerian",
-   "form": "(fresh)"
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
   }
  ],
- "submissionDate": "2000-07-16T07:00:00.000Z"
+ "report": [
+  "<p>   I just read some of the reports about Paxil.  I thought it was just me that had the bad withdrawal symptoms and saw trails in the morning.  I wonder sometimes why I only see traisl when I wake up.  Even if I nap during the day I wake up and see them.  Also, when I first started taking it, I ran out after about 2 months, and I was a wreck!!  I started acting like I was 5 or something.  I threw tantrums, I cried at the drop of a hat, I was all clingy with my grrrlfriend.  It was a terrible time.  I'm thinkin that maybe I will switch drugs.  Paxil has been more trouble than it is worth</p>"
+ ],
+ "erowid": {
+  "id": "10869",
+  "citation": " Rock. \"Happy Trails: experience with Paroxetine (ID 10869)\". Erowid.org. Jan 12, 2002. erowid.org/exp/10869",
+  "substance": "Paroxetine",
+  "views": "22134"
+ }
 }

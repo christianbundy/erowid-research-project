@@ -1,0 +1,40 @@
+{
+ "id": 11448,
+ "title": "Helps Alcohol Addiction",
+ "date": {
+  "submission": "2008-05-18T07:00:00.000Z",
+  "experience": "2008"
+ },
+ "author": {
+  "name": "Just One Guy",
+  "gender": "Male",
+  "weight": "160 lb"
+ },
+ "dose": [
+  {
+   "time": "0",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone",
+   "form": "(daily)"
+  },
+  {
+   "time": "0",
+   "amount": "1500 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(daily)"
+  }
+ ],
+ "report": [
+  "<p>My experience with trazodone is very positive.",
+  "It helps with my alcohol addiction in that I can consume much less alcohol per day. Before the trazodone, I would need to consume at least 3 liters of, say Chardonnay, at 13% potency, per day to fall asleep. With 150mg trazodone, I need less than 1.5 liters",
+  "to fall asleep. I know that is still a lot of wine, but it helps me not to need so much wine.</p>"
+ ],
+ "erowid": {
+  "id": "71241",
+  "citation": " Just One Guy. \"Helps Alcohol Addiction: experience with Trazodone & Alcohol (ID 71241)\". Erowid.org. May 18, 2008. erowid.org/exp/71241",
+  "substance": "Trazodone & Alcohol",
+  "views": "20457"
+ }
+}

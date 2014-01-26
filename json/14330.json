@@ -1,30 +1,48 @@
 {
- "title": "The Joy",
- "author": "Alkaloidaholic",
- "citation": " Alkaloidaholic. \"The Joy: experience with Morphine & Hydrocodone (ID 14330)\". Erowid.org. Apr 16, 2007. erowid.org/exp/14330",
- "substance": "Morphine & Hydrocodone",
- "bodyweight": "150 lb",
- "report": [
-  "<p>Is was in the emergency room when I first discovered the amazing power of opiates. The nurse injected 12 CC's of morphine into me at 11:30 at night. A very warm feeling started surging throughout my body. My head felt as though a large amount of blood rushed to it, Similiar to the way one feels after inhaling isobutyl nitrate. The morphine started working very quickly. I felt many mixed feelings. Analgesia and euphoria where present. It acted as a truth syrum. I felt as though I could tell anyone anything.",
-  "After I went home I was suprised to find myself in a motivated state of hyperactivity. I didn't get to sleep untill 4:00 a.m. This could be because I was excited to be on this drug. The next day after it wore off, I took 2 7.5mg Generic Hydrocodone tablets. I felt a heavy feeling throughout my body. I found myself taking 2-3 pills everyday untill my prescription ran out. My experiences with opiates where not eye opening or rewarding but it was enjoyable. It helped me relax and enjoy my day.</p>"
- ],
- "year": "2001",
- "id": "14330",
- "gender": "Male",
- "views": "10983",
+ "id": 14330,
+ "title": "Curiously Apathetic",
+ "date": {
+  "submission": "2010-01-09T08:00:00.000Z",
+  "experience": "2003"
+ },
+ "author": {
+  "name": "Justin Time",
+  "gender": "Male",
+  "weight": "130 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "12 ml",
-   "administration": "IV",
-   "substance": "Morphine"
+   "administration": "smoked",
+   "substance": "Cytisus scoparius",
+   "form": "(flowers)"
   },
   {
-   "time": "0",
-   "amount": "15 mg",
+   "time": " T+ 1:40",
    "administration": "oral",
-   "substance": "Hydrocodone"
+   "substance": "Alcohol",
+   "form": "(liquid)"
   }
  ],
- "submissionDate": "2007-04-16T07:00:00.000Z"
+ "report": [
+  "<p>Substance: Cytisine (inhaled) in form of Sweet Broom flowers",
+  "Quantity: unknown",
+  "Setting: my house, alone; on full stomach; random music at medium volume in background",
+  "8:35 unknown quantity (small?) smoked through a filter, taste rather pleasant",
+  "+0:00 immediate cooling of body, relaxation, pleasant drowsiness",
+  "+0:10 slight difficulty typing, though whether due to hand/eye discoordination or lowering of mental facilities unsure. Increase in brightness of light colours, decrease in brightness of dark colours. Fuzzy 'static' type patterns overlaying everything.",
+  "+0:20 lengthening of sound, heightened awareness. Definately some reduction in mental acuity.",
+  "+0:35 slightly off-balance, some tingling of extremities; feels like a sustained cigarette 'head-rush'",
+  "+0:45 this is a very subtle and delicate state of being. It feels like a prelude to something bigger; but that 'something bigger' seems a long way off, whatever it is. Effects on music difficult to describe... bass sounds seem very heavy and muddled, highs sound a bit tinny. Possibly because of the 'sound lengthening' described earlier. Electronic music is not suited well to this material.",
+  "+0:50 just noticed that the computer monitor is breathing. I hear a baby crying, though I can't seem to find where the sound is coming from.",
+  "+1:15 whatever 'high' there was has faded to a subdued tranquility. A nice, safe, warm place of curious apathy. My eyes move to see new things, my ears move to hear new sounds; but my mind doesn't really care one way or another what my senses find. I don't think I've spoken since I dosed, which even in an empty house is unusual for me. I just feel detached, like an observer in my own body. I want to speak, but have nothing to say. Words roll through my mind, but it is, at the same time, empty. I've lost interest in everything. I know I wasn't always this way...or was I? I would say this bothers me, but for reason I can't even get up the emotion to be annoyed at this sudden loss of caring.",
+  "+1:40 started drinking alcohol, just to feel something. I think the drug has worn off, but the apathy brought with it has stayed. Hopefully the booze will change that. I think it is already working. I just smiled for the first time since this started. A smug grin to myself...",
+  "Comments: interesting material, nice as a mild downer; but no depth to it. I *might* explore this again at a higher dosage, or in combination with something else.</p>"
+ ],
+ "erowid": {
+  "id": "22338",
+  "citation": " Justin Time. \"Curiously Apathetic: experience with Cytisus scoparius (Scotch Broom) & Alcohol (ID 22338)\". Erowid.org. Jan 9, 2010. erowid.org/exp/22338",
+  "substance": "Cytisus scoparius (Scotch Broom) & Alcohol",
+  "views": "5457"
+ }
 }

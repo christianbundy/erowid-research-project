@@ -1,31 +1,33 @@
 {
- "title": "Where's My Trip",
- "author": "Johny Blaze",
- "citation": " Johny Blaze. \"Where's My Trip: experience with Datura (ID 20009)\". Erowid.org. Jun 23, 2007. erowid.org/exp/20009",
- "substance": "Datura",
- "bodyweight": "200 lb",
- "report": [
-  "<p>I found a Datura inoxia plant out in the middle of the dessert while hiking one day. She was all alone some of the only greenery on the horizon. Knowing of its capabilities I took it home to do more research. After reading countless stories suggesting to never ingest Datura I decided to do it anyway. First I ate 1 seed waited then to and hours later I ate 6 seeds(fresh). Then made a tea of 7 green leaves. Boiled the leaves and drank the liquid and tossed the leaves. I had quite a body high for one hour and felt sleepy. After reading stories of people being hospitalized I thought I was next. Once I stopped worrying the high was gone, I awoke an hour later with no effects. I know I have a good strain of inoxia but Im still trying to find a correct dosage to produce desirable effects.</p>"
- ],
- "year": "2002",
- "id": "20009",
- "gender": "Male",
- "views": "4515",
+ "id": 20009,
+ "title": "Horrible Drug-Induced Seizure",
+ "date": {
+  "submission": "2002-01-17T08:00:00.000Z",
+  "experience": "1999"
+ },
+ "author": {
+  "name": "Amber",
+  "gender": "Female",
+  "weight": "115 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "6 seeds",
+   "amount": "2 hits",
    "administration": "oral",
-   "substance": "Datura",
-   "form": "(fresh)"
-  },
-  {
-   "time": "0",
-   "amount": "7 leaves",
-   "administration": "oral",
-   "substance": "Datura",
-   "form": "(tea)"
+   "substance": "LSD"
   }
  ],
- "submissionDate": "2007-06-23T07:00:00.000Z"
+ "report": [
+  "<p>After a long night at work and a few shots of Jaegermister my 18 year old sister came home to a house full of friends. We all had decided to talk her into tripping with us because it was going to be such a pretty day. After about an hour of coaxing she gave in and ate the cubes.",
+  "After about another hour or so it started to kick in. We were all sitting outside in the sun trying to see whatever we could move. I was starring at a rock and for whatever dumb reason I started moving my head back and forth to make the object seem trippy or whatever. I told my sister to try it, it was cool.",
+  "That was the beginning of the most horrible drug induced seizure I ever witnessed. After she moved her head up and down a couple times she began to black out. None of us knew what was going on. She began to wave her hand in the air and kept saying 'woah, woah' we all thought that she was swatting at a bee since there was a nest nearby. She then fell into the side of the house and began convulsing.",
+  "I could hear her teeth grinding together and I will never forget the way it sounded. We all ran to see what was going on when she started shaking almost in slow motion. Her arms were stuck straight out and turned upside down. We took her into the house and sat her under the air until she became concious again. I kept asking her what her name was and she just looked at me like she didn't even see me. I was horrified and will never, ever trip again.</p>"
+ ],
+ "erowid": {
+  "id": "5549",
+  "citation": " Amber. \"Horrible Drug-Induced Seizure: experience with LSD (ID 5549)\". Erowid.org. Jan 17, 2002. erowid.org/exp/5549",
+  "substance": "LSD",
+  "views": "21899"
+ }
 }

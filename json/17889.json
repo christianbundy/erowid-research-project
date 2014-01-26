@@ -1,0 +1,51 @@
+{
+ "id": 17889,
+ "title": "Nice Buzz",
+ "date": {
+  "submission": "2010-01-26T08:00:00.000Z",
+  "experience": "2007"
+ },
+ "author": {
+  "name": "Aleister",
+  "gender": "Male",
+  "weight": "55 kg"
+ },
+ "dose": [
+  {
+   "time": "0",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  },
+  {
+   "time": " T+ 2:30",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lorazepam",
+   "form": "(pill / tablet)"
+  }
+ ],
+ "report": [
+  "<p>T 7:25 PM",
+  "Took 4 10 mg morphine sulphate pentahydrate and chewed them (effective 7,5 mg x 4 = 30 mg of morphine)",
+  "7:40 PM",
+  "feel a little drowsy.",
+  "7:50 PM",
+  "drowsier, a feeling of detachment.",
+  "7:55 PM",
+  "funny feeling.",
+  "7:28 PM",
+  "feel happy, smiling, slightly 'cosy'and warm. enjoyment. nice.",
+  "7:45 PM",
+  "serene detachment, happiness",
+  "10:05 PM",
+  "2 Lorazepam 10mg</p>"
+ ],
+ "erowid": {
+  "id": "67020",
+  "citation": " Aleister. \"Nice Buzz: experience with Morphine sulphate & Lorazepam (ID 67020)\". Erowid.org. Jan 26, 2010. erowid.org/exp/67020",
+  "substance": "Morphine sulphate & Lorazepam",
+  "views": "19564"
+ }
+}

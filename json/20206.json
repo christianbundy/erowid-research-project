@@ -1,27 +1,31 @@
 {
- "title": "Succesful New Method",
- "author": "john",
- "citation": " john. \"Succesful New Method: experience with Hydrocodone (ID 20206)\". Erowid.org. Oct 1, 2004. erowid.org/exp/20206",
- "substance": "Hydrocodone",
- "bodyweight": "180 lb",
- "report": [
-  "<p>I had been recently reading about rectal administration of various substances and found no reports detailing the use or success of pharmaceutical opiates being used rectally.  Being a scientist, I was immediately curious so I set myself up as test subject number one...",
-  "I took four generic Vicodin pills (10mg hydrocodone + 660mg acetaminophen) and did the cold water extraction process.  When I was done, I was left with a beaker of ice-cold water containing somewhere between 30 and 40mg of Vicodin and considerably less than 660mg of acetaminophen for a total volume of about 50ml (about an ounce).  I placed the beaker in a hot-water bath for about ten minutes to bring it up to a comfortable temperature.  Then, using a soft plastic eyedropper, I administered the solution to myself rectally.  The small amount of solution was easy to hold in.",
-  "Within 20 minutes, I began to feel effects.  The experience was typical of that dose of hydrocodone.  I felt no nausea (which I sometimes do on prescription opiates), and overall had a very enjoyable time.  The experience seemed to last about two hours, a little less than I would have expected from an oral dose.",
-  "Overall, the onset and comedown seemed to be fairly fast, perhaps what you would expect if you took the hydrocodone on an empty stomach.  The only change I would make would be to use a true at-home enema kit instead of an eyedropper.  The process of getting all the liquid in was somewhat tedious.  If you are going to try this, be sure you know how to properly administer an enema.  It is possible to injure yourself if you don't know what you are doing.</p>"
- ],
- "year": "2002",
- "id": "20206",
- "gender": "Male",
- "views": "68337",
+ "id": 20206,
+ "title": "Did Test Positive",
+ "date": {
+  "submission": "2009-08-23T07:00:00.000Z",
+  "experience": "2009"
+ },
+ "author": {
+  "name": "DxmTripper",
+  "gender": "Male",
+  "weight": "160 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "35 mg",
-   "administration": "rectal",
-   "substance": "Hydrocodone",
-   "form": "(extract)"
+   "amount": "710 mg",
+   "administration": "oral",
+   "substance": "DXM"
   }
  ],
- "submissionDate": "2004-10-01T07:00:00.000Z"
+ "report": [
+  "<p>My friend T and I took 710mg DXM each. After about 4 hours of tripping, T threw up. My mom found out, took us to the hospital, and the doctors drug tested me (without consent of course) six hours after ingesting DXM. I tested positive for marijuana, which I had smoked earlier. But I also tested positive for opiates and PCP.",
+  "Note: It was a urine and blood test.</p>"
+ ],
+ "erowid": {
+  "id": "80578",
+  "citation": " DxmTripper. \"Did Test Positive: experience with DXM & Drug Testing (ID 80578)\". Erowid.org. Aug 23, 2009. erowid.org/exp/80578",
+  "substance": "DXM & Drug Testing",
+  "views": "3187"
+ }
 }

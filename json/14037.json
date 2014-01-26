@@ -1,24 +1,34 @@
 {
- "title": "Keen's day out. . .",
- "author": "KEEN",
- "citation": " KEEN. \"Keen's day out. . .: experience with Amphetamine (Adderall) (ID 14037)\". Erowid.org. May 1, 2002. erowid.org/exp/14037",
- "substance": "Amphetamine (Adderall)",
- "bodyweight": "130 lb",
- "report": [
-  "<p>\tMy form does not function while suffering the effects of the prescription drug marketed under the name Adderall.  While on it I freak out, think at once at an amazing and lithargic pace (whereas I ususally consider myself bright and imaginitive), feel a tingling sensation in my hands and face (where I have Rhenard?s syndrome), and besides all that, Adderall makes me feel lonely and unloved despite the fact that when im not on the drug I am happy and liked by those who ?know? me or I encounter and choose to speak and associate with.  For all these reasons I will no longer take this fucked up chemical into my blood.</p>"
- ],
- "year": "2001",
- "id": "14037",
- "gender": "Male",
- "views": "22936",
+ "id": 14037,
+ "title": "Lab Notes from an Unintentional Experiment",
+ "date": {
+  "submission": "2011-10-31T07:00:00.000Z",
+  "experience": "1962"
+ },
+ "author": {
+  "name": "Dr. James Moore",
+  "gender": "Male",
+  "weight": ""
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "30 mg",
-   "administration": "oral",
-   "substance": "Amphetamines",
-   "form": "(pill / tablet)"
+   "administration": "",
+   "substance": "BZ"
   }
  ],
- "submissionDate": "2002-05-01T07:00:00.000Z"
+ "report": [
+  "<p>The following is excerpted from the 1962 lab book of Dr. James Moore, who was accidentally exposed to BZ during a BZ synthesis he was completing for the CIA. Four days after the exposure, he ingested 100 mg of acridine as an antidote.",
+  "After handling the compound for about 2 days pharmacological reactions became apparent: Stumbling gait, inability to concentrate or converse effectively, dilated pupils, pink fingernails & blotchy pink hands with fingers dark pink and swollen -- very little tactile sense.  Tendency toward tremors; sudden deep breathing.  Very weak legs.  Dry skin -- no sweating; distortion of distance and time.",
+  "The above symptoms were still almost full-blown on Wed 28 Nov, about 48 hours after onset (first noticed Mon. 26 Nov.",
+  "Thurs. 29 Nov: Legs better, tremors fewer.  Skin still pink.  Eyes still very dilated & painful.",
+  "Fri. Symptoms about the same - hands less swollen - pupils still dilated -- At 7:00 PM and 12:00 midnight took 100 mg. 5-amino-1,2,3,4 tetrahydroacridine (from K. Koniacial [spelling??] -- recx / benzene - mp. 182-183",
+  "Sat Dec 4 -- pupils normal size -- better motor control although legs still weak & tired.</p>"
+ ],
+ "erowid": {
+  "id": "93237",
+  "citation": " Dr. James Moore. \"Lab Notes from an Unintentional Experiment: experience with BZ (ID 93237)\". Erowid.org. Oct 31, 2011. erowid.org/exp/93237",
+  "substance": "BZ",
+  "views": "9244"
+ }
 }

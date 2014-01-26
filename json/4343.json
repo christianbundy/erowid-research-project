@@ -1,25 +1,37 @@
 {
- "title": "No More Crash",
- "author": "PLURvert",
- "citation": " PLURvert. \"No More Crash: experience with Ecstasy (ID 4343)\". Erowid.org. Dec 22, 2000. erowid.org/exp/4343",
- "substance": "Ecstasy",
- "bodyweight": "280 lb",
- "report": [
-  "<p>My first pill was (according to my friends that had experience) very strong.  It took almost three hours to come up and the effects (compared to my 30th dose) were minimal.  After, I crashed.  I crashed harder than my friends had ever seen anyone crash (they're party promoters).  I was immobilized for two to three days with severe 'arthritis' symptoms, migraines, and depression.  Once I could get out of bed, I was in the foulest of moods for nearly a week.  I swore off E entirely.",
-  "6 months later a friend of mine told me about 5-htp.  I did some research and I started taking it regularly.  I felt so good that I took E again.  I took an extra 5-htp (50 mg) with the pill and extra as I came down.  The next day, I was fine.  One of my friends even came over with some weed that brought me back up for a little while.  I was happy for the rest of the week.  Keeping this regime, I've had nothing but positive experiences for over 30 weekly doses.</p>"
- ],
- "year": "1999",
- "id": "4343",
- "gender": "Male",
- "views": "14346",
+ "id": 4343,
+ "title": "Mom",
+ "date": {
+  "submission": "2008-02-16T08:00:00.000Z",
+  "experience": "2003"
+ },
+ "author": {
+  "name": "Misty",
+  "gender": "Male",
+  "weight": ""
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "1 tablet",
-   "administration": "oral",
-   "substance": "MDMA",
-   "form": "(pill / tablet)"
+   "administration": "",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  },
+  {
+   "time": "0",
+   "administration": "",
+   "substance": "DXM",
+   "form": "(liquid)"
   }
  ],
- "submissionDate": "2000-12-22T08:00:00.000Z"
+ "report": [
+  "<p>[Erowid Note: It is our policy to try to verify any fatalities or life-endangering adverse reactions that people report, where possible. This fatality has been verified.]",
+  "I am writing to express my freedom of speech; to inform and educate.  On July 16, 2003, I found my 18 year old son in his bed, he had died in his sleep.  Much to my shock after reading his computer entries, he and his friends had been experimenting with many of the drugs that he found listed on this website, but DXM appeared to be his drug of choice.  It appears through the information left behind on his computer and the autopsy report, that on the night that he died, he had mixed DXM and Fentanyl.  This was a talented and intelligent young man with many artistic gifts, but with many questions about life. I feel that he had carefully studied and calculated, but there are no guarantees.  I want other kids to know that a fatal outcome is a very real possibility; it may happen the first time, or after several successful and uncomplicated trips. There were no warning signs; no chances to help.  I grieve every day for this very tragic loss and want others to know that their choices affect them and the people who love them.</p>"
+ ],
+ "erowid": {
+  "id": "28810",
+  "citation": " Misty. \"Mom: experience with DXM & Fentanyl (ID 28810)\". Erowid.org. Feb 16, 2008. erowid.org/exp/28810",
+  "substance": "DXM & Fentanyl",
+  "views": "29762"
+ }
 }

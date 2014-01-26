@@ -1,0 +1,38 @@
+{
+ "id": 7805,
+ "title": "Confused State",
+ "date": {
+  "submission": "2001-01-18T08:00:00.000Z",
+  "experience": "2000"
+ },
+ "author": {
+  "name": "Hank",
+  "gender": "Male",
+  "weight": "190 lb"
+ },
+ "dose": [
+  {
+   "time": "0",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  },
+  {
+   "time": " T+ 3:00",
+   "amount": "3 hits",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 5x)"
+  }
+ ],
+ "report": [
+  "<p>At a small new years party, I tried smoking some salvia divinorum 5x, during the last third of an e roll. The salvia trip put me into a very confused head space for about 30 minutes, which is much longer than the average salvia trip. I also got a significant increase in OEV, fractal patterns, which I ordinarily don't get on salvia alone. The salvia seemed to overpower, no, obliterate, the MDMA feeling, and once I came down off the salvia, I was also completely sober, thinking to myself that Salvia and ecstasy don't really work together for me.</p>"
+ ],
+ "erowid": {
+  "id": "4743",
+  "citation": " Hank. \"Confused State: experience with MDMA & Salvia divinorum (ID 4743)\". Erowid.org. Jan 18, 2001. erowid.org/exp/4743",
+  "substance": "MDMA & Salvia divinorum",
+  "views": "10202"
+ }
+}

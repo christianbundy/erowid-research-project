@@ -1,29 +1,38 @@
 {
- "title": "Knocked the Fuck Out",
- "author": "Blazed",
- "citation": " Blazed. \"Knocked the Fuck Out: experience with Pseudoephedrine (ID 13617)\". Erowid.org. Oct 25, 2006. erowid.org/exp/13617",
- "substance": "Pseudoephedrine",
- "bodyweight": "169 lb",
- "report": [
-  "<p>Why the fuck did I even do this drug again? I popped 3 60mg pills of Actifed around 9PM. I figured I wouldnt be going out, so it was ok. I usually like to experiment with drugs when Im alone. It gives me the chance to find out what drugs do, while I dont act like an idiot in front of other people.",
-  "For the next hour, I would feel a constant increase in drowsiness coming on. After that, it only took 30 min To knock me out. I saw a friend online, and I wanted to hang out; unfortunately, it wasnt going to happen. If I hung out, Id smoke weed. This would make me feel 10x worse. Instead, I laid down on the futon and tried to relax. I wouldnt get up from that point on.",
-  "I noticed myself getting dizzy, and that did it. I was gone, and it was only 10:30.",
-  "I woke up at 530AM to a head that felt like it was cooked on the inside, so I went outside to smoke a cig. I could feel the hangover. It does feel bad. It feels like Im at the verge of a headache, but not there yet.",
-  "Standing there, I couldnt really pay attention to everything around me. Id either have to pay attention to the sound of the wind blowing, or getting some eye visuals. Cigarette smoking took a back seat to this. Simple things would amaze me as well. A plane flew over, and I found myself staring at it until it disappeared into the clouds.",
-  "The hangover the following day isnt pleasant. Ive had much better drugs. Acid doesnt even have this bad of a hangover. Fuck it.</p>"
- ],
- "year": "2002",
- "id": "13617",
- "gender": "Male",
- "views": "28336",
+ "id": 13617,
+ "title": "End of the Long, Dark Road",
+ "date": {
+  "submission": "2011-05-23T07:00:00.000Z",
+  "experience": "2011"
+ },
+ "author": {
+  "name": "Zonie",
+  "gender": "Male",
+  "weight": "225 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "180 mg",
-   "administration": "oral",
-   "substance": "Pseudoephedrine",
-   "form": "(pill / tablet)"
+   "administration": "",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(daily)"
+  },
+  {
+   "time": "0",
+   "administration": "",
+   "substance": "Naloxone",
+   "form": "(daily)"
   }
  ],
- "submissionDate": "2006-10-25T07:00:00.000Z"
+ "report": [
+  "<p>It has been a long year since I have been  on methadone maintenance. This is how I went from 2 grams heroin daily, to 110 mg methadone daily, to completely sober now.",
+  "After 5 years on heroin, I went to the methadone clinic, stabilized at 110mg, and then steadily lowered my dose 5% a week, until I was at 30mg. Then I consulted with a doctor that prescribes Suboxin, and he suggested I start at 24mg a day suboxin, after 2 days from my last dose of methadone, I began. I wanted to make the suboxin last so I took 16 mg a day for 2 months, then I inched my way down to 8mg a day for another 3 months. After that I went to 4mg in a couple days, and then I went down another 50% every 2 weeks, until I was at the tiniest little piece of a film strip suboxin possible. I used the film so I could precisely cut the doses, I went to .25 mg daily, and then after that I went to 0. For 2 months I felt achy, and tired, a little irritable, but no serious withdrawal or cravings. Slow and Steady worked for me.",
+  "Overall it took me 5 years to get to my level of addiction and tolerance, so it took me almost 2 years to get to sober, withdrawal is unavoidable but it can be done with minimal suffering, but there will be discomfort, that is unavoidable. It was worth it though, it is worth it. Good Luck to anyone ready for this life changing event, and only partake when you know you are ready.</p>"
+ ],
+ "erowid": {
+  "id": "91116",
+  "citation": " Zonie. \"End of the Long, Dark Road: experience with Buprenorphine & Naloxone (Suboxone) (ID 91116)\". Erowid.org. May 23, 2011. erowid.org/exp/91116",
+  "substance": "Buprenorphine & Naloxone (Suboxone)",
+  "views": "7429"
+ }
 }

@@ -1,25 +1,39 @@
 {
- "title": "Blue Monday, Black Tuesday",
- "author": "SG",
- "citation": " SG. \"Blue Monday, Black Tuesday: experience with Ecstasy (ID 12954)\". Erowid.org. Mar 4, 2002. erowid.org/exp/12954",
- "substance": "Ecstasy",
- "bodyweight": "120 lb",
- "report": [
-  "<p>Much to my dismay, I'm giving up E after only two sessions. I love the euphoria and the empathetic bonding with my partner, but the recovery period is way too taxing to make it worthwhile.",
-  "Twelve hours after each session I was fatigued and uncomfortable, and had pronounced muscle spasms & jitters. It felt like 'restless leg' syndrome throughout my entire body. Twenty-four hours after each session I fell into a horrid depression that went beyond listlessness into outright anguish. My sleep was punctuated by night terrors, and I felt suicidal. If not for emergency doses of 5-HTP I might not have made it. (Seriously, 5-HTP is a miracle.)",
-  "If my partner and I ever have personal problems that would benefit from the extreme honesty and patience that a therapeutic E session allows, I might roll again, but I won't party with it any more.</p>"
- ],
- "year": "2001",
- "id": "12954",
- "gender": "Female",
- "views": "12791",
+ "id": 12954,
+ "title": "Quite the Enhancer",
+ "date": {
+  "submission": "2010-08-11T07:00:00.000Z",
+  "experience": "2010"
+ },
+ "author": {
+  "name": "Human",
+  "gender": "Male",
+  "weight": "150 lb"
+ },
  "dose": [
   {
    "time": "0",
+   "amount": "200 mg",
    "administration": "oral",
-   "substance": "MDMA",
+   "substance": "Tryptophan - 5-HTP",
    "form": "(pill / tablet)"
+  },
+  {
+   "time": " T+ 4:00",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
   }
  ],
- "submissionDate": "2002-03-04T08:00:00.000Z"
+ "report": [
+  "<p>To make a long story short I theorized that taking 5-HTP with some marijuana would enhance the high. I took the pill right before smoking and I did not feel too much of a difference other than the fact that it lasted a bit longer than usual.",
+  "I did try it again but this time I took the 5-HTP about 4 hours before I smoked. The effects were amazing, very similar to mixing MDMA with marijuana minus the amphetamine effect and the hangover the next day.",
+  "I've done it a few additional times since and I's say its definitely worth a try.</p>"
+ ],
+ "erowid": {
+  "id": "86816",
+  "citation": " Human. \"Quite the Enhancer: experience with Tryptophan - 5-HTP & Cannabis (ID 86816)\". Erowid.org. Aug 11, 2010. erowid.org/exp/86816",
+  "substance": "Tryptophan - 5-HTP & Cannabis",
+  "views": "4198"
+ }
 }

@@ -1,25 +1,40 @@
 {
- "title": "False Positive for Opiates",
- "author": "Aslanv",
- "citation": " Aslanv. \"False Positive for Opiates: experience with DXM & Drug Testing (ID 17821)\". Erowid.org. Jun 22, 2007. erowid.org/exp/17821",
- "substance": "DXM & Drug Testing",
- "bodyweight": "132 lb",
- "report": [
-  "<p>Yesterday night I ingested 8 ozs of robotussin. I came home, and my parents were extremaly worried becuase of my slurred speach and incoherance. So they took me to the emergency room. In the emergency room I was givin a urinalysis, which came up positive for OPIATES!!!!!",
-  "I raised hell. I never used opiates, and am a recovering mental marijuana addict, who is currently in rehab so don't smoke. I raised hell and was givin a blood anylsis, which is still pending, these results were extremaly devastating to me. In fact I could be put in in-patient rehab. My parents think I am a heroin user now.</p>"
- ],
- "year": "2002",
- "id": "17821",
- "gender": "Male",
- "views": "4099",
+ "id": 17821,
+ "title": "It Works Magic",
+ "date": {
+  "submission": "2007-12-31T08:00:00.000Z",
+  "experience": "2007"
+ },
+ "author": {
+  "name": "Broke Dave",
+  "gender": "Male",
+  "weight": "145 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "8 oz",
+   "amount": "2250 mg",
    "administration": "oral",
-   "substance": "DXM",
+   "substance": "Piracetam",
+   "form": "(daily)"
+  },
+  {
+   "time": "0",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
    "form": "(liquid)"
   }
  ],
- "submissionDate": "2007-06-22T07:00:00.000Z"
+ "report": [
+  "<p>I recently ordered some Piracetam from an internet bulk supplier. I bought 700 grams for just over $20. What attracted me to this substance was how it supposedly helped reverse brain aging, increase cognition, and help counteract brain damage. Now I've done some drugs in my day. I used to do just about everything and I think DXM and ecstasy had the most negative impact on my brain. Not to say I had brain damage, I just think that my past drug use had some negative effects yet I was still able to properly perform my job as an aircraft structural maintainer for USAF cargo planes (the military's full of former drugees) and scored a 91 on my ASVAB while I was still smoking pot.",
+  "I noticed some positive effects as soon as I started taking it. The key is to keep a regular 3x daily regiment, 750mg each. Alcohol's effects are greatly increased when taking Piracetam. I used to be a semi-heavy drinker drinking 10+ drinks on an average drinking night. However when I started taking Sneaky Pete (as I call it), after around seven Coronas I ended up vomiting and was as hungover as I've ever been from drinking. My continued alcohol use decreased gradually but I didn't take P the days I drank. Now I have little to no desire to drink and am taking P 3x daily everyday now and it works a few times better for me. I'm also very glad that it helped me stop drinking regularly.",
+  "Overall I would recommend Piracetam to the whole world because it is extremely well tolerated by our bodies and it seems to only do good to me. Also I can't wait to go back home and try mixing it with various stimulants/psychadelics as it apparently skyrockets their effects. Have a great day!</p>"
+ ],
+ "erowid": {
+  "id": "66705",
+  "citation": " Broke Dave. \"It Works Magic: experience with Piracetam & Alcohol (ID 66705)\". Erowid.org. Dec 31, 2007. erowid.org/exp/66705",
+  "substance": "Piracetam & Alcohol",
+  "views": "14603"
+ }
 }

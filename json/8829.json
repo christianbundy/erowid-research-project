@@ -1,56 +1,39 @@
 {
- "title": "The Big One",
- "author": "Wakkd",
- "citation": " Wakkd. \"The Big One: experience with Mushrooms, DXM, Cannabis, Alcohol & Methylphenidate (ID 8829)\". Erowid.org. Dec 15, 2008. erowid.org/exp/8829",
- "substance": "Mushrooms, DXM, Cannabis, Alcohol & Methylphenidate",
- "bodyweight": "250 lb",
- "report": [
-  "<p>Setting the scene, Halifax Canada. I looked at my watch, it read 8:30pm. I was getting off in one hour. My friends and I were planning to get a huge buzz that Friday night. The plan was ingenious, my friends would start at 8:30 at the party location with their shrooms and I was to start at work with DXM. So at the appropriate time I started downing sucrets, which do taste a lot better than cough medicine. Ten minutes later I had finished my pack of 16 and went back to work. BAD IDEA.",
-  "I was walking around the store when the feeling first started. A feeling that put a spring in my step and a smile on my face. That is until I had to help customers, trip out didn't have meaning to me until that point. They all knew, all of them, how, oh crap how. An hour later I was leaving the store with a bigger smile on my face, it wasn't that I was wacked, just that walking like a robot (one effect of DXM) seemed funny at the time. I could barely contain the joy I felt as I walked home. A big buzz awaited me, and it didn't waste much time once I got there.",
-  "The first thing I saw after walking in the door was all my friends staring blank faced at a wall in the dark (they had already taken their shrooms).  This seemed strange, but once they had told me that they were looking for a pulse one of them had felt in the wall everything made sense. So once we looked for five minutes, I decided it was time for phase 2. I downed 2 grams of shrooms and started on my 26 ounce bottle of Jack Daniels. This was a great mix, after 2 hours everything started blending together in an intense mix of incoherence. What a great time to snort a few lines of Ritalin my friend said to me. Once my rubber arm was sufficiently twisted....  SNIFF........SNIFF..... and calm and focus descended upon us. We were philosopher kings, it was great until we remembered our weed. So we started rolling while I finished my booze.",
-  "About 30 minutes and 10 joints later the only thing real to me was the rhythmic tribal sounds of Enigma's 'Eyes of the Truth' blaring in the background. It was there I experienced my first technicolor roller coaster. The coasters cars were powered by the music, powerful tunnels of color and light (imagine stargate on acid) out of body experiences became less frightening as I pulled an 'out of dimension experience'. I felt so peaceful, I had no concept of the world, no cares, no problems, just the struggle to keep from plunging over the side, leaving the roller coaster's car. The big fall, the one you never quite recover from.",
-  "After 2 blessed hours of this, my friends who were also feeling pretty good at the time decided to dare me to drink a bottle of cough syrup to increase the buzz. More DXM,  I can't...... Ouch.... Ouch.... damn that rubber arm. Gulp gulp gulp gone. I can't tell the story from experience from here on in. Lets just say my friends filled me in the next day. The rest of the night unfolded with my friends watching TV , and for me, well, it was the first time I had ever slept with my eyes open, sitting up in a chair looking at my friends. The only movement I managed was the occasional sigh from my 'SLEEP'.",
-  "It was a good time all in all. Just remember, if you are going to fall asleep wacked, you might as well keep your eyes open, you never know what you will miss at a party like that.</p>"
- ],
- "year": "2001",
- "id": "8829",
- "gender": "Male",
- "views": "11626",
+ "id": 8829,
+ "title": "Allergic Reaction",
+ "date": {
+  "submission": "2007-06-02T07:00:00.000Z",
+  "experience": "2006"
+ },
+ "author": {
+  "name": "Momo, the legendary",
+  "gender": "Male",
+  "weight": "170 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "16 tablets",
+   "amount": "7.5 ml",
    "administration": "oral",
-   "substance": "DXM",
-   "form": "(pill / tablet)"
-  },
-  {
-   "time": "0",
-   "amount": "2.0 g",
-   "administration": "oral",
-   "substance": "Mushrooms",
-   "form": "(plant material)"
-  },
-  {
-   "time": "0",
-   "amount": "26 oz",
-   "administration": "oral",
-   "substance": "Alcohol",
+   "substance": "Codeine",
    "form": "(liquid)"
   },
   {
-   "time": "0",
-   "amount": " joints/cigs",
-   "administration": "smoked",
-   "substance": "CP 55,940",
-   "form": "(plant material)"
-  },
-  {
-   "time": "0",
-   "administration": "insufflated",
-   "substance": "Pharms - Methylphenidate",
-   "form": "(powder / crystals)"
+   "time": " T+ 24:00",
+   "amount": "7.5 ml",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(liquid)"
   }
  ],
- "submissionDate": "2008-12-15T08:00:00.000Z"
+ "report": [
+  "<p>I've never taken many pharmaceutical pills in my life, nothing I haven't needed as per a medical doctor's orders. The past week I was on amoxycillin for 2 days, then clindamycin 450mg/4times day. I have tonsilitis. It's my first time. It sucks. Anyways, I had a fever for days, I couldn't sleep. I had slept for a total of 7/120 hours. My doctor prescribed Cotridin. 5-10ml before bed, with lots of water.",
+  "I complied for two nights. The morning of wednesday I awoke to find the top half of my body covered in hives. Turns out I'm one of the unlucky few who's allergic to codeine. Luckily, the hives are light, and not too itchy. I've been taking some Bendadryl to help with the itching, and of course I immediately discontinued use of the Cotridin.</p>"
+ ],
+ "erowid": {
+  "id": "51809",
+  "citation": " Momo, the legendary. \"Allergic Reaction: experience with Codeine (ID 51809)\". Erowid.org. Jun 2, 2007. erowid.org/exp/51809",
+  "substance": "Codeine",
+  "views": "13229"
+ }
 }

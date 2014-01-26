@@ -1,27 +1,54 @@
 {
- "title": "It Changed my Life",
- "author": "Veruca Salt",
- "citation": " Veruca Salt. \"It Changed my Life: experience with Ephedra (ID 10839)\". Erowid.org. Apr 12, 2007. erowid.org/exp/10839",
- "substance": "Ephedra",
- "bodyweight": "120 lb",
- "report": [
-  "<p>I take about 40mg of ephedra on a daily basis.  This is my third year of taking it.  I started taking it a year after I started smoking weed.  I don't reccommend new users to take 40mg I only do it because I've built tolerance to it.  When I first started taking it I weighed 200 pounds.  I didn't start taking ephedra to lose weight; I started taking it for energy.  Ephedra makes me ready for action, sometimes I feel like I can take on the world and I'm definetly more talkative and outgoing after taking it.",
-  "I guess having all that energy, running around like a maniac, and the fact that ephedra boosts metabolism is why I've also managed to loose 80 pounds.  Not only that but the asthma that used to plague me as a child has dissappeared as ephedra helps open up the bronchial tubes.  The common culprit of ephedrine related problems comes from ECA stacks which are combinations of ephedra, caffinee, and asprin.  Ephedra shouldn't be combined with caffinee, and asprin thins the blood out.",
-  "I've found that once I started taking ephedra, I wouldn't get cottonmouth when I smoked weed, and I still don't.  I have these hyper highs where the world just suddenly makes complete sense to me, like I've been suddenly enlightened and I have to share these revelations with all the people I'm around, ofcourse when I sober up I find that what I was thinking before was really way off track and mostly ephedra induced ramblings.  I still eat normally but my appetite isn't close to what it used to be.  I sometimes have trouble getting to sleep and occasionally I get jittery. ",
-  "Ephedra and weed makes me real paranoid so I try to avoid getting high in places I'm not comfortable with.  The dizziness and heart palipitations I started getting about a year ago stopped after I began drinking 8+ glasses of water a day.  I love ephedra but this stuff is addictive.  I think I would be able to give up smoking cigarettes before I stopped taking ephedra.</p>"
- ],
- "year": "2001",
- "id": "10839",
- "gender": "Female",
- "views": "21640",
+ "id": 10839,
+ "title": "Affect Positive But Not Hyper",
+ "date": {
+  "submission": "2007-12-19T08:00:00.000Z",
+  "experience": "2007"
+ },
+ "author": {
+  "name": "Nootropic Noob",
+  "gender": "Male",
+  "weight": "205 lb"
+ },
  "dose": [
   {
    "time": "0",
-   "amount": "40 mg",
-   "administration": "",
-   "substance": "Ephedra sinica",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
    "form": "(daily)"
+  },
+  {
+   "time": " T+ 0:00",
+   "amount": "3 cups",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  },
+  {
+   "time": " T+ 4:00",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Aniracetam",
+   "form": "(daily)"
+  },
+  {
+   "time": " T+ 12:00",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
   }
  ],
- "submissionDate": "2007-04-12T07:00:00.000Z"
+ "report": [
+  "<p>Took 750mg of Aniracetam after reading a number of forums and experience reports.  Specific intent was to mitigate feelings of mental fog and low affect that caused inability to concentrate on cognitive tasks (I have a decision-making, information-rich desk job that also requires a lot of meetings and responses to interrupts; hence, writing software or concentrating on quantitative models is difficult and I've been looking for help on this).",
+  "Dosed around 2:30 PM following several hours of meetings and a light early lunch; last caffeine (to which I have significant tolerance) was an effective ~3 cups around 10:30 AM.  I was able to keep attentive over 2.5 hrs more of meetings that might otherwise have had me nodding off (but who knows?).  Still feeling strong, though not quite hypomanic, as of 5:30, I proceeded to knock down a few cognitive tasks that otherwise I might have bagged for the evening.",
+  "It is now 11:00 PM and I've had a few beers after dinner.  I still feel quite awake and wired, with a looseness but not sloppiness due to the ETOH; I should probably be feeling it more than I am now.  I also get the feeling that I *could* hit the sack with no problems right now if I wanted.",
+  "Affect during this time has been positive but not hyper.  All in all, I think this has been a positive first time.",
+  "(Preloading in the AMs for several weeks with fish oil and B complex preceded first administration.)</p>"
+ ],
+ "erowid": {
+  "id": "67815",
+  "citation": " Nootropic Noob. \"Affect Positive But Not Hyper: experience with Aniracetam (Ampament) (ID 67815)\". Erowid.org. Dec 19, 2007. erowid.org/exp/67815",
+  "substance": "Aniracetam (Ampament)",
+  "views": "18778"
+ }
 }

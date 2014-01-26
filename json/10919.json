@@ -1,0 +1,31 @@
+{
+ "id": 10919,
+ "title": "This Vitamin Completes Me",
+ "date": {
+  "submission": "2008-01-03T08:00:00.000Z",
+  "experience": "2007"
+ },
+ "author": {
+  "name": "Joseph",
+  "gender": "Male",
+  "weight": "160 lb"
+ },
+ "dose": [
+  {
+   "time": "0",
+   "amount": "210 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(pill / tablet)"
+  }
+ ],
+ "report": [
+  "<p>This morning I was feeling a little bit sick. Nothing serious, just some coughing and a runny nose. I took one Vitamin C pill and now I feel fine.</p>"
+ ],
+ "erowid": {
+  "id": "68111",
+  "citation": " Joseph. \"This Vitamin Completes Me: experience with Vitamin C (ID 68111)\". Erowid.org. Jan 3, 2008. erowid.org/exp/68111",
+  "substance": "Vitamin C",
+  "views": "158311"
+ }
+}
