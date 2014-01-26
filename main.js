@@ -2,16 +2,11 @@ var fs = require('graceful-fs'); // Queues fs.readFile()
 var dive = require('dive');      // Recursive dir walking
 
 var main = function(e) {
-	for (var i = 0; i < e.dose.length; i++) {
-		for (key in e.dose[i]) {
-			console.log(e.dose[i][key])
-			if (e.dose[i][key][0] == ' ') {
-
-				e.dose[i][key] = e.dose[i][key].substring(1)
-			}
+	for (var key in e) {
+		if (e[key] = "") {
+			delete e[key];
 		}
-		e.dose[i].time = e.dose[i].time.replace(' T+ ', '');
-	};
+	}
 	return e;
 }
 
