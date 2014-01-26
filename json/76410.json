@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-07-26T07:00:00.000Z",
- "views": "5691"
+ "views": "5691",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(daily)"
+  }
+ ]
 }

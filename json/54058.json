@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-10-07T07:00:00.000Z",
- "views": "20376"
+ "views": "20376",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": "(daily)"
+  }
+ ]
 }

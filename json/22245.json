@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-03-19T08:00:00.000Z",
- "views": "37087"
+ "views": "37087",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "PMA"
+  }
+ ]
 }

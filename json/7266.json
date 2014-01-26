@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-01-17T08:00:00.000Z",
- "views": "14222"
+ "views": "14222",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 cups",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ ]
 }

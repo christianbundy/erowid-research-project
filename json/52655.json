@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-18T08:00:00.000Z",
- "views": "12316"
+ "views": "12316",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

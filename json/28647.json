@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-12-13T08:00:00.000Z",
- "views": "515"
+ "views": "515",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Triprolidine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-02T07:00:00.000Z",
- "views": "16043"
+ "views": "16043",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

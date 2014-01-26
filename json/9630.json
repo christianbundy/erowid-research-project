@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-10-24T07:00:00.000Z",
- "views": "42723"
+ "views": "42723",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Ginger"
+  }
+ ]
 }

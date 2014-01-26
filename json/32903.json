@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-11T07:00:00.000Z",
- "views": "4349"
+ "views": "4349",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash",
+   "form": "(tar / resin)"
+  }
+ ]
 }

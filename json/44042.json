@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-08T07:00:00.000Z",
- "views": "22839"
+ "views": "22839",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

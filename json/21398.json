@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-08T07:00:00.000Z",
- "views": "10283"
+ "views": "10283",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

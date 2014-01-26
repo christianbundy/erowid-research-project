@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-01T07:00:00.000Z",
- "views": "9070"
+ "views": "9070",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ginkgo biloba"
+  }
+ ]
 }

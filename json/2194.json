@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-27T07:00:00.000Z",
- "views": "18158"
+ "views": "18158",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "2C-T-2"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-12-05T08:00:00.000Z",
- "views": "29635"
+ "views": "29635",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "24 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

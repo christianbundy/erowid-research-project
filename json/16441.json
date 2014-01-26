@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-31T07:00:00.000Z",
- "views": "14207"
+ "views": "14207",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT"
+  }
+ ]
 }

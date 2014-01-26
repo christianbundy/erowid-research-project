@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-01-07T08:00:00.000Z",
- "views": "10843"
+ "views": "10843",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ ]
 }

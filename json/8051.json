@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-10-30T08:00:00.000Z",
- "views": "16374"
+ "views": "16374",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ ]
 }

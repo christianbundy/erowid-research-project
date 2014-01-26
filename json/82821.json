@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2009-12-17T08:00:00.000Z",
- "views": "5572"
+ "views": "5572",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "480 mg",
+   "administration": "",
+   "substance": "DXM"
+  }
+ ]
 }

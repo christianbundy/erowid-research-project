@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-10T07:00:00.000Z",
- "views": "18123"
+ "views": "18123",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 capsls",
+   "administration": "oral",
+   "substance": "LSA",
+   "form": "(capsule)"
+  }
+ ]
 }

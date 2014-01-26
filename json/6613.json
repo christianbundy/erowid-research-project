@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-03-10T08:00:00.000Z",
- "views": "6362"
+ "views": "6362",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 g",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-17T07:00:00.000Z",
- "views": "24204"
+ "views": "24204",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "PCP",
+   "form": "(liquid)"
+  }
+ ]
 }

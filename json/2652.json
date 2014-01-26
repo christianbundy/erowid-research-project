@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-01T08:00:00.000Z",
- "views": "9986"
+ "views": "9986",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 oz",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ ]
 }

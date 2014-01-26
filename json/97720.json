@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-09-26T07:00:00.000Z",
- "views": "5160"
+ "views": "5160",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

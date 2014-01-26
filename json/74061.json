@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2013-01-30T08:00:00.000Z",
- "views": "7362"
+ "views": "7362",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 cups",
+   "administration": "oral",
+   "substance": "Lemon Balm",
+   "form": "(tea)"
+  }
+ ]
 }

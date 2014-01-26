@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2012-11-03T07:00:00.000Z",
- "views": "6556"
+ "views": "6556",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "3-MeO-PCP",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

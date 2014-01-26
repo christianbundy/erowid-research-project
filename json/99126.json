@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2013-03-22T07:00:00.000Z",
- "views": "1586"
+ "views": "1586",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "750 ug",
+   "administration": "insufflated",
+   "substance": "2C-I-NBOMe",
+   "form": "(capsule)"
+  }
+ ]
 }

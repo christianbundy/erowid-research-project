@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-27T07:00:00.000Z",
- "views": "16891"
+ "views": "16891",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(dried)"
+  }
+ ]
 }

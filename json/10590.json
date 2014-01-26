@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-14T08:00:00.000Z",
- "views": "7936"
+ "views": "7936",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ ]
 }

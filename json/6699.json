@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-03-19T08:00:00.000Z",
- "views": "11860"
+ "views": "11860",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

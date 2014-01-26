@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-10-31T07:00:00.000Z",
- "views": "2868"
+ "views": "2868",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I"
+  }
+ ]
 }

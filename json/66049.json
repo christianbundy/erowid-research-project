@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-11-01T07:00:00.000Z",
- "views": "15320"
+ "views": "15320",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 caps",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(tea)"
+  }
+ ]
 }

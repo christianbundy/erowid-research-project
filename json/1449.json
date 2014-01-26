@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-11T07:00:00.000Z",
- "views": "74393"
+ "views": "74393",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "52 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(extract)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "19",
  "timestamp": "2011-11-18T08:00:00.000Z",
- "views": "2824"
+ "views": "2824",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ ]
 }

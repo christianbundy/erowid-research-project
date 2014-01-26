@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "27",
  "timestamp": "2013-04-30T07:00:00.000Z",
- "views": "3729"
+ "views": "3729",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propranolol",
+   "form": "(daily)"
+  }
+ ]
 }

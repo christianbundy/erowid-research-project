@@ -38,5 +38,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-19T07:00:00.000Z",
- "views": "24027"
+ "views": "24027",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": ""
+  }
+ ]
 }

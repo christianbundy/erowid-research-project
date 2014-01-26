@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-05T07:00:00.000Z",
- "views": "34294"
+ "views": "34294",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(leaves)"
+  }
+ ]
 }

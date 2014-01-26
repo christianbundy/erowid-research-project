@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-16T07:00:00.000Z",
- "views": "17354"
+ "views": "17354",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.6 g",
+   "administration": "oral",
+   "substance": "Lecithin",
+   "form": "(daily)"
+  }
+ ]
 }

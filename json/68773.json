@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-31T08:00:00.000Z",
- "views": "45466"
+ "views": "45466",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

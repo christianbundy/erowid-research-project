@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-11-20T08:00:00.000Z",
- "views": "86549"
+ "views": "86549",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(tea)"
+  }
+ ]
 }

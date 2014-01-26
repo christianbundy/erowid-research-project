@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-12T07:00:00.000Z",
- "views": "14901"
+ "views": "14901",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

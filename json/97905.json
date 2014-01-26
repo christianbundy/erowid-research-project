@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2013-02-19T08:00:00.000Z",
- "views": "1516"
+ "views": "1516",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

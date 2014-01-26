@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-06-05T07:00:00.000Z",
- "views": "4752"
+ "views": "4752",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "220 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ ]
 }

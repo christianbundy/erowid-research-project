@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2013-04-08T07:00:00.000Z",
- "views": "5910"
+ "views": "5910",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

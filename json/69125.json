@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-12T08:00:00.000Z",
- "views": "6220"
+ "views": "6220",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 ml",
+   "administration": "inhaled",
+   "substance": "Ether",
+   "form": "(liquid)"
+  }
+ ]
 }

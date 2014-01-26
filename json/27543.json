@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-07T08:00:00.000Z",
- "views": "50561"
+ "views": "50561",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(dried)"
+  }
+ ]
 }

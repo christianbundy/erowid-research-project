@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-22T07:00:00.000Z",
- "views": "42949"
+ "views": "42949",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "IM",
+   "substance": "Ketamine"
+  }
+ ]
 }

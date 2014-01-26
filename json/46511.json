@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-11-04T08:00:00.000Z",
- "views": "5078"
+ "views": "5078",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 mg",
+   "administration": "IM",
+   "substance": "2C-E"
+  }
+ ]
 }

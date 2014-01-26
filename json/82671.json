@@ -26,5 +26,14 @@
  "gender": "Female",
  "age": "19",
  "timestamp": "2010-02-15T08:00:00.000Z",
- "views": "14526"
+ "views": "14526",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ketamine",
+   "form": ""
+  }
+ ]
 }

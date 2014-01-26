@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-22T08:00:00.000Z",
- "views": "85793"
+ "views": "85793",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "SC",
+   "substance": "Animals - Black Widow Spider",
+   "form": ""
+  }
+ ]
 }

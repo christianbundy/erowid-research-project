@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-07T08:00:00.000Z",
- "views": "14055"
+ "views": "14055",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 in",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(liquid)"
+  }
+ ]
 }

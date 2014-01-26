@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-20T07:00:00.000Z",
- "views": "5935"
+ "views": "5935",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(tea)"
+  }
+ ]
 }

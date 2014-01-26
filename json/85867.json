@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "35",
  "timestamp": "2010-06-14T07:00:00.000Z",
- "views": "9193"
+ "views": "9193",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Aripiprazole",
+   "form": "(daily)"
+  }
+ ]
 }

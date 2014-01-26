@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-17T07:00:00.000Z",
- "views": "15323"
+ "views": "15323",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

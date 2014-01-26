@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-09-22T07:00:00.000Z",
- "views": "23945"
+ "views": "23945",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pseudoephedrine",
+   "form": "(daily)"
+  }
+ ]
 }

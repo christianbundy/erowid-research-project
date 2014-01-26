@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-11T07:00:00.000Z",
- "views": "45788"
+ "views": "45788",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Amanitas - A. muscaria"
+  }
+ ]
 }

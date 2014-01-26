@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-03T08:00:00.000Z",
- "views": "10652"
+ "views": "10652",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Heimia myrtifolia",
+   "form": "(dried)"
+  }
+ ]
 }

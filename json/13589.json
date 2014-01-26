@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-04-09T07:00:00.000Z",
- "views": "44341"
+ "views": "44341",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

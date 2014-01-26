@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-30T08:00:00.000Z",
- "views": "19332"
+ "views": "19332",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

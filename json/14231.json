@@ -69,5 +69,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-30T07:00:00.000Z",
- "views": "61960"
+ "views": "61960",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

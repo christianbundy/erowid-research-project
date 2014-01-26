@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-01-03T08:00:00.000Z",
- "views": "10659"
+ "views": "10659",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": " T+ 4:00"
+  }
+ ]
 }

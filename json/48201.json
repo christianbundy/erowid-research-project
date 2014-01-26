@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-22T07:00:00.000Z",
- "views": "18555"
+ "views": "18555",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": ""
+  }
+ ]
 }

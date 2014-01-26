@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-08-19T07:00:00.000Z",
- "views": "2800"
+ "views": "2800",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

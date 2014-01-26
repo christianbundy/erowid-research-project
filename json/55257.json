@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-11T08:00:00.000Z",
- "views": "10372"
+ "views": "10372",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "IV",
+   "substance": "DPT",
+   "form": "(liquid)"
+  }
+ ]
 }

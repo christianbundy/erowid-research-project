@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2011-07-12T07:00:00.000Z",
- "views": "7647"
+ "views": "7647",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylethcathinone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

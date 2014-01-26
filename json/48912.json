@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-30T08:00:00.000Z",
- "views": "14036"
+ "views": "14036",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(daily)"
+  }
+ ]
 }

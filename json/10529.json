@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-15T08:00:00.000Z",
- "views": "19054"
+ "views": "19054",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "DPT",
+   "form": "(freebase)"
+  }
+ ]
 }

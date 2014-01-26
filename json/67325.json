@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-08T08:00:00.000Z",
- "views": "19381"
+ "views": "19381",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Inhalants",
+   "form": "(gas)"
+  }
+ ]
 }

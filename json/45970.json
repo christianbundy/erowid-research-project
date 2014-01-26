@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-03T08:00:00.000Z",
- "views": "13664"
+ "views": "13664",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.35 g",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ ]
 }

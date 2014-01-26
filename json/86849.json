@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-12-30T08:00:00.000Z",
- "views": "389"
+ "views": "389",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "PMA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

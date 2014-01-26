@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-24T07:00:00.000Z",
- "views": "9921"
+ "views": "9921",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Mushrooms - P. cubensis",
+   "form": ""
+  }
+ ]
 }

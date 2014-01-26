@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-19T07:00:00.000Z",
- "views": "12775"
+ "views": "12775",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  }
+ ]
 }

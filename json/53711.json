@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-06T08:00:00.000Z",
- "views": "19005"
+ "views": "19005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(daily)"
+  }
+ ]
 }

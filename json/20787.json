@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-29T08:00:00.000Z",
- "views": "11358"
+ "views": "11358",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": ""
+  }
+ ]
 }

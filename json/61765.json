@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-09T08:00:00.000Z",
- "views": "13596"
+ "views": "13596",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

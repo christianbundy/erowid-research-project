@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-16T08:00:00.000Z",
- "views": "7679"
+ "views": "7679",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 oz",
+   "administration": "oral",
+   "substance": "Lady's Slipper",
+   "form": "(tea)"
+  }
+ ]
 }

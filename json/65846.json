@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-10-11T07:00:00.000Z",
- "views": "19075"
+ "views": "19075",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

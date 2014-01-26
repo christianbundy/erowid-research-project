@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-07-21T07:00:00.000Z",
- "views": "12335"
+ "views": "12335",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tar / resin)"
+  }
+ ]
 }

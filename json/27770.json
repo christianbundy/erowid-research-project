@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-14T07:00:00.000Z",
- "views": "20759"
+ "views": "20759",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

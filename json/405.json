@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-29T07:00:00.000Z",
- "views": "31030"
+ "views": "31030",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

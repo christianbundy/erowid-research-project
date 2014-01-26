@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-16T07:00:00.000Z",
- "views": "37207"
+ "views": "37207",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "IV",
+   "substance": "Unknown",
+   "form": ""
+  }
+ ]
 }

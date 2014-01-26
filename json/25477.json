@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-07-21T07:00:00.000Z",
- "views": "22349"
+ "views": "22349",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "IAP",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

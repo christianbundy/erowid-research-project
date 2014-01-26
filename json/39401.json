@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-25T08:00:00.000Z",
- "views": "30469"
+ "views": "30469",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 capsls",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

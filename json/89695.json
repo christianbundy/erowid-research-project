@@ -49,5 +49,14 @@
  "gender": "Female",
  "age": "19",
  "timestamp": "2012-10-25T07:00:00.000Z",
- "views": "2394"
+ "views": "2394",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-27T08:00:00.000Z",
- "views": "75735"
+ "views": "75735",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 bowls",
+   "administration": "smoked",
+   "substance": "Opium",
+   "form": "(tar / resin)"
+  }
+ ]
 }

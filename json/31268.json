@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-24T07:00:00.000Z",
- "views": "28561"
+ "views": "28561",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "IV",
+   "substance": "Heroin"
+  }
+ ]
 }

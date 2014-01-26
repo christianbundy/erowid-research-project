@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-08-15T07:00:00.000Z",
- "views": "14827"
+ "views": "14827",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi"
+  }
+ ]
 }

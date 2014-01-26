@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-13T07:00:00.000Z",
- "views": "24397"
+ "views": "24397",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 lines",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-12-09T08:00:00.000Z",
- "views": "10074"
+ "views": "10074",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "11 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

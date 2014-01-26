@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "32",
  "timestamp": "2011-02-14T08:00:00.000Z",
- "views": "5168"
+ "views": "5168",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": ""
+  }
+ ]
 }

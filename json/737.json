@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-08-01T07:00:00.000Z",
- "views": "27026"
+ "views": "27026",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(dried)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "33",
  "timestamp": "2010-10-07T07:00:00.000Z",
- "views": "37415"
+ "views": "37415",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Heroin",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-07-01T07:00:00.000Z",
- "views": "9027"
+ "views": "9027",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

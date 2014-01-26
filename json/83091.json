@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "28",
  "timestamp": "2010-10-13T07:00:00.000Z",
- "views": "16896"
+ "views": "16896",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(daily)"
+  }
+ ]
 }

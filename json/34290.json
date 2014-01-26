@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-07-17T07:00:00.000Z",
- "views": "6832"
+ "views": "6832",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "DiPT",
+   "form": "(capsule)"
+  }
+ ]
 }

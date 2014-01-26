@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-16T07:00:00.000Z",
- "views": "21710"
+ "views": "21710",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-03-10T08:00:00.000Z",
- "views": "70022"
+ "views": "70022",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

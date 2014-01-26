@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-02T07:00:00.000Z",
- "views": "12182"
+ "views": "12182",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "IM",
+   "substance": "4-HO-MET"
+  }
+ ]
 }

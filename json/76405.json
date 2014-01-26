@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-02-25T08:00:00.000Z",
- "views": "5695"
+ "views": "5695",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

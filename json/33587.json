@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-28T07:00:00.000Z",
- "views": "9158"
+ "views": "9158",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 g",
+   "administration": "oral",
+   "substance": "Heimia salicifolia",
+   "form": "(tea)"
+  }
+ ]
 }

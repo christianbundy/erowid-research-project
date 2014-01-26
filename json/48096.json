@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-05-24T07:00:00.000Z",
- "views": "11789"
+ "views": "11789",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(daily)"
+  }
+ ]
 }

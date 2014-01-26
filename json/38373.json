@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-23T08:00:00.000Z",
- "views": "27067"
+ "views": "27067",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(tea)"
+  }
+ ]
 }

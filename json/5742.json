@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-22T08:00:00.000Z",
- "views": "44106"
+ "views": "44106",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

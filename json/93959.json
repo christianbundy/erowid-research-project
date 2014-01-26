@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2013-05-22T07:00:00.000Z",
- "views": "1286"
+ "views": "1286",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  }
+ ]
 }

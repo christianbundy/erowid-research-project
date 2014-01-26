@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-01-06T08:00:00.000Z",
- "views": "56148"
+ "views": "56148",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Duloxetine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

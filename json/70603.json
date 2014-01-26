@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-04-18T07:00:00.000Z",
- "views": "7334"
+ "views": "7334",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "",
+   "substance": "DXM"
+  }
+ ]
 }

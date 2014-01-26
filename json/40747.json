@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-22T07:00:00.000Z",
- "views": "12808"
+ "views": "12808",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "4-HO-DiPT",
+   "form": " T+ 0:50"
+  }
+ ]
 }

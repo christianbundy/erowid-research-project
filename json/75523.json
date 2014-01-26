@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "35",
  "timestamp": "2010-01-10T08:00:00.000Z",
- "views": "5803"
+ "views": "5803",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "2C-C"
+  }
+ ]
 }

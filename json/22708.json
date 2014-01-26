@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-13T07:00:00.000Z",
- "views": "10925"
+ "views": "10925",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(cookie / food)"
+  }
+ ]
 }

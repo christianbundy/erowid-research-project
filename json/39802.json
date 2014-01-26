@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-11T07:00:00.000Z",
- "views": "2543"
+ "views": "2543",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "2C-I"
+  }
+ ]
 }

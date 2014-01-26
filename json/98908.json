@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-07-11T07:00:00.000Z",
- "views": "838"
+ "views": "838",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "vaporized",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-23T07:00:00.000Z",
- "views": "53451"
+ "views": "53451",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "IV",
+   "substance": "Pharms - Midazolam",
+   "form": "(liquid)"
+  }
+ ]
 }

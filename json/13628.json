@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-05-06T07:00:00.000Z",
- "views": "49278"
+ "views": "49278",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "22 mg",
+   "administration": "oral",
+   "substance": "Pharms - Selegeline"
+  }
+ ]
 }

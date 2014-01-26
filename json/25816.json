@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-31T07:00:00.000Z",
- "views": "20235"
+ "views": "20235",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(tea)"
+  }
+ ]
 }

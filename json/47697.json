@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-27T08:00:00.000Z",
- "views": "17945"
+ "views": "17945",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13 hits",
+   "administration": "inhaled",
+   "substance": "Pharms - Albuterol"
+  }
+ ]
 }

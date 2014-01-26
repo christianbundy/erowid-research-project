@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "21049"
+ "views": "21049",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 line",
+   "administration": "IV",
+   "substance": "Cocaine",
+   "form": "(liquid)"
+  }
+ ]
 }

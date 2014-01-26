@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-11T07:00:00.000Z",
- "views": "42444"
+ "views": "42444",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 ",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  }
+ ]
 }

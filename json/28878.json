@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-26T07:00:00.000Z",
- "views": "29354"
+ "views": "29354",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Vinpocetine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

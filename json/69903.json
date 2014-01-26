@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-01T07:00:00.000Z",
- "views": "10988"
+ "views": "10988",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "PMA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

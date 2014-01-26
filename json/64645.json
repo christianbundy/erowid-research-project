@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-15T08:00:00.000Z",
- "views": "10179"
+ "views": "10179",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

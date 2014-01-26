@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-31T07:00:00.000Z",
- "views": "21109"
+ "views": "21109",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Codeine",
+   "form": "(daily)"
+  }
+ ]
 }

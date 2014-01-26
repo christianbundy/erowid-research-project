@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-06-03T07:00:00.000Z",
- "views": "22073"
+ "views": "22073",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

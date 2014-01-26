@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "23121"
+ "views": "23121",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

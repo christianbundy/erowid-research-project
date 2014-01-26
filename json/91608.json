@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "17",
  "timestamp": "2011-09-09T07:00:00.000Z",
- "views": "3515"
+ "views": "3515",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ ]
 }

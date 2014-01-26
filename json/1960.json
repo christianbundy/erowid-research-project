@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-19T07:00:00.000Z",
- "views": "53241"
+ "views": "53241",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

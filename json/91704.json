@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2012-02-19T08:00:00.000Z",
- "views": "18640"
+ "views": "18640",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(liquid)"
+  }
+ ]
 }

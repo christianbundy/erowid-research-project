@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-01T08:00:00.000Z",
- "views": "32932"
+ "views": "32932",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "72 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

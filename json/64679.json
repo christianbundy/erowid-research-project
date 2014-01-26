@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-09-08T07:00:00.000Z",
- "views": "7702"
+ "views": "7702",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Skullcap"
+  }
+ ]
 }

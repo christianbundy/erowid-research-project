@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "56",
  "timestamp": "2010-10-08T07:00:00.000Z",
- "views": "8245"
+ "views": "8245",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "oral",
+   "substance": "Ibogaine"
+  }
+ ]
 }

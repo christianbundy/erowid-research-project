@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-24T08:00:00.000Z",
- "views": "18685"
+ "views": "18685",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "33 g",
+   "administration": "smoked",
+   "substance": "Passion Flower",
+   "form": "(flowers)"
+  }
+ ]
 }

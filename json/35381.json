@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-08-12T07:00:00.000Z",
- "views": "26809"
+ "views": "26809",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

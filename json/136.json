@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-07-30T07:00:00.000Z",
- "views": "19066"
+ "views": "19066",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 ml",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(extract)"
+  }
+ ]
 }

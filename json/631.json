@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-07-16T07:00:00.000Z",
- "views": "99046"
+ "views": "99046",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "256 mg",
+   "administration": "oral",
+   "substance": "Codeine"
+  }
+ ]
 }

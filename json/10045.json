@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-23T08:00:00.000Z",
- "views": "104402"
+ "views": "104402",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "12 mg",
+   "administration": "SC",
+   "substance": "Hydromorphone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

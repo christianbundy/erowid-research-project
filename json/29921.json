@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-07T08:00:00.000Z",
- "views": "43801"
+ "views": "43801",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Barbiturates",
+   "form": "(daily)"
+  }
+ ]
 }

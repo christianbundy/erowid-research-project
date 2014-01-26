@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-30T08:00:00.000Z",
- "views": "6584"
+ "views": "6584",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 hits",
+   "administration": "smoked",
+   "substance": "Coleus",
+   "form": "(fresh)"
+  }
+ ]
 }

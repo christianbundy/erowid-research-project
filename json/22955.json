@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-03-12T08:00:00.000Z",
- "views": "4241"
+ "views": "4241",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 tablets",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

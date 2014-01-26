@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2002-01-09T08:00:00.000Z",
- "views": "36214"
+ "views": "36214",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ ]
 }

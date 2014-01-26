@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-26T08:00:00.000Z",
- "views": "16005"
+ "views": "16005",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "insufflated",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

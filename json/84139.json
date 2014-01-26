@@ -34,5 +34,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2010-12-09T08:00:00.000Z",
- "views": "9412"
+ "views": "9412",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 ug",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-02T08:00:00.000Z",
- "views": "34604"
+ "views": "34604",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

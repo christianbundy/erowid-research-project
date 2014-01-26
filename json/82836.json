@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2011-02-22T08:00:00.000Z",
- "views": "12461"
+ "views": "12461",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.25 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  }
+ ]
 }

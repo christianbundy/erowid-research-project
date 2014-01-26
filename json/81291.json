@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "21",
  "timestamp": "2009-09-21T07:00:00.000Z",
- "views": "15833"
+ "views": "15833",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

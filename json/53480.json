@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-19T07:00:00.000Z",
- "views": "27914"
+ "views": "27914",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 lines",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-05-06T07:00:00.000Z",
- "views": "2059"
+ "views": "2059",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids"
+  }
+ ]
 }

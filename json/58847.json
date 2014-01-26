@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-17T08:00:00.000Z",
- "views": "24392"
+ "views": "24392",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-08T07:00:00.000Z",
- "views": "15124"
+ "views": "15124",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  }
+ ]
 }

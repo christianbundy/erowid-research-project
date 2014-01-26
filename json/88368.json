@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "21",
  "timestamp": "2011-02-16T08:00:00.000Z",
- "views": "2374"
+ "views": "2374",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 ",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  }
+ ]
 }

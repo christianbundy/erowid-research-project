@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-09-27T07:00:00.000Z",
- "views": "10628"
+ "views": "10628",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(daily)"
+  }
+ ]
 }

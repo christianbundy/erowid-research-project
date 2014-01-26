@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-14T07:00:00.000Z",
- "views": "5965"
+ "views": "5965",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-16T07:00:00.000Z",
- "views": "6740"
+ "views": "6740",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

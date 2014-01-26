@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-10-29T07:00:00.000Z",
- "views": "15591"
+ "views": "15591",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3200 mg",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ ]
 }

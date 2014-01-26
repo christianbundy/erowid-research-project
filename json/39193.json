@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-01-11T08:00:00.000Z",
- "views": "5058"
+ "views": "5058",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cap",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ ]
 }

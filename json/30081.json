@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-16T08:00:00.000Z",
- "views": "15404"
+ "views": "15404",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "2-Aminoindan"
+  }
+ ]
 }

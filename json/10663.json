@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-07-16T07:00:00.000Z",
- "views": "61321"
+ "views": "61321",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "PCP",
+   "form": ""
+  }
+ ]
 }

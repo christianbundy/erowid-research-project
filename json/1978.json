@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-20T07:00:00.000Z",
- "views": "96742"
+ "views": "96742",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

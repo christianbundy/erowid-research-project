@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-02-08T08:00:00.000Z",
- "views": "18637"
+ "views": "18637",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 bumps",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

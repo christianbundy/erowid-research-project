@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2013-11-09T08:00:00.000Z",
- "views": "651"
+ "views": "651",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "330 mg",
+   "administration": "insufflated",
+   "substance": "25B-NBOMe",
+   "form": "(liquid)"
+  }
+ ]
 }

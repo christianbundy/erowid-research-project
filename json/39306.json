@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
- "views": "15003"
+ "views": "15003",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

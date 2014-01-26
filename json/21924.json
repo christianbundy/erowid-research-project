@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-03-08T08:00:00.000Z",
- "views": "26813"
+ "views": "26813",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-T-4",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-21T08:00:00.000Z",
- "views": "8845"
+ "views": "8845",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

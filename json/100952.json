@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-08-05T07:00:00.000Z",
- "views": "2683"
+ "views": "2683",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 ug",
+   "administration": "oral",
+   "substance": "AL-LAD",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-10-16T07:00:00.000Z",
- "views": "2615"
+ "views": "2615",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.2 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cyanescens",
+   "form": "(dried)"
+  }
+ ]
 }

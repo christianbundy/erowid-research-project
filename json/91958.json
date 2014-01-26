@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "15",
  "timestamp": "2011-07-19T07:00:00.000Z",
- "views": "6252"
+ "views": "6252",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

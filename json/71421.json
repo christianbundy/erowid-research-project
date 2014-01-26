@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-26T07:00:00.000Z",
- "views": "10273"
+ "views": "10273",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Bupropion",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

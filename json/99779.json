@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "35",
  "timestamp": "2013-04-01T07:00:00.000Z",
- "views": "2685"
+ "views": "2685",
+ "dose": [
+  {
+   "time": "DOSE: T+ 11:15",
+   "amount": "66 ug",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(liquid)"
+  }
+ ]
 }

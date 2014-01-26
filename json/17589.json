@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-18T08:00:00.000Z",
- "views": "38046"
+ "views": "38046",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  }
+ ]
 }

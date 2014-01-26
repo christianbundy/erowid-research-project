@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-11T07:00:00.000Z",
- "views": "12632"
+ "views": "12632",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -38,5 +38,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-02T08:00:00.000Z",
- "views": "15272"
+ "views": "15272",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": " T+ 1:45"
+  }
+ ]
 }

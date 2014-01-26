@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-06-19T07:00:00.000Z",
- "views": "8936"
+ "views": "8936",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 tsp",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  }
+ ]
 }

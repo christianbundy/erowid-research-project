@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-12T07:00:00.000Z",
- "views": "16744"
+ "views": "16744",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.75 g",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

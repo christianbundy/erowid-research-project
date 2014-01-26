@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2008-06-03T07:00:00.000Z",
- "views": "10671"
+ "views": "10671",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes",
+   "form": "(plant material)"
+  }
+ ]
 }

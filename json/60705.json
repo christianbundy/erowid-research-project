@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-02-23T08:00:00.000Z",
- "views": "53332"
+ "views": "53332",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Heroin",
+   "form": "(daily)"
+  }
+ ]
 }

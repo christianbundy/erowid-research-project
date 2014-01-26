@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-09-30T07:00:00.000Z",
- "views": "70847"
+ "views": "70847",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 oz",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  }
+ ]
 }

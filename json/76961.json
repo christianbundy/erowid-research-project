@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-05-05T07:00:00.000Z",
- "views": "4471"
+ "views": "4471",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "DOM"
+  }
+ ]
 }

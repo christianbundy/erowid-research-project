@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "13",
  "timestamp": "2011-07-15T07:00:00.000Z",
- "views": "5005"
+ "views": "5005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis"
+  }
+ ]
 }

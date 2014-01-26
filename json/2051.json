@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-23T07:00:00.000Z",
- "views": "127612"
+ "views": "127612",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "310 mg",
+   "administration": "oral",
+   "substance": "Mescaline"
+  }
+ ]
 }

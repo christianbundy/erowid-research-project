@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-04-11T07:00:00.000Z",
- "views": "11410"
+ "views": "11410",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "Piperazines - BZP"
+  }
+ ]
 }

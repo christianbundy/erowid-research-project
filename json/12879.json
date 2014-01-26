@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-04-16T07:00:00.000Z",
- "views": "12437"
+ "views": "12437",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": ""
+  }
+ ]
 }

@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-22T08:00:00.000Z",
- "views": "7392"
+ "views": "7392",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": " T+ 0:30"
+  }
+ ]
 }

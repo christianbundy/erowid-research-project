@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-14T07:00:00.000Z",
- "views": "592"
+ "views": "592",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "5-Methoxy-Tryptamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "35",
  "timestamp": "2012-06-26T07:00:00.000Z",
- "views": "5984"
+ "views": "5984",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "AM-2201"
+  }
+ ]
 }

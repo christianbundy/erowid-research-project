@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "27",
  "timestamp": "2012-03-07T08:00:00.000Z",
- "views": "17432"
+ "views": "17432",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "2C-I-NBOMe"
+  }
+ ]
 }

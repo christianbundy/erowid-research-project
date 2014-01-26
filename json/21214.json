@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-26T07:00:00.000Z",
- "views": "32462"
+ "views": "32462",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Leonurus sibiricus",
+   "form": "(dried)"
+  }
+ ]
 }

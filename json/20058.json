@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-08T08:00:00.000Z",
- "views": "13029"
+ "views": "13029",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 leaves",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": "(fresh)"
+  }
+ ]
 }

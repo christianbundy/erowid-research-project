@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-07-18T07:00:00.000Z",
- "views": "27896"
+ "views": "27896",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.25 g",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

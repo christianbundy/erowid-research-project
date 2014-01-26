@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2013-12-12T08:00:00.000Z",
- "views": "289"
+ "views": "289",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-018"
+  }
+ ]
 }

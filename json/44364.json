@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2005-07-09T07:00:00.000Z",
- "views": "21883"
+ "views": "21883",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " leaves",
+   "administration": "sublingual",
+   "substance": "Catha edulis",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-07T08:00:00.000Z",
- "views": "29365"
+ "views": "29365",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.2 g",
+   "administration": "oral",
+   "substance": "Pharms - Metaxalone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

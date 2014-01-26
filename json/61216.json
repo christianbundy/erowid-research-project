@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-25T07:00:00.000Z",
- "views": "36927"
+ "views": "36927",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(daily)"
+  }
+ ]
 }

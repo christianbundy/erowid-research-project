@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-20T07:00:00.000Z",
- "views": "22450"
+ "views": "22450",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "350 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ ]
 }

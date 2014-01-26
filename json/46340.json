@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-14T07:00:00.000Z",
- "views": "27914"
+ "views": "27914",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "170 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  }
+ ]
 }

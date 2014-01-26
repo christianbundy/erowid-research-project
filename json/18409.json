@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-10-24T07:00:00.000Z",
- "views": "25297"
+ "views": "25297",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 caps",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  }
+ ]
 }

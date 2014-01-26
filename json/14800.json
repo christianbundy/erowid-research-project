@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-04-04T07:00:00.000Z",
- "views": "25626"
+ "views": "25626",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

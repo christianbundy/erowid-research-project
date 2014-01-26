@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-09-21T07:00:00.000Z",
- "views": "753"
+ "views": "753",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

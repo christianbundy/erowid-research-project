@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2010-08-27T07:00:00.000Z",
- "views": "14604"
+ "views": "14604",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "45 mg",
+   "administration": "",
+   "substance": "4-AcO-DMT"
+  }
+ ]
 }

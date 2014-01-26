@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-01-28T08:00:00.000Z",
- "views": "52096"
+ "views": "52096",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

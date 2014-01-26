@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-07-16T07:00:00.000Z",
- "views": "12979"
+ "views": "12979",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "325 ml",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(extract)"
+  }
+ ]
 }

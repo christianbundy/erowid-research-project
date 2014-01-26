@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-11-26T08:00:00.000Z",
- "views": "11309"
+ "views": "11309",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

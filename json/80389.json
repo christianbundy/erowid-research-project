@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-01-30T08:00:00.000Z",
- "views": "22329"
+ "views": "22329",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3150 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-20T07:00:00.000Z",
- "views": "12971"
+ "views": "12971",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Procaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

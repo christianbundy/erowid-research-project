@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-07T07:00:00.000Z",
- "views": "58341"
+ "views": "58341",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

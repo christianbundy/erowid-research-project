@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2011-07-28T07:00:00.000Z",
- "views": "14877"
+ "views": "14877",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

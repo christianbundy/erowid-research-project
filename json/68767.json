@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-19T08:00:00.000Z",
- "views": "19358"
+ "views": "19358",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "H.B. Woodrose",
+   "form": "(extract)"
+  }
+ ]
 }

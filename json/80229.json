@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-08-27T07:00:00.000Z",
- "views": "9365"
+ "views": "9365",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 mg",
+   "administration": "IM",
+   "substance": "4-AcO-DMT",
+   "form": ""
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
- "views": "21613"
+ "views": "21613",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Aripiprazole",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

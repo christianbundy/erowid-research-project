@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-22T08:00:00.000Z",
- "views": "58681"
+ "views": "58681",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propranolol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

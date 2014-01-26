@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-02-28T08:00:00.000Z",
- "views": "4250"
+ "views": "4250",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 Tbsp",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  }
+ ]
 }

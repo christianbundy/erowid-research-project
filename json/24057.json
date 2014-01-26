@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-05-28T07:00:00.000Z",
- "views": "25005"
+ "views": "25005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-Methylaminorex",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

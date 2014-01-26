@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2011-11-01T07:00:00.000Z",
- "views": "3223"
+ "views": "3223",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": ".5 g",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  }
+ ]
 }

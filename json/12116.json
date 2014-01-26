@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-24T08:00:00.000Z",
- "views": "7972"
+ "views": "7972",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "95 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

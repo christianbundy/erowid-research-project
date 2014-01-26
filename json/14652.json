@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-04-07T07:00:00.000Z",
- "views": "9890"
+ "views": "9890",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(dried)"
+  }
+ ]
 }

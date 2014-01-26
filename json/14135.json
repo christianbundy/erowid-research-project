@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-05-01T07:00:00.000Z",
- "views": "16388"
+ "views": "16388",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13 in",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(plant material)"
+  }
+ ]
 }

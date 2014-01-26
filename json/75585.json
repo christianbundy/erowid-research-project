@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-06-08T07:00:00.000Z",
- "views": "39989"
+ "views": "39989",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(extract)"
+  }
+ ]
 }

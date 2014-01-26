@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-02T08:00:00.000Z",
- "views": "4883"
+ "views": "4883",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13 g",
+   "administration": "oral",
+   "substance": "Kratom"
+  }
+ ]
 }

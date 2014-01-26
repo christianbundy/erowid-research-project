@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2012-02-10T08:00:00.000Z",
- "views": "3112"
+ "views": "3112",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ ]
 }

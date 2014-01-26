@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-02-22T08:00:00.000Z",
- "views": "43696"
+ "views": "43696",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 g",
+   "administration": "oral",
+   "substance": "Mushrooms - C. cyanescens"
+  }
+ ]
 }

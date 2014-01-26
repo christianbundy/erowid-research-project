@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-26T08:00:00.000Z",
- "views": "22356"
+ "views": "22356",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-11-09T08:00:00.000Z",
- "views": "980"
+ "views": "980",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

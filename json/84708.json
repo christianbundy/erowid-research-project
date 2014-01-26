@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "21",
  "timestamp": "2010-07-19T07:00:00.000Z",
- "views": "4268"
+ "views": "4268",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(seeds)"
+  }
+ ]
 }

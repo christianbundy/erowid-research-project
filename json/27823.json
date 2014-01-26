@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-24T07:00:00.000Z",
- "views": "41403"
+ "views": "41403",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "190 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

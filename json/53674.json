@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-29T07:00:00.000Z",
- "views": "37951"
+ "views": "37951",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "PCP",
+   "form": ""
+  }
+ ]
 }

@@ -44,5 +44,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-12-15T08:00:00.000Z",
- "views": "85210"
+ "views": "85210",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

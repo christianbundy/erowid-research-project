@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "41",
  "timestamp": "2011-09-21T07:00:00.000Z",
- "views": "4090"
+ "views": "4090",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

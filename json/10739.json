@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-25T08:00:00.000Z",
- "views": "7540"
+ "views": "7540",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(capsule)"
+  }
+ ]
 }

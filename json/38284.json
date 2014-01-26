@@ -44,5 +44,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-27T07:00:00.000Z",
- "views": "41277"
+ "views": "41277",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ ]
 }

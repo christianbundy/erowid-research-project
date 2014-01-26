@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-19T07:00:00.000Z",
- "views": "20577"
+ "views": "20577",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - L-Tryptophan",
+   "form": "(daily)"
+  }
+ ]
 }

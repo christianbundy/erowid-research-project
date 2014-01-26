@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "15",
  "timestamp": "2012-10-02T07:00:00.000Z",
- "views": "1538"
+ "views": "1538",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 drops",
+   "administration": "oral",
+   "substance": "Lactuca - L. canadensis",
+   "form": "(liquid)"
+  }
+ ]
 }

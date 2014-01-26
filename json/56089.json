@@ -26,5 +26,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-02-18T08:00:00.000Z",
- "views": "10631"
+ "views": "10631",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": ""
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-02-04T08:00:00.000Z",
- "views": "11172"
+ "views": "11172",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Divalproex",
+   "form": "(daily)"
+  }
+ ]
 }

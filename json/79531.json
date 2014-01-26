@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "20",
  "timestamp": "2013-10-27T07:00:00.000Z",
- "views": "6025"
+ "views": "6025",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "DXM"
+  }
+ ]
 }

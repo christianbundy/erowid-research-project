@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-05-31T07:00:00.000Z",
- "views": "51732"
+ "views": "51732",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Datura"
+  }
+ ]
 }

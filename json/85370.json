@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2010-05-18T07:00:00.000Z",
- "views": "20714"
+ "views": "20714",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

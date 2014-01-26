@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-10T08:00:00.000Z",
- "views": "4350"
+ "views": "4350",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 g",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(plant material)"
+  }
+ ]
 }

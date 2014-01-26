@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-12T08:00:00.000Z",
- "views": "48365"
+ "views": "48365",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

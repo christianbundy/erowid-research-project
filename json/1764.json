@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-12T07:00:00.000Z",
- "views": "25169"
+ "views": "25169",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

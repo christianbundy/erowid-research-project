@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-10T07:00:00.000Z",
- "views": "4234"
+ "views": "4234",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "",
+   "substance": "Amphetamines"
+  }
+ ]
 }

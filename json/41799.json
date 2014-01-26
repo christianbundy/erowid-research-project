@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-04-04T07:00:00.000Z",
- "views": "17855"
+ "views": "17855",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": " T+ 1:00"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-17T08:00:00.000Z",
- "views": "13782"
+ "views": "13782",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Barbiturates - Phenobarbital"
+  }
+ ]
 }

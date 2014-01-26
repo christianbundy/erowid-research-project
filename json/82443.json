@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-02-23T08:00:00.000Z",
- "views": "5035"
+ "views": "5035",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Meperidine"
+  }
+ ]
 }

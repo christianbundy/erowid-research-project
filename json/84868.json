@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2010-04-15T07:00:00.000Z",
- "views": "9719"
+ "views": "9719",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 mg",
+   "administration": "oral",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

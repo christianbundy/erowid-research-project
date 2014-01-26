@@ -39,5 +39,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2004-11-22T08:00:00.000Z",
- "views": "24513"
+ "views": "24513",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Anadenanthera colubrina",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

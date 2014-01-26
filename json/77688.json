@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-10T08:00:00.000Z",
- "views": "5959"
+ "views": "5959",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "IV",
+   "substance": "2C-C",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

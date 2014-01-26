@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2010-06-30T07:00:00.000Z",
- "views": "13014"
+ "views": "13014",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": ""
+  }
+ ]
 }

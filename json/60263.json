@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-27T07:00:00.000Z",
- "views": "21224"
+ "views": "21224",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Lotus/Lily - Nelumbo nucifera",
+   "form": ""
+  }
+ ]
 }

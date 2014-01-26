@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-23T08:00:00.000Z",
- "views": "25848"
+ "views": "25848",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": " T+ 2:30"
+  }
+ ]
 }

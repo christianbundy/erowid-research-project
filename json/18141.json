@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-11-19T08:00:00.000Z",
- "views": "13366"
+ "views": "13366",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  }
+ ]
 }

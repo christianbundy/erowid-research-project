@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-11T08:00:00.000Z",
- "views": "51751"
+ "views": "51751",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Buspirone",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

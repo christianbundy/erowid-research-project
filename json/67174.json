@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-12T08:00:00.000Z",
- "views": "27772"
+ "views": "27772",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6.5 ml",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-04-25T07:00:00.000Z",
- "views": "11123"
+ "views": "11123",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": " T+ 0:30"
+  }
+ ]
 }

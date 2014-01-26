@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "5389"
+ "views": "5389",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-11-30T08:00:00.000Z",
- "views": "31664"
+ "views": "31664",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(daily)"
+  }
+ ]
 }

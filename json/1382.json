@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-05-11T07:00:00.000Z",
- "views": "13209"
+ "views": "13209",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 ug",
+   "administration": "oral",
+   "substance": "LSD"
+  }
+ ]
 }

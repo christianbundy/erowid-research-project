@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-21T08:00:00.000Z",
- "views": "24989"
+ "views": "24989",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(plant material)"
+  }
+ ]
 }

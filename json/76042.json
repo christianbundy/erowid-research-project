@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-04-27T07:00:00.000Z",
- "views": "26916"
+ "views": "26916",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Selegeline",
+   "form": "(daily)"
+  }
+ ]
 }

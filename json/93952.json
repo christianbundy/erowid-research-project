@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-06-24T07:00:00.000Z",
- "views": "1901"
+ "views": "1901",
+ "dose": [
+  {
+   "time": "DOSE: T+ 17:00",
+   "amount": "100 ug",
+   "administration": "sublingual",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

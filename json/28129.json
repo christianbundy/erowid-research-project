@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-04T08:00:00.000Z",
- "views": "11702"
+ "views": "11702",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Bupropion",
+   "form": "(daily)"
+  }
+ ]
 }

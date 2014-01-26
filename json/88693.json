@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "27",
  "timestamp": "2011-01-25T08:00:00.000Z",
- "views": "13241"
+ "views": "13241",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2002-02-06T08:00:00.000Z",
- "views": "26565"
+ "views": "26565",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

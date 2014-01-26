@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-28T08:00:00.000Z",
- "views": "2906"
+ "views": "2906",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ ]
 }

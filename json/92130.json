@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-09-14T07:00:00.000Z",
- "views": "8357"
+ "views": "8357",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ ]
 }

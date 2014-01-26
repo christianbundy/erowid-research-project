@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-01-18T08:00:00.000Z",
- "views": "23604"
+ "views": "23604",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": ""
+  }
+ ]
 }

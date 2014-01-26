@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-23T08:00:00.000Z",
- "views": "12480"
+ "views": "12480",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram",
+   "form": "(daily)"
+  }
+ ]
 }

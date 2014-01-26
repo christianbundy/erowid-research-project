@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-06T08:00:00.000Z",
- "views": "46311"
+ "views": "46311",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "110 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-30T08:00:00.000Z",
- "views": "16719"
+ "views": "16719",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(capsule)"
+  }
+ ]
 }

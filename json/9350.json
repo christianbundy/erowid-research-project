@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-24T08:00:00.000Z",
- "views": "25520"
+ "views": "25520",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Tobacco"
+  }
+ ]
 }

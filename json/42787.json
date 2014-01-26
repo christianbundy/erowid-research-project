@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-11-13T08:00:00.000Z",
- "views": "41121"
+ "views": "41121",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "insufflated",
+   "substance": "Pharms - Zolpidem",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

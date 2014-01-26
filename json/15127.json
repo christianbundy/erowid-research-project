@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-09-30T07:00:00.000Z",
- "views": "10005"
+ "views": "10005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

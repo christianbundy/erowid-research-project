@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-15T07:00:00.000Z",
- "views": "5862"
+ "views": "5862",
+ "dose": [
+  {
+   "time": "DOSE: T+ 4:00",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-10T08:00:00.000Z",
- "views": "63665"
+ "views": "63665",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

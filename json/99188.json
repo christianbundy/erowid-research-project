@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2013-03-22T07:00:00.000Z",
- "views": "4303"
+ "views": "4303",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 ug",
+   "administration": "sublingual",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

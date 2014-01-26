@@ -22,5 +22,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-25T07:00:00.000Z",
- "views": "36808"
+ "views": "36808",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Betel Nut",
+   "form": ""
+  }
+ ]
 }

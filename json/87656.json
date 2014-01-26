@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-10-26T07:00:00.000Z",
- "views": "5961"
+ "views": "5961",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylmethcathinone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

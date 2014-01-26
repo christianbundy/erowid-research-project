@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-02-10T08:00:00.000Z",
- "views": "34073"
+ "views": "34073",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

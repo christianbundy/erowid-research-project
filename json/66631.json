@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-31T07:00:00.000Z",
- "views": "12096"
+ "views": "12096",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DALT"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-08-09T07:00:00.000Z",
- "views": "30694"
+ "views": "30694",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

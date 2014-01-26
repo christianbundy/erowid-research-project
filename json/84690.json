@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2010-06-22T07:00:00.000Z",
- "views": "15168"
+ "views": "15168",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "2C-P"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-01-26T08:00:00.000Z",
- "views": "40466"
+ "views": "40466",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "530 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(liquid)"
+  }
+ ]
 }

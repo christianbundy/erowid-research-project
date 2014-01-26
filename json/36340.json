@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-05-08T07:00:00.000Z",
- "views": "51840"
+ "views": "51840",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

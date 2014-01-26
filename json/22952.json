@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-24T07:00:00.000Z",
- "views": "16282"
+ "views": "16282",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "transdermal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ ]
 }

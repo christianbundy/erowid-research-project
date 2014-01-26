@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-07-10T07:00:00.000Z",
- "views": "12277"
+ "views": "12277",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-T-4",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

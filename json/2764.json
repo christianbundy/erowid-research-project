@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-10T07:00:00.000Z",
- "views": "14401"
+ "views": "14401",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 cups",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ ]
 }

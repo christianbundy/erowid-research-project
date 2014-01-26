@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-08T08:00:00.000Z",
- "views": "42242"
+ "views": "42242",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(capsule)"
+  }
+ ]
 }

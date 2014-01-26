@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-07T07:00:00.000Z",
- "views": "28463"
+ "views": "28463",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-12-03T08:00:00.000Z",
- "views": "1409"
+ "views": "1409",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(liquid)"
+  }
+ ]
 }

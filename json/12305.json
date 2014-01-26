@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-14T08:00:00.000Z",
- "views": "25189"
+ "views": "25189",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

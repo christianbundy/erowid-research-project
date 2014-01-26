@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-03-23T08:00:00.000Z",
- "views": "49250"
+ "views": "49250",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": ""
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-03-13T08:00:00.000Z",
- "views": "15375"
+ "views": "15375",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "118 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ ]
 }

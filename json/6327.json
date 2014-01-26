@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-18T08:00:00.000Z",
- "views": "29050"
+ "views": "29050",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 shots",
+   "administration": "oral",
+   "substance": "Alcohol - Hard"
+  }
+ ]
 }

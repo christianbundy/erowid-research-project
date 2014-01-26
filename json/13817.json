@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-15T08:00:00.000Z",
- "views": "7866"
+ "views": "7866",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ ]
 }

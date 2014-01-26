@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-13T07:00:00.000Z",
- "views": "17127"
+ "views": "17127",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Kava",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

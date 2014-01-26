@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-04T07:00:00.000Z",
- "views": "52253"
+ "views": "52253",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 joints/cigs",
+   "administration": "smoked",
+   "substance": "PCP"
+  }
+ ]
 }

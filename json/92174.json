@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2011-08-23T07:00:00.000Z",
- "views": "5877"
+ "views": "5877",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

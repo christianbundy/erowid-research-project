@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-05-17T07:00:00.000Z",
- "views": "17041"
+ "views": "17041",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.25 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(tea)"
+  }
+ ]
 }

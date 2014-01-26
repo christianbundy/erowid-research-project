@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-08-01T07:00:00.000Z",
- "views": "11683"
+ "views": "11683",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Hydrocodone",
+   "form": "(daily)"
+  }
+ ]
 }

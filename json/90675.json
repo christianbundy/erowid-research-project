@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "20",
  "timestamp": "2011-07-28T07:00:00.000Z",
- "views": "12982"
+ "views": "12982",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

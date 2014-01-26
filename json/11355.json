@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
- "views": "31232"
+ "views": "31232",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 ml",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": "(liquid)"
+  }
+ ]
 }

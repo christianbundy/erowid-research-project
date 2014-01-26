@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2011-01-25T08:00:00.000Z",
- "views": "16295"
+ "views": "16295",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Propranolol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

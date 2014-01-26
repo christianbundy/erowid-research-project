@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-13T07:00:00.000Z",
- "views": "11735"
+ "views": "11735",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": ""
+  }
+ ]
 }

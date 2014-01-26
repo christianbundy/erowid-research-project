@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "19",
  "timestamp": "2011-07-22T07:00:00.000Z",
- "views": "5457"
+ "views": "5457",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "17 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(liquid)"
+  }
+ ]
 }

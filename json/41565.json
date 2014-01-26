@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-12-07T08:00:00.000Z",
- "views": "27058"
+ "views": "27058",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

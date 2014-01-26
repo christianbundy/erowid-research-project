@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-09T07:00:00.000Z",
- "views": "13049"
+ "views": "13049",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxycodone",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

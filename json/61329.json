@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-10T07:00:00.000Z",
- "views": "6406"
+ "views": "6406",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Methylphenidate"
+  }
+ ]
 }

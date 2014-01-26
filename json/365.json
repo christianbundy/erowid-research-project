@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-11T07:00:00.000Z",
- "views": "48821"
+ "views": "48821",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(plant material)"
+  }
+ ]
 }

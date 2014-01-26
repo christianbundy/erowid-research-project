@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2012-12-20T08:00:00.000Z",
- "views": "2826"
+ "views": "2826",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "sublingual",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

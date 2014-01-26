@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2012-11-29T08:00:00.000Z",
- "views": "5353"
+ "views": "5353",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin",
+   "form": "(capsule)"
+  }
+ ]
 }

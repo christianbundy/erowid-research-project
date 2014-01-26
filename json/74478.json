@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-11-16T08:00:00.000Z",
- "views": "637"
+ "views": "637",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": " T+ 13:15"
+  }
+ ]
 }

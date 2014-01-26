@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-31T07:00:00.000Z",
- "views": "4939"
+ "views": "4939",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 seeds",
+   "administration": "smoked",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

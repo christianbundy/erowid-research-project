@@ -26,5 +26,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-11-24T08:00:00.000Z",
- "views": "101228"
+ "views": "101228",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methamphetamine",
+   "form": ""
+  }
+ ]
 }

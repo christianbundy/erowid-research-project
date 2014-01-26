@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-01-19T08:00:00.000Z",
- "views": "25647"
+ "views": "25647",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

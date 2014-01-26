@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-12-09T08:00:00.000Z",
- "views": "20596"
+ "views": "20596",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 capsls",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

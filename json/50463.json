@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-30T07:00:00.000Z",
- "views": "22942"
+ "views": "22942",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Coffee",
+   "form": "(liquid)"
+  }
+ ]
 }

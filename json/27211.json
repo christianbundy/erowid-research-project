@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-01T07:00:00.000Z",
- "views": "14289"
+ "views": "14289",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-MIPT",
+   "form": " T+ 3:00"
+  }
+ ]
 }

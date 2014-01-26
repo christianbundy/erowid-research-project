@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-22T08:00:00.000Z",
- "views": "7816"
+ "views": "7816",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "28 mg",
+   "administration": "insufflated",
+   "substance": "4-MeO-MiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

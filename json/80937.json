@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "48",
  "timestamp": "2010-07-13T07:00:00.000Z",
- "views": "3213"
+ "views": "3213",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 g",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(tea)"
+  }
+ ]
 }

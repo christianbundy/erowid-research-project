@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-08T07:00:00.000Z",
- "views": "55783"
+ "views": "55783",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 oz",
+   "administration": "oral",
+   "substance": "Mimosa tenuiflora",
+   "form": "(rootbark)"
+  }
+ ]
 }

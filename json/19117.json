@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-17T08:00:00.000Z",
- "views": "38023"
+ "views": "38023",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

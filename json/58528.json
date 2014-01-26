@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
- "views": "15147"
+ "views": "15147",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-MIPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

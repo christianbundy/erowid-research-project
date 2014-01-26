@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "37",
  "timestamp": "2013-12-08T08:00:00.000Z",
- "views": "335"
+ "views": "335",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "36 mg",
+   "administration": "oral",
+   "substance": "Methoxetamine ",
+   "form": " T+ 0:10"
+  }
+ ]
 }

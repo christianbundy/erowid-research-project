@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-28T07:00:00.000Z",
- "views": "25142"
+ "views": "25142",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.5 bowls",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(dried)"
+  }
+ ]
 }

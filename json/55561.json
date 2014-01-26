@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-05-13T07:00:00.000Z",
- "views": "11067"
+ "views": "11067",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Methamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

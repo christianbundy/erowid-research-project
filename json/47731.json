@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-10T07:00:00.000Z",
- "views": "28085"
+ "views": "28085",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13 buttons",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(dried)"
+  }
+ ]
 }

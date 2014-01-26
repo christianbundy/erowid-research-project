@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-13T07:00:00.000Z",
- "views": "4777"
+ "views": "4777",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

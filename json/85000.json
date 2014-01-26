@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "19",
  "timestamp": "2010-09-09T07:00:00.000Z",
- "views": "11145"
+ "views": "11145",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "32 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": "(capsule)"
+  }
+ ]
 }

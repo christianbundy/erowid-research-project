@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2010-10-03T07:00:00.000Z",
- "views": "5061"
+ "views": "5061",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Lithium",
+   "form": "(daily)"
+  }
+ ]
 }

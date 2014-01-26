@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-02-24T08:00:00.000Z",
- "views": "8517"
+ "views": "8517",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Smarts - Phenibut"
+  }
+ ]
 }

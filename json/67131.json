@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-03-09T08:00:00.000Z",
- "views": "18572"
+ "views": "18572",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Selegeline",
+   "form": "(daily)"
+  }
+ ]
 }

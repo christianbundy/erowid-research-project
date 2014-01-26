@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-01-23T08:00:00.000Z",
- "views": "21499"
+ "views": "21499",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

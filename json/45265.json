@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-02-14T08:00:00.000Z",
- "views": "12432"
+ "views": "12432",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "14 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

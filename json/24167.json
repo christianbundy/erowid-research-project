@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-02T07:00:00.000Z",
- "views": "24144"
+ "views": "24144",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "smoked",
+   "substance": "Heroin",
+   "form": "(daily)"
+  }
+ ]
 }

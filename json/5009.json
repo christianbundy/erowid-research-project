@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-02-06T08:00:00.000Z",
- "views": "10423"
+ "views": "10423",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 tablets",
+   "administration": "insufflated",
+   "substance": "MDA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

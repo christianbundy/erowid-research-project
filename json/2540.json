@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-03T07:00:00.000Z",
- "views": "13802"
+ "views": "13802",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(capsule)"
+  }
+ ]
 }

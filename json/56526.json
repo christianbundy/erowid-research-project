@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-25T07:00:00.000Z",
- "views": "21867"
+ "views": "21867",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

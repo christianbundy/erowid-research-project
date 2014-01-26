@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-19T07:00:00.000Z",
- "views": "15712"
+ "views": "15712",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Mugwort",
+   "form": "(dried)"
+  }
+ ]
 }

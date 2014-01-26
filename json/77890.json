@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2010-12-09T08:00:00.000Z",
- "views": "7267"
+ "views": "7267",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(extract)"
+  }
+ ]
 }

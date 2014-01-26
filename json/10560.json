@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-12T08:00:00.000Z",
- "views": "36107"
+ "views": "36107",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ginkgo biloba",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Female",
  "age": "28",
  "timestamp": "2012-11-16T08:00:00.000Z",
- "views": "2503"
+ "views": "2503",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 g",
+   "administration": "oral",
+   "substance": "Cacti",
+   "form": "(tar / resin)"
+  }
+ ]
 }

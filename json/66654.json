@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-26T07:00:00.000Z",
- "views": "40614"
+ "views": "40614",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(capsule)"
+  }
+ ]
 }

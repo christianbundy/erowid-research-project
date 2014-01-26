@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-13T08:00:00.000Z",
- "views": "38163"
+ "views": "38163",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

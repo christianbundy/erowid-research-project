@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "21",
  "timestamp": "2010-08-07T07:00:00.000Z",
- "views": "14060"
+ "views": "14060",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Tryptophan - 5-HTP",
+   "form": "(capsule)"
+  }
+ ]
 }

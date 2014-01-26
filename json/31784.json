@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-03-04T08:00:00.000Z",
- "views": "5743"
+ "views": "5743",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-25T08:00:00.000Z",
- "views": "51676"
+ "views": "51676",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  }
+ ]
 }

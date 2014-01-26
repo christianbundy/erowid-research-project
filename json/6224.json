@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-04-16T07:00:00.000Z",
- "views": "19169"
+ "views": "19169",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-T-7"
+  }
+ ]
 }

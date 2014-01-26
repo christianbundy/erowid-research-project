@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-07-12T07:00:00.000Z",
- "views": "2558"
+ "views": "2558",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

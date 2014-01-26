@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-07-17T07:00:00.000Z",
- "views": "4075"
+ "views": "4075",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT"
+  }
+ ]
 }

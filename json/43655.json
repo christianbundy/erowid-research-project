@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-20T07:00:00.000Z",
- "views": "260341"
+ "views": "260341",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(daily)"
+  }
+ ]
 }

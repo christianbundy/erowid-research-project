@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2010-12-08T08:00:00.000Z",
- "views": "14631"
+ "views": "14631",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 ml",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ ]
 }

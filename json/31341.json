@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2011-02-01T08:00:00.000Z",
- "views": "8758"
+ "views": "8758",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1440 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

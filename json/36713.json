@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-06T07:00:00.000Z",
- "views": "14468"
+ "views": "14468",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Herbal Ecstasy",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

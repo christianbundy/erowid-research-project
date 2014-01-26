@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-10T08:00:00.000Z",
- "views": "9859"
+ "views": "9859",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 caps",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(dried)"
+  }
+ ]
 }

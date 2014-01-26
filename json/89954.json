@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-07-28T07:00:00.000Z",
- "views": "1502"
+ "views": "1502",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 mg",
+   "administration": "smoked",
+   "substance": "JWH-250",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "28",
  "timestamp": "2010-07-03T07:00:00.000Z",
- "views": "4046"
+ "views": "4046",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Inhalants"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-04T07:00:00.000Z",
- "views": "58891"
+ "views": "58891",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

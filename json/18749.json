@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-11-09T08:00:00.000Z",
- "views": "14753"
+ "views": "14753",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

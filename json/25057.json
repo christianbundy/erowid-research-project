@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-07-06T07:00:00.000Z",
- "views": "27389"
+ "views": "27389",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Red Rock",
+   "form": "(tar / resin)"
+  }
+ ]
 }

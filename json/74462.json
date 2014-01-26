@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-06T07:00:00.000Z",
- "views": "4006"
+ "views": "4006",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Morning Glory"
+  }
+ ]
 }

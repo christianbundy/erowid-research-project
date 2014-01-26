@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-05-14T07:00:00.000Z",
- "views": "26261"
+ "views": "26261",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-01-08T08:00:00.000Z",
- "views": "13142"
+ "views": "13142",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "sublingual",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

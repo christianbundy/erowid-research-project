@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-08T07:00:00.000Z",
- "views": "13682"
+ "views": "13682",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(daily)"
+  }
+ ]
 }

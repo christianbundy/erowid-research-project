@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-07-23T07:00:00.000Z",
- "views": "14296"
+ "views": "14296",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Zopiclone",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

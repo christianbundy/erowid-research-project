@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2011-11-03T07:00:00.000Z",
- "views": "4445"
+ "views": "4445",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Phenethylamines - Other"
+  }
+ ]
 }

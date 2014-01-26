@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-23T07:00:00.000Z",
- "views": "6756"
+ "views": "6756",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "transdermal",
+   "substance": "DMT"
+  }
+ ]
 }

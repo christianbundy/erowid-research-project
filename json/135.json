@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-10T07:00:00.000Z",
- "views": "19799"
+ "views": "19799",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.08 ml",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ ]
 }

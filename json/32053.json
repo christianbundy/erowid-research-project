@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "37392"
+ "views": "37392",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2250 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2010-11-01T07:00:00.000Z",
- "views": "13978"
+ "views": "13978",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ ]
 }

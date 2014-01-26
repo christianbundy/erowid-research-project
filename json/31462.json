@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-03-12T07:00:00.000Z",
- "views": "10837"
+ "views": "10837",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 cups",
+   "administration": "oral",
+   "substance": "Coca",
+   "form": "(tea)"
+  }
+ ]
 }

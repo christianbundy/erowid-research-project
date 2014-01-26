@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-11T08:00:00.000Z",
- "views": "12413"
+ "views": "12413",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2010-12-18T08:00:00.000Z",
- "views": "10189"
+ "views": "10189",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 glass",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ ]
 }

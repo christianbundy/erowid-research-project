@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-10-18T07:00:00.000Z",
- "views": "33605"
+ "views": "33605",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.5 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ ]
 }

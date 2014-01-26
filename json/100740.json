@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "45",
  "timestamp": "2013-07-15T07:00:00.000Z",
- "views": "19374"
+ "views": "19374",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 ug",
+   "administration": "buccal",
+   "substance": "LSZ",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

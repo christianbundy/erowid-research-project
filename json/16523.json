@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-27T08:00:00.000Z",
- "views": "27681"
+ "views": "27681",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

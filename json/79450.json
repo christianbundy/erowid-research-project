@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-18T07:00:00.000Z",
- "views": "4588"
+ "views": "4588",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 seeds",
+   "administration": "oral",
+   "substance": "Sophora secundiflora"
+  }
+ ]
 }

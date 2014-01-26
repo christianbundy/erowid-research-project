@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-19T07:00:00.000Z",
- "views": "26230"
+ "views": "26230",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Meperidine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

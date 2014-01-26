@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-06-25T07:00:00.000Z",
- "views": "8679"
+ "views": "8679",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

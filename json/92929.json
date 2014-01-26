@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2011-12-03T08:00:00.000Z",
- "views": "7475"
+ "views": "7475",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(daily)"
+  }
+ ]
 }

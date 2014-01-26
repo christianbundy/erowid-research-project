@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-07-23T07:00:00.000Z",
- "views": "15569"
+ "views": "15569",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Midazolam"
+  }
+ ]
 }

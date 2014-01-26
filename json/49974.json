@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-23T07:00:00.000Z",
- "views": "19894"
+ "views": "19894",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "105 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

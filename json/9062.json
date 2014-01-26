@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-16T07:00:00.000Z",
- "views": "50221"
+ "views": "50221",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "11 g",
+   "administration": "oral",
+   "substance": "Phalaris Grass",
+   "form": "(extract)"
+  }
+ ]
 }

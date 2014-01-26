@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-24T07:00:00.000Z",
- "views": "30065"
+ "views": "30065",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 leaves",
+   "administration": "oral",
+   "substance": "Coleus",
+   "form": "(fresh)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-26T08:00:00.000Z",
- "views": "20972"
+ "views": "20972",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "",
+   "substance": "Dimenhydrinate"
+  }
+ ]
 }

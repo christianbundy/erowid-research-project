@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-01-12T08:00:00.000Z",
- "views": "8496"
+ "views": "8496",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

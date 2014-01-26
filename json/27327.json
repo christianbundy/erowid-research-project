@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-16T07:00:00.000Z",
- "views": "42823"
+ "views": "42823",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tsp",
+   "administration": "sublingual",
+   "substance": "Calea zacatechichi",
+   "form": "(extract)"
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-11T07:00:00.000Z",
- "views": "16245"
+ "views": "16245",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "175 mg",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": ""
+  }
+ ]
 }

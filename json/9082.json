@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-10-25T07:00:00.000Z",
- "views": "41950"
+ "views": "41950",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

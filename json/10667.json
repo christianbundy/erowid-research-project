@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-24T08:00:00.000Z",
- "views": "42394"
+ "views": "42394",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "144 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-22T07:00:00.000Z",
- "views": "15785"
+ "views": "15785",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "IV",
+   "substance": "Methamphetamine"
+  }
+ ]
 }

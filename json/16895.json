@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-28T07:00:00.000Z",
- "views": "12741"
+ "views": "12741",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "480 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

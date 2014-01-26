@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-10-08T07:00:00.000Z",
- "views": "5709"
+ "views": "5709",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.33 hits",
+   "administration": "oral",
+   "substance": "2C-T-7"
+  }
+ ]
 }

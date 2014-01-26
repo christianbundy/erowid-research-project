@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-09-25T07:00:00.000Z",
- "views": "33260"
+ "views": "33260",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "sublingual",
+   "substance": "Hydergine",
+   "form": "(daily)"
+  }
+ ]
 }

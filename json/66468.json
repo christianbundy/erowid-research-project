@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-01T07:00:00.000Z",
- "views": "22447"
+ "views": "22447",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Pharms - Oxymorphone",
+   "form": "(daily)"
+  }
+ ]
 }

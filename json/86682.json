@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2011-02-12T08:00:00.000Z",
- "views": "15634"
+ "views": "15634",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  }
+ ]
 }

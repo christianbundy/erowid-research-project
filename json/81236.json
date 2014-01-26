@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-11-06T07:00:00.000Z",
- "views": "9528"
+ "views": "9528",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(plant material)"
+  }
+ ]
 }

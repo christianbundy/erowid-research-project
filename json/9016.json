@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-08-25T07:00:00.000Z",
- "views": "22560"
+ "views": "22560",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Heimia salicifolia",
+   "form": "(leaves)"
+  }
+ ]
 }

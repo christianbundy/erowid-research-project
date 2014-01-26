@@ -46,5 +46,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-15T08:00:00.000Z",
- "views": "13262"
+ "views": "13262",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": ""
+  }
+ ]
 }

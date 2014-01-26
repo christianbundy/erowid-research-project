@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "27",
  "timestamp": "2012-01-23T08:00:00.000Z",
- "views": "5980"
+ "views": "5980",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-07T07:00:00.000Z",
- "views": "16999"
+ "views": "16999",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Methamphetamine",
+   "form": ""
+  }
+ ]
 }

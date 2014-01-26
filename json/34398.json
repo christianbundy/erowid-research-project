@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-06-15T07:00:00.000Z",
- "views": "15799"
+ "views": "15799",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "140 mg",
+   "administration": "oral",
+   "substance": "2C-N",
+   "form": "(capsule)"
+  }
+ ]
 }

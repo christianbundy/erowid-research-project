@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-06-30T07:00:00.000Z",
- "views": "38787"
+ "views": "38787",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Lactuca - L. virosa",
+   "form": "(dried)"
+  }
+ ]
 }

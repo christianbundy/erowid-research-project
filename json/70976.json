@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-01-13T08:00:00.000Z",
- "views": "4707"
+ "views": "4707",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GBL"
+  }
+ ]
 }

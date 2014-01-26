@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-08-05T07:00:00.000Z",
- "views": "14578"
+ "views": "14578",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

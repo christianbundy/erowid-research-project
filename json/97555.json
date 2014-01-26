@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2012-09-18T07:00:00.000Z",
- "views": "1880"
+ "views": "1880",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": " T+ 0:30"
+  }
+ ]
 }

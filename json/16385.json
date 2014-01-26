@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-09-17T07:00:00.000Z",
- "views": "63359"
+ "views": "63359",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Opioids"
+  }
+ ]
 }

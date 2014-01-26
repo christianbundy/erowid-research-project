@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-19T07:00:00.000Z",
- "views": "12864"
+ "views": "12864",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Mugwort"
+  }
+ ]
 }

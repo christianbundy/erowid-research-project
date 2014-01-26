@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-12-06T08:00:00.000Z",
- "views": "4735"
+ "views": "4735",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Methoxetamine "
+  }
+ ]
 }

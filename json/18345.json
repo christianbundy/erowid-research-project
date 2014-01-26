@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-10-21T07:00:00.000Z",
- "views": "32561"
+ "views": "32561",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(seeds)"
+  }
+ ]
 }

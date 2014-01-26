@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-05T07:00:00.000Z",
- "views": "49800"
+ "views": "49800",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sildenafil",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-05T07:00:00.000Z",
- "views": "27756"
+ "views": "27756",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Heimia salicifolia",
+   "form": "(dried)"
+  }
+ ]
 }

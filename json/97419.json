@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2012-09-13T07:00:00.000Z",
- "views": "11424"
+ "views": "11424",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-12T08:00:00.000Z",
- "views": "16486"
+ "views": "16486",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Lactuca - L. virosa"
+  }
+ ]
 }

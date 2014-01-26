@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2012-07-23T07:00:00.000Z",
- "views": "1404"
+ "views": "1404",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ ]
 }

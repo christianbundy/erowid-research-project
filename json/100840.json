@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-07-24T07:00:00.000Z",
- "views": "2465"
+ "views": "2465",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Escaline",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

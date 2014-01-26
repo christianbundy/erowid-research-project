@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-21T07:00:00.000Z",
- "views": "11036"
+ "views": "11036",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(extract - 10x)"
+  }
+ ]
 }

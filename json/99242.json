@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2013-02-14T08:00:00.000Z",
- "views": "1451"
+ "views": "1451",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Napthylpyrovalerone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

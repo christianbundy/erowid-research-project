@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-11-21T08:00:00.000Z",
- "views": "8853"
+ "views": "8853",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

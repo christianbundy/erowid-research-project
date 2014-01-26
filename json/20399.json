@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-13T08:00:00.000Z",
- "views": "16004"
+ "views": "16004",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 nuts",
+   "administration": "buccal",
+   "substance": "Betel Nut"
+  }
+ ]
 }

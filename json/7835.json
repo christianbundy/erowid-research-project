@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-08-12T07:00:00.000Z",
- "views": "7504"
+ "views": "7504",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms"
+  }
+ ]
 }

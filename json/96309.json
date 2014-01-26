@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "22",
  "timestamp": "2012-06-02T07:00:00.000Z",
- "views": "12132"
+ "views": "12132",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin",
+   "form": "(daily)"
+  }
+ ]
 }

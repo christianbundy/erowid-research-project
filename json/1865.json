@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-15T07:00:00.000Z",
- "views": "33997"
+ "views": "33997",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "DPT",
+   "form": "(freebase)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2010-10-02T07:00:00.000Z",
- "views": "13177"
+ "views": "13177",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

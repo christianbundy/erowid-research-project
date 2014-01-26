@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "66",
  "timestamp": "2013-11-14T08:00:00.000Z",
- "views": "559"
+ "views": "559",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "JWH-200",
+   "form": "(daily)"
+  }
+ ]
 }

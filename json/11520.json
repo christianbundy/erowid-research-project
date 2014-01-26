@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-28T07:00:00.000Z",
- "views": "5602"
+ "views": "5602",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.5 capsls",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-15T08:00:00.000Z",
- "views": "24147"
+ "views": "24147",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "IV",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

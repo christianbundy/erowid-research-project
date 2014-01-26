@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-20T08:00:00.000Z",
- "views": "19286"
+ "views": "19286",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

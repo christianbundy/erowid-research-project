@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-02-16T08:00:00.000Z",
- "views": "46840"
+ "views": "46840",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": " T+ 1:00"
+  }
+ ]
 }

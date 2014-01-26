@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-07-08T07:00:00.000Z",
- "views": "4995"
+ "views": "4995",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(capsule)"
+  }
+ ]
 }

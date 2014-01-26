@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-11-19T08:00:00.000Z",
- "views": "8182"
+ "views": "8182",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-G-N"
+  }
+ ]
 }

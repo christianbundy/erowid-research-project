@@ -44,5 +44,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-06-23T07:00:00.000Z",
- "views": "22988"
+ "views": "22988",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "160 ml",
+   "administration": "oral",
+   "substance": "Lotus/Lily - Nymphaea nouchali var caerulea",
+   "form": "(extract)"
+  }
+ ]
 }

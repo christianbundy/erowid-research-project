@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2012-01-02T08:00:00.000Z",
- "views": "5970"
+ "views": "5970",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Rhodiola rosea",
+   "form": " T+ 1:30"
+  }
+ ]
 }

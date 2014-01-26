@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-07T08:00:00.000Z",
- "views": "13703"
+ "views": "13703",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  }
+ ]
 }

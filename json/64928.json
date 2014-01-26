@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2009-10-04T07:00:00.000Z",
- "views": "4702"
+ "views": "4702",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 g",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-10T08:00:00.000Z",
- "views": "18957"
+ "views": "18957",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Amanitas",
+   "form": "(dried)"
+  }
+ ]
 }

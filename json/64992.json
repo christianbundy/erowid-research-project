@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-09T07:00:00.000Z",
- "views": "11910"
+ "views": "11910",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "sublingual",
+   "substance": "DOC"
+  }
+ ]
 }

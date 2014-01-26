@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-20T07:00:00.000Z",
- "views": "11148"
+ "views": "11148",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "375 mg",
+   "administration": "oral",
+   "substance": "Ketamine"
+  }
+ ]
 }

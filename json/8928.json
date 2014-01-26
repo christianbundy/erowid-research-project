@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-12T07:00:00.000Z",
- "views": "10543"
+ "views": "10543",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(plant material)"
+  }
+ ]
 }

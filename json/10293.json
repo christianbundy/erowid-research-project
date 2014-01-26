@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-19T08:00:00.000Z",
- "views": "25892"
+ "views": "25892",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 caps",
+   "administration": "smoked",
+   "substance": "Mushrooms - P. cyanescens",
+   "form": "(dried)"
+  }
+ ]
 }

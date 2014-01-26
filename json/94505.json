@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-02-10T08:00:00.000Z",
- "views": "5520"
+ "views": "5520",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Various",
+   "form": "(tea)"
+  }
+ ]
 }

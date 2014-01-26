@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2010-12-09T08:00:00.000Z",
- "views": "11464"
+ "views": "11464",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 oz",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ ]
 }

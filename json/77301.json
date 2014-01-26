@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-12-31T08:00:00.000Z",
- "views": "4052"
+ "views": "4052",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

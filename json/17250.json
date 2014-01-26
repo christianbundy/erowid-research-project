@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-09-05T07:00:00.000Z",
- "views": "22262"
+ "views": "22262",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "IM",
+   "substance": "DPT"
+  }
+ ]
 }

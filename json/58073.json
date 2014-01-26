@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-07T08:00:00.000Z",
- "views": "26612"
+ "views": "26612",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms -  Dexmethylphenidate",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

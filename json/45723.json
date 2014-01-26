@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-12-26T08:00:00.000Z",
- "views": "2742"
+ "views": "2742",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

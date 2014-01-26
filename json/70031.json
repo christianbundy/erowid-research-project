@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-07-24T07:00:00.000Z",
- "views": "5815"
+ "views": "5815",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": ""
+  }
+ ]
 }

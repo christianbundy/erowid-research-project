@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-03-27T08:00:00.000Z",
- "views": "13510"
+ "views": "13510",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "IAP",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

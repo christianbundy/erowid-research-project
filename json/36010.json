@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-08-18T07:00:00.000Z",
- "views": "29034"
+ "views": "29034",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 ug",
+   "administration": "buccal",
+   "substance": "Pharms - Fentanyl",
+   "form": ""
+  }
+ ]
 }

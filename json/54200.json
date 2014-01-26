@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
- "views": "58848"
+ "views": "58848",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 leaf",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(dried)"
+  }
+ ]
 }

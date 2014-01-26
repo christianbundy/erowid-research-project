@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
- "views": "15438"
+ "views": "15438",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(dried)"
+  }
+ ]
 }

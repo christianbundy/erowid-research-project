@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-01-11T08:00:00.000Z",
- "views": "30419"
+ "views": "30419",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "32 tablets",
+   "administration": "oral",
+   "substance": "Diphenhydramine"
+  }
+ ]
 }

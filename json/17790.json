@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-09-29T07:00:00.000Z",
- "views": "63207"
+ "views": "63207",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

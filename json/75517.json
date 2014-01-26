@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-12-07T08:00:00.000Z",
- "views": "9351"
+ "views": "9351",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.3333 shots",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-07-13T07:00:00.000Z",
- "views": "9009"
+ "views": "9009",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "2C-T-2",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

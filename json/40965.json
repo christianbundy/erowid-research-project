@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "5453"
+ "views": "5453",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

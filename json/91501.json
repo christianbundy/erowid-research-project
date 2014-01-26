@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-12-15T08:00:00.000Z",
- "views": "5140"
+ "views": "5140",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-P"
+  }
+ ]
 }

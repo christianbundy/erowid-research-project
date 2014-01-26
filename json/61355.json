@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-16T08:00:00.000Z",
- "views": "11026"
+ "views": "11026",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Lagochilus inebrians",
+   "form": "(tea)"
+  }
+ ]
 }

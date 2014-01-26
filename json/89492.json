@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "20",
  "timestamp": "2011-02-05T08:00:00.000Z",
- "views": "11035"
+ "views": "11035",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-02T08:00:00.000Z",
- "views": "9854"
+ "views": "9854",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "5-MeO-AMT"
+  }
+ ]
 }

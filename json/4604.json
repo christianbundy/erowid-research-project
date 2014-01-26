@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-12-27T08:00:00.000Z",
- "views": "9027"
+ "views": "9027",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

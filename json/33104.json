@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-11T07:00:00.000Z",
- "views": "14383"
+ "views": "14383",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "DiPT"
+  }
+ ]
 }

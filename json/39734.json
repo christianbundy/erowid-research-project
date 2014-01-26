@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2005-12-12T08:00:00.000Z",
- "views": "9971"
+ "views": "9971",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Yerba Mate",
+   "form": "(daily)"
+  }
+ ]
 }

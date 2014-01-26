@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-07T07:00:00.000Z",
- "views": "19586"
+ "views": "19586",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ephedrine"
+  }
+ ]
 }

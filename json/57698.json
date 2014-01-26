@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-04T08:00:00.000Z",
- "views": "21834"
+ "views": "21834",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12.5 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(tea)"
+  }
+ ]
 }

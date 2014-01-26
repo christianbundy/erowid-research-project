@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2012-06-21T07:00:00.000Z",
- "views": "5036"
+ "views": "5036",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

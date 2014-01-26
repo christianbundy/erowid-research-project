@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "17",
  "timestamp": "2012-12-21T08:00:00.000Z",
- "views": "1467"
+ "views": "1467",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Various"
+  }
+ ]
 }

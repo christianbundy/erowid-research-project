@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-02-16T08:00:00.000Z",
- "views": "4535"
+ "views": "4535",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Tryptophan",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

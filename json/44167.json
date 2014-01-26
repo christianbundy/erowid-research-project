@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-05-31T07:00:00.000Z",
- "views": "14344"
+ "views": "14344",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  }
+ ]
 }

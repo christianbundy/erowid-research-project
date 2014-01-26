@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-03-22T07:00:00.000Z",
- "views": "7409"
+ "views": "7409",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  }
+ ]
 }

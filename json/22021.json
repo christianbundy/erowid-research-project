@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-03-11T08:00:00.000Z",
- "views": "18956"
+ "views": "18956",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": ""
+  }
+ ]
 }

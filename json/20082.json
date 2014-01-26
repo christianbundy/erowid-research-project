@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-09-10T07:00:00.000Z",
- "views": "50425"
+ "views": "50425",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(liquid)"
+  }
+ ]
 }

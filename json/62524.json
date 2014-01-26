@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-27T07:00:00.000Z",
- "views": "12718"
+ "views": "12718",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Piperazines - mCPP",
+   "form": " T+ 2:36"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2011-08-30T07:00:00.000Z",
- "views": "8232"
+ "views": "8232",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

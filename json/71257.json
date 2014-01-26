@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-12-18T08:00:00.000Z",
- "views": "13597"
+ "views": "13597",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Rhodiola rosea",
+   "form": "(daily)"
+  }
+ ]
 }

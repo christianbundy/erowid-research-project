@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-03T08:00:00.000Z",
- "views": "34771"
+ "views": "34771",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "Morphine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-12-14T08:00:00.000Z",
- "views": "12956"
+ "views": "12956",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "",
+   "substance": "DHEA",
+   "form": "(daily)"
+  }
+ ]
 }

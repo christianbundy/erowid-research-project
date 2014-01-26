@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-11-20T08:00:00.000Z",
- "views": "10307"
+ "views": "10307",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "smoked",
+   "substance": "DPT"
+  }
+ ]
 }

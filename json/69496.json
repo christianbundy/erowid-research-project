@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2013-07-06T07:00:00.000Z",
- "views": "2171"
+ "views": "2171",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Pharms - Albuterol",
+   "form": "(liquid)"
+  }
+ ]
 }

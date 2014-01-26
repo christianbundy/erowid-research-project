@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2009-10-01T07:00:00.000Z",
- "views": "10127"
+ "views": "10127",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 tablets",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

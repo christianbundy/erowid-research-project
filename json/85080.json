@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2010-04-29T07:00:00.000Z",
- "views": "12740"
+ "views": "12740",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "insufflated",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

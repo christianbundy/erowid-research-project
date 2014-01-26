@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-08-25T07:00:00.000Z",
- "views": "10620"
+ "views": "10620",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

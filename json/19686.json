@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-12-19T08:00:00.000Z",
- "views": "78190"
+ "views": "78190",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Zolpidem",
+   "form": "(daily)"
+  }
+ ]
 }

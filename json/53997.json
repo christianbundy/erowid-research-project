@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-30T07:00:00.000Z",
- "views": "25526"
+ "views": "25526",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "Sceletium tortuosum",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

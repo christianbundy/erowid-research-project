@@ -38,5 +38,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2013-05-06T07:00:00.000Z",
- "views": "2178"
+ "views": "2178",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "2C-B",
+   "form": ""
+  }
+ ]
 }

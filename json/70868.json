@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-21T07:00:00.000Z",
- "views": "6063"
+ "views": "6063",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Damiana",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2011-02-20T08:00:00.000Z",
- "views": "51266"
+ "views": "51266",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "AM-2201",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

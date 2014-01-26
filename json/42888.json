@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-06-25T07:00:00.000Z",
- "views": "54818"
+ "views": "54818",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 oz",
+   "administration": "oral",
+   "substance": "Belladonna",
+   "form": "(leaves)"
+  }
+ ]
 }

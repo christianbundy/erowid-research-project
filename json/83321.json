@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2010-02-13T08:00:00.000Z",
- "views": "37776"
+ "views": "37776",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  }
+ ]
 }

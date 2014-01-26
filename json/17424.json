@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-06-14T07:00:00.000Z",
- "views": "8245"
+ "views": "8245",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Pharmaceuticals",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

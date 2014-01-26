@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-02T07:00:00.000Z",
- "views": "7943"
+ "views": "7943",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Lotus/Lily",
+   "form": ""
+  }
+ ]
 }

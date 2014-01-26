@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-08T08:00:00.000Z",
- "views": "12856"
+ "views": "12856",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Passion Flower",
+   "form": "(extract)"
+  }
+ ]
 }

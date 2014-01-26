@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-23T08:00:00.000Z",
- "views": "7978"
+ "views": "7978",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Methylone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

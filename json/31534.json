@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-05T08:00:00.000Z",
- "views": "33935"
+ "views": "33935",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.25 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Butorphanol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

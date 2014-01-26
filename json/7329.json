@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-06-08T07:00:00.000Z",
- "views": "24303"
+ "views": "24303",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Mushrooms - P. cubensis",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

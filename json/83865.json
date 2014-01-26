@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2010-04-29T07:00:00.000Z",
- "views": "18507"
+ "views": "18507",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "MDPV"
+  }
+ ]
 }

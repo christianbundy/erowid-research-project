@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-02-24T08:00:00.000Z",
- "views": "5374"
+ "views": "5374",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3600 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": ""
+  }
+ ]
 }

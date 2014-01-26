@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-11T07:00:00.000Z",
- "views": "16476"
+ "views": "16476",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Olanzapine",
+   "form": "(daily)"
+  }
+ ]
 }

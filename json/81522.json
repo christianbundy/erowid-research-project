@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2009-10-08T07:00:00.000Z",
- "views": "3677"
+ "views": "3677",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  }
+ ]
 }

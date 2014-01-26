@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-23T08:00:00.000Z",
- "views": "14739"
+ "views": "14739",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedra sinica",
+   "form": "(tea)"
+  }
+ ]
 }

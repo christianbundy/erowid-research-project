@@ -30,5 +30,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2012-07-23T07:00:00.000Z",
- "views": "2025"
+ "views": "2025",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-28T07:00:00.000Z",
- "views": "15957"
+ "views": "15957",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Products - Smoking Blends - Cannabis-Like",
+   "form": ""
+  }
+ ]
 }

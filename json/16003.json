@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-14T07:00:00.000Z",
- "views": "31641"
+ "views": "31641",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone"
+  }
+ ]
 }

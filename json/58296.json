@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-13T07:00:00.000Z",
- "views": "21992"
+ "views": "21992",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 g",
+   "administration": "oral",
+   "substance": "Psychotria viridis",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-07-13T07:00:00.000Z",
- "views": "11543"
+ "views": "11543",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Harmala Alkaloids",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

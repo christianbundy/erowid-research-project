@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-10-26T07:00:00.000Z",
- "views": "42944"
+ "views": "42944",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ ]
 }

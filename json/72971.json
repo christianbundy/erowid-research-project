@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-09-22T07:00:00.000Z",
- "views": "11727"
+ "views": "11727",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(capsule)"
+  }
+ ]
 }

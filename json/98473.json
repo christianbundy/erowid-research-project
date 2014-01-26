@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-12-05T08:00:00.000Z",
- "views": "2680"
+ "views": "2680",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Lisdexamfetamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

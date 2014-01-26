@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-08T08:00:00.000Z",
- "views": "39692"
+ "views": "39692",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

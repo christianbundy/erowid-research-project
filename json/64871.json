@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-29T07:00:00.000Z",
- "views": "33057"
+ "views": "33057",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 seeds",
+   "administration": "insufflated",
+   "substance": "Anadenanthera peregrina",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

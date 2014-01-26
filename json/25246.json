@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-06T08:00:00.000Z",
- "views": "16710"
+ "views": "16710",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 glasses",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  }
+ ]
 }

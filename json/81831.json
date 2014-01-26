@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "23",
  "timestamp": "2010-09-23T07:00:00.000Z",
- "views": "7904"
+ "views": "7904",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

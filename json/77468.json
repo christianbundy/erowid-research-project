@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-12-26T08:00:00.000Z",
- "views": "12950"
+ "views": "12950",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 in",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(capsule)"
+  }
+ ]
 }

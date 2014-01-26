@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-21T08:00:00.000Z",
- "views": "32440"
+ "views": "32440",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ayahuasca"
+  }
+ ]
 }

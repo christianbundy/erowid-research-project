@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-30T07:00:00.000Z",
- "views": "59001"
+ "views": "59001",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 tsp",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

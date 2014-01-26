@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-06-12T07:00:00.000Z",
- "views": "133608"
+ "views": "133608",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Methamphetamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "27",
  "timestamp": "2011-08-10T07:00:00.000Z",
- "views": "11610"
+ "views": "11610",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Propylhexedrine",
+   "form": "(daily)"
+  }
+ ]
 }

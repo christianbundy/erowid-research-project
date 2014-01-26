@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-22T07:00:00.000Z",
- "views": "6072"
+ "views": "6072",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "inhaled",
+   "substance": "DPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

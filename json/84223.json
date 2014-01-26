@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2011-02-02T08:00:00.000Z",
- "views": "12032"
+ "views": "12032",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(capsule)"
+  }
+ ]
 }

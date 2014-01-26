@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2010-06-27T07:00:00.000Z",
- "views": "5023"
+ "views": "5023",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Cocaine"
+  }
+ ]
 }

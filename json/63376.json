@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-05-19T07:00:00.000Z",
- "views": "7086"
+ "views": "7086",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-28T07:00:00.000Z",
- "views": "18631"
+ "views": "18631",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.0 g",
+   "administration": "oral",
+   "substance": "Leonotis nepetaefolia",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-27T08:00:00.000Z",
- "views": "33433"
+ "views": "33433",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine"
+  }
+ ]
 }

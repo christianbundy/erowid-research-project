@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-12-27T08:00:00.000Z",
- "views": "29475"
+ "views": "29475",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5100 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(extract)"
+  }
+ ]
 }

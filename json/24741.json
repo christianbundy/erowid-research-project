@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-06-24T07:00:00.000Z",
- "views": "11021"
+ "views": "11021",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 caps",
+   "administration": "smoked",
+   "substance": "Amanitas - A. muscaria",
+   "form": "(dried)"
+  }
+ ]
 }

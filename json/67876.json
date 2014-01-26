@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-30T07:00:00.000Z",
- "views": "5802"
+ "views": "5802",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

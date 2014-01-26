@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-12-30T08:00:00.000Z",
- "views": "6071"
+ "views": "6071",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 g",
+   "administration": "smoked",
+   "substance": "Lavandula spp.",
+   "form": "(dried)"
+  }
+ ]
 }

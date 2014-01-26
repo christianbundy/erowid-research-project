@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-03-13T08:00:00.000Z",
- "views": "7419"
+ "views": "7419",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

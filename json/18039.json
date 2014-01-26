@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-11-13T08:00:00.000Z",
- "views": "13363"
+ "views": "13363",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2400 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  }
+ ]
 }

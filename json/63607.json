@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-19T07:00:00.000Z",
- "views": "26499"
+ "views": "26499",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 bowls",
+   "administration": "smoked",
+   "substance": "Various",
+   "form": "(plant material)"
+  }
+ ]
 }

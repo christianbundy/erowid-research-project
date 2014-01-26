@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-01-10T08:00:00.000Z",
- "views": "14377"
+ "views": "14377",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-C-NBOMe",
+   "form": "(liquid)"
+  }
+ ]
 }

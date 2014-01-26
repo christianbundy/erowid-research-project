@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-10-14T07:00:00.000Z",
- "views": "6657"
+ "views": "6657",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

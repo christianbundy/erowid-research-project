@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2011-02-19T08:00:00.000Z",
- "views": "21306"
+ "views": "21306",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

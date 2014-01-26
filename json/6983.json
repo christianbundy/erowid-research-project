@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-06-04T07:00:00.000Z",
- "views": "43932"
+ "views": "43932",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Pharms - Paroxetine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

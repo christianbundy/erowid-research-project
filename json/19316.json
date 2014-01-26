@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-20T08:00:00.000Z",
- "views": "13221"
+ "views": "13221",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Tryptophan"
+  }
+ ]
 }

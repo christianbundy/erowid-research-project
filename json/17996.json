@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-21T07:00:00.000Z",
- "views": "54803"
+ "views": "54803",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

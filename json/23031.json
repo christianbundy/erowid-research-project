@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-10-21T07:00:00.000Z",
- "views": "8454"
+ "views": "8454",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

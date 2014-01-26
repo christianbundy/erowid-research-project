@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-01-17T08:00:00.000Z",
- "views": "22298"
+ "views": "22298",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Ephedra sinica",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

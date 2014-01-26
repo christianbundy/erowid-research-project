@@ -26,5 +26,14 @@
  "gender": "Female",
  "age": "47",
  "timestamp": "2010-08-18T07:00:00.000Z",
- "views": "30576"
+ "views": "30576",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Methadone",
+   "form": ""
+  }
+ ]
 }

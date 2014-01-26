@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-29T08:00:00.000Z",
- "views": "37264"
+ "views": "37264",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "2-Aminoindan",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

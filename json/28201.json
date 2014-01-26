@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-06T08:00:00.000Z",
- "views": "63421"
+ "views": "63421",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Phalaris Grass",
+   "form": "(extract)"
+  }
+ ]
 }

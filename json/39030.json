@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-11-27T08:00:00.000Z",
- "views": "23565"
+ "views": "23565",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-28T08:00:00.000Z",
- "views": "162798"
+ "views": "162798",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "sublingual",
+   "substance": "Adrenochrome",
+   "form": "(freebase)"
+  }
+ ]
 }

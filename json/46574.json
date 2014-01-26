@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-29T07:00:00.000Z",
- "views": "11753"
+ "views": "11753",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2011-04-12T07:00:00.000Z",
- "views": "8212"
+ "views": "8212",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(cookie / food)"
+  }
+ ]
 }

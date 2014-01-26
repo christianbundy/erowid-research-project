@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-05-19T07:00:00.000Z",
- "views": "25628"
+ "views": "25628",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 mg",
+   "administration": "buccal",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

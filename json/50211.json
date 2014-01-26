@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-02T08:00:00.000Z",
- "views": "7751"
+ "views": "7751",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.0 mg",
+   "administration": "insufflated",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

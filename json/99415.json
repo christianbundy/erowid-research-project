@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "15",
  "timestamp": "2013-06-02T07:00:00.000Z",
- "views": "2785"
+ "views": "2785",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Caffeine",
+   "form": "(tea)"
+  }
+ ]
 }

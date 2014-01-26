@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-01T07:00:00.000Z",
- "views": "2730"
+ "views": "2730",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. tampanensis",
+   "form": "(dried)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-12-24T08:00:00.000Z",
- "views": "1501"
+ "views": "1501",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

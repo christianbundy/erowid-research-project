@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-06-12T07:00:00.000Z",
- "views": "10004"
+ "views": "10004",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Butalbital",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

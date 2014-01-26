@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "40",
  "timestamp": "2012-11-23T08:00:00.000Z",
- "views": "2756"
+ "views": "2756",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 Tbsp",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(dried)"
+  }
+ ]
 }

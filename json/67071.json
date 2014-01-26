@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-22T08:00:00.000Z",
- "views": "18509"
+ "views": "18509",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(flowers)"
+  }
+ ]
 }

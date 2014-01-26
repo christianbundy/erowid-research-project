@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-29T07:00:00.000Z",
- "views": "103516"
+ "views": "103516",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Lorazepam",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

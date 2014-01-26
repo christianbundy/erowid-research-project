@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2012-07-23T07:00:00.000Z",
- "views": "1032"
+ "views": "1032",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": ""
+  }
+ ]
 }

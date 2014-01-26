@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-12-01T08:00:00.000Z",
- "views": "6121"
+ "views": "6121",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

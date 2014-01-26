@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-10T07:00:00.000Z",
- "views": "18847"
+ "views": "18847",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3.2 mg",
+   "administration": "oral",
+   "substance": "DOI",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

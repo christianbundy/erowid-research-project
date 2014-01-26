@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-02-07T08:00:00.000Z",
- "views": "35737"
+ "views": "35737",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 ml",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(daily)"
+  }
+ ]
 }

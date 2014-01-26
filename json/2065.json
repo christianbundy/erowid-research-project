@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-24T07:00:00.000Z",
- "views": "10866"
+ "views": "10866",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "125 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(seeds)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-10T07:00:00.000Z",
- "views": "5094"
+ "views": "5094",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT"
+  }
+ ]
 }

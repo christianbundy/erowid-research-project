@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-09-26T07:00:00.000Z",
- "views": "18215"
+ "views": "18215",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6.5 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(tea)"
+  }
+ ]
 }

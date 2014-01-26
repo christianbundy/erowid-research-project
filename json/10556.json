@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-13T08:00:00.000Z",
- "views": "23114"
+ "views": "23114",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "GVL",
+   "form": "(liquid)"
+  }
+ ]
 }

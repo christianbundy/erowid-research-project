@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-18T08:00:00.000Z",
- "views": "23486"
+ "views": "23486",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DXM"
+  }
+ ]
 }

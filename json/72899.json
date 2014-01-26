@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-11T07:00:00.000Z",
- "views": "22867"
+ "views": "22867",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "IV",
+   "substance": "DMT"
+  }
+ ]
 }

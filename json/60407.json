@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
- "views": "10428"
+ "views": "10428",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "4-HO-DiPT",
+   "form": ""
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "49",
  "timestamp": "2011-08-04T07:00:00.000Z",
- "views": "8463"
+ "views": "8463",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "70 mg",
+   "administration": "IM",
+   "substance": "Methoxetamine "
+  }
+ ]
 }

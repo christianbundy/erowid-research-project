@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-01T08:00:00.000Z",
- "views": "36042"
+ "views": "36042",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.1 ",
+   "administration": "buccal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ ]
 }

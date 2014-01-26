@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-13T07:00:00.000Z",
- "views": "22749"
+ "views": "22749",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "2-Aminoindan",
+   "form": "(capsule)"
+  }
+ ]
 }

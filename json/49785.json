@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-22T08:00:00.000Z",
- "views": "14932"
+ "views": "14932",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "2C-P",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

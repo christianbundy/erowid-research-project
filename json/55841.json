@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-21T08:00:00.000Z",
- "views": "7933"
+ "views": "7933",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 capsls",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(daily)"
+  }
+ ]
 }

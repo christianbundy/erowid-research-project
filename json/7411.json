@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-16T08:00:00.000Z",
- "views": "33596"
+ "views": "33596",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Kava",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

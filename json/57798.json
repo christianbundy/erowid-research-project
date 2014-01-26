@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-12-21T08:00:00.000Z",
- "views": "6768"
+ "views": "6768",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.5 tablets",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": ""
+  }
+ ]
 }

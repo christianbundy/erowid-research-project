@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-10-03T07:00:00.000Z",
- "views": "17441"
+ "views": "17441",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

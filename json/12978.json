@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2002-06-25T07:00:00.000Z",
- "views": "31878"
+ "views": "31878",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "Harmala Alkaloids",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

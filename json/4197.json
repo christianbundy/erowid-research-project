@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-25T08:00:00.000Z",
- "views": "18674"
+ "views": "18674",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(dried)"
+  }
+ ]
 }

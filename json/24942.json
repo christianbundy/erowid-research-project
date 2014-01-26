@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-15T07:00:00.000Z",
- "views": "2394"
+ "views": "2394",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "IV",
+   "substance": "Xylazine",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2011-01-24T08:00:00.000Z",
- "views": "13314"
+ "views": "13314",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pseudoephedrine",
+   "form": "(daily)"
+  }
+ ]
 }

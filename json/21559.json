@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-07-13T07:00:00.000Z",
- "views": "9834"
+ "views": "9834",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ ]
 }

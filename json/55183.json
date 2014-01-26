@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "3426"
+ "views": "3426",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ ]
 }

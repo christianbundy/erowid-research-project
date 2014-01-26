@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2009-02-18T08:00:00.000Z",
- "views": "6297"
+ "views": "6297",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 seeds",
+   "administration": "",
+   "substance": "Turbina corymbosa",
+   "form": "(seeds)"
+  }
+ ]
 }

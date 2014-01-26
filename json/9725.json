@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-08T07:00:00.000Z",
- "views": "3165"
+ "views": "3165",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 caps",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(tea)"
+  }
+ ]
 }

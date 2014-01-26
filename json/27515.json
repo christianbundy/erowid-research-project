@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-13T08:00:00.000Z",
- "views": "11358"
+ "views": "11358",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Benzphetamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

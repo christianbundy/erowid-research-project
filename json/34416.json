@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-28T07:00:00.000Z",
- "views": "10517"
+ "views": "10517",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(plant material)"
+  }
+ ]
 }

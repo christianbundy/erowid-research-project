@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-03T08:00:00.000Z",
- "views": "158311"
+ "views": "158311",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "210 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

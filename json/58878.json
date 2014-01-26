@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-02T07:00:00.000Z",
- "views": "91901"
+ "views": "91901",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Opiates",
+   "form": ""
+  }
+ ]
 }

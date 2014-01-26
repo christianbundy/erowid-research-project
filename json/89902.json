@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-03-04T08:00:00.000Z",
- "views": "11358"
+ "views": "11358",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(cookie / food)"
+  }
+ ]
 }

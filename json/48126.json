@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-14T07:00:00.000Z",
- "views": "9589"
+ "views": "9589",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Yerba Mate",
+   "form": "(tea)"
+  }
+ ]
 }

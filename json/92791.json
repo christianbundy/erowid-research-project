@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2012-01-06T08:00:00.000Z",
- "views": "2945"
+ "views": "2945",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "Salvia divinorum",
+   "form": ""
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-11-21T08:00:00.000Z",
- "views": "7706"
+ "views": "7706",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "90 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phenelzine",
+   "form": "(daily)"
+  }
+ ]
 }

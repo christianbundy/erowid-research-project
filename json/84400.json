@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2010-03-24T07:00:00.000Z",
- "views": "31197"
+ "views": "31197",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "bk-MBDB",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

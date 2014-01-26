@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-05-01T07:00:00.000Z",
- "views": "44405"
+ "views": "44405",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 ",
+   "administration": "oral",
+   "substance": "Mulberry"
+  }
+ ]
 }

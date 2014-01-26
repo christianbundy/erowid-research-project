@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2013-12-21T08:00:00.000Z",
- "views": "757"
+ "views": "757",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Methoxetamine "
+  }
+ ]
 }

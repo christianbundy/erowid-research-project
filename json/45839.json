@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2010-04-22T07:00:00.000Z",
- "views": "7240"
+ "views": "7240",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(tea)"
+  }
+ ]
 }

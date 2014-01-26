@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-22T07:00:00.000Z",
- "views": "5684"
+ "views": "5684",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "IV",
+   "substance": "2C-C",
+   "form": ""
+  }
+ ]
 }

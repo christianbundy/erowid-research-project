@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-08-05T07:00:00.000Z",
- "views": "14963"
+ "views": "14963",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "275 mg",
+   "administration": "oral",
+   "substance": "DPT",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-26T07:00:00.000Z",
- "views": "31953"
+ "views": "31953",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 g",
+   "administration": "oral",
+   "substance": "Cloves",
+   "form": ""
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-03-09T08:00:00.000Z",
- "views": "20575"
+ "views": "20575",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.0 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

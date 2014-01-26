@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-08T07:00:00.000Z",
- "views": "4303"
+ "views": "4303",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(capsule)"
+  }
+ ]
 }

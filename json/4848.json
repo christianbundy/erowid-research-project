@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-08T08:00:00.000Z",
- "views": "5594"
+ "views": "5594",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 leaves",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

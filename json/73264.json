@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2012-01-03T08:00:00.000Z",
- "views": "25672"
+ "views": "25672",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "112.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

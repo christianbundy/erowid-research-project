@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-09-28T07:00:00.000Z",
- "views": "24944"
+ "views": "24944",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 glasses",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ ]
 }

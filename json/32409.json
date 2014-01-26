@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-06-15T07:00:00.000Z",
- "views": "12520"
+ "views": "12520",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  }
+ ]
 }

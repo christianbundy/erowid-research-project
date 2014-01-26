@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-25T07:00:00.000Z",
- "views": "9905"
+ "views": "9905",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(daily)"
+  }
+ ]
 }

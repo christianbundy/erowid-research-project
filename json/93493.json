@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "27",
  "timestamp": "2012-02-08T08:00:00.000Z",
- "views": "14415"
+ "views": "14415",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(capsule)"
+  }
+ ]
 }

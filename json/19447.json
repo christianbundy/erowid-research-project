@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-09-28T07:00:00.000Z",
- "views": "25428"
+ "views": "25428",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "MDMA"
+  }
+ ]
 }

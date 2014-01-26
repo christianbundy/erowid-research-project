@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-03-12T07:00:00.000Z",
- "views": "1843"
+ "views": "1843",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "buccal",
+   "substance": "LSD",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-02T07:00:00.000Z",
- "views": "41733"
+ "views": "41733",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "67.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Zopiclone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

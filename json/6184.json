@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-04-11T07:00:00.000Z",
- "views": "9613"
+ "views": "9613",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.0 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-7",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

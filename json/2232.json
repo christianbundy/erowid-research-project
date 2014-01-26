@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-27T07:00:00.000Z",
- "views": "52610"
+ "views": "52610",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

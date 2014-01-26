@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-03T07:00:00.000Z",
- "views": "12290"
+ "views": "12290",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "MAOI",
+   "form": ""
+  }
+ ]
 }

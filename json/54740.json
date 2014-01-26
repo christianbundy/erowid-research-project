@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-04T08:00:00.000Z",
- "views": "8673"
+ "views": "8673",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 bowls",
+   "administration": "smoked",
+   "substance": "Acacia",
+   "form": "(plant material)"
+  }
+ ]
 }

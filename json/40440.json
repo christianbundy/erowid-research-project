@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-15T07:00:00.000Z",
- "views": "3734"
+ "views": "3734",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13.3 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(tea)"
+  }
+ ]
 }

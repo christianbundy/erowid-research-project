@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-14T07:00:00.000Z",
- "views": "64518"
+ "views": "64518",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Diazepam",
+   "form": ""
+  }
+ ]
 }

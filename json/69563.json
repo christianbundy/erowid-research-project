@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-07-13T07:00:00.000Z",
- "views": "15808"
+ "views": "15808",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.5 flowers",
+   "administration": "oral",
+   "substance": "Belladonna",
+   "form": "(tea)"
+  }
+ ]
 }

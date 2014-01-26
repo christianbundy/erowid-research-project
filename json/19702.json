@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-07T07:00:00.000Z",
- "views": "16904"
+ "views": "16904",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(dried)"
+  }
+ ]
 }

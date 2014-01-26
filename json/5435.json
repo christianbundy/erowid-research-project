@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-04-01T08:00:00.000Z",
- "views": "48611"
+ "views": "48611",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide"
+  }
+ ]
 }

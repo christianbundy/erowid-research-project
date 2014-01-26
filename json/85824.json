@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2010-07-22T07:00:00.000Z",
- "views": "23258"
+ "views": "23258",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "185 mg",
+   "administration": "oral",
+   "substance": "MDAI",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

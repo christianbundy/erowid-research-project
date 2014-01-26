@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-29T08:00:00.000Z",
- "views": "4823"
+ "views": "4823",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(capsule)"
+  }
+ ]
 }

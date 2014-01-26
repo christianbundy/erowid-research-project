@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-05-31T07:00:00.000Z",
- "views": "7545"
+ "views": "7545",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

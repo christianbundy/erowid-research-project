@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2012-01-03T08:00:00.000Z",
- "views": "9187"
+ "views": "9187",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

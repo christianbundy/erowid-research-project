@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
- "views": "12188"
+ "views": "12188",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Codeine"
+  }
+ ]
 }

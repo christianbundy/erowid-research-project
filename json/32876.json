@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-06-28T07:00:00.000Z",
- "views": "11895"
+ "views": "11895",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Calea zacatechichi",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

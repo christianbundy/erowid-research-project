@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-30T07:00:00.000Z",
- "views": "35066"
+ "views": "35066",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-09-08T07:00:00.000Z",
- "views": "12319"
+ "views": "12319",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "11 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

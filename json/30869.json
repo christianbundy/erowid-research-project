@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-10-24T07:00:00.000Z",
- "views": "6072"
+ "views": "6072",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "AMT"
+  }
+ ]
 }

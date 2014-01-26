@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "34",
  "timestamp": "2013-05-24T07:00:00.000Z",
- "views": "2201"
+ "views": "2201",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Citalopram",
+   "form": "(daily)"
+  }
+ ]
 }

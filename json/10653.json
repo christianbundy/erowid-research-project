@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-02T07:00:00.000Z",
- "views": "19019"
+ "views": "19019",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-14T08:00:00.000Z",
- "views": "8398"
+ "views": "8398",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "32 tablets",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": ""
+  }
+ ]
 }

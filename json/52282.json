@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
- "views": "32981"
+ "views": "32981",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 ug",
+   "administration": "transdermal",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ ]
 }

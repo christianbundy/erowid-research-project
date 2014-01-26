@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2012-11-28T08:00:00.000Z",
- "views": "3333"
+ "views": "3333",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cup",
+   "administration": "",
+   "substance": "Amanitas"
+  }
+ ]
 }

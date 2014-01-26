@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-04-08T07:00:00.000Z",
- "views": "38715"
+ "views": "38715",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

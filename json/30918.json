@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-18T08:00:00.000Z",
- "views": "8726"
+ "views": "8726",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6.0 g",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(dried)"
+  }
+ ]
 }

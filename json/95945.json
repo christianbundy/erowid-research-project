@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "21",
  "timestamp": "2013-04-06T07:00:00.000Z",
- "views": "3173"
+ "views": "3173",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "LSD",
+   "form": ""
+  }
+ ]
 }

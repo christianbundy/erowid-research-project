@@ -58,5 +58,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-26T07:00:00.000Z",
- "views": "54274"
+ "views": "54274",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6800 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": " T+ 0:00"
+  }
+ ]
 }

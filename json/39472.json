@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-04-06T07:00:00.000Z",
- "views": "9508"
+ "views": "9508",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(capsule)"
+  }
+ ]
 }

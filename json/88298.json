@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "37",
  "timestamp": "2010-11-19T08:00:00.000Z",
- "views": "19137"
+ "views": "19137",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "454 mg",
+   "administration": "oral",
+   "substance": "Ibogaine",
+   "form": "(capsule)"
+  }
+ ]
 }

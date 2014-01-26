@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-14T08:00:00.000Z",
- "views": "66566"
+ "views": "66566",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 oz",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(extract)"
+  }
+ ]
 }

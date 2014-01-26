@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-07-15T07:00:00.000Z",
- "views": "16226"
+ "views": "16226",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(cookie / food)"
+  }
+ ]
 }

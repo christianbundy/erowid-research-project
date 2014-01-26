@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-20T07:00:00.000Z",
- "views": "25613"
+ "views": "25613",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "IV",
+   "substance": "Methamphetamine",
+   "form": ""
+  }
+ ]
 }

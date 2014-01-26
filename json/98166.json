@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "34",
  "timestamp": "2012-11-04T07:00:00.000Z",
- "views": "4665"
+ "views": "4665",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Methallylescaline",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

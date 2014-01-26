@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2010-07-27T07:00:00.000Z",
- "views": "3319"
+ "views": "3319",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Cannabis",
+   "form": "(daily)"
+  }
+ ]
 }

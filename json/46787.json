@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-10T07:00:00.000Z",
- "views": "18815"
+ "views": "18815",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "65 leaves",
+   "administration": "oral",
+   "substance": "Coleus",
+   "form": "(extract)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2009-08-18T07:00:00.000Z",
- "views": "13907"
+ "views": "13907",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

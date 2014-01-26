@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2013-04-12T07:00:00.000Z",
- "views": "1937"
+ "views": "1937",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 ml",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ ]
 }

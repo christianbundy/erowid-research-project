@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-14T08:00:00.000Z",
- "views": "12186"
+ "views": "12186",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Various"
+  }
+ ]
 }

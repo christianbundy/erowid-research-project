@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-28T07:00:00.000Z",
- "views": "7089"
+ "views": "7089",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Sceletium tortuosum",
+   "form": "(flowers)"
+  }
+ ]
 }

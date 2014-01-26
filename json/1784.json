@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-14T07:00:00.000Z",
- "views": "43998"
+ "views": "43998",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": "(liquid)"
+  }
+ ]
 }

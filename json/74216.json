@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-26T07:00:00.000Z",
- "views": "18307"
+ "views": "18307",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Opiates",
+   "form": ""
+  }
+ ]
 }

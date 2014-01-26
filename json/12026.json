@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-27T08:00:00.000Z",
- "views": "14080"
+ "views": "14080",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 g",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(tea)"
+  }
+ ]
 }

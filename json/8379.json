@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-26T07:00:00.000Z",
- "views": "26364"
+ "views": "26364",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "GHB",
+   "form": ""
+  }
+ ]
 }

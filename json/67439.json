@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-07-22T07:00:00.000Z",
- "views": "12232"
+ "views": "12232",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 seeds",
+   "administration": "insufflated",
+   "substance": "Anadenanthera colubrina"
+  }
+ ]
 }

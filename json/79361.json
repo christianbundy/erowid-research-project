@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-14T07:00:00.000Z",
- "views": "4207"
+ "views": "4207",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 oz",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

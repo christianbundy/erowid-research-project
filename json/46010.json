@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
- "views": "18610"
+ "views": "18610",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Mescaline",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

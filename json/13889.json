@@ -22,5 +22,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2002-11-21T08:00:00.000Z",
- "views": "24551"
+ "views": "24551",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": ""
+  }
+ ]
 }

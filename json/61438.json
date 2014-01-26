@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-14T07:00:00.000Z",
- "views": "7788"
+ "views": "7788",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": ""
+  }
+ ]
 }

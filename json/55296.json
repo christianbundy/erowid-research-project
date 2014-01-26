@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-02T07:00:00.000Z",
- "views": "9349"
+ "views": "9349",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.1429 g",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(extract - 6x)"
+  }
+ ]
 }

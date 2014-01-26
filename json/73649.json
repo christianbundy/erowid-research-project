@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-18T07:00:00.000Z",
- "views": "10786"
+ "views": "10786",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DALT",
+   "form": ""
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-10-24T07:00:00.000Z",
- "views": "70913"
+ "views": "70913",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.7 mg",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(extract)"
+  }
+ ]
 }

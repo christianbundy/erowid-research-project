@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-12T07:00:00.000Z",
- "views": "19845"
+ "views": "19845",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 tablets",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

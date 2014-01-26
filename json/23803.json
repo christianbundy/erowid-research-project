@@ -26,5 +26,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-04-10T07:00:00.000Z",
- "views": "13965"
+ "views": "13965",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharmaceuticals",
+   "form": " T+ 0:00"
+  }
+ ]
 }

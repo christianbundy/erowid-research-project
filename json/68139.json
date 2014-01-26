@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-19T07:00:00.000Z",
- "views": "7294"
+ "views": "7294",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Lorazepam",
+   "form": "(liquid)"
+  }
+ ]
 }

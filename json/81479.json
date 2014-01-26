@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "24",
  "timestamp": "2010-07-30T07:00:00.000Z",
- "views": "15210"
+ "views": "15210",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ ]
 }

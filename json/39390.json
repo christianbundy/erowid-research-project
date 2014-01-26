@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-25T08:00:00.000Z",
- "views": "14877"
+ "views": "14877",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 flowers",
+   "administration": "smoked",
+   "substance": "Hops",
+   "form": "(flowers)"
+  }
+ ]
 }

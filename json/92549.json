@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-12-17T08:00:00.000Z",
- "views": "2203"
+ "views": "2203",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(plant material)"
+  }
+ ]
 }

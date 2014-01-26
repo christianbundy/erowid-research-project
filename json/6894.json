@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-05-28T07:00:00.000Z",
- "views": "6284"
+ "views": "6284",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.06 oz",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  }
+ ]
 }

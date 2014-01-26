@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-04-25T07:00:00.000Z",
- "views": "6717"
+ "views": "6717",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(capsule)"
+  }
+ ]
 }

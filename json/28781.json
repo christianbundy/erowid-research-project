@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-02T08:00:00.000Z",
- "views": "11031"
+ "views": "11031",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "21 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  }
+ ]
 }

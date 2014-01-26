@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-01T07:00:00.000Z",
- "views": "9585"
+ "views": "9585",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Phenytoin",
+   "form": "(daily)"
+  }
+ ]
 }

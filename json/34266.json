@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-06-16T07:00:00.000Z",
- "views": "10747"
+ "views": "10747",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

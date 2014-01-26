@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "34",
  "timestamp": "2011-09-09T07:00:00.000Z",
- "views": "3631"
+ "views": "3631",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "TMA",
+   "form": "(liquid)"
+  }
+ ]
 }

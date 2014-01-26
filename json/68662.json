@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
- "views": "20196"
+ "views": "20196",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

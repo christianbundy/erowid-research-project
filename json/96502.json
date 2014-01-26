@@ -34,5 +34,14 @@
  "gender": "Female",
  "age": "15",
  "timestamp": "2012-10-02T07:00:00.000Z",
- "views": "3116"
+ "views": "3116",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

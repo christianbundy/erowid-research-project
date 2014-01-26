@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-14T08:00:00.000Z",
- "views": "7747"
+ "views": "7747",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ ]
 }

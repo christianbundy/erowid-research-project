@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-06T08:00:00.000Z",
- "views": "8640"
+ "views": "8640",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Venlafaxine"
+  }
+ ]
 }

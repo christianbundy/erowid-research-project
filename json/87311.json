@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-06-03T07:00:00.000Z",
- "views": "12513"
+ "views": "12513",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Baclofen",
+   "form": ""
+  }
+ ]
 }

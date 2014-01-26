@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-09-18T07:00:00.000Z",
- "views": "9745"
+ "views": "9745",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ ]
 }

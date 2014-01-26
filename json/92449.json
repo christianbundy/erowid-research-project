@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-08-16T07:00:00.000Z",
- "views": "8223"
+ "views": "8223",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Psilocybin"
+  }
+ ]
 }

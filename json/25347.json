@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-07-17T07:00:00.000Z",
- "views": "20627"
+ "views": "20627",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Crack",
+   "form": "(freebase)"
+  }
+ ]
 }

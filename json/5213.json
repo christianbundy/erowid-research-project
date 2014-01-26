@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-11T08:00:00.000Z",
- "views": "26901"
+ "views": "26901",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Valerian"
+  }
+ ]
 }

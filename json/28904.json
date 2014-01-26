@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-28T07:00:00.000Z",
- "views": "9084"
+ "views": "9084",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Damiana",
+   "form": "(plant material)"
+  }
+ ]
 }

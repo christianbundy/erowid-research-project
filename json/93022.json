@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-10-28T07:00:00.000Z",
- "views": "4248"
+ "views": "4248",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "oral",
+   "substance": "Aleph-4"
+  }
+ ]
 }

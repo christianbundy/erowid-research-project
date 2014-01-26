@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-12-27T08:00:00.000Z",
- "views": "15075"
+ "views": "15075",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "37.5 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Phentermine",
+   "form": "(capsule)"
+  }
+ ]
 }

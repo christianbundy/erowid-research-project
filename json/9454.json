@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-09-23T07:00:00.000Z",
- "views": "44247"
+ "views": "44247",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Opium",
+   "form": "(tea)"
+  }
+ ]
 }

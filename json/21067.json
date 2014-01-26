@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-07-08T07:00:00.000Z",
- "views": "3683"
+ "views": "3683",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "33 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

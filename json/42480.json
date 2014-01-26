@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-14T07:00:00.000Z",
- "views": "37488"
+ "views": "37488",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.2 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonidine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

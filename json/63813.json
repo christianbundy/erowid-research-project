@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-04T08:00:00.000Z",
- "views": "30123"
+ "views": "30123",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

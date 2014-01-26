@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-24T08:00:00.000Z",
- "views": "15725"
+ "views": "15725",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharmaceuticals",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

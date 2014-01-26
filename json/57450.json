@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-01-13T08:00:00.000Z",
- "views": "5092"
+ "views": "5092",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "inhaled",
+   "substance": "DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

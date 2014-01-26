@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-09-25T07:00:00.000Z",
- "views": "20203"
+ "views": "20203",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cocaine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

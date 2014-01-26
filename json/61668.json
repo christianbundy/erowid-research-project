@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-04T07:00:00.000Z",
- "views": "6668"
+ "views": "6668",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

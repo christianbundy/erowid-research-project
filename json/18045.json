@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-10-09T07:00:00.000Z",
- "views": "12613"
+ "views": "12613",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT"
+  }
+ ]
 }

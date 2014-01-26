@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-03-30T07:00:00.000Z",
- "views": "4325"
+ "views": "4325",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "oral",
+   "substance": "Nabilone",
+   "form": "(daily)"
+  }
+ ]
 }

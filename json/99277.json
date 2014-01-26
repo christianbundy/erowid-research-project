@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "32",
  "timestamp": "2013-02-20T08:00:00.000Z",
- "views": "2824"
+ "views": "2824",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": "(daily)"
+  }
+ ]
 }

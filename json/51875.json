@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-20T07:00:00.000Z",
- "views": "4024"
+ "views": "4024",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "5-MeO-AMT"
+  }
+ ]
 }

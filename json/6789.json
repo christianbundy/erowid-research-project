@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-04-28T07:00:00.000Z",
- "views": "34919"
+ "views": "34919",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

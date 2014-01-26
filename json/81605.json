@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2010-04-29T07:00:00.000Z",
- "views": "46401"
+ "views": "46401",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Alprazolam",
+   "form": ""
+  }
+ ]
 }

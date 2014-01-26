@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-24T07:00:00.000Z",
- "views": "10533"
+ "views": "10533",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.5 mg",
+   "administration": "oral",
+   "substance": "Hydergine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

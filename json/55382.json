@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-28T07:00:00.000Z",
- "views": "8963"
+ "views": "8963",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 ",
+   "administration": "sublingual",
+   "substance": "Dimenhydrinate"
+  }
+ ]
 }

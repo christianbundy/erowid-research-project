@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "43",
  "timestamp": "2010-09-21T07:00:00.000Z",
- "views": "4983"
+ "views": "4983",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-11-21T08:00:00.000Z",
- "views": "3845"
+ "views": "3845",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": ""
+  }
+ ]
 }

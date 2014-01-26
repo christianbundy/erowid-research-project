@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-17T07:00:00.000Z",
- "views": "13492"
+ "views": "13492",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Catnip",
+   "form": "(tea)"
+  }
+ ]
 }

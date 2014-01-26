@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-01T07:00:00.000Z",
- "views": "19243"
+ "views": "19243",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 ug",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": ""
+  }
+ ]
 }

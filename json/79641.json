@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-06-28T07:00:00.000Z",
- "views": "3585"
+ "views": "3585",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 ml",
+   "administration": "oral",
+   "substance": "Wormwood",
+   "form": "(liquid)"
+  }
+ ]
 }

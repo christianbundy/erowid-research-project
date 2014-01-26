@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-14T07:00:00.000Z",
- "views": "1091"
+ "views": "1091",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ ]
 }

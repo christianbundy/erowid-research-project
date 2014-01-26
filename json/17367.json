@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-09-09T07:00:00.000Z",
- "views": "11675"
+ "views": "11675",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.25 Tbsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": ""
+  }
+ ]
 }

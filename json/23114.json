@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-02-06T08:00:00.000Z",
- "views": "48261"
+ "views": "48261",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "insufflated",
+   "substance": "GABA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

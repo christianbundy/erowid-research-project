@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-09-23T07:00:00.000Z",
- "views": "21028"
+ "views": "21028",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "sublingual",
+   "substance": "Betel Nut"
+  }
+ ]
 }

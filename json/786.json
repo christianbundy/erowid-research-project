@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2000-08-04T07:00:00.000Z",
- "views": "11498"
+ "views": "11498",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.5 tablets",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

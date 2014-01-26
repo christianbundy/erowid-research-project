@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-27T07:00:00.000Z",
- "views": "48640"
+ "views": "48640",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

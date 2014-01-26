@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-07T07:00:00.000Z",
- "views": "20971"
+ "views": "20971",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "smoked",
+   "substance": "Diphenhydramine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

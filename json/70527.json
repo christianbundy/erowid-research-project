@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-18T07:00:00.000Z",
- "views": "3276"
+ "views": "3276",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

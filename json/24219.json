@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2003-06-04T07:00:00.000Z",
- "views": "17932"
+ "views": "17932",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "2C-D"
+  }
+ ]
 }

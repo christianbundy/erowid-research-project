@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-26T07:00:00.000Z",
- "views": "20137"
+ "views": "20137",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.66 joints/cigs",
+   "administration": "smoked",
+   "substance": "Leonotis leonurus",
+   "form": "(dried)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-14T07:00:00.000Z",
- "views": "9597"
+ "views": "9597",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "DET",
+   "form": "(freebase)"
+  }
+ ]
 }

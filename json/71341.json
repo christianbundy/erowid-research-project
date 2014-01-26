@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-22T07:00:00.000Z",
- "views": "9877"
+ "views": "9877",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 Tbsp",
+   "administration": "oral",
+   "substance": "Ginger",
+   "form": "(liquid)"
+  }
+ ]
 }

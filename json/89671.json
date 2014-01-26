@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "40",
  "timestamp": "2011-02-21T08:00:00.000Z",
- "views": "8338"
+ "views": "8338",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 mg",
+   "administration": "sublingual",
+   "substance": "Pharms - Buprenorphine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

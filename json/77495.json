@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-19T07:00:00.000Z",
- "views": "14277"
+ "views": "14277",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Diphenhydramine",
+   "form": ""
+  }
+ ]
 }

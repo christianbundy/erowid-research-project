@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-06-06T07:00:00.000Z",
- "views": "19712"
+ "views": "19712",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. mexicana",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-21T07:00:00.000Z",
- "views": "15945"
+ "views": "15945",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ ]
 }

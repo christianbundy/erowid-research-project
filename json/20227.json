@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-12T08:00:00.000Z",
- "views": "78544"
+ "views": "78544",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

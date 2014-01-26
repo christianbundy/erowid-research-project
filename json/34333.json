@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
- "views": "10698"
+ "views": "10698",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": "(daily)"
+  }
+ ]
 }

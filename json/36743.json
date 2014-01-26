@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-12T08:00:00.000Z",
- "views": "18309"
+ "views": "18309",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Adrafinil"
+  }
+ ]
 }

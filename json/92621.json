@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-11-04T07:00:00.000Z",
- "views": "1338"
+ "views": "1338",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "oral",
+   "substance": "2C-C",
+   "form": "(liquid)"
+  }
+ ]
 }

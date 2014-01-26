@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-08-22T07:00:00.000Z",
- "views": "14882"
+ "views": "14882",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "70 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2012-01-29T08:00:00.000Z",
- "views": "5533"
+ "views": "5533",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-2",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

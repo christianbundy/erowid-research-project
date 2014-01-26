@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-28T08:00:00.000Z",
- "views": "10621"
+ "views": "10621",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DET",
+   "form": "(capsule)"
+  }
+ ]
 }

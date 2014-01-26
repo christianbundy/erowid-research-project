@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-11T07:00:00.000Z",
- "views": "29397"
+ "views": "29397",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MDA"
+  }
+ ]
 }

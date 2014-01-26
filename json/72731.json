@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-07-22T07:00:00.000Z",
- "views": "5356"
+ "views": "5356",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Mescaline",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-10-28T07:00:00.000Z",
- "views": "4031"
+ "views": "4031",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "2C-D"
+  }
+ ]
 }

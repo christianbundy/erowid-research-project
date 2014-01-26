@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2011-11-30T08:00:00.000Z",
- "views": "6561"
+ "views": "6561",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

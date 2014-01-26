@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-11-11T08:00:00.000Z",
- "views": "1542"
+ "views": "1542",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  }
+ ]
 }

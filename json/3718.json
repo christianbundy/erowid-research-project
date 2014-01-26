@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-08T08:00:00.000Z",
- "views": "6213"
+ "views": "6213",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "smoked",
+   "substance": "2C-T-7"
+  }
+ ]
 }

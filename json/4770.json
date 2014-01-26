@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-01-03T08:00:00.000Z",
- "views": "101626"
+ "views": "101626",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Caffeine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

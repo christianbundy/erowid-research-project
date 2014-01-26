@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-30T07:00:00.000Z",
- "views": "14785"
+ "views": "14785",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Opioids",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

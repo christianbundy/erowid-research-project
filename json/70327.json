@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-02-23T08:00:00.000Z",
- "views": "3202"
+ "views": "3202",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1/2 cig.",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

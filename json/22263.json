@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-09-27T07:00:00.000Z",
- "views": "30069"
+ "views": "30069",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

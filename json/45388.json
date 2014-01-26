@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-04-11T07:00:00.000Z",
- "views": "11971"
+ "views": "11971",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Catnip",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-10-28T07:00:00.000Z",
- "views": "30733"
+ "views": "30733",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Chlordiazepoxide",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

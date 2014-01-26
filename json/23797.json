@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-04T07:00:00.000Z",
- "views": "3592"
+ "views": "3592",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "",
+   "substance": "AMT",
+   "form": ""
+  }
+ ]
 }

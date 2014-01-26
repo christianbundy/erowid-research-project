@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2012-04-22T07:00:00.000Z",
- "views": "3123"
+ "views": "3123",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10g repeated",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(daily)"
+  }
+ ]
 }

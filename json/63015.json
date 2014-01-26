@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-02T07:00:00.000Z",
- "views": "43430"
+ "views": "43430",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "insufflated",
+   "substance": "Sceletium tortuosum",
+   "form": "(extract - 5x)"
+  }
+ ]
 }

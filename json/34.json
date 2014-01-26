@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-09T07:00:00.000Z",
- "views": "146523"
+ "views": "146523",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.2 gal",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ ]
 }

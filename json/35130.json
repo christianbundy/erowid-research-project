@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-01-11T08:00:00.000Z",
- "views": "2801"
+ "views": "2801",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(daily)"
+  }
+ ]
 }

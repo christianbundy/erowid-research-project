@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-08T08:00:00.000Z",
- "views": "8064"
+ "views": "8064",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 cups",
+   "administration": "oral",
+   "substance": "Wormwood",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-29T08:00:00.000Z",
- "views": "10116"
+ "views": "10116",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 in",
+   "administration": "buccal",
+   "substance": "Banisteriopsis caapi",
+   "form": "(dried)"
+  }
+ ]
 }

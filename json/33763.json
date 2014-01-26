@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-28T07:00:00.000Z",
- "views": "14144"
+ "views": "14144",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Vitamins / Supplements",
+   "form": ""
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-06-22T07:00:00.000Z",
- "views": "54131"
+ "views": "54131",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 drops",
+   "administration": "sublingual",
+   "substance": "Salvia divinorum",
+   "form": "(liquid)"
+  }
+ ]
 }

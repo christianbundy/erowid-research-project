@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-07T07:00:00.000Z",
- "views": "14734"
+ "views": "14734",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Inhalants - Nitrites",
+   "form": "(gas)"
+  }
+ ]
 }

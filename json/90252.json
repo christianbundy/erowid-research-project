@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2011-04-30T07:00:00.000Z",
- "views": "31809"
+ "views": "31809",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 mg",
+   "administration": "insufflated",
+   "substance": "MDPV",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

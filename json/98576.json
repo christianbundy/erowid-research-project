@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "34",
  "timestamp": "2012-12-13T08:00:00.000Z",
- "views": "5282"
+ "views": "5282",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

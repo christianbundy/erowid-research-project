@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-29T07:00:00.000Z",
- "views": "22838"
+ "views": "22838",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 mg",
+   "administration": "",
+   "substance": "Smarts - Phenibut",
+   "form": ""
+  }
+ ]
 }

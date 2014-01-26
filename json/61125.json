@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-05T08:00:00.000Z",
- "views": "24330"
+ "views": "24330",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 tsp",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(seeds)"
+  }
+ ]
 }

@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-01T07:00:00.000Z",
- "views": "29036"
+ "views": "29036",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DMAE",
+   "form": ""
+  }
+ ]
 }

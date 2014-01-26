@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-10T07:00:00.000Z",
- "views": "46798"
+ "views": "46798",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Paroxetine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

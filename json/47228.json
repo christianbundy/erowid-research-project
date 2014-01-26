@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2010-03-21T07:00:00.000Z",
- "views": "6593"
+ "views": "6593",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "sublingual",
+   "substance": "Pharms - Fentanyl",
+   "form": "(patch)"
+  }
+ ]
 }

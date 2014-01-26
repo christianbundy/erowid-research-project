@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2009-09-12T07:00:00.000Z",
- "views": "6455"
+ "views": "6455",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria"
+  }
+ ]
 }

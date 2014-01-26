@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-07T07:00:00.000Z",
- "views": "34750"
+ "views": "34750",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "354 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": ""
+  }
+ ]
 }

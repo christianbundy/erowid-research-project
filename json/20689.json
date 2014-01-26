@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-16T07:00:00.000Z",
- "views": "10407"
+ "views": "10407",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Pharms - Flunitrazepam"
+  }
+ ]
 }

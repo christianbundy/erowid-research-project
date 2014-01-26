@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-18T07:00:00.000Z",
- "views": "21768"
+ "views": "21768",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2010-07-27T07:00:00.000Z",
- "views": "11694"
+ "views": "11694",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 ",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(fresh)"
+  }
+ ]
 }

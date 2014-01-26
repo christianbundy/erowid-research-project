@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-11-29T08:00:00.000Z",
- "views": "21051"
+ "views": "21051",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1200 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

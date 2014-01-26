@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-04-24T07:00:00.000Z",
- "views": "32503"
+ "views": "32503",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

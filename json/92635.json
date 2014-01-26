@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2011-09-02T07:00:00.000Z",
- "views": "5355"
+ "views": "5355",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "AM-2201",
+   "form": ""
+  }
+ ]
 }

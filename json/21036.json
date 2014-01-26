@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-04T08:00:00.000Z",
- "views": "56719"
+ "views": "56719",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Methadone"
+  }
+ ]
 }

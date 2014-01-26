@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-10-09T07:00:00.000Z",
- "views": "11591"
+ "views": "11591",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

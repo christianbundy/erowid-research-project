@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-05T08:00:00.000Z",
- "views": "13385"
+ "views": "13385",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 ug",
+   "administration": "oral",
+   "substance": "LSD"
+  }
+ ]
 }

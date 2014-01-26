@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-02-18T08:00:00.000Z",
- "views": "21948"
+ "views": "21948",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Pharms - Temazepam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

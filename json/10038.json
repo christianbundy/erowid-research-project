@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-12T07:00:00.000Z",
- "views": "10033"
+ "views": "10033",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg"
+  }
+ ]
 }

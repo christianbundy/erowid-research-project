@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-06-09T07:00:00.000Z",
- "views": "3260"
+ "views": "3260",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

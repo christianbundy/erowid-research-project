@@ -26,5 +26,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-06-19T07:00:00.000Z",
- "views": "17153"
+ "views": "17153",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 mg",
+   "administration": "IV",
+   "substance": "Hydromorphone",
+   "form": ""
+  }
+ ]
 }

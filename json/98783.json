@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-04-09T07:00:00.000Z",
- "views": "2436"
+ "views": "2436",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Various",
+   "form": ""
+  }
+ ]
 }

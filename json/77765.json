@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-09-22T07:00:00.000Z",
- "views": "4215"
+ "views": "4215",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": ".5 lines",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

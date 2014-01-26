@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-09-14T07:00:00.000Z",
- "views": "494"
+ "views": "494",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "sublingual",
+   "substance": "NBOMe Series",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

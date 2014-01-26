@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-09T07:00:00.000Z",
- "views": "18500"
+ "views": "18500",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 leaf",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(tea)"
+  }
+ ]
 }

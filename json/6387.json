@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-02-21T08:00:00.000Z",
- "views": "52821"
+ "views": "52821",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "Pseudoephedrine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

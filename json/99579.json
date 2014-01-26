@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2013-09-07T07:00:00.000Z",
- "views": "646"
+ "views": "646",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 drops",
+   "administration": "sublingual",
+   "substance": "25I-NBOMe",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2013-07-13T07:00:00.000Z",
- "views": "476"
+ "views": "476",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 ug",
+   "administration": "buccal",
+   "substance": "25C-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

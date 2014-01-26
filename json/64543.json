@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-14T07:00:00.000Z",
- "views": "8743"
+ "views": "8743",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Poppies - Opium",
+   "form": "(plant material)"
+  }
+ ]
 }

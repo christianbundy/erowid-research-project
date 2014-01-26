@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-19T07:00:00.000Z",
- "views": "19731"
+ "views": "19731",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.875 mg",
+   "administration": "oral",
+   "substance": "Melatonin"
+  }
+ ]
 }

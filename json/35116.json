@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-07-13T07:00:00.000Z",
- "views": "14636"
+ "views": "14636",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "24 mg",
+   "administration": "oral",
+   "substance": "4-HO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

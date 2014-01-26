@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-09-12T07:00:00.000Z",
- "views": "45821"
+ "views": "45821",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Cocaine",
+   "form": "(freebase)"
+  }
+ ]
 }

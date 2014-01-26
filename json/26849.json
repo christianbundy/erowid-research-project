@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-06-17T07:00:00.000Z",
- "views": "3475"
+ "views": "3475",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "14 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ ]
 }

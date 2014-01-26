@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2012-12-06T08:00:00.000Z",
- "views": "6159"
+ "views": "6159",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "33 g",
+   "administration": "oral",
+   "substance": "Cacti - T. peruvianus",
+   "form": "(dried)"
+  }
+ ]
 }

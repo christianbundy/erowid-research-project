@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-08-21T07:00:00.000Z",
- "views": "14166"
+ "views": "14166",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 ml",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(tea)"
+  }
+ ]
 }

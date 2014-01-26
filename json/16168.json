@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-21T07:00:00.000Z",
- "views": "6536"
+ "views": "6536",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "AMT"
+  }
+ ]
 }

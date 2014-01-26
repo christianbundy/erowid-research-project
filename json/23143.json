@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-13T08:00:00.000Z",
- "views": "53466"
+ "views": "53466",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "LSD",
+   "form": ""
+  }
+ ]
 }

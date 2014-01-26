@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-19T08:00:00.000Z",
- "views": "21550"
+ "views": "21550",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "-999.0 g",
+   "administration": "",
+   "substance": "Ketamine",
+   "form": "(daily)"
+  }
+ ]
 }

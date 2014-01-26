@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2012-12-12T08:00:00.000Z",
- "views": "5900"
+ "views": "5900",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

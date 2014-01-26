@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-10-07T07:00:00.000Z",
- "views": "19525"
+ "views": "19525",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "",
+   "substance": "Coca",
+   "form": "(dried)"
+  }
+ ]
 }

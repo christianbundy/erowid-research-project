@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-03-14T08:00:00.000Z",
- "views": "33186"
+ "views": "33186",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Hydrocodone"
+  }
+ ]
 }

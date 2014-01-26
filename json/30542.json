@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
- "views": "12881"
+ "views": "12881",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": ""
+  }
+ ]
 }

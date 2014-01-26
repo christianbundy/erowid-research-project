@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "15",
  "timestamp": "2009-09-30T07:00:00.000Z",
- "views": "20327"
+ "views": "20327",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Morphine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

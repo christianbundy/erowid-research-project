@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-28T08:00:00.000Z",
- "views": "18000"
+ "views": "18000",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cap",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ ]
 }

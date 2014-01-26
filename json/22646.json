@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-11T07:00:00.000Z",
- "views": "28041"
+ "views": "28041",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Poppies - Opium"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-05T08:00:00.000Z",
- "views": "8302"
+ "views": "8302",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "17.5 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-7",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

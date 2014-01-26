@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-05-17T07:00:00.000Z",
- "views": "3845"
+ "views": "3845",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ ]
 }

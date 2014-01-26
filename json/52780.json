@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-09T07:00:00.000Z",
- "views": "17154"
+ "views": "17154",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Pharms - Alprazolam",
+   "form": "(daily)"
+  }
+ ]
 }

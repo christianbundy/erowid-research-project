@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-12-23T08:00:00.000Z",
- "views": "8863"
+ "views": "8863",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT"
+  }
+ ]
 }

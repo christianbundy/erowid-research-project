@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "1920",
  "timestamp": "2012-02-03T08:00:00.000Z",
- "views": "3441"
+ "views": "3441",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

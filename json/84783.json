@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2010-06-10T07:00:00.000Z",
- "views": "44534"
+ "views": "44534",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "MDPV"
+  }
+ ]
 }

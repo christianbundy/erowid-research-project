@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-03T08:00:00.000Z",
- "views": "12230"
+ "views": "12230",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ ]
 }

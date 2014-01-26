@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-19T08:00:00.000Z",
- "views": "15575"
+ "views": "15575",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

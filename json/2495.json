@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
- "views": "17971"
+ "views": "17971",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

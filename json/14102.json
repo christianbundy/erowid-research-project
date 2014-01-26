@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-05T07:00:00.000Z",
- "views": "13791"
+ "views": "13791",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Skullcap",
+   "form": ""
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2005-12-28T08:00:00.000Z",
- "views": "17880"
+ "views": "17880",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13.5 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(daily)"
+  }
+ ]
 }

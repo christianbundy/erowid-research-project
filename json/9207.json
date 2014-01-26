@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-09-02T07:00:00.000Z",
- "views": "14701"
+ "views": "14701",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ ]
 }

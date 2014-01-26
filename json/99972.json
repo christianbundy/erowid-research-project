@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2013-06-02T07:00:00.000Z",
- "views": "1796"
+ "views": "1796",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 hits",
+   "administration": "rectal",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

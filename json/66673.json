@@ -46,5 +46,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-04-28T07:00:00.000Z",
- "views": "27636"
+ "views": "27636",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "MAOI",
+   "form": " T+ 1:00"
+  }
+ ]
 }

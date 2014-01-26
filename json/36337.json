@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-10-15T07:00:00.000Z",
- "views": "16723"
+ "views": "16723",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 mg",
+   "administration": "insufflated",
+   "substance": "4-Methylaminorex",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

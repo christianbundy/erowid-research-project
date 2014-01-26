@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "28",
  "timestamp": "2013-01-21T08:00:00.000Z",
- "views": "2390"
+ "views": "2390",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 g",
+   "administration": "oral",
+   "substance": "Tabernanthe iboga",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

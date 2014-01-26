@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-02-07T08:00:00.000Z",
- "views": "24006"
+ "views": "24006",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

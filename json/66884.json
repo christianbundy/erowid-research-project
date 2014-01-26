@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-19T07:00:00.000Z",
- "views": "4356"
+ "views": "4356",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "110 seeds",
+   "administration": "transdermal",
+   "substance": "Morning Glory",
+   "form": "(extract)"
+  }
+ ]
 }

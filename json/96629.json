@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2013-04-14T07:00:00.000Z",
- "views": "3164"
+ "views": "3164",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ ]
 }

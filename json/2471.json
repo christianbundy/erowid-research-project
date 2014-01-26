@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-07-16T07:00:00.000Z",
- "views": "52835"
+ "views": "52835",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 ",
+   "administration": "oral",
+   "substance": "Betel Nut",
+   "form": "(fresh)"
+  }
+ ]
 }

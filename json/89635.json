@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2011-02-27T08:00:00.000Z",
- "views": "7567"
+ "views": "7567",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "DPT",
+   "form": ""
+  }
+ ]
 }

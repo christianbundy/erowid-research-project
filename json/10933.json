@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-11-30T08:00:00.000Z",
- "views": "87996"
+ "views": "87996",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "80 mg",
+   "administration": "smoked",
+   "substance": "Mushrooms - P. cyanescens",
+   "form": "(dried)"
+  }
+ ]
 }

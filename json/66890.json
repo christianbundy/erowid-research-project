@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-02-17T08:00:00.000Z",
- "views": "2912"
+ "views": "2912",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(daily)"
+  }
+ ]
 }

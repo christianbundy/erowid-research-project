@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-16T07:00:00.000Z",
- "views": "16760"
+ "views": "16760",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "74 mg",
+   "administration": "oral",
+   "substance": "DiPT",
+   "form": "(liquid)"
+  }
+ ]
 }

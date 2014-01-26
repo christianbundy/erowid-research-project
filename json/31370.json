@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-07-29T07:00:00.000Z",
- "views": "60516"
+ "views": "60516",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9.5 lines",
+   "administration": "insufflated",
+   "substance": "Codeine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

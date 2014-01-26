@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-09-14T07:00:00.000Z",
- "views": "25344"
+ "views": "25344",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "225 mg",
+   "administration": "oral",
+   "substance": "Morphine",
+   "form": "(patch)"
+  }
+ ]
 }

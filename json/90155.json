@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2011-05-02T07:00:00.000Z",
- "views": "8542"
+ "views": "8542",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": ""
+  }
+ ]
 }

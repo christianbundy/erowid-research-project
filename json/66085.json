@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-01T07:00:00.000Z",
- "views": "19654"
+ "views": "19654",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Mimosa tenuiflora",
+   "form": "(extract)"
+  }
+ ]
 }

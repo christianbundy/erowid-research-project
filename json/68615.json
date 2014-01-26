@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-13T07:00:00.000Z",
- "views": "5505"
+ "views": "5505",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "14 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

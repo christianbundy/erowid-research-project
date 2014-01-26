@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
- "views": "6461"
+ "views": "6461",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-06-08T07:00:00.000Z",
- "views": "24652"
+ "views": "24652",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "??",
+   "form": "(daily)"
+  }
+ ]
 }

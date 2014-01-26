@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-02-10T08:00:00.000Z",
- "views": "37248"
+ "views": "37248",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Methocarbamol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

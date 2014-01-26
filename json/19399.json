@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-12-05T08:00:00.000Z",
- "views": "32970"
+ "views": "32970",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 tablets",
+   "administration": "oral",
+   "substance": "Caffeine"
+  }
+ ]
 }

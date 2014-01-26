@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-20T08:00:00.000Z",
- "views": "24143"
+ "views": "24143",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "650 mg",
+   "administration": "oral",
+   "substance": "Acetaminophen",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

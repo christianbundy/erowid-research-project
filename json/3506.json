@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-27T07:00:00.000Z",
- "views": "45923"
+ "views": "45923",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.3 g",
+   "administration": "smoked",
+   "substance": "Red Rock",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

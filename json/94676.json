@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2012-02-09T08:00:00.000Z",
- "views": "8127"
+ "views": "8127",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

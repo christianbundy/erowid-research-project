@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-24T08:00:00.000Z",
- "views": "31591"
+ "views": "31591",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 g",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-08-21T07:00:00.000Z",
- "views": "28661"
+ "views": "28661",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-06-22T07:00:00.000Z",
- "views": "9509"
+ "views": "9509",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  }
+ ]
 }

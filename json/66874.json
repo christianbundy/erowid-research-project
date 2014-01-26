@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-02T08:00:00.000Z",
- "views": "9411"
+ "views": "9411",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": ""
+  }
+ ]
 }

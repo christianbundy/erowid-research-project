@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-12-07T08:00:00.000Z",
- "views": "15730"
+ "views": "15730",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 ug",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ ]
 }

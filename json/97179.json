@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-01-16T08:00:00.000Z",
- "views": "1276"
+ "views": "1276",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

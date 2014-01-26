@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2010-04-30T07:00:00.000Z",
- "views": "11229"
+ "views": "11229",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "4-MTA"
+  }
+ ]
 }

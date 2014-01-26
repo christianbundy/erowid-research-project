@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-01-18T08:00:00.000Z",
- "views": "27983"
+ "views": "27983",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Crack"
+  }
+ ]
 }

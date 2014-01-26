@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-19T07:00:00.000Z",
- "views": "16295"
+ "views": "16295",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": ""
+  }
+ ]
 }

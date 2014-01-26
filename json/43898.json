@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
- "views": "28840"
+ "views": "28840",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Pharms - Fentanyl"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-25T07:00:00.000Z",
- "views": "8665"
+ "views": "8665",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Zolpidem"
+  }
+ ]
 }

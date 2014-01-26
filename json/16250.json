@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-07-24T07:00:00.000Z",
- "views": "28411"
+ "views": "28411",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Crack",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

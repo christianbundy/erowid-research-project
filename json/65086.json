@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-01-10T08:00:00.000Z",
- "views": "7339"
+ "views": "7339",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 seeds",
+   "administration": "oral",
+   "substance": "Turbina corymbosa",
+   "form": "(seeds)"
+  }
+ ]
 }

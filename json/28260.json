@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-15T08:00:00.000Z",
- "views": "21777"
+ "views": "21777",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "IAP",
+   "form": "(liquid)"
+  }
+ ]
 }

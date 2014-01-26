@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-05-22T07:00:00.000Z",
- "views": "23262"
+ "views": "23262",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 tsp",
+   "administration": "oral",
+   "substance": "Calamus",
+   "form": "(extract)"
+  }
+ ]
 }

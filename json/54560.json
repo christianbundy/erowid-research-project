@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-10T07:00:00.000Z",
- "views": "46964"
+ "views": "46964",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Clonazepam",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

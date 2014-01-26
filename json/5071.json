@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-02-09T08:00:00.000Z",
- "views": "15721"
+ "views": "15721",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

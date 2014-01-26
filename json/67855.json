@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2013-03-29T07:00:00.000Z",
- "views": "2227"
+ "views": "2227",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Hyoscyamus niger"
+  }
+ ]
 }

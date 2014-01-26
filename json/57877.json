@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
- "views": "4310"
+ "views": "4310",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ ]
 }

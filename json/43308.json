@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-04T07:00:00.000Z",
- "views": "37738"
+ "views": "37738",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bump",
+   "administration": "insufflated",
+   "substance": "Caffeine",
+   "form": "(extract)"
+  }
+ ]
 }

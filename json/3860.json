@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-26T08:00:00.000Z",
- "views": "20909"
+ "views": "20909",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "930 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

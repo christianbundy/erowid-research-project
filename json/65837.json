@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-05T08:00:00.000Z",
- "views": "8088"
+ "views": "8088",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "buccal",
+   "substance": "Anadenanthera colubrina",
+   "form": "(seeds)"
+  }
+ ]
 }

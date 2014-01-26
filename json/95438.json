@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2012-04-05T07:00:00.000Z",
- "views": "10660"
+ "views": "10660",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "insufflated",
+   "substance": "Ethylphenidate",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-11T07:00:00.000Z",
- "views": "187005"
+ "views": "187005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Wormwood",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-19T07:00:00.000Z",
- "views": "14487"
+ "views": "14487",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "17.5 mg",
+   "administration": "oral",
+   "substance": "5-MeO-MIPT",
+   "form": "(liquid)"
+  }
+ ]
 }

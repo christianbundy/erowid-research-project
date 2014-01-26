@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "16",
  "timestamp": "2010-07-21T07:00:00.000Z",
- "views": "4532"
+ "views": "4532",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram",
+   "form": "(daily)"
+  }
+ ]
 }

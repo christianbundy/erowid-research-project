@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2011-02-11T08:00:00.000Z",
- "views": "33107"
+ "views": "33107",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "750 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine"
+  }
+ ]
 }

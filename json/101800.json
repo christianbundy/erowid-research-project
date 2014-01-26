@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2013-11-16T08:00:00.000Z",
- "views": "377"
+ "views": "377",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  }
+ ]
 }

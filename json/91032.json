@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "24",
  "timestamp": "2011-05-16T07:00:00.000Z",
- "views": "10651"
+ "views": "10651",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "rectal",
+   "substance": "Methoxetamine ",
+   "form": "(liquid)"
+  }
+ ]
 }

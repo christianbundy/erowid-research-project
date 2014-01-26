@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-27T08:00:00.000Z",
- "views": "30973"
+ "views": "30973",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " seeds",
+   "administration": "transdermal",
+   "substance": "Datura",
+   "form": "(extract)"
+  }
+ ]
 }

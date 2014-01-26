@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2012-11-07T08:00:00.000Z",
- "views": "4182"
+ "views": "4182",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 seeds",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(liquid)"
+  }
+ ]
 }

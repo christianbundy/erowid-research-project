@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "23",
  "timestamp": "2010-03-17T07:00:00.000Z",
- "views": "3655"
+ "views": "3655",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "30 mg",
+   "administration": "insufflated",
+   "substance": "2C-B",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

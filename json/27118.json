@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-09-30T07:00:00.000Z",
- "views": "45961"
+ "views": "45961",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "smoked",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-02T08:00:00.000Z",
- "views": "11094"
+ "views": "11094",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "2C-D",
+   "form": "(liquid)"
+  }
+ ]
 }

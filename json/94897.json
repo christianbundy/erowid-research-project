@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-05-22T07:00:00.000Z",
- "views": "10460"
+ "views": "10460",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(extract)"
+  }
+ ]
 }

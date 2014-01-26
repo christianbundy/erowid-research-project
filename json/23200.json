@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-07T07:00:00.000Z",
- "views": "35622"
+ "views": "35622",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 leaves",
+   "administration": "smoked",
+   "substance": "Coleus",
+   "form": "(dried)"
+  }
+ ]
 }

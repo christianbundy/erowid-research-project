@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-12T07:00:00.000Z",
- "views": "11760"
+ "views": "11760",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 seeds",
+   "administration": "oral",
+   "substance": "Voacanga africana",
+   "form": "(seeds)"
+  }
+ ]
 }

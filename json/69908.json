@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-12T07:00:00.000Z",
- "views": "12698"
+ "views": "12698",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(extract)"
+  }
+ ]
 }

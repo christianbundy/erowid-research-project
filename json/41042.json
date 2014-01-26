@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-03-02T08:00:00.000Z",
- "views": "5472"
+ "views": "5472",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "8 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(dried)"
+  }
+ ]
 }

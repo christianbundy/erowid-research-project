@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2013-01-22T08:00:00.000Z",
- "views": "3537"
+ "views": "3537",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Ayahuasca",
+   "form": "(liquid)"
+  }
+ ]
 }

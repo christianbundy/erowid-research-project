@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
- "views": "158053"
+ "views": "158053",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 g",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(capsule)"
+  }
+ ]
 }

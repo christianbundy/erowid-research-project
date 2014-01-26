@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-24T07:00:00.000Z",
- "views": "16707"
+ "views": "16707",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Zaleplon"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-01-02T08:00:00.000Z",
- "views": "5660"
+ "views": "5660",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Methiopropamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

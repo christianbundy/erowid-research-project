@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-15T07:00:00.000Z",
- "views": "31619"
+ "views": "31619",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Methamphetamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

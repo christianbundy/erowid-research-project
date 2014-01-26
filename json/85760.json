@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "42",
  "timestamp": "2010-06-17T07:00:00.000Z",
- "views": "2745"
+ "views": "2745",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Toad Venom"
+  }
+ ]
 }

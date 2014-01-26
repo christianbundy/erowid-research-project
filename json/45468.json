@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-08T07:00:00.000Z",
- "views": "20693"
+ "views": "20693",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phentermine",
+   "form": "(daily)"
+  }
+ ]
 }

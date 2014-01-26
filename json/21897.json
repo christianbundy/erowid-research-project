@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-07-22T07:00:00.000Z",
- "views": "30703"
+ "views": "30703",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " seeds",
+   "administration": "oral",
+   "substance": "Poppies - Opium",
+   "form": "(tea)"
+  }
+ ]
 }

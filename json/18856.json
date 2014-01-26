@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-12T07:00:00.000Z",
- "views": "17078"
+ "views": "17078",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "18 mg",
+   "administration": "oral",
+   "substance": "4-Acetoxy-DiPT",
+   "form": " T+ 2:00"
+  }
+ ]
 }

@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-10T07:00:00.000Z",
- "views": "20614"
+ "views": "20614",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": ""
+  }
+ ]
 }

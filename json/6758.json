@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2002-03-24T08:00:00.000Z",
- "views": "16315"
+ "views": "16315",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(tea)"
+  }
+ ]
 }

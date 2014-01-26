@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-06-17T07:00:00.000Z",
- "views": "7592"
+ "views": "7592",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 mg",
+   "administration": "rectal",
+   "substance": "2C-P"
+  }
+ ]
 }

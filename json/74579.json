@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-29T07:00:00.000Z",
- "views": "12921"
+ "views": "12921",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": " T+ 5:00"
+  }
+ ]
 }

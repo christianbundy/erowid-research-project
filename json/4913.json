@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-01-29T08:00:00.000Z",
- "views": "55520"
+ "views": "55520",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 g",
+   "administration": "oral",
+   "substance": "Cocaine",
+   "form": "(tea)"
+  }
+ ]
 }

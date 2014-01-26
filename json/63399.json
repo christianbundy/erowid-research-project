@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-31T07:00:00.000Z",
- "views": "33271"
+ "views": "33271",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "27 mg",
+   "administration": "sublingual",
+   "substance": "4-HO-MET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

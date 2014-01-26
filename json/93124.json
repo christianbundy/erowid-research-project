@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-03-24T07:00:00.000Z",
- "views": "14380"
+ "views": "14380",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "250 mg",
+   "administration": "",
+   "substance": "Pharms - Propylhexedrine",
+   "form": " T+ 5:55"
+  }
+ ]
 }

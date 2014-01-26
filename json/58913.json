@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-30T08:00:00.000Z",
- "views": "13184"
+ "views": "13184",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-HO-MiPT",
+   "form": ""
+  }
+ ]
 }

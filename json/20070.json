@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-12-22T08:00:00.000Z",
- "views": "37358"
+ "views": "37358",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Amanitas",
+   "form": "(tea)"
+  }
+ ]
 }

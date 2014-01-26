@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-27T07:00:00.000Z",
- "views": "4825"
+ "views": "4825",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "insufflated",
+   "substance": "2C-T-7"
+  }
+ ]
 }

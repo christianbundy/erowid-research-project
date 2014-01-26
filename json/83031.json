@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2011-09-06T07:00:00.000Z",
- "views": "6985"
+ "views": "6985",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "insufflated",
+   "substance": "Dimethocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-09-09T07:00:00.000Z",
- "views": "10744"
+ "views": "10744",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

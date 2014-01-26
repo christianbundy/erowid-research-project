@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-06T08:00:00.000Z",
- "views": "12449"
+ "views": "12449",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(capsule)"
+  }
+ ]
 }

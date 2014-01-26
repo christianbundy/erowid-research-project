@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-09-11T07:00:00.000Z",
- "views": "18003"
+ "views": "18003",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "smoked",
+   "substance": "DPT",
+   "form": "(freebase)"
+  }
+ ]
 }

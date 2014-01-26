@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2005-03-14T08:00:00.000Z",
- "views": "9158"
+ "views": "9158",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Cannabis - Hash"
+  }
+ ]
 }

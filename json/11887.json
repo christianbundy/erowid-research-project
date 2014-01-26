@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-05-09T07:00:00.000Z",
- "views": "54684"
+ "views": "54684",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "130 mg",
+   "administration": "IV",
+   "substance": "Pharms - Propoxyphene",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

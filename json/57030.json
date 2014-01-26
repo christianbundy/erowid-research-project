@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-30T08:00:00.000Z",
- "views": "18843"
+ "views": "18843",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT"
+  }
+ ]
 }

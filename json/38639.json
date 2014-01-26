@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-16T08:00:00.000Z",
- "views": "8080"
+ "views": "8080",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 cup",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(tea)"
+  }
+ ]
 }

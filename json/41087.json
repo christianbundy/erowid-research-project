@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-08-24T07:00:00.000Z",
- "views": "19753"
+ "views": "19753",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Hops",
+   "form": "(dried)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2011-08-08T07:00:00.000Z",
- "views": "8280"
+ "views": "8280",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Products - Bath Salts, Plant Food, etc"
+  }
+ ]
 }

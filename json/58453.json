@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-08T08:00:00.000Z",
- "views": "13677"
+ "views": "13677",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  }
+ ]
 }

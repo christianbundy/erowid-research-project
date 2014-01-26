@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-06-26T07:00:00.000Z",
- "views": "24908"
+ "views": "24908",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "4-Methylaminorex",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

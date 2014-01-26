@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2001-12-25T08:00:00.000Z",
- "views": "3612"
+ "views": "3612",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "333 mg",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ ]
 }

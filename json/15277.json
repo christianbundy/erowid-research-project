@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-08-13T07:00:00.000Z",
- "views": "13040"
+ "views": "13040",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "26 tablets",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-15T07:00:00.000Z",
- "views": "8125"
+ "views": "8125",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 flowers",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(fresh)"
+  }
+ ]
 }

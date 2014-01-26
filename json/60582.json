@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-06T07:00:00.000Z",
- "views": "4472"
+ "views": "4472",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "rectal",
+   "substance": "2C-B",
+   "form": "(liquid)"
+  }
+ ]
 }

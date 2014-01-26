@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-10T07:00:00.000Z",
- "views": "1288"
+ "views": "1288",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Levmetamfetamine"
+  }
+ ]
 }

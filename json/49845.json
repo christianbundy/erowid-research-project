@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-04T08:00:00.000Z",
- "views": "5613"
+ "views": "5613",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "5-MeO-AMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

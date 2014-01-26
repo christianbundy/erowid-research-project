@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-06-16T07:00:00.000Z",
- "views": "21710"
+ "views": "21710",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "St. John's Wort",
+   "form": "(daily)"
+  }
+ ]
 }

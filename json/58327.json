@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-01-06T08:00:00.000Z",
- "views": "29805"
+ "views": "29805",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "165 mg",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  }
+ ]
 }

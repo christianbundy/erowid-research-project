@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-04T08:00:00.000Z",
- "views": "4560"
+ "views": "4560",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(tar / resin)"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-06T07:00:00.000Z",
- "views": "21713"
+ "views": "21713",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "22.5 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

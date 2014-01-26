@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-05-04T07:00:00.000Z",
- "views": "7756"
+ "views": "7756",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4 cups",
+   "administration": "oral",
+   "substance": "Coffee",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-11T08:00:00.000Z",
- "views": "12487"
+ "views": "12487",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Moclobemide",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

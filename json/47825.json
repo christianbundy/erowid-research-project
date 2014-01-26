@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-28T08:00:00.000Z",
- "views": "5894"
+ "views": "5894",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 g",
+   "administration": "",
+   "substance": "Syrian Rue",
+   "form": "(extract - 10x)"
+  }
+ ]
 }

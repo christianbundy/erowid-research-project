@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-24T08:00:00.000Z",
- "views": "28040"
+ "views": "28040",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "smoked",
+   "substance": "Passion Flower",
+   "form": "(plant material)"
+  }
+ ]
 }

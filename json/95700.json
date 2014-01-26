@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2012-05-30T07:00:00.000Z",
- "views": "3781"
+ "views": "3781",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2100 ug",
+   "administration": "oral",
+   "substance": "Bromo-Dragonfly",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

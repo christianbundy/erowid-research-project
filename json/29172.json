@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-21T07:00:00.000Z",
- "views": "84145"
+ "views": "84145",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.25 g",
+   "administration": "IV",
+   "substance": "Heroin"
+  }
+ ]
 }

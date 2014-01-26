@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "27",
  "timestamp": "2011-05-20T07:00:00.000Z",
- "views": "5061"
+ "views": "5061",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  }
+ ]
 }

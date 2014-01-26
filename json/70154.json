@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-08-04T07:00:00.000Z",
- "views": "3695"
+ "views": "3695",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 seeds",
+   "administration": "oral",
+   "substance": "Datura"
+  }
+ ]
 }

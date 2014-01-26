@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-07-25T07:00:00.000Z",
- "views": "7082"
+ "views": "7082",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phenytoin",
+   "form": ""
+  }
+ ]
 }

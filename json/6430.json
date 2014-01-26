@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-26T08:00:00.000Z",
- "views": "119742"
+ "views": "119742",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "18.9 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  }
+ ]
 }

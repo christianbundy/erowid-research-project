@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-12T08:00:00.000Z",
- "views": "5970"
+ "views": "5970",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Salvia divinorum"
+  }
+ ]
 }

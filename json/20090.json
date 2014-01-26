@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-31T08:00:00.000Z",
- "views": "4089"
+ "views": "4089",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "130 mg",
+   "administration": "oral",
+   "substance": "AMT",
+   "form": ""
+  }
+ ]
 }

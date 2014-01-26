@@ -30,5 +30,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-03-01T08:00:00.000Z",
- "views": "41357"
+ "views": "41357",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.0 g",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": ""
+  }
+ ]
 }

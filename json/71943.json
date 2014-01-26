@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-08-07T07:00:00.000Z",
- "views": "28430"
+ "views": "28430",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 Tbsp",
+   "administration": "oral",
+   "substance": "Damiana",
+   "form": "(tea)"
+  }
+ ]
 }

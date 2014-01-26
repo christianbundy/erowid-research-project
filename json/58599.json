@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-01-06T08:00:00.000Z",
- "views": "13925"
+ "views": "13925",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.4 joints/cigs",
+   "administration": "inhaled",
+   "substance": "Cannabis",
+   "form": "(flowers)"
+  }
+ ]
 }

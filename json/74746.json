@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-01-09T08:00:00.000Z",
- "views": "4650"
+ "views": "4650",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Yarrow",
+   "form": "(extract)"
+  }
+ ]
 }

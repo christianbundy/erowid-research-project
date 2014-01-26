@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "40",
  "timestamp": "2012-02-22T08:00:00.000Z",
- "views": "6570"
+ "views": "6570",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": ""
+  }
+ ]
 }

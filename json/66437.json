@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-03-21T07:00:00.000Z",
- "views": "15281"
+ "views": "15281",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Oxycodone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

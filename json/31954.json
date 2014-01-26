@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-12T08:00:00.000Z",
- "views": "6735"
+ "views": "6735",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "2C-I",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

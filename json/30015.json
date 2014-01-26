@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-14T08:00:00.000Z",
- "views": "14025"
+ "views": "14025",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 mg",
+   "administration": "oral",
+   "substance": "4-HO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

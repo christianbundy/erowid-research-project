@@ -22,5 +22,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2009-11-04T08:00:00.000Z",
- "views": "11247"
+ "views": "11247",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Acacia",
+   "form": ""
+  }
+ ]
 }

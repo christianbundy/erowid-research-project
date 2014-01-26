@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2010-03-23T07:00:00.000Z",
- "views": "5644"
+ "views": "5644",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

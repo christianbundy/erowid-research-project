@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-12-31T08:00:00.000Z",
- "views": "14746"
+ "views": "14746",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "13 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(liquid)"
+  }
+ ]
 }

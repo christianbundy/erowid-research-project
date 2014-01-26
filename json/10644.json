@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-15T07:00:00.000Z",
- "views": "7145"
+ "views": "7145",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "18 tablets",
+   "administration": "oral",
+   "substance": "Diphenhydramine"
+  }
+ ]
 }

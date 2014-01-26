@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-19T07:00:00.000Z",
- "views": "27523"
+ "views": "27523",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Galangal",
+   "form": "(roots)"
+  }
+ ]
 }

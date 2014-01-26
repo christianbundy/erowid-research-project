@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "14",
  "timestamp": "2010-03-18T07:00:00.000Z",
- "views": "17156"
+ "views": "17156",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(daily)"
+  }
+ ]
 }

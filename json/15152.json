@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-06-04T07:00:00.000Z",
- "views": "25953"
+ "views": "25953",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "smoked",
+   "substance": "DET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

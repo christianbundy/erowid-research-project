@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-18T07:00:00.000Z",
- "views": "66465"
+ "views": "66465",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 oz",
+   "administration": "oral",
+   "substance": "Chocolate"
+  }
+ ]
 }

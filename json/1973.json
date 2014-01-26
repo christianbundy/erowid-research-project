@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-06-20T07:00:00.000Z",
- "views": "6287"
+ "views": "6287",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

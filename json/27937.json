@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-29T07:00:00.000Z",
- "views": "5746"
+ "views": "5746",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "MDMA",
+   "form": ""
+  }
+ ]
 }

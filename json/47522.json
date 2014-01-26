@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-17T07:00:00.000Z",
- "views": "7635"
+ "views": "7635",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "2C-I",
+   "form": ""
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-08-07T07:00:00.000Z",
- "views": "13059"
+ "views": "13059",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "buccal",
+   "substance": "Silene capensis",
+   "form": "(daily)"
+  }
+ ]
 }

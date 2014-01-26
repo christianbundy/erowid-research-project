@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2012-10-23T07:00:00.000Z",
- "views": "3163"
+ "views": "3163",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "2C-C-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

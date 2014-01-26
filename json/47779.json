@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-01-09T08:00:00.000Z",
- "views": "11944"
+ "views": "11944",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 leaves",
+   "administration": "buccal",
+   "substance": "Catha edulis"
+  }
+ ]
 }

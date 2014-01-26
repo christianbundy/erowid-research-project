@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-08T08:00:00.000Z",
- "views": "9678"
+ "views": "9678",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "5 Tbsp",
+   "administration": "oral",
+   "substance": "Passion Flower",
+   "form": "(tea)"
+  }
+ ]
 }

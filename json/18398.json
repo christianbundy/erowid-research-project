@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-10-24T07:00:00.000Z",
- "views": "16946"
+ "views": "16946",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.5 mg",
+   "administration": "",
+   "substance": "DOI",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

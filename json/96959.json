@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2012-08-08T07:00:00.000Z",
- "views": "14880"
+ "views": "14880",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "sublingual",
+   "substance": "2C-I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

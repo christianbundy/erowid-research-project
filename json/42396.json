@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-17T07:00:00.000Z",
- "views": "14298"
+ "views": "14298",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Risperidone",
+   "form": "(daily)"
+  }
+ ]
 }

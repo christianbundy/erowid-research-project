@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "22",
  "timestamp": "2011-08-02T07:00:00.000Z",
- "views": "5152"
+ "views": "5152",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin"
+  }
+ ]
 }

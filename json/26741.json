@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-06-01T07:00:00.000Z",
- "views": "21665"
+ "views": "21665",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phentermine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

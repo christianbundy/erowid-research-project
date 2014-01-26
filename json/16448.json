@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-31T07:00:00.000Z",
- "views": "69223"
+ "views": "69223",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.0 mg",
+   "administration": "oral",
+   "substance": "Scopolamine"
+  }
+ ]
 }

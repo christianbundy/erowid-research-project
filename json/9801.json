@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-10-07T07:00:00.000Z",
- "views": "28205"
+ "views": "28205",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "110 mg",
+   "administration": "IM",
+   "substance": "DPT",
+   "form": "(liquid)"
+  }
+ ]
 }

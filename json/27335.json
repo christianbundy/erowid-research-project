@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-02-20T08:00:00.000Z",
- "views": "29075"
+ "views": "29075",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Caffeine"
+  }
+ ]
 }

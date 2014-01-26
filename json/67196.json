@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-09T08:00:00.000Z",
- "views": "22243"
+ "views": "22243",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Methylone",
+   "form": "(capsule)"
+  }
+ ]
 }

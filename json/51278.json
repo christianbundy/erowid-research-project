@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-10T08:00:00.000Z",
- "views": "13226"
+ "views": "13226",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "Anadenanthera colubrina",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

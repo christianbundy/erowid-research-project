@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-29T08:00:00.000Z",
- "views": "11380"
+ "views": "11380",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(extract)"
+  }
+ ]
 }

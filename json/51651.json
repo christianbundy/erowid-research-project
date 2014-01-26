@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-05T08:00:00.000Z",
- "views": "8537"
+ "views": "8537",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Phenytoin",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-30T08:00:00.000Z",
- "views": "10258"
+ "views": "10258",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 ",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(tea)"
+  }
+ ]
 }

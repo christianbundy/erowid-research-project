@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-10-27T07:00:00.000Z",
- "views": "10634"
+ "views": "10634",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Modafinil",
+   "form": "(daily)"
+  }
+ ]
 }

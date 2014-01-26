@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "27",
  "timestamp": "2011-06-08T07:00:00.000Z",
- "views": "4918"
+ "views": "4918",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cap",
+   "administration": "oral",
+   "substance": "GHB",
+   "form": "(liquid)"
+  }
+ ]
 }

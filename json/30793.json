@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-12T08:00:00.000Z",
- "views": "2519"
+ "views": "2519",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8.0 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(seeds)"
+  }
+ ]
 }

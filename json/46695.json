@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2010-03-10T08:00:00.000Z",
- "views": "3064"
+ "views": "3064",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "40",
  "timestamp": "2013-12-13T08:00:00.000Z",
- "views": "874"
+ "views": "874",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Harmala Alkaloids",
+   "form": "(extract)"
+  }
+ ]
 }

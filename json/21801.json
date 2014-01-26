@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-21T08:00:00.000Z",
- "views": "10414"
+ "views": "10414",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(capsule)"
+  }
+ ]
 }

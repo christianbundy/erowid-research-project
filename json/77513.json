@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-04-16T07:00:00.000Z",
- "views": "5400"
+ "views": "5400",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Products - Smoking Blends - Cannabis-Like",
+   "form": ""
+  }
+ ]
 }

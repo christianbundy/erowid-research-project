@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-03T07:00:00.000Z",
- "views": "32168"
+ "views": "32168",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "102 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(extract)"
+  }
+ ]
 }

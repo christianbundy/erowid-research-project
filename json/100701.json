@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-12-25T08:00:00.000Z",
- "views": "216"
+ "views": "216",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-06T08:00:00.000Z",
- "views": "13016"
+ "views": "13016",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Pharms - Atomoxetine",
+   "form": "(daily)"
+  }
+ ]
 }

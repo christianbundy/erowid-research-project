@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-02-10T08:00:00.000Z",
- "views": "25667"
+ "views": "25667",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Trazodone"
+  }
+ ]
 }

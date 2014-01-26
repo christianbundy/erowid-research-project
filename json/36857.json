@@ -54,5 +54,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-07-23T07:00:00.000Z",
- "views": "10270"
+ "views": "10270",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

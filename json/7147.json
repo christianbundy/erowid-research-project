@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-02T07:00:00.000Z",
- "views": "19251"
+ "views": "19251",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 capsls",
+   "administration": "oral",
+   "substance": "LSA",
+   "form": ""
+  }
+ ]
 }

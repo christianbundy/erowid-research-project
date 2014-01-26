@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "35",
  "timestamp": "2012-11-09T08:00:00.000Z",
- "views": "1054"
+ "views": "1054",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 leaves",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ ]
 }

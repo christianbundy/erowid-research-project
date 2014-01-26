@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-19T07:00:00.000Z",
- "views": "4638"
+ "views": "4638",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines"
+  }
+ ]
 }

@@ -44,5 +44,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-01-19T08:00:00.000Z",
- "views": "41443"
+ "views": "41443",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

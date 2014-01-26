@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-07T08:00:00.000Z",
- "views": "17946"
+ "views": "17946",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Olanzapine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

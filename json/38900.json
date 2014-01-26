@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-03T08:00:00.000Z",
- "views": "9236"
+ "views": "9236",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Piperazines"
+  }
+ ]
 }

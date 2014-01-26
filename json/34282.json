@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-05-02T07:00:00.000Z",
- "views": "8808"
+ "views": "8808",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": " T+ 0:25"
+  }
+ ]
 }

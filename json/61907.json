@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-02T07:00:00.000Z",
- "views": "16472"
+ "views": "16472",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 caps",
+   "administration": "oral",
+   "substance": "Amanitas - A. muscaria"
+  }
+ ]
 }

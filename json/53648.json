@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-11-07T08:00:00.000Z",
- "views": "27529"
+ "views": "27529",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9 lines",
+   "administration": "insufflated",
+   "substance": "Cocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

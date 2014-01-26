@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-26T07:00:00.000Z",
- "views": "46258"
+ "views": "46258",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-02-12T08:00:00.000Z",
- "views": "74797"
+ "views": "74797",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Clonazepam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

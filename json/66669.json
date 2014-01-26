@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-26T07:00:00.000Z",
- "views": "7614"
+ "views": "7614",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(liquid)"
+  }
+ ]
 }

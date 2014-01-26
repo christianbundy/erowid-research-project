@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2008-12-23T08:00:00.000Z",
- "views": "5369"
+ "views": "5369",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "850 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(daily)"
+  }
+ ]
 }

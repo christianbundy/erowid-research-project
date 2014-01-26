@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-11-09T08:00:00.000Z",
- "views": "9227"
+ "views": "9227",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Pharms - Oxycodone"
+  }
+ ]
 }

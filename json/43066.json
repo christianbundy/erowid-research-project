@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-08-30T07:00:00.000Z",
- "views": "4228"
+ "views": "4228",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ ]
 }

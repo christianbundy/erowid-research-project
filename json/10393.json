@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-01-18T08:00:00.000Z",
- "views": "77652"
+ "views": "77652",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "900 mg",
+   "administration": "oral",
+   "substance": "Adrafinil",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

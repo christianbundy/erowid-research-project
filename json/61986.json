@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-11-17T08:00:00.000Z",
- "views": "8899"
+ "views": "8899",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Milk Thistle",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-31T08:00:00.000Z",
- "views": "28976"
+ "views": "28976",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 Tbsp",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ ]
 }

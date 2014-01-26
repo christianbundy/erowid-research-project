@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-12T07:00:00.000Z",
- "views": "45435"
+ "views": "45435",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "230 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

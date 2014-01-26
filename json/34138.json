@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-11-28T08:00:00.000Z",
- "views": "30158"
+ "views": "30158",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4000 mg",
+   "administration": "oral",
+   "substance": "Guarana",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

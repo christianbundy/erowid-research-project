@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2013-02-21T08:00:00.000Z",
- "views": "2012"
+ "views": "2012",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "3 hits",
+   "administration": "oral",
+   "substance": "2C-B-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

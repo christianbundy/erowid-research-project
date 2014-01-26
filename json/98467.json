@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2012-12-08T08:00:00.000Z",
- "views": "2288"
+ "views": "2288",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Alcohol",
+   "form": ""
+  }
+ ]
 }

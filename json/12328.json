@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "14",
  "timestamp": "2009-10-31T07:00:00.000Z",
- "views": "5148"
+ "views": "5148",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "LSD",
+   "form": ""
+  }
+ ]
 }

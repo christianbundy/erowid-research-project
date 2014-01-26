@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-16T08:00:00.000Z",
- "views": "2726"
+ "views": "2726",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(capsule)"
+  }
+ ]
 }

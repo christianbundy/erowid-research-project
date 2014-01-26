@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-01-12T08:00:00.000Z",
- "views": "7139"
+ "views": "7139",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 oz",
+   "administration": "inhaled",
+   "substance": "Ether",
+   "form": "(liquid)"
+  }
+ ]
 }

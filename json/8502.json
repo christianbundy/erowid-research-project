@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-21T07:00:00.000Z",
- "views": "31235"
+ "views": "31235",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 oz",
+   "administration": "oral",
+   "substance": "Kava"
+  }
+ ]
 }

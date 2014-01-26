@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-08-01T07:00:00.000Z",
- "views": "44926"
+ "views": "44926",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Mushrooms",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-21T07:00:00.000Z",
- "views": "7989"
+ "views": "7989",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 nuts",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(plant material)"
+  }
+ ]
 }

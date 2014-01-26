@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-07-20T07:00:00.000Z",
- "views": "3305"
+ "views": "3305",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 seeds",
+   "administration": "sublingual",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

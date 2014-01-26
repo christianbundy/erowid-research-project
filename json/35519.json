@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-12-17T08:00:00.000Z",
- "views": "29698"
+ "views": "29698",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": "(daily)"
+  }
+ ]
 }

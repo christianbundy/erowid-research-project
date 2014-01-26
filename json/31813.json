@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-06-21T07:00:00.000Z",
- "views": "18549"
+ "views": "18549",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 ug",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

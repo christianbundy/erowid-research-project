@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "33",
  "timestamp": "2011-08-02T07:00:00.000Z",
- "views": "3112"
+ "views": "3112",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Yohimbe",
+   "form": "(tea)"
+  }
+ ]
 }

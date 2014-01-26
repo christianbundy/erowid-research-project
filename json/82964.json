@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2013-12-15T08:00:00.000Z",
- "views": "968"
+ "views": "968",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Zolpidem",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2010-09-22T07:00:00.000Z",
- "views": "5706"
+ "views": "5706",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 glasses",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": ""
+  }
+ ]
 }

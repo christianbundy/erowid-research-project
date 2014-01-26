@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2009-07-09T07:00:00.000Z",
- "views": "69349"
+ "views": "69349",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "400 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Metaxalone",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

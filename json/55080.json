@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-04T08:00:00.000Z",
- "views": "51945"
+ "views": "51945",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Cyclobenzaprine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

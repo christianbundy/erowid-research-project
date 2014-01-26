@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-06T07:00:00.000Z",
- "views": "12170"
+ "views": "12170",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 Tbsp",
+   "administration": "oral",
+   "substance": "Lactuca spp.",
+   "form": "(tea)"
+  }
+ ]
 }

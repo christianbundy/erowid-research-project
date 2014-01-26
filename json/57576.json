@@ -44,5 +44,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-01-01T08:00:00.000Z",
- "views": "15781"
+ "views": "15781",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lithium",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-22T07:00:00.000Z",
- "views": "20414"
+ "views": "20414",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Mugwort",
+   "form": "(plant material)"
+  }
+ ]
 }

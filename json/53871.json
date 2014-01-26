@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-20T07:00:00.000Z",
- "views": "20225"
+ "views": "20225",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "450 mg",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

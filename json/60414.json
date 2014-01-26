@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
- "views": "26148"
+ "views": "26148",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "",
+   "substance": "Pharms - Gabapentin",
+   "form": "(daily)"
+  }
+ ]
 }

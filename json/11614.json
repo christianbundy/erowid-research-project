@@ -59,5 +59,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-06T07:00:00.000Z",
- "views": "12190"
+ "views": "12190",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.0 g",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

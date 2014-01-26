@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-04-24T07:00:00.000Z",
- "views": "14896"
+ "views": "14896",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "37.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Venlafaxine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

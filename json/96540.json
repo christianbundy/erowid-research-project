@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2012-08-16T07:00:00.000Z",
- "views": "4271"
+ "views": "4271",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": ""
+  }
+ ]
 }

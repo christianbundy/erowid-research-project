@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-12-22T08:00:00.000Z",
- "views": "15513"
+ "views": "15513",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Various",
+   "form": "(dried)"
+  }
+ ]
 }

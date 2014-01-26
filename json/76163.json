@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-02-16T08:00:00.000Z",
- "views": "19460"
+ "views": "19460",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 line",
+   "administration": "insufflated",
+   "substance": "4-Fluoroamphetamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

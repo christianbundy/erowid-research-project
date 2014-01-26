@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-02-13T08:00:00.000Z",
- "views": "29849"
+ "views": "29849",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 tablets",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  }
+ ]
 }

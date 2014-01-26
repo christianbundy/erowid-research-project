@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-29T08:00:00.000Z",
- "views": "37401"
+ "views": "37401",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 capsls",
+   "administration": "oral",
+   "substance": "Piperazines"
+  }
+ ]
 }

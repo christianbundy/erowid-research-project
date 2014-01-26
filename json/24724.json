@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-23T07:00:00.000Z",
- "views": "26668"
+ "views": "26668",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Olanzapine",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

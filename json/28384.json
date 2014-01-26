@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-14T08:00:00.000Z",
- "views": "20230"
+ "views": "20230",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "MIPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

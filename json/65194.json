@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-05-05T07:00:00.000Z",
- "views": "5894"
+ "views": "5894",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(capsule)"
+  }
+ ]
 }

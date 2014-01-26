@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "1920",
  "timestamp": "2013-07-28T07:00:00.000Z",
- "views": "1998"
+ "views": "1998",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "2C-E"
+  }
+ ]
 }

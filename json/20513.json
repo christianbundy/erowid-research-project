@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-30T07:00:00.000Z",
- "views": "9188"
+ "views": "9188",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "oral",
+   "substance": "Pharms - Tramadol",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-03-22T08:00:00.000Z",
- "views": "7064"
+ "views": "7064",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Kava",
+   "form": "(roots)"
+  }
+ ]
 }

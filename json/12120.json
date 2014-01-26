@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-14T08:00:00.000Z",
- "views": "18999"
+ "views": "18999",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Ephedra sinica",
+   "form": "(capsule)"
+  }
+ ]
 }

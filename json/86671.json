@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-12-15T08:00:00.000Z",
- "views": "1005"
+ "views": "1005",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 hits",
+   "administration": "vaporized",
+   "substance": "Cannabis"
+  }
+ ]
 }

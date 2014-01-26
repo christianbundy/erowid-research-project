@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-03-01T08:00:00.000Z",
- "views": "4206"
+ "views": "4206",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Methoxetamine ",
+   "form": " T+ 2:00"
+  }
+ ]
 }

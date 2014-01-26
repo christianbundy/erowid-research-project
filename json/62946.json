@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-07-21T07:00:00.000Z",
- "views": "12892"
+ "views": "12892",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": "(daily)"
+  }
+ ]
 }

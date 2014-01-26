@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2011-06-08T07:00:00.000Z",
- "views": "6361"
+ "views": "6361",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

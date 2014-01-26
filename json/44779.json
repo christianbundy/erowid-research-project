@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-02T08:00:00.000Z",
- "views": "14822"
+ "views": "14822",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Methcathinone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

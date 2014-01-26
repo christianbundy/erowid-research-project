@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-07-06T07:00:00.000Z",
- "views": "18115"
+ "views": "18115",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

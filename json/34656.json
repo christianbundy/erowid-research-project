@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-10T08:00:00.000Z",
- "views": "8688"
+ "views": "8688",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "2C-D",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-14T07:00:00.000Z",
- "views": "9146"
+ "views": "9146",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

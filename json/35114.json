@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-25T08:00:00.000Z",
- "views": "5505"
+ "views": "5505",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "16.2 g",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

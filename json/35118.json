@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-12T07:00:00.000Z",
- "views": "11629"
+ "views": "11629",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "4-Acetoxy-MiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

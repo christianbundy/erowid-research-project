@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-11-10T08:00:00.000Z",
- "views": "9749"
+ "views": "9749",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "Opiates",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "31",
  "timestamp": "2014-01-03T08:00:00.000Z",
- "views": "432"
+ "views": "432",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "6-APDB",
+   "form": "(liquid)"
+  }
+ ]
 }

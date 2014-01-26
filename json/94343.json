@@ -39,5 +39,14 @@
  "gender": "Female",
  "age": "44",
  "timestamp": "2012-03-06T08:00:00.000Z",
- "views": "20790"
+ "views": "20790",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 g",
+   "administration": "oral",
+   "substance": "Banisteriopsis caapi",
+   "form": "(liquid)"
+  }
+ ]
 }

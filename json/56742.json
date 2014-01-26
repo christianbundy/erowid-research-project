@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2007-03-12T07:00:00.000Z",
- "views": "9994"
+ "views": "9994",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Calea zacatechichi",
+   "form": "(extract - 10x)"
+  }
+ ]
 }

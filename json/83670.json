@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2010-06-23T07:00:00.000Z",
- "views": "14433"
+ "views": "14433",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": ""
+  }
+ ]
 }

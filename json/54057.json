@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-10-10T07:00:00.000Z",
- "views": "14584"
+ "views": "14584",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Haloperidol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

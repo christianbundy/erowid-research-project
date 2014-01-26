@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2010-11-13T08:00:00.000Z",
- "views": "22566"
+ "views": "22566",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

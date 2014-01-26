@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2010-05-15T07:00:00.000Z",
- "views": "4880"
+ "views": "4880",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Amphetamines",
+   "form": ""
+  }
+ ]
 }

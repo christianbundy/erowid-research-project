@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-01-04T08:00:00.000Z",
- "views": "8172"
+ "views": "8172",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8 oz",
+   "administration": "oral",
+   "substance": "Coffee",
+   "form": "(liquid)"
+  }
+ ]
 }

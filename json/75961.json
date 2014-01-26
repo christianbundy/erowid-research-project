@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-05-16T07:00:00.000Z",
- "views": "3450"
+ "views": "3450",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(liquid)"
+  }
+ ]
 }

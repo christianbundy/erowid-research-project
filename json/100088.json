@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2013-06-02T07:00:00.000Z",
- "views": "8203"
+ "views": "8203",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "25I-NBOMe",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

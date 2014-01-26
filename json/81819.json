@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "30",
  "timestamp": "2010-05-02T07:00:00.000Z",
- "views": "7452"
+ "views": "7452",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(tar / resin)"
+  }
+ ]
 }

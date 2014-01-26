@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-06-04T07:00:00.000Z",
- "views": "44983"
+ "views": "44983",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6.5 mg",
+   "administration": "oral",
+   "substance": "Clenbuterol",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

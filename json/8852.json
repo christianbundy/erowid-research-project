@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-08-20T07:00:00.000Z",
- "views": "37401"
+ "views": "37401",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "1,4-Butanediol"
+  }
+ ]
 }

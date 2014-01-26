@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2012-03-23T07:00:00.000Z",
- "views": "6989"
+ "views": "6989",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone"
+  }
+ ]
 }

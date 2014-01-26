@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "16",
  "timestamp": "2010-01-07T08:00:00.000Z",
- "views": "3596"
+ "views": "3596",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 hits",
+   "administration": "oral",
+   "substance": "LSD",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-09-23T07:00:00.000Z",
- "views": "22401"
+ "views": "22401",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 lines",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "22",
  "timestamp": "2011-07-27T07:00:00.000Z",
- "views": "2907"
+ "views": "2907",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ ]
 }

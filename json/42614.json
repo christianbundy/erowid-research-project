@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-04-28T07:00:00.000Z",
- "views": "43096"
+ "views": "43096",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 buttons",
+   "administration": "oral",
+   "substance": "Peyote",
+   "form": "(extract)"
+  }
+ ]
 }

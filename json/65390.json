@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-10-11T07:00:00.000Z",
- "views": "37397"
+ "views": "37397",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Heroin",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

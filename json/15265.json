@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-05-16T07:00:00.000Z",
- "views": "36678"
+ "views": "36678",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-15T08:00:00.000Z",
- "views": "50104"
+ "views": "50104",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " caps",
+   "administration": "",
+   "substance": "Opium",
+   "form": ""
+  }
+ ]
 }

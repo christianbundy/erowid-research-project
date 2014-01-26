@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-02-15T08:00:00.000Z",
- "views": "10331"
+ "views": "10331",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "857.5 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(daily)"
+  }
+ ]
 }

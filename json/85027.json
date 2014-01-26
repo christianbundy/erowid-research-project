@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2010-08-02T07:00:00.000Z",
- "views": "5163"
+ "views": "5163",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  }
+ ]
 }

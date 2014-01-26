@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2011-08-10T07:00:00.000Z",
- "views": "5015"
+ "views": "5015",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ ]
 }

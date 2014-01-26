@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-13T07:00:00.000Z",
- "views": "857"
+ "views": "857",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 tablets",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

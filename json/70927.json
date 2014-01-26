@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2009-09-18T07:00:00.000Z",
- "views": "47522"
+ "views": "47522",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "Vitamins / Supplements",
+   "form": ""
+  }
+ ]
 }

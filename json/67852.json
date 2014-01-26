@@ -44,5 +44,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-06-27T07:00:00.000Z",
- "views": "42435"
+ "views": "42435",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "40 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-01-14T08:00:00.000Z",
- "views": "34131"
+ "views": "34131",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ ]
 }

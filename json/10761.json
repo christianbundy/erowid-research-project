@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-24T08:00:00.000Z",
- "views": "21020"
+ "views": "21020",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "Pharms - Dronabinol",
+   "form": "(capsule)"
+  }
+ ]
 }

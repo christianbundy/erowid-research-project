@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-19T08:00:00.000Z",
- "views": "34449"
+ "views": "34449",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Pharms - Chlorpromazine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

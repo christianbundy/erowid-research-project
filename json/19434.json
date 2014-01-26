@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-27T07:00:00.000Z",
- "views": "16788"
+ "views": "16788",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 tablets",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

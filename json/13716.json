@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-08T08:00:00.000Z",
- "views": "4986"
+ "views": "4986",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ ]
 }

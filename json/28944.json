@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-02T08:00:00.000Z",
- "views": "14165"
+ "views": "14165",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "2C-B",
+   "form": ""
+  }
+ ]
 }

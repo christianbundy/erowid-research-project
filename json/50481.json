@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-17T08:00:00.000Z",
- "views": "10229"
+ "views": "10229",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 cig.",
+   "administration": "smoked",
+   "substance": "Wormwood",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2012-01-19T08:00:00.000Z",
- "views": "7960"
+ "views": "7960",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1/2 tablet",
+   "administration": "oral",
+   "substance": "6-APB",
+   "form": " T+ 1:00"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2011-06-24T07:00:00.000Z",
- "views": "16635"
+ "views": "16635",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 seeds",
+   "administration": "insufflated",
+   "substance": "Anadenanthera colubrina",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-11-24T08:00:00.000Z",
- "views": "10136"
+ "views": "10136",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 oz",
+   "administration": "oral",
+   "substance": "Cannabis",
+   "form": "(liquid)"
+  }
+ ]
 }

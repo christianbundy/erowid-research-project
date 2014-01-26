@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-26T07:00:00.000Z",
- "views": "10028"
+ "views": "10028",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Pharms - Zaleplon",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-01T07:00:00.000Z",
- "views": "25482"
+ "views": "25482",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "7-Hydroxy-Mytragynine",
+   "form": "(liquid)"
+  }
+ ]
 }

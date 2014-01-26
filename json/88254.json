@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2010-11-21T08:00:00.000Z",
- "views": "7638"
+ "views": "7638",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(daily)"
+  }
+ ]
 }

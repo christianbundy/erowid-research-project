@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-01-28T08:00:00.000Z",
- "views": "60636"
+ "views": "60636",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3600 mg",
+   "administration": "oral",
+   "substance": "Dimenhydrinate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-05-06T07:00:00.000Z",
- "views": "50887"
+ "views": "50887",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.0 mg",
+   "administration": "insufflated",
+   "substance": "Hydromorphone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

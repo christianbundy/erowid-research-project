@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-10-24T07:00:00.000Z",
- "views": "2109"
+ "views": "2109",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "LSZ ug",
+   "administration": "buccal",
+   "substance": "LSZ",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

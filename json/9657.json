@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-09-25T07:00:00.000Z",
- "views": "10586"
+ "views": "10586",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 leaves",
+   "administration": "sublingual",
+   "substance": "Kratom"
+  }
+ ]
 }

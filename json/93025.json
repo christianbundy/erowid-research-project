@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-10-28T07:00:00.000Z",
- "views": "2571"
+ "views": "2571",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": " T+ 1:30"
+  }
+ ]
 }

@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-12-26T08:00:00.000Z",
- "views": "9332"
+ "views": "9332",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Triazolam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

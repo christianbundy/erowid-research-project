@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
- "views": "8009"
+ "views": "8009",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Vinpocetine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

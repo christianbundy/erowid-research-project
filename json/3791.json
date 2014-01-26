@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-12-26T08:00:00.000Z",
- "views": "4726"
+ "views": "4726",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 joints/cigs",
+   "administration": "smoked",
+   "substance": "Cannabis",
+   "form": "(dried)"
+  }
+ ]
 }

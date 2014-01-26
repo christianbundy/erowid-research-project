@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "17",
  "timestamp": "2009-10-15T07:00:00.000Z",
- "views": "13596"
+ "views": "13596",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-06-15T07:00:00.000Z",
- "views": "44126"
+ "views": "44126",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9.0 mg",
+   "administration": "oral",
+   "substance": "Melatonin",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

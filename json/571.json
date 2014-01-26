@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
- "views": "15531"
+ "views": "15531",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "inhaled",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

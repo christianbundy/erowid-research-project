@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-14T07:00:00.000Z",
- "views": "11186"
+ "views": "11186",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.0 g",
+   "administration": "smoked",
+   "substance": "Sceletium tortuosum",
+   "form": "(plant material)"
+  }
+ ]
 }

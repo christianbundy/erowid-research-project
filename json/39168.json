@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-02-28T08:00:00.000Z",
- "views": "24257"
+ "views": "24257",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Methcathinone",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

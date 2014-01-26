@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-26T08:00:00.000Z",
- "views": "10566"
+ "views": "10566",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.0 mg",
+   "administration": "oral",
+   "substance": "5-MeO-AMT",
+   "form": "(liquid)"
+  }
+ ]
 }

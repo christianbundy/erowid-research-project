@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-10-12T07:00:00.000Z",
- "views": "7073"
+ "views": "7073",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-E",
+   "form": "(liquid)"
+  }
+ ]
 }

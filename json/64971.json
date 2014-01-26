@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "15",
  "timestamp": "2010-07-12T07:00:00.000Z",
- "views": "4825"
+ "views": "4825",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "36 mg",
+   "administration": "oral",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(daily)"
+  }
+ ]
 }

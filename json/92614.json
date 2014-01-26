@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "48",
  "timestamp": "2013-06-18T07:00:00.000Z",
- "views": "1862"
+ "views": "1862",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "",
+   "substance": "Cocaine",
+   "form": ""
+  }
+ ]
 }

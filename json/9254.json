@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-06-29T07:00:00.000Z",
- "views": "10331"
+ "views": "10331",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 hit",
+   "administration": "smoked",
+   "substance": "Unknown",
+   "form": ""
+  }
+ ]
 }

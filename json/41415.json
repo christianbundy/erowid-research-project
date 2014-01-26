@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-07-02T07:00:00.000Z",
- "views": "24053"
+ "views": "24053",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 ml",
+   "administration": "inhaled",
+   "substance": "Chloroform",
+   "form": "(liquid)"
+  }
+ ]
 }

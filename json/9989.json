@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-07-12T07:00:00.000Z",
- "views": "39909"
+ "views": "39909",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 lines",
+   "administration": "insufflated",
+   "substance": "Heroin",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

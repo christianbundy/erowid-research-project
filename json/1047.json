@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-08-05T07:00:00.000Z",
- "views": "9639"
+ "views": "9639",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "11 mg",
+   "administration": "oral",
+   "substance": "5-MeO-DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-19T07:00:00.000Z",
- "views": "37921"
+ "views": "37921",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "14 mg",
+   "administration": "oral",
+   "substance": "MDPV",
+   "form": "(capsule)"
+  }
+ ]
 }

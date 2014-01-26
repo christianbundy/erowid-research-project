@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-03-12T07:00:00.000Z",
- "views": "19484"
+ "views": "19484",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.25 cups",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(daily)"
+  }
+ ]
 }

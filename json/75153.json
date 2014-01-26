@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-12-16T08:00:00.000Z",
- "views": "8228"
+ "views": "8228",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Lithium",
+   "form": ""
+  }
+ ]
 }

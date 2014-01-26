@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-21T07:00:00.000Z",
- "views": "29925"
+ "views": "29925",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "35 capsls",
+   "administration": "oral",
+   "substance": "Kava"
+  }
+ ]
 }

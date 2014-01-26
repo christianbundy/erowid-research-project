@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-12-01T08:00:00.000Z",
- "views": "25955"
+ "views": "25955",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12.5 mg",
+   "administration": "oral",
+   "substance": "2C-E"
+  }
+ ]
 }

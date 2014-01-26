@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2013-07-14T07:00:00.000Z",
- "views": "457"
+ "views": "457",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "insufflated",
+   "substance": "4-AcO-DPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

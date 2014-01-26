@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "19",
  "timestamp": "2013-01-30T08:00:00.000Z",
- "views": "6697"
+ "views": "6697",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 bowls",
+   "administration": "smoked",
+   "substance": "Chamomile",
+   "form": "(plant material)"
+  }
+ ]
 }

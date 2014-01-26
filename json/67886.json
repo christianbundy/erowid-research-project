@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-18T08:00:00.000Z",
- "views": "20909"
+ "views": "20909",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "8.0 mg",
+   "administration": "oral",
+   "substance": "DOI",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

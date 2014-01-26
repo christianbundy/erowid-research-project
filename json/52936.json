@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-17T08:00:00.000Z",
- "views": "30483"
+ "views": "30483",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.75 g",
+   "administration": "smoked",
+   "substance": "Lactuca - L. virosa",
+   "form": "(plant material)"
+  }
+ ]
 }

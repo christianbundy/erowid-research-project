@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-01-25T08:00:00.000Z",
- "views": "26195"
+ "views": "26195",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "17.5 ",
+   "administration": "",
+   "substance": "MDPV"
+  }
+ ]
 }

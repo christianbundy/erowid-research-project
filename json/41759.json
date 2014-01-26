@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-30T08:00:00.000Z",
- "views": "62017"
+ "views": "62017",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Kratom",
+   "form": "(leaves)"
+  }
+ ]
 }

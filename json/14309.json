@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-25T08:00:00.000Z",
- "views": "71495"
+ "views": "71495",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "240 oz",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(tea)"
+  }
+ ]
 }

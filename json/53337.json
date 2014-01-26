@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-25T07:00:00.000Z",
- "views": "9819"
+ "views": "9819",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3.0 mg",
+   "administration": "oral",
+   "substance": "DOB",
+   "form": "(liquid)"
+  }
+ ]
 }

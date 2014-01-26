@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-08-16T07:00:00.000Z",
- "views": "16851"
+ "views": "16851",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 cups",
+   "administration": "oral",
+   "substance": "Mushrooms - P. semilanceata",
+   "form": "(tea)"
+  }
+ ]
 }

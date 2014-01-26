@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2010-09-14T07:00:00.000Z",
- "views": "3417"
+ "views": "3417",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

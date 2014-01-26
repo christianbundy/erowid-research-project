@@ -24,5 +24,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-07-31T07:00:00.000Z",
- "views": "33895"
+ "views": "33895",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "0.25 tablets",
+   "administration": "smoked",
+   "substance": "Methamphetamine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

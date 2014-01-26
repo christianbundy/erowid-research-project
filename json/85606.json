@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "22",
  "timestamp": "2010-10-11T07:00:00.000Z",
- "views": "2739"
+ "views": "2739",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 hits",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": ""
+  }
+ ]
 }

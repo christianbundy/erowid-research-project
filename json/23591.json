@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-02-15T08:00:00.000Z",
- "views": "54308"
+ "views": "54308",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 mg",
+   "administration": "IV",
+   "substance": "Methamphetamine"
+  }
+ ]
 }

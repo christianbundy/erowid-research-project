@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-02-13T08:00:00.000Z",
- "views": "23906"
+ "views": "23906",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Olanzapine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-04-20T07:00:00.000Z",
- "views": "11355"
+ "views": "11355",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5.0 mg",
+   "administration": "oral",
+   "substance": "DHEA",
+   "form": "(capsule)"
+  }
+ ]
 }

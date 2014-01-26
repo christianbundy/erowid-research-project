@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-07-05T07:00:00.000Z",
- "views": "9385"
+ "views": "9385",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 shot",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ ]
 }

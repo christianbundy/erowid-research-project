@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2011-06-11T07:00:00.000Z",
- "views": "8035"
+ "views": "8035",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 mg",
+   "administration": "",
+   "substance": "Modafinil"
+  }
+ ]
 }

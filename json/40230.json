@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-06-10T07:00:00.000Z",
- "views": "31192"
+ "views": "31192",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "smoked",
+   "substance": "DMT"
+  }
+ ]
 }

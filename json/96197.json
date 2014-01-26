@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "24",
  "timestamp": "2012-06-19T07:00:00.000Z",
- "views": "12574"
+ "views": "12574",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "250 mg",
+   "administration": "insufflated",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

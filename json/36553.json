@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-06-13T07:00:00.000Z",
- "views": "61742"
+ "views": "61742",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Gabapentin",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-17T07:00:00.000Z",
- "views": "25458"
+ "views": "25458",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "IV",
+   "substance": "Hydromorphone"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-17T07:00:00.000Z",
- "views": "3539"
+ "views": "3539",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "18 g",
+   "administration": "oral",
+   "substance": "Mushrooms - P. tampanensis",
+   "form": "(fresh)"
+  }
+ ]
 }

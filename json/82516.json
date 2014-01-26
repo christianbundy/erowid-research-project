@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2010-02-15T08:00:00.000Z",
- "views": "16756"
+ "views": "16756",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "5 mg",
+   "administration": "smoked",
+   "substance": "JWH-018",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

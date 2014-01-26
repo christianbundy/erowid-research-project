@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-08-08T07:00:00.000Z",
- "views": "29933"
+ "views": "29933",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.5 cups",
+   "administration": "oral",
+   "substance": "Alcohol - Hard",
+   "form": "(liquid)"
+  }
+ ]
 }

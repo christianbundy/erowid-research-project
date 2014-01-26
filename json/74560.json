@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "18",
  "timestamp": "2010-02-13T08:00:00.000Z",
- "views": "13743"
+ "views": "13743",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "repeated joints/cigs",
+   "administration": "smoked",
+   "substance": "PCP",
+   "form": "(liquid)"
+  }
+ ]
 }

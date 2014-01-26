@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-03T08:00:00.000Z",
- "views": "21419"
+ "views": "21419",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Valerian",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

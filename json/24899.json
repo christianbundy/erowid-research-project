@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-01-07T08:00:00.000Z",
- "views": "4962"
+ "views": "4962",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 caps",
+   "administration": "oral",
+   "substance": "Mushrooms",
+   "form": "(fresh)"
+  }
+ ]
 }

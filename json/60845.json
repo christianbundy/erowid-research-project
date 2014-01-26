@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-19T07:00:00.000Z",
- "views": "6770"
+ "views": "6770",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "4-HO-DET",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

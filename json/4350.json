@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-01-21T08:00:00.000Z",
- "views": "10418"
+ "views": "10418",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "60 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Lidocaine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

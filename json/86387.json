@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2010-08-13T07:00:00.000Z",
- "views": "7764"
+ "views": "7764",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Products - Spice and Synthetic Cannabinoids",
+   "form": "(plant material)"
+  }
+ ]
 }

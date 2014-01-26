@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-04-17T07:00:00.000Z",
- "views": "35654"
+ "views": "35654",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg"
+  }
+ ]
 }

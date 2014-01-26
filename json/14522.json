@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-03-28T08:00:00.000Z",
- "views": "34835"
+ "views": "34835",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 tablets",
+   "administration": "oral",
+   "substance": "Herbal Ecstasy"
+  }
+ ]
 }

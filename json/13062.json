@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-06-19T07:00:00.000Z",
- "views": "17397"
+ "views": "17397",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Piperazines - BZP",
+   "form": ""
+  }
+ ]
 }

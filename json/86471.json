@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2011-02-15T08:00:00.000Z",
- "views": "5658"
+ "views": "5658",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Pharms - Flurazepam"
+  }
+ ]
 }

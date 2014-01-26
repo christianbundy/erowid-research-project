@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-02-26T08:00:00.000Z",
- "views": "16889"
+ "views": "16889",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "40 mg",
+   "administration": "insufflated",
+   "substance": "2C-C",
+   "form": ""
+  }
+ ]
 }

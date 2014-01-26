@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-07-19T07:00:00.000Z",
- "views": "24188"
+ "views": "24188",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "9600 mg",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(capsule)"
+  }
+ ]
 }

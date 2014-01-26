@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-10-27T07:00:00.000Z",
- "views": "31729"
+ "views": "31729",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "425 mg",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

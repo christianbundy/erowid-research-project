@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-10-16T07:00:00.000Z",
- "views": "27061"
+ "views": "27061",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "Calea zacatechichi"
+  }
+ ]
 }

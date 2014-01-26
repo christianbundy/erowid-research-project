@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-08-02T07:00:00.000Z",
- "views": "15750"
+ "views": "15750",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "DOM",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

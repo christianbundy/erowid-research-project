@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2005-02-10T08:00:00.000Z",
- "views": "11740"
+ "views": "11740",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "12 carts.",
+   "administration": "inhaled",
+   "substance": "Nitrous Oxide",
+   "form": "(gas)"
+  }
+ ]
 }

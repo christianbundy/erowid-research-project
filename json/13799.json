@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-04-10T07:00:00.000Z",
- "views": "27231"
+ "views": "27231",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "130 mg",
+   "administration": "insufflated",
+   "substance": "5-MeO-DMT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

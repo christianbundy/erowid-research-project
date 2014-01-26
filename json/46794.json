@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-09-23T07:00:00.000Z",
- "views": "12677"
+ "views": "12677",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "6.0 mg",
+   "administration": "oral",
+   "substance": "Pharms - Alprazolam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

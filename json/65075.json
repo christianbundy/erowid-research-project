@@ -39,5 +39,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-09-29T07:00:00.000Z",
- "views": "15075"
+ "views": "15075",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Coca",
+   "form": "(tea)"
+  }
+ ]
 }

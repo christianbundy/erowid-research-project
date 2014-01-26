@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-09-10T07:00:00.000Z",
- "views": "14377"
+ "views": "14377",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.75 Tbsp",
+   "administration": "oral",
+   "substance": "Nutmeg",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-09-16T07:00:00.000Z",
- "views": "5724"
+ "views": "5724",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "2C-B-Fly",
+   "form": "(liquid)"
+  }
+ ]
 }

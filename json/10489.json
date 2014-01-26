@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-04-23T07:00:00.000Z",
- "views": "20686"
+ "views": "20686",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 lines",
+   "administration": "insufflated",
+   "substance": "MDMA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

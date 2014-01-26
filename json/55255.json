@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-10-31T07:00:00.000Z",
- "views": "3740"
+ "views": "3740",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "2C-I",
+   "form": ""
+  }
+ ]
 }

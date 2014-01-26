@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "37",
  "timestamp": "2011-12-02T08:00:00.000Z",
- "views": "5924"
+ "views": "5924",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "sublingual",
+   "substance": "Betel Nut",
+   "form": "(extract)"
+  }
+ ]
 }

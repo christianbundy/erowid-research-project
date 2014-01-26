@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2013-11-08T08:00:00.000Z",
- "views": "531"
+ "views": "531",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1.5 mg",
+   "administration": "sublingual",
+   "substance": "25I-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

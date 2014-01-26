@@ -22,5 +22,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-09T07:00:00.000Z",
- "views": "30889"
+ "views": "30889",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": ""
+  }
+ ]
 }

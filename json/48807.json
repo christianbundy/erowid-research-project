@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2008-02-24T08:00:00.000Z",
- "views": "21772"
+ "views": "21772",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Quetiapine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

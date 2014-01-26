@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-20T07:00:00.000Z",
- "views": "20222"
+ "views": "20222",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 drops",
+   "administration": "smoked",
+   "substance": "Pharms - Phenylephrine"
+  }
+ ]
 }

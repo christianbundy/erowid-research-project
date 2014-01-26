@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-01-28T08:00:00.000Z",
- "views": "7243"
+ "views": "7243",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "2C-T-7",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

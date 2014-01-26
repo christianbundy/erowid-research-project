@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-03-27T07:00:00.000Z",
- "views": "20318"
+ "views": "20318",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "inhaled",
+   "substance": "Nicotine"
+  }
+ ]
 }

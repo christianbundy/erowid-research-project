@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-05-23T07:00:00.000Z",
- "views": "13834"
+ "views": "13834",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "25 mg",
+   "administration": "oral",
+   "substance": "DiPT",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

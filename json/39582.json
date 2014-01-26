@@ -69,5 +69,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-28T07:00:00.000Z",
- "views": "19689"
+ "views": "19689",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Pharms - Escitalopram",
+   "form": "(daily)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-01-11T08:00:00.000Z",
- "views": "14857"
+ "views": "14857",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "IV",
+   "substance": "2-Aminoindan",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

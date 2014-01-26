@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2010-03-10T08:00:00.000Z",
- "views": "8845"
+ "views": "8845",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "90 seeds",
+   "administration": "oral",
+   "substance": "Morning Glory",
+   "form": "(seeds)"
+  }
+ ]
 }

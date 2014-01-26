@@ -42,5 +42,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-02-19T08:00:00.000Z",
- "views": "60811"
+ "views": "60811",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1000 mg",
+   "administration": "oral",
+   "substance": "Vitamin C",
+   "form": ""
+  }
+ ]
 }

@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2003-09-04T07:00:00.000Z",
- "views": "41523"
+ "views": "41523",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Methadone",
+   "form": " T+ 1:30"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2006-04-21T07:00:00.000Z",
- "views": "6491"
+ "views": "6491",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "Salvia splendens",
+   "form": "(dried)"
+  }
+ ]
 }

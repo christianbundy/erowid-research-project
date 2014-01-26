@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-12-15T08:00:00.000Z",
- "views": "4638"
+ "views": "4638",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Voacanga africana",
+   "form": "(seeds)"
+  }
+ ]
 }

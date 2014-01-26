@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-07T07:00:00.000Z",
- "views": "4900"
+ "views": "4900",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "oral",
+   "substance": "Amphetamines"
+  }
+ ]
 }

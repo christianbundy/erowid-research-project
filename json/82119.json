@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2011-06-28T07:00:00.000Z",
- "views": "10282"
+ "views": "10282",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 ml",
+   "administration": "oral",
+   "substance": "GBL",
+   "form": "(liquid)"
+  }
+ ]
 }

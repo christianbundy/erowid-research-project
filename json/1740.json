@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2001-06-25T07:00:00.000Z",
- "views": "27468"
+ "views": "27468",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "4.5 bowls",
+   "administration": "smoked",
+   "substance": "Salvia divinorum",
+   "form": "(leaves)"
+  }
+ ]
 }

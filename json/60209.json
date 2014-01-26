@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-26T07:00:00.000Z",
- "views": "3011"
+ "views": "3011",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "inhaled",
+   "substance": "Cannabis",
+   "form": "(plant material)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "18",
  "timestamp": "2011-07-13T07:00:00.000Z",
- "views": "10039"
+ "views": "10039",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "MDA",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

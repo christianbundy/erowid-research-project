@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "39",
  "timestamp": "2009-11-02T08:00:00.000Z",
- "views": "9638"
+ "views": "9638",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Kratom"
+  }
+ ]
 }

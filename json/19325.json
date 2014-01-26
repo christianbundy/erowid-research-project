@@ -49,5 +49,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-08-25T07:00:00.000Z",
- "views": "4184"
+ "views": "4184",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Pharms - Gabapentin",
+   "form": "(daily)"
+  }
+ ]
 }

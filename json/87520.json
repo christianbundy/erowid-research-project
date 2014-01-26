@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-07-26T07:00:00.000Z",
- "views": "10300"
+ "views": "10300",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 bowl",
+   "administration": "smoked",
+   "substance": "Tobacco",
+   "form": "(dried)"
+  }
+ ]
 }

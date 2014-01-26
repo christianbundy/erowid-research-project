@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "26",
  "timestamp": "2011-02-25T08:00:00.000Z",
- "views": "17774"
+ "views": "17774",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Products - Bath Salts, Plant Food, etc",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

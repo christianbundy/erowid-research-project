@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-02-06T08:00:00.000Z",
- "views": "50965"
+ "views": "50965",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "120 mg",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

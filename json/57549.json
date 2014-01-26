@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-18T07:00:00.000Z",
- "views": "16338"
+ "views": "16338",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "insufflated",
+   "substance": "MDPV"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "22",
  "timestamp": "2011-09-23T07:00:00.000Z",
- "views": "21171"
+ "views": "21171",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "insufflated",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

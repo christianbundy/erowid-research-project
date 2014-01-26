@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-07T07:00:00.000Z",
- "views": "18444"
+ "views": "18444",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "200 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": ""
+  }
+ ]
 }

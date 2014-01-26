@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-07T07:00:00.000Z",
- "views": "8087"
+ "views": "8087",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.25 g",
+   "administration": "smoked",
+   "substance": "Mushrooms",
+   "form": "(dried)"
+  }
+ ]
 }

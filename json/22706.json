@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2006-02-07T08:00:00.000Z",
- "views": "6910"
+ "views": "6910",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "Methamphetamine"
+  }
+ ]
 }

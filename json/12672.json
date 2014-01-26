@@ -22,5 +22,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2002-02-17T08:00:00.000Z",
- "views": "42517"
+ "views": "42517",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "Caffeine",
+   "form": ""
+  }
+ ]
 }

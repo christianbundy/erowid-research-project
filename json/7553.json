@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-07-14T07:00:00.000Z",
- "views": "7628"
+ "views": "7628",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "50 mg",
+   "administration": "IM",
+   "substance": "Ketamine",
+   "form": " T+ 0:03"
+  }
+ ]
 }

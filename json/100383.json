@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-06-03T07:00:00.000Z",
- "views": "2003"
+ "views": "2003",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "14 mg",
+   "administration": "IM",
+   "substance": "2C-C",
+   "form": "(liquid)"
+  }
+ ]
 }

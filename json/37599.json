@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-21T07:00:00.000Z",
- "views": "9407"
+ "views": "9407",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 leaves",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(leaves)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-05-22T07:00:00.000Z",
- "views": "9181"
+ "views": "9181",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "smoked",
+   "substance": "5-MeO-DMT",
+   "form": "(freebase)"
+  }
+ ]
 }

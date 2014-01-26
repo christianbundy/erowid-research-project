@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2005-11-09T08:00:00.000Z",
- "views": "10861"
+ "views": "10861",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 tsp",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

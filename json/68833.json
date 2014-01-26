@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-07-09T07:00:00.000Z",
- "views": "16771"
+ "views": "16771",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "3600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Metaxalone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

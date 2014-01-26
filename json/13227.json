@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-02-17T08:00:00.000Z",
- "views": "27189"
+ "views": "27189",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "Codeine",
+   "form": ""
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2004-10-02T07:00:00.000Z",
- "views": "7035"
+ "views": "7035",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "",
+   "substance": "Mimosa tenuiflora",
+   "form": "(rootbark)"
+  }
+ ]
 }

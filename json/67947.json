@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-27T07:00:00.000Z",
- "views": "30445"
+ "views": "30445",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "32 oz",
+   "administration": "oral",
+   "substance": "Alcohol - Beer/Wine",
+   "form": "(liquid)"
+  }
+ ]
 }

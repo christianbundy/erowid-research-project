@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-06-10T07:00:00.000Z",
- "views": "17487"
+ "views": "17487",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 joints/cigs",
+   "administration": "smoked",
+   "substance": "Tobacco - Cigarettes"
+  }
+ ]
 }

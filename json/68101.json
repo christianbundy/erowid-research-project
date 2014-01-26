@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-18T07:00:00.000Z",
- "views": "9597"
+ "views": "9597",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(fresh)"
+  }
+ ]
 }

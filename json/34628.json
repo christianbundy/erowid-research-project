@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-01T07:00:00.000Z",
- "views": "15210"
+ "views": "15210",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Sceletium tortuosum"
+  }
+ ]
 }

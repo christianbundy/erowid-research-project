@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-05-26T07:00:00.000Z",
- "views": "18387"
+ "views": "18387",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 Tbsp",
+   "administration": "oral",
+   "substance": "Ginger",
+   "form": "(tea)"
+  }
+ ]
 }

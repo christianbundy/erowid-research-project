@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "21",
  "timestamp": "2013-09-27T07:00:00.000Z",
- "views": "1049"
+ "views": "1049",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.8 mg",
+   "administration": "buccal",
+   "substance": "25B-NBOMe",
+   "form": "(blotter / tab)"
+  }
+ ]
 }

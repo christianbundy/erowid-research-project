@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "20",
  "timestamp": "2012-03-01T08:00:00.000Z",
- "views": "30030"
+ "views": "30030",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "500 ug",
+   "administration": "oral",
+   "substance": "2C-I-NBOMe",
+   "form": "(liquid)"
+  }
+ ]
 }

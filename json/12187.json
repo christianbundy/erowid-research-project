@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-11-10T08:00:00.000Z",
- "views": "32194"
+ "views": "32194",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2.8 g",
+   "administration": "oral",
+   "substance": "Piracetam",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

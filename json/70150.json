@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2013-07-28T07:00:00.000Z",
- "views": "1552"
+ "views": "1552",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "60 mg",
+   "administration": "oral",
+   "substance": "Hydrocodone",
+   "form": "(daily)"
+  }
+ ]
 }

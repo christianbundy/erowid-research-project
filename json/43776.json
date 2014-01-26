@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-02-09T08:00:00.000Z",
- "views": "17438"
+ "views": "17438",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "600 mg",
+   "administration": "oral",
+   "substance": "Pharms - Sertraline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

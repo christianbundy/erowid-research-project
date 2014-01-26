@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-08-21T07:00:00.000Z",
- "views": "15972"
+ "views": "15972",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "150 mg",
+   "administration": "IV",
+   "substance": "Pharms - Amitriptyline",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

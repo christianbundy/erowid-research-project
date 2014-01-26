@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-04-06T07:00:00.000Z",
- "views": "36547"
+ "views": "36547",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "80 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(capsule)"
+  }
+ ]
 }

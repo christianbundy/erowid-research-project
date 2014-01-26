@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2013-12-17T08:00:00.000Z",
- "views": "662"
+ "views": "662",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "11 seeds",
+   "administration": "oral",
+   "substance": "H.B. Woodrose",
+   "form": "(seeds)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2000-07-15T07:00:00.000Z",
- "views": "22093"
+ "views": "22093",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1.5 oz",
+   "administration": "oral",
+   "substance": "Absinthe",
+   "form": "(liquid)"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2011-08-03T07:00:00.000Z",
- "views": "11158"
+ "views": "11158",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "oral",
+   "substance": "Psilocybin"
+  }
+ ]
 }

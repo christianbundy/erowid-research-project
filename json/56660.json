@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-05-06T07:00:00.000Z",
- "views": "3245"
+ "views": "3245",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "MDMA",
+   "form": "(capsule)"
+  }
+ ]
 }

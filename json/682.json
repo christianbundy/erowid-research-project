@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2000-09-09T07:00:00.000Z",
- "views": "17376"
+ "views": "17376",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 flowers",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(fresh)"
+  }
+ ]
 }

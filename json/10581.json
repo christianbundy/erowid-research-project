@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-11-15T08:00:00.000Z",
- "views": "13682"
+ "views": "13682",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "0.375 oz",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(tea)"
+  }
+ ]
 }

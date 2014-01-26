@@ -19,5 +19,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-12-15T08:00:00.000Z",
- "views": "17298"
+ "views": "17298",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "700 mg",
+   "administration": "oral",
+   "substance": "Pharms - Carisoprodol",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

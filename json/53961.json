@@ -54,5 +54,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-09T08:00:00.000Z",
- "views": "18538"
+ "views": "18538",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "800 mg",
+   "administration": "oral",
+   "substance": "Pharms - Ibuprofen",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

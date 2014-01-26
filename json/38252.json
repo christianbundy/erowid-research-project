@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-02-27T08:00:00.000Z",
- "views": "11162"
+ "views": "11162",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(capsule)"
+  }
+ ]
 }

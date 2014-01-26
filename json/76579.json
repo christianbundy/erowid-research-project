@@ -30,5 +30,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-02-03T08:00:00.000Z",
- "views": "14067"
+ "views": "14067",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "smoked",
+   "substance": "DMT",
+   "form": ""
+  }
+ ]
 }

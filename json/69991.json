@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2011-08-24T07:00:00.000Z",
- "views": "6241"
+ "views": "6241",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Pharms - Pregabalin"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-05-08T07:00:00.000Z",
- "views": "73684"
+ "views": "73684",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "50 mg",
+   "administration": "oral",
+   "substance": "Pharms - Promethazine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

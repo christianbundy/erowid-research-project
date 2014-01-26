@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-03-13T07:00:00.000Z",
- "views": "7801"
+ "views": "7801",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "300 mg",
+   "administration": "oral",
+   "substance": "Syrian Rue",
+   "form": "(extract)"
+  }
+ ]
 }

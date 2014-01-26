@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "27",
  "timestamp": "2012-09-28T07:00:00.000Z",
- "views": "8203"
+ "views": "8203",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "200 mg",
+   "administration": "rectal",
+   "substance": "Methoxetamine ",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

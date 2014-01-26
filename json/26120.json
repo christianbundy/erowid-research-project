@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2005-08-03T07:00:00.000Z",
- "views": "23424"
+ "views": "23424",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "625 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

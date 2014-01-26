@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-03T07:00:00.000Z",
- "views": "35619"
+ "views": "35619",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "100 seeds",
+   "administration": "smoked",
+   "substance": "Hyoscyamus niger"
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-08-27T07:00:00.000Z",
- "views": "7768"
+ "views": "7768",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 capsl",
+   "administration": "oral",
+   "substance": "Mescaline",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2002-06-05T07:00:00.000Z",
- "views": "18557"
+ "views": "18557",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "15 leaves",
+   "administration": "oral",
+   "substance": "Brugmansia",
+   "form": "(tea)"
+  }
+ ]
 }

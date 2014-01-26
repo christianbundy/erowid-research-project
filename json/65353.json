@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2010-05-03T07:00:00.000Z",
- "views": "103053"
+ "views": "103053",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "760 mg",
+   "administration": "smoked",
+   "substance": "Catnip",
+   "form": "(capsule)"
+  }
+ ]
 }

@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "22",
  "timestamp": "2010-04-29T07:00:00.000Z",
- "views": "5980"
+ "views": "5980",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "180 mg",
+   "administration": "IV",
+   "substance": "Methylone",
+   "form": "(liquid)"
+  }
+ ]
 }

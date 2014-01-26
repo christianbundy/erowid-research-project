@@ -29,5 +29,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2004-08-06T07:00:00.000Z",
- "views": "20255"
+ "views": "20255",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "sublingual",
+   "substance": "Leonotis leonurus",
+   "form": "(leaves)"
+  }
+ ]
 }

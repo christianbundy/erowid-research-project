@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-04-26T07:00:00.000Z",
- "views": "67367"
+ "views": "67367",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "420 mg",
+   "administration": "oral",
+   "substance": "Amphetamines",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

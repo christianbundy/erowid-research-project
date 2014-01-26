@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2007-01-08T08:00:00.000Z",
- "views": "11719"
+ "views": "11719",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 tablets",
+   "administration": "oral",
+   "substance": "DXM",
+   "form": "(capsule)"
+  }
+ ]
 }

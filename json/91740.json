@@ -44,5 +44,14 @@
  "gender": "Male",
  "age": "29",
  "timestamp": "2011-08-21T07:00:00.000Z",
- "views": "6746"
+ "views": "6746",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "4 mg",
+   "administration": "oral",
+   "substance": "DOC",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

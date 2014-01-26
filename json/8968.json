@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-13T07:00:00.000Z",
- "views": "53694"
+ "views": "53694",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "oral",
+   "substance": "Chlorpheniramine Maleate",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

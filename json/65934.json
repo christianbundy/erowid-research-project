@@ -19,5 +19,14 @@
  "gender": "Not Specified",
  "age": "Not Given",
  "timestamp": "2009-09-14T07:00:00.000Z",
- "views": "16607"
+ "views": "16607",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1500 mg",
+   "administration": "oral",
+   "substance": "Kava",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

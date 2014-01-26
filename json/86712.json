@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2010-08-11T07:00:00.000Z",
- "views": "7804"
+ "views": "7804",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7.5 mg",
+   "administration": "oral",
+   "substance": "Pharms - Mirtazapine",
+   "form": ""
+  }
+ ]
 }

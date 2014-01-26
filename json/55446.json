@@ -18,5 +18,13 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2009-03-05T08:00:00.000Z",
- "views": "15732"
+ "views": "15732",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "125 mg",
+   "administration": "oral",
+   "substance": "Diphenhydramine"
+  }
+ ]
 }

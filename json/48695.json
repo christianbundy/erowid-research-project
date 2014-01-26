@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-11-06T08:00:00.000Z",
- "views": "29800"
+ "views": "29800",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "10 mg",
+   "administration": "",
+   "substance": "Methadone",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

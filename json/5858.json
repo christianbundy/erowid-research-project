@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2001-03-24T08:00:00.000Z",
- "views": "7974"
+ "views": "7974",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "23 mg",
+   "administration": "oral",
+   "substance": "2C-B",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

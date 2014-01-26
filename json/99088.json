@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "17",
  "timestamp": "2013-04-04T07:00:00.000Z",
- "views": "1455"
+ "views": "1455",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "30 mg",
+   "administration": "oral",
+   "substance": "4-AcO-DMT",
+   "form": "(capsule)"
+  }
+ ]
 }

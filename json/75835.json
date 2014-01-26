@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-12-21T08:00:00.000Z",
- "views": "4251"
+ "views": "4251",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "6 in",
+   "administration": "smoked",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(plant material)"
+  }
+ ]
 }

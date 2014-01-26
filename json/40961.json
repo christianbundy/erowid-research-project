@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-06-22T07:00:00.000Z",
- "views": "15807"
+ "views": "15807",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Datura",
+   "form": "(extract)"
+  }
+ ]
 }

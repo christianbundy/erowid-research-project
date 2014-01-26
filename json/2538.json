@@ -34,5 +34,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2000-10-10T07:00:00.000Z",
- "views": "30858"
+ "views": "30858",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "20 mg",
+   "administration": "insufflated",
+   "substance": "Pharms - Methylphenidate",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

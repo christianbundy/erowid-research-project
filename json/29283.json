@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-12-16T08:00:00.000Z",
- "views": "16334"
+ "views": "16334",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "11 cups",
+   "administration": "oral",
+   "substance": "Coca",
+   "form": "(tea)"
+  }
+ ]
 }

@@ -26,5 +26,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-09-09T07:00:00.000Z",
- "views": "14288"
+ "views": "14288",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Wormwood",
+   "form": ""
+  }
+ ]
 }

@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "Not Given",
  "timestamp": "2010-05-15T07:00:00.000Z",
- "views": "3501"
+ "views": "3501",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "2 bumps",
+   "administration": "insufflated",
+   "substance": "Ketamine",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

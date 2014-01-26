@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2006-03-25T08:00:00.000Z",
- "views": "31359"
+ "views": "31359",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 seed",
+   "administration": "smoked",
+   "substance": "Anadenanthera colubrina",
+   "form": "(seeds)"
+  }
+ ]
 }

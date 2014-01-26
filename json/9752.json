@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-30T07:00:00.000Z",
- "views": "20483"
+ "views": "20483",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "oral",
+   "substance": "Adrafinil",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

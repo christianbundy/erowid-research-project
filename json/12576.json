@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2003-06-09T07:00:00.000Z",
- "views": "18304"
+ "views": "18304",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": "75 mg",
+   "administration": "oral",
+   "substance": "Ephedrine",
+   "form": "(pill / tablet)"
+  }
+ ]
 }

@@ -29,5 +29,14 @@
  "gender": "Male",
  "age": "23",
  "timestamp": "2011-02-08T08:00:00.000Z",
- "views": "6101"
+ "views": "6101",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "7 mg",
+   "administration": "oral",
+   "substance": "JWH-018",
+   "form": "(capsule)"
+  }
+ ]
 }

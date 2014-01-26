@@ -22,5 +22,14 @@
  "gender": "Male",
  "age": "16",
  "timestamp": "2013-09-21T07:00:00.000Z",
- "views": "669"
+ "views": "669",
+ "dose": [
+  {
+   "time": "DOSE: T+ 0:00",
+   "amount": " ",
+   "administration": "",
+   "substance": "25I-NBOMe",
+   "form": " T+ 5:00"
+  }
+ ]
 }

@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "25",
  "timestamp": "2011-07-07T07:00:00.000Z",
- "views": "8026"
+ "views": "8026",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "",
+   "substance": "AM-2201"
+  }
+ ]
 }

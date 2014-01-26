@@ -24,5 +24,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2008-01-01T08:00:00.000Z",
- "views": "23120"
+ "views": "23120",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " ",
+   "administration": "insufflated",
+   "substance": "Pharms - Tramadol",
+   "form": "(ground / crushed)"
+  }
+ ]
 }

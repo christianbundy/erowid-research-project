@@ -18,5 +18,13 @@
  "gender": "Not Specified",
  "age": "28",
  "timestamp": "2013-03-02T08:00:00.000Z",
- "views": "2930"
+ "views": "2930",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "1 tablet",
+   "administration": "oral",
+   "substance": "6-APB"
+  }
+ ]
 }

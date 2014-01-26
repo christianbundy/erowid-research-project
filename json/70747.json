@@ -19,5 +19,14 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2009-01-10T08:00:00.000Z",
- "views": "9553"
+ "views": "9553",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": "90 g",
+   "administration": "oral",
+   "substance": "Cacti - T. pachanoi",
+   "form": "(powder / crystals)"
+  }
+ ]
 }

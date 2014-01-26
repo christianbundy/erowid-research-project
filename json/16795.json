@@ -18,5 +18,13 @@
  "gender": "Male",
  "age": "Not Given",
  "timestamp": "2007-04-19T07:00:00.000Z",
- "views": "15711"
+ "views": "15711",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "",
+   "substance": "Yohimbe"
+  }
+ ]
 }

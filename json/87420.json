@@ -24,5 +24,14 @@
  "gender": "Female",
  "age": "32",
  "timestamp": "2011-02-09T08:00:00.000Z",
- "views": "13477"
+ "views": "13477",
+ "dose": [
+  {
+   "time": "DOSE:",
+   "amount": " repeated",
+   "administration": "smoked",
+   "substance": "JWH-250",
+   "form": "(powder / crystals)"
+  }
+ ]
 }
