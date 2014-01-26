@@ -16,4 +16,8 @@ The task at hand is converting the HTML of these 20,571 experiences to content-r
 
 ## Copyright
 
-These experiences were downloaded from Erowid and [should *always* have their citation attached](http://www.erowid.org/general/about/about_copyrights.shtml), which identifies both the author and Erowid as the source of the content.
+These experiences were downloaded from Erowid and [should *always* have their citation attached](http://www.erowid.org/general/about/about_copyrights.shtml), which identifies both the author and Erowid as the source of the content. If you use information from this repository, please mention where you found it. Thanks!
+
+## Get in touch
+
+I'm [@ChristianBundy](http://twitter.com/christianbundy) on Twitter, or you can email me at [me@christianbundy.com](mailto:me@christianbundy.com).
