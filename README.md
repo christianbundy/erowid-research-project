@@ -13,7 +13,7 @@ npm start
 
 ## Todo
 
-I'm currently working on getting rid of the `header` properties in the JSON object, and translating them to meaningful doseage properties that can be added to their parent object literal.
+The JSON object literals need to be cleaned up so that they can be analyzed easier. Other than that, this data is ready to be plugged into an application.
 
 ## Copyright
 
