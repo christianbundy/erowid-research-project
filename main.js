@@ -3,16 +3,20 @@ var dive = require('dive');      // Recursive dir walking
 
 var main = function(experience) {
 	console.log(experience.id)
+	if (experience.age == 'Not Given') {
+		delete experience.age;
+	}
 	return experience;
 }
 
 dive(__dirname + '/json', function (err, file) {
 	fs.readFile(file, function (err, contents) {
 		if (err) throw err;
-		var obj = JSON.parse(contents);
-		obj = main(obj);
-		fs.writeFile(file, JSON.stringify(obj, null, 1) + "\r\n", function(err) {
-			if (err) throw err;
-		});
+		var value = main(JSON.parse(contents));
+		if (typeof value === 'object') {
+			fs.writeFile(file, JSON.stringify(value, null, 1) + "\r\n", function(err) {
+				if (err) throw err;
+			});
+		}
 	})
 });
