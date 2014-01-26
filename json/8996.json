@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 1:15",
+   "amount": "T+ 1:15",
    "administration": "1 tablet",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "(pill / tablet)",
-   "administration": " T+ 1:45",
+   "administration": "T+ 1:45",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "MDMA",
    "administration": "(pill / tablet)",
-   "substance": " T+ 2:00"
+   "substance": "T+ 2:00"
   },
   {
    "time": "0.5 tablets",
@@ -48,14 +48,14 @@
   },
   {
    "time": "(plant material)",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Alcohol",
    "amount": "(liquid)",
-   "administration": " T+ 24:00",
+   "administration": "T+ 24:00",
    "substance": "2 tablets"
   }
  ],

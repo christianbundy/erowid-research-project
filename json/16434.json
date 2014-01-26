@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "20 mg",
    "substance": "oral"
   },
   {
    "time": "Pharms - Propranolol",
    "amount": "(pill / tablet)",
-   "administration": " T+ 0:10",
+   "administration": "T+ 0:10",
    "substance": "1 capsl"
   },
   {
    "time": "oral",
    "amount": "Mushrooms",
    "administration": "(ground / crushed)",
-   "substance": " T+ 0:25"
+   "substance": "T+ 0:25"
   },
   {
    "time": "1 capsl",
@@ -49,7 +49,7 @@
   },
   {
    "time": "(ground / crushed)",
-   "amount": " T+ 0:50",
+   "amount": "T+ 0:50",
    "administration": "1 capsl",
    "substance": "oral"
   }

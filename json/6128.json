@@ -13,21 +13,21 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "DXM"
   },
   {
    "time": "0",
    "amount": "",
-   "administration": " repeated",
+   "administration": "repeated",
    "substance": "oral"
   },
   {
    "time": "Chlorpheniramine Maleate",
    "amount": "(pill / tablet)",
    "administration": "",
-   "substance": " repeated"
+   "substance": "repeated"
   }
  ],
  "report": [

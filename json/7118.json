@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "55 mg",
    "substance": "insufflated"
   },
   {
    "time": "DPT",
    "amount": "(powder / crystals)",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "1 cart."
   },
   {
    "time": "inhaled",
    "amount": "Nitrous Oxide",
    "administration": "(gas)",
-   "substance": " T+ 0:20"
+   "substance": "T+ 0:20"
   },
   {
    "time": "20 carts.",
@@ -49,15 +49,15 @@
   },
   {
    "time": "(freebase)",
-   "amount": " T+ 4:00",
+   "amount": "T+ 4:00",
    "administration": "50 mg",
    "substance": "insufflated"
   },
   {
    "time": "DPT",
    "amount": "(powder / crystals)",
-   "administration": " T+ 0:00",
-   "substance": " repeated"
+   "administration": "T+ 0:00",
+   "substance": "repeated"
   }
  ],
  "report": [

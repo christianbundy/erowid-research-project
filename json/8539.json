@@ -19,14 +19,14 @@
   {
    "time": "0",
    "amount": "",
-   "administration": " ",
+   "administration": "",
    "substance": ""
   },
   {
    "time": "Caffeine",
    "amount": "(liquid)",
    "administration": "",
-   "substance": " "
+   "substance": ""
   },
   {
    "time": "smoked",
@@ -42,7 +42,7 @@
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },

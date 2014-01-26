@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "5 g",
    "substance": "oral"
   },
   {
    "time": "Cacti - T. bridgesii",
    "amount": "(dried)",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "20 mg"
   },
   {
    "time": "oral",
    "amount": "2C-I",
    "administration": "",
-   "substance": " T+ 1:00"
+   "substance": "T+ 1:00"
   },
   {
    "time": "5 g",
@@ -49,15 +49,15 @@
   },
   {
    "time": "0",
-   "amount": " T+ 4:00",
+   "amount": "T+ 4:00",
    "administration": "3 leaves",
    "substance": "oral"
   },
   {
    "time": "Coca",
    "amount": "",
-   "administration": " T+ 12:00",
-   "substance": " "
+   "administration": "T+ 12:00",
+   "substance": ""
   }
  ],
  "report": [

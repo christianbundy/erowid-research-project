@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "25 mg",
    "substance": "oral"
   },
   {
    "time": "AMT",
    "amount": "(capsule)",
-   "administration": " T+ 1:30",
+   "administration": "T+ 1:30",
    "substance": "12.5 mg"
   },
   {
    "time": "oral",
    "amount": "AMT",
    "administration": "(capsule)",
-   "substance": " T+ 2:00"
+   "substance": "T+ 2:00"
   },
   {
    "time": "12.5 mg",

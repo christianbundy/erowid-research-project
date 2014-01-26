@@ -18,24 +18,24 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "amount": "(extract)",
-   "administration": " T+ 1:00",
-   "substance": " "
+   "administration": "T+ 1:00",
+   "substance": ""
   },
   {
    "time": "oral",
    "amount": "Lotus/Lily - Nymphaea nouchali var caerulea",
    "administration": "(extract)",
-   "substance": " T+ 3:00"
+   "substance": "T+ 3:00"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "oral",
    "administration": "Alcohol - Beer/Wine",
    "substance": ""
@@ -48,21 +48,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 6:00",
-   "administration": " ",
+   "amount": "T+ 6:00",
+   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 6:00",
+   "administration": "T+ 6:00",
    "substance": "1 glass"
   },
   {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "",
-   "substance": " T+ 13:30"
+   "substance": "T+ 13:30"
   },
   {
    "time": "1 tablet",

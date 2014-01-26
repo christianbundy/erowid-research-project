@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "50 mg",
    "substance": "oral"
   },
   {
    "time": "AMT",
    "amount": "(powder / crystals)",
-   "administration": " T+ 0:30",
+   "administration": "T+ 0:30",
    "substance": "1 "
   },
   {
    "time": "smoked",
    "amount": "Tobacco - Cigarettes",
    "administration": "",
-   "substance": " T+ 1:00"
+   "substance": "T+ 1:00"
   },
   {
    "time": "50 mg",
@@ -48,15 +48,15 @@
   },
   {
    "time": "0",
-   "amount": " T+ 3:00",
+   "amount": "T+ 3:00",
    "administration": "30 mg",
    "substance": "oral"
   },
   {
    "time": "AMT",
    "amount": "(powder / crystals)",
-   "administration": " T+ 3:30",
-   "substance": " "
+   "administration": "T+ 3:30",
+   "substance": ""
   }
  ],
  "report": [

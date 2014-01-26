@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "220 mg",
    "substance": "oral"
   },
   {
    "time": "Methylone",
    "amount": "(powder / crystals)",
-   "administration": " T+ 1:00",
+   "administration": "T+ 1:00",
    "substance": "150 mg"
   },
   {
    "time": "oral",
    "amount": "Methylone",
    "administration": "(powder / crystals)",
-   "substance": " T+ 1:30"
+   "substance": "T+ 1:30"
   },
   {
    "time": "100 mg",
@@ -43,21 +43,21 @@
   },
   {
    "time": "3:00",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "MDAI"
   },
   {
    "time": "(powder / crystals)",
-   "amount": " T+ 5:20",
+   "amount": "T+ 5:20",
    "administration": "40 mg",
    "substance": "sublingual"
   },
   {
    "time": "Methylone",
    "amount": "(powder / crystals)",
-   "administration": " T+ 5:20",
-   "substance": " repeated"
+   "administration": "T+ 5:20",
+   "substance": "repeated"
   }
  ],
  "report": [

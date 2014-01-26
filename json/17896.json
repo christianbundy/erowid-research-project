@@ -13,42 +13,42 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Morphine",
    "form": "(pill / tablet)"
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "insufflated",
    "substance": "Morphine",
    "form": "(ground / crushed)"
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Hydrocodone",
    "form": "(pill / tablet)"
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "insufflated",
    "substance": "Hydrocodone",
    "form": "(ground / crushed)"
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "IV",
    "substance": "Morphine",
    "form": "(liquid)"
   },
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis",
    "form": "(plant material)"

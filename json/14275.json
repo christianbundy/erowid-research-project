@@ -18,21 +18,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:10",
+   "amount": "T+ 0:10",
    "administration": "1 ",
    "substance": "oral"
   },
   {
    "time": "Alcohol - Beer/Wine",
    "amount": "",
-   "administration": " T+ 0:20",
-   "substance": " "
+   "administration": "T+ 0:20",
+   "substance": ""
   },
   {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
-   "substance": " T+ 1:30"
+   "substance": "T+ 1:30"
   },
   {
    "time": "1 ",
@@ -47,21 +47,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 1:45",
+   "amount": "T+ 1:45",
    "administration": "150 mg",
    "substance": "insufflated"
   },
   {
    "time": "MDMA",
    "amount": "(powder / crystals)",
-   "administration": " T+ 1:50",
+   "administration": "T+ 1:50",
    "substance": "50 mg"
   },
   {
    "time": "oral",
    "amount": "MDMA",
    "administration": "(powder / crystals)",
-   "substance": " T+ 2:20"
+   "substance": "T+ 2:20"
   },
   {
    "time": "0",
@@ -77,15 +77,15 @@
   },
   {
    "time": "(powder / crystals)",
-   "amount": " T+ 4:45",
-   "administration": " ",
+   "amount": "T+ 4:45",
+   "administration": "",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "(powder / crystals)",
-   "administration": " T+ 5:00",
-   "substance": " repeated"
+   "administration": "T+ 5:00",
+   "substance": "repeated"
   }
  ],
  "report": [

@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:30",
+   "amount": "T+ 0:30",
    "administration": "1 tablet",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "",
-   "administration": " T+ 0:50",
+   "administration": "T+ 0:50",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "MDMA",
    "administration": "",
-   "substance": " T+ 6:00"
+   "substance": "T+ 6:00"
   },
   {
    "time": "1 repeated",
@@ -49,7 +49,7 @@
   },
   {
    "time": "(gas)",
-   "amount": " T+ 6:00",
+   "amount": "T+ 6:00",
    "administration": "1 repeated",
    "substance": "smoked"
   }

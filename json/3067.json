@@ -20,20 +20,20 @@
   {
    "time": "0",
    "amount": "",
-   "administration": " ",
+   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 1:30",
-   "substance": " "
+   "administration": "T+ 1:30",
+   "substance": ""
   },
   {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
-   "substance": " T+ 2:15"
+   "substance": "T+ 2:15"
   },
   {
    "time": "3 tablets",
@@ -48,7 +48,7 @@
   },
   {
    "time": "0",
-   "amount": " T+ 9:00",
+   "amount": "T+ 9:00",
    "administration": "100 mg",
    "substance": "oral"
   }

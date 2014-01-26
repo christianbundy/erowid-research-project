@@ -19,7 +19,7 @@
   },
   {
    "time": "0",
-   "amount": " T+ 5:00",
+   "amount": "T+ 5:00",
    "administration": "40 mg",
    "substance": "oral"
   },
@@ -27,13 +27,13 @@
    "time": "TMA-2",
    "amount": "(capsule)",
    "administration": "",
-   "substance": " "
+   "substance": ""
   },
   {
    "time": "oral",
    "amount": "Methamphetamine",
    "administration": "(capsule)",
-   "substance": " T+ 18:00"
+   "substance": "T+ 18:00"
   },
   {
    "time": "1 hit",
@@ -50,7 +50,7 @@
   {
    "time": "0",
    "amount": "",
-   "administration": " repeated",
+   "administration": "repeated",
    "substance": "smoked"
   }
  ],

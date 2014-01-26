@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 1:00",
+   "administration": "T+ 1:00",
    "substance": "2.5 mg"
   },
   {
    "time": "0",
    "amount": "25I-NBOMe",
    "administration": "(blotter / tab)",
-   "substance": " T+ 1:00"
+   "substance": "T+ 1:00"
   },
   {
    "time": "0",
@@ -48,24 +48,24 @@
   },
   {
    "time": "0",
-   "amount": " T+ 1:45",
+   "amount": "T+ 1:45",
    "administration": "1 tablet",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "(pill / tablet)",
-   "administration": " T+ 1:45",
-   "substance": " repeated"
+   "administration": "T+ 1:45",
+   "substance": "repeated"
   },
   {
    "time": "inhaled",
    "amount": "Nitrous Oxide",
    "administration": "",
-   "substance": " T+ 6:45"
+   "substance": "T+ 6:45"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""

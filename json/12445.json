@@ -13,30 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "1 hit",
    "substance": "smoked"
   },
   {
    "time": "Salvia divinorum",
    "amount": "(extract - 10x)",
-   "administration": " T+ 0:20",
+   "administration": "T+ 0:20",
    "substance": "1 hit"
   },
   {
    "time": "smoked",
    "amount": "Salvia divinorum",
    "administration": "(extract - 10x)",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "oral",
    "administration": "Alcohol",
    "substance": ""

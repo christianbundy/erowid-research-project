@@ -19,24 +19,24 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:30",
+   "amount": "T+ 0:30",
    "administration": "0.25 mg",
    "substance": "sublingual"
   },
   {
    "time": "Pharms - Alprazolam",
    "amount": "",
-   "administration": " T+ 1:30",
+   "administration": "T+ 1:30",
    "substance": "0.25 mg"
   },
   {
    "time": "sublingual",
    "amount": "Pharms - Alprazolam",
    "administration": "",
-   "substance": " T+ 3:00"
+   "substance": "T+ 3:00"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "smoked",
    "administration": "Salvia divinorum",
    "substance": "(extract)"

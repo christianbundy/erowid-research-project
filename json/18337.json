@@ -13,14 +13,14 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine",
    "form": "(liquid)"
   },
   {
    "time": "0:00",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Tobacco - Cigarettes",
    "form": "(plant material)"
@@ -41,7 +41,7 @@
   },
   {
    "time": "1:30",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Hard",
    "form": "(liquid)"

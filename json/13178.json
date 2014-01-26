@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "200 mg",
    "substance": "oral"
   },
   {
    "time": "MDAI",
    "amount": "(powder / crystals)",
-   "administration": " T+ 1:00",
+   "administration": "T+ 1:00",
    "substance": "100 mg"
   },
   {
    "time": "oral",
    "amount": "MDAI",
    "administration": "(powder / crystals)",
-   "substance": " T+ 1:00"
+   "substance": "T+ 1:00"
   },
   {
    "time": "75 mg",
@@ -49,14 +49,14 @@
   },
   {
    "time": "(liquid)",
-   "amount": " T+ 3:40",
+   "amount": "T+ 3:40",
    "administration": "45 mg",
    "substance": "insufflated"
   },
   {
    "time": "MDAI",
    "amount": "(powder / crystals)",
-   "administration": " T+ 9:30",
+   "administration": "T+ 9:30",
    "substance": "64 mg"
   }
  ],

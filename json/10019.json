@@ -18,21 +18,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 1:00",
-   "administration": " ",
+   "amount": "T+ 1:00",
+   "administration": "",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 3:00",
-   "substance": " "
+   "administration": "T+ 3:00",
+   "substance": ""
   },
   {
    "time": "oral",
    "amount": "Alcohol",
    "administration": "",
-   "substance": " T+ 4:00"
+   "substance": "T+ 4:00"
   },
   {
    "time": "0",
@@ -42,27 +42,27 @@
   },
   {
    "time": "0:00",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Unknown",
    "amount": "(powder / crystals)",
-   "administration": " T+ 7:00",
+   "administration": "T+ 7:00",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "MDMA",
    "administration": "",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
    "time": "1 tablet",

@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "100 mg",
    "substance": "oral"
   },
   {
    "time": "Methylone",
    "amount": "(capsule)",
-   "administration": " T+ 1:30",
+   "administration": "T+ 1:30",
    "substance": "50 mg"
   },
   {
    "time": "insufflated",
    "amount": "Methylone",
    "administration": "(powder / crystals)",
-   "substance": " T+ 3:25"
+   "substance": "T+ 3:25"
   },
   {
    "time": "100 mg",

@@ -13,14 +13,14 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "",
    "substance": "Cannabis"
   },
   {
    "time": "0",
    "amount": "",
-   "administration": " repeated",
+   "administration": "repeated",
    "substance": ""
   },
   {
@@ -36,7 +36,7 @@
    "substance": ""
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "oral",
    "administration": "Mushrooms",
    "substance": ""

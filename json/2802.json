@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:12",
+   "amount": "T+ 0:12",
    "administration": "1 tablet",
    "substance": "oral"
   },
   {
    "time": "Pharms - Oxycodone",
    "amount": "",
-   "administration": " T+ 0:24",
+   "administration": "T+ 0:24",
    "substance": "1 tablet"
   },
   {
    "time": "oral",
    "amount": "Pharms - Oxycodone",
    "administration": "",
-   "substance": " T+ 0:27"
+   "substance": "T+ 0:27"
   },
   {
    "time": "1 tablet",
@@ -48,14 +48,14 @@
   },
   {
    "time": "0",
-   "amount": " T+ 1:06",
+   "amount": "T+ 1:06",
    "administration": "1 bowl",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "(plant material)",
-   "administration": " T+ 4:00",
+   "administration": "T+ 4:00",
    "substance": "1 "
   }
  ],

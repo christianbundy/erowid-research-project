@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "insufflated",
    "substance": "Ketamine"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " repeated",
+   "amount": "T+ 0:00",
+   "administration": "repeated",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "10 mg"
   },
   {
    "time": "0",
    "amount": "2C-D",
    "administration": "",
-   "substance": " T+ 0:30"
+   "substance": "T+ 0:30"
   },
   {
    "time": "10 mg",
@@ -49,21 +49,21 @@
   },
   {
    "time": "(powder / crystals)",
-   "amount": " T+ 2:00",
+   "amount": "T+ 2:00",
    "administration": "12.5 mg",
    "substance": "sublingual"
   },
   {
    "time": "MDPV",
    "amount": "(powder / crystals)",
-   "administration": " T+ 3:00",
+   "administration": "T+ 3:00",
    "substance": "12.5 mg"
   },
   {
    "time": "sublingual",
    "amount": "MDPV",
    "administration": "(powder / crystals)",
-   "substance": " T+ 4:00"
+   "substance": "T+ 4:00"
   },
   {
    "time": "12.5 mg",

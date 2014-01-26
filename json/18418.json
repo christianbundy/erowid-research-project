@@ -13,30 +13,30 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:05",
+   "amount": "T+ 0:05",
    "administration": "100 mg",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "(powder / crystals)",
-   "administration": " T+ 0:10",
+   "administration": "T+ 0:10",
    "substance": "12 mg"
   },
   {
    "time": "oral",
    "amount": "2C-E",
    "administration": "(powder / crystals)",
-   "substance": " T+ 0:45"
+   "substance": "T+ 0:45"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "smoked",
    "administration": "Cannabis",
    "substance": ""

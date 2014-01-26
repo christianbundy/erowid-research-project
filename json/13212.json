@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:30",
+   "amount": "T+ 0:30",
    "administration": "20 mg",
    "substance": "sublingual"
   },
   {
    "time": "5-MeO-MIPT",
    "amount": "(powder / crystals)",
-   "administration": " T+ 2:00",
+   "administration": "T+ 2:00",
    "substance": "1/2 g"
   },
   {
    "time": "smoked",
    "amount": "Cannabis",
    "administration": "",
-   "substance": " T+ 2:20"
+   "substance": "T+ 2:20"
   },
   {
    "time": "1/2 g",
@@ -49,15 +49,15 @@
   },
   {
    "time": "(powder / crystals)",
-   "amount": " T+ 3:55",
+   "amount": "T+ 3:55",
    "administration": "1/2 g",
    "substance": "smoked"
   },
   {
    "time": "Cannabis",
    "amount": "",
-   "administration": " T+ 3:55",
-   "substance": " "
+   "administration": "T+ 3:55",
+   "substance": ""
   }
  ],
  "report": [

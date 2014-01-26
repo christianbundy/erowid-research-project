@@ -19,21 +19,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 2:00",
+   "amount": "T+ 2:00",
    "administration": "2.5 mg",
    "substance": "rectal"
   },
   {
    "time": "2C-P",
    "amount": "",
-   "administration": " T+ 6:00",
+   "administration": "T+ 6:00",
    "substance": "2.0 mg"
   },
   {
    "time": "rectal",
    "amount": "2C-P",
    "administration": "",
-   "substance": " T+ 10:00"
+   "substance": "T+ 10:00"
   },
   {
    "time": "4.0 mg",
@@ -49,21 +49,21 @@
   },
   {
    "time": "(extract)",
-   "amount": " T+ 14:05",
+   "amount": "T+ 14:05",
    "administration": "3.0 mg",
    "substance": "rectal"
   },
   {
    "time": "2C-P",
    "amount": "(extract)",
-   "administration": " T+ 14:05",
+   "administration": "T+ 14:05",
    "substance": "3600 mg"
   },
   {
    "time": "oral",
    "amount": "Pharms - Gabapentin",
    "administration": "(pill / tablet)",
-   "substance": " T+ 14:05"
+   "substance": "T+ 14:05"
   },
   {
    "time": "100 mg",

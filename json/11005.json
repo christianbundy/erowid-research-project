@@ -13,21 +13,21 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "",
    "substance": "MDMA"
   },
   {
    "time": "0",
    "amount": "",
-   "administration": " repeated",
+   "administration": "repeated",
    "substance": "oral"
   },
   {
    "time": "Acetaminophen",
    "amount": "(pill / tablet)",
    "administration": "",
-   "substance": " repeated"
+   "substance": "repeated"
   }
  ],
  "report": [

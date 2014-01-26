@@ -19,20 +19,20 @@
   {
    "time": "0",
    "amount": "",
-   "administration": " ",
+   "administration": "",
    "substance": ""
   },
   {
    "time": "Piracetam",
    "amount": "",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "190 mg"
   },
   {
    "time": "oral",
    "amount": "MDA",
    "administration": "",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
    "time": "250 mg",
@@ -48,21 +48,21 @@
   },
   {
    "time": "(blotter / tab)",
-   "amount": " T+ 3:00",
+   "amount": "T+ 3:00",
    "administration": "15 g",
    "substance": ""
   },
   {
    "time": "Mushrooms",
    "amount": "",
-   "administration": " T+ 0:00",
-   "substance": " "
+   "administration": "T+ 0:00",
+   "substance": ""
   },
   {
    "time": "0",
    "amount": "Nitrous Oxide",
    "administration": "",
-   "substance": " T+ 5:15"
+   "substance": "T+ 5:15"
   },
   {
    "time": "40 mg",
@@ -72,7 +72,7 @@
   },
   {
    "time": "0:00",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "smoked",
    "substance": "Salvia divinorum"
   }

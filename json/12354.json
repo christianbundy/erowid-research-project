@@ -18,24 +18,24 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "200 mg",
    "substance": "oral"
   },
   {
    "time": "4-Methylmethcathinone",
    "amount": "(powder / crystals)",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "2 "
   },
   {
    "time": "oral",
    "amount": "Unknown",
    "administration": "(pill / tablet)",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
-   "time": " repeated",
+   "time": "repeated",
    "amount": "insufflated",
    "administration": "4-Methylmethcathinone",
    "substance": "(powder / crystals)"
@@ -48,21 +48,21 @@
   },
   {
    "time": "(pill / tablet)",
-   "amount": " T+ 0:00",
+   "amount": "T+ 0:00",
    "administration": "1/3 ",
    "substance": "oral"
   },
   {
    "time": "MDMA",
    "amount": "(pill / tablet)",
-   "administration": " T+ 24:00",
-   "substance": " repeated"
+   "administration": "T+ 24:00",
+   "substance": "repeated"
   },
   {
    "time": "insufflated",
    "amount": "4-Methylmethcathinone",
    "administration": "(powder / crystals)",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
    "time": "0",
@@ -77,15 +77,15 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": ""
   },
   {
    "time": "MDMA",
    "amount": "",
-   "administration": " T+ 0:00",
-   "substance": " "
+   "administration": "T+ 0:00",
+   "substance": ""
   }
  ],
  "report": [

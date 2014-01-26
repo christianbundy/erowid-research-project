@@ -18,21 +18,21 @@
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " ",
+   "amount": "T+ 0:00",
+   "administration": "",
    "substance": "oral"
   },
   {
    "time": "Acetaminophen",
    "amount": "",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "86 mg"
   },
   {
    "time": "insufflated",
    "amount": "4-Methylmethcathinone",
    "administration": "(powder / crystals)",
-   "substance": " T+ 0:00"
+   "substance": "T+ 0:00"
   },
   {
    "time": "0",
@@ -48,7 +48,7 @@
   },
   {
    "time": "(capsule)",
-   "amount": " T+ 0:39",
+   "amount": "T+ 0:39",
    "administration": "1 glass",
    "substance": "oral"
   }

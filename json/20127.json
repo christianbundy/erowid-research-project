@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Alcohol - Beer/Wine"
   },
   {
    "time": "0",
-   "amount": " T+ 8:00",
+   "amount": "T+ 8:00",
    "administration": "200 mg",
    "substance": "oral"
   },
   {
    "time": "Pharms - Tramadol",
    "amount": "(pill / tablet)",
-   "administration": " T+ 8:00",
+   "administration": "T+ 8:00",
    "substance": "1 glass"
   },
   {
    "time": "oral",
    "amount": "Alcohol - Beer/Wine",
    "administration": "",
-   "substance": " T+ 8:00"
+   "substance": "T+ 8:00"
   },
   {
    "time": "200 mg",
@@ -49,14 +49,14 @@
   },
   {
    "time": "(pill / tablet)",
-   "amount": " T+ 15:00",
+   "amount": "T+ 15:00",
    "administration": "200 mg",
    "substance": "oral"
   },
   {
    "time": "Pharms - Tramadol",
    "amount": "(pill / tablet)",
-   "administration": " T+ 15:00",
+   "administration": "T+ 15:00",
    "substance": "1 glass"
   }
  ],

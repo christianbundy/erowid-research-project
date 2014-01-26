@@ -13,27 +13,27 @@
  "dose": [
   {
    "time": "0",
-   "amount": " repeated",
+   "amount": "repeated",
    "administration": "oral",
    "substance": "Cannabis"
   },
   {
    "time": "0",
-   "amount": " T+ 0:00",
-   "administration": " repeated",
+   "amount": "T+ 0:00",
+   "administration": "repeated",
    "substance": "oral"
   },
   {
    "time": "Alcohol - Beer/Wine",
    "amount": "",
-   "administration": " T+ 0:00",
+   "administration": "T+ 0:00",
    "substance": "200 mg"
   },
   {
    "time": "oral",
    "amount": "Methylone",
    "administration": "(powder / crystals)",
-   "substance": " T+ 3:00"
+   "substance": "T+ 3:00"
   },
   {
    "time": "20 mg",
