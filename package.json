@@ -23,14 +23,8 @@
     "drug"
   ],
   "dependencies" : {
-    "graceful-fs" : "*",
-    "dive"        : "*"
+    "fs" : "*"
   },
-  "analyze": false,
-  "bundledDependencies": [
-    "union",
-    "ecstatic"
-  ],  
   "engines": {
     "node": ">=0.10"
   }

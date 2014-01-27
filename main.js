@@ -1,18 +1,26 @@
-var fs = require('graceful-fs'); // Queues fs.readFile()
-var dive = require('dive');      // Recursive dir walking
+var fs  = require("fs");
 
-var main = function(e) {
-	return e;
+var config = {
+	index:  0,               // <= Item number
+	input:  './erowid.json', // <= File to read
+	output: './sample.json', // <= File to write
+	every:  false             // <= Need all 20,533?
 }
 
-dive(__dirname + '/json', { all: false }, function (err, file) {
-	fs.readFile(file, function (err, contents) {
-		if (err) throw err;
-		var value = main(JSON.parse(contents));
-		if (typeof value === 'object') {
-			fs.writeFile(file, JSON.stringify(value, null, 1) + "\r\n", function(err) {
-				if (err) throw err;
-			});
-		}
-	})
+// HEY, OVER HERE!
+// The main function is what you'll be editing.
+var main = function (item) {
+	console.log("This item's ID is " + item.id + '!')
+	return item;
+}
+
+// PROCEED WITH CAUTION:
+// You shouldn't need to edit anything below this line.
+fs.openSync(config.output, 'w');
+fs.readFileSync(config.input).toString().split("\n").forEach(function (line) {
+	if (line.length && (config.every || config.index < 1000)) {
+		result = JSON.stringify(main(JSON.parse(line))) + "\n";
+		fs.appendFileSync(config.output, result);
+		config.index++;
+	}
 });
