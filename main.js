@@ -1,26 +1,29 @@
 var fs  = require("fs");
+var cheerio = require("cheerio");
+var request = require('request');
 
-var config = {
-	index:  0,               // <= Item number
-	input:  './erowid.json', // <= File to read
-	output: './sample.json', // <= File to write
-	every:  false             // <= Need all 20,533?
-}
-
-// HEY, OVER HERE!
-// The main function is what you'll be editing.
-var main = function (item) {
-	console.log("This item's ID is " + item.id + '!')
-	return item;
-}
-
-// PROCEED WITH CAUTION:
-// You shouldn't need to edit anything below this line.
-fs.openSync(config.output, 'w');
-fs.readFileSync(config.input).toString().split("\n").forEach(function (line) {
-	if (line.length && (config.every || config.index < 1000)) {
-		result = JSON.stringify(main(JSON.parse(line))) + "\n";
-		fs.appendFileSync(config.output, result);
-		config.index++;
+var erp = {
+	config: {
+		index:  0,
+		input:  './erowid.json',
+		output: './sample.json',
+		every:  false
+	},
+	main: function (item) {
+		item.author.name = 'John Dose'
+		this.write(item);
+	},
+	write: function (obj) {
+		fs.appendFileSync(erp.config.output, JSON.stringify(obj) + "\n");
+	},
+	each: function (obj) {
+		this.config.index++;
+		this.main(obj);
 	}
+}
+
+fs.openSync(erp.config.output, 'w');
+fs.readFileSync(erp.config.input).toString().split("\n").forEach(function (line) {
+	if (erp.config.index < 20534 && (erp.config.every || erp.config.index < 100))
+		erp.each(JSON.parse(line));
 });
