@@ -4,59 +4,29 @@ A research project analyzing the  [experiences](http://www.erowid.org/experience
 
 ## Usage
 
-The files in the `json` should look something like this:
+[Unzip](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/unzip.1.html) the [JSON](http://www.json.org/) archive, install [NPM](https://npmjs.org/) dependencies, and run it with [Node](http://nodejs.org/).
 
-```json
-{
- "id": 9001,
- "title": "Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?",
- "date": {
-  "submission": "2004-05-12T07:00:00.000Z",
-  "experience": "2001-01-01T00:00:00.000Z"
- },
- "author": {
-  "name": "Christian Bundy",
-  "gender": "Male",
-  "weight": 68
- },
- "dose": [
-  {
-   "time": "0",
-   "administration": "smoked",
-   "substance": "Javascript",
-   "form": "code",
-   "specific": "JSON"
-  },
-  {
-   "time": "90",
-   "administration": "oral",
-   "substance": "HTML",
-   "form": "tags"
-  }
- ],
- "report": [
-  "This is one paragraph.",
-  "This is another!"
- ],
- "erowid": {
-  "id": "9001",
-  "citation": " Christian Bundy. \"Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like? - Opium (ID 9001)\". Erowid.org. Jan 1, 20016. erowid.org/exp/9001",
-  "substance": "Javascript & HTML",
-  "views": "0"
- }
+```sh
+unzip erowid.json.zip
+npm install
+node main
+```
+
+Once you've got everything installed, you'll find everything that you need in [main.js](https://github.com/christianbundy/erowid-research-project/blob/master/main.js).
+
+```js
+// HEY, OVER HERE!
+// The main function is what you'll be editing.
+var main = function (item) {
+  console.log("This item's ID is " + item.id + '!')
+  return item;
 }
 ```
 
-To make batch edits to the JSON, install dependencies with `npm install`, edit `main.js`, and run `npm start`.
+## Contact
 
-## Todo
-
-It's always nice to add more properties (such as the `dose[i].amount.grams property`) for analysis, but the next big thing is writing an algorithm to find pattens in the sample data. Pull requests are *very* welcome!
+Please [open an issue](https://github.com/christianbundy/erowid-research-project/issues/new) if you have any questions, comments, or concerns. If you need to get a hold of me personally, I'm [@ChristianBundy](http://twitter.com/christianbundy) on Twitter, or you can email me at [me@christianbundy.com](mailto:me@christianbundy.com).
 
 ## Copyright
 
-These experiences were downloaded from Erowid and [should *always* have their citation attached](http://www.erowid.org/general/about/about_copyrights.shtml), which identifies both the author and Erowid as the source of the content. If you use information from this repository, please mention where you found it.
-
-## Get in touch
-
-I'm [@ChristianBundy](http://twitter.com/christianbundy) on Twitter, or you can email me at [me@christianbundy.com](mailto:me@christianbundy.com).
+These experiences were downloaded from Erowid and are bound by their [copyright rules](http://www.erowid.org/general/about/about_copyrights.shtml).
