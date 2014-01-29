@@ -4,23 +4,28 @@ A research project analyzing the  [experiences](http://www.erowid.org/experience
 
 ## Usage
 
-[Unzip](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/unzip.1.html) the [JSON](http://www.json.org/) archive, install [NPM](https://npmjs.org/) dependencies, and run it with [Node](http://nodejs.org/).
+[Gunzip](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/gzip.1.html) the [gzipped](http://www.gzip.org/) [JSON](http://www.json.org/) [array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [install dependencies](https://npmjs.org/doc/install.html), and run [Node](http://nodejs.org/) through [NPM](https://npmjs.org/).
 
 ```sh
-unzip erowid.json.zip
+gunzip erowid.json.gz
 npm install
-node main
+npm start
 ```
 
-Once you've got everything installed, you'll find everything that you need in [main.js](https://github.com/christianbundy/erowid-research-project/blob/master/main.js).
+Once you've got everything installed, you should be able to do trival edits through [main.js](https://github.com/christianbundy/erowid-research-project/blob/master/main.js). For example, removing anonymous authors from the data could be done with the following code.
 
 ```js
-// HEY, OVER HERE!
-// The main function is what you'll be editing.
-var main = function (item) {
-  console.log("This item's ID is " + item.id + '!')
-  return item;
-}
+var erowid = require('./lib/erowid.js');
+
+erowid(function (item) {
+	if ('author' in item && 'name' in item.author) {
+		if (item.author.name.toLowerCase() === 'anonymous') {
+			delete item.author.name;
+		}
+	}
+
+	return item;
+}, true);
 ```
 
 ## Contact
