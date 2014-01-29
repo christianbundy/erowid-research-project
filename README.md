@@ -7,7 +7,7 @@ A research project analyzing the  [experiences](http://www.erowid.org/experience
 [Gunzip](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/gzip.1.html) the [gzipped](http://www.gzip.org/) [JSON](http://www.json.org/) [array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [install dependencies](https://npmjs.org/doc/install.html), and run [Node](http://nodejs.org/) through [NPM](https://npmjs.org/).
 
 ```sh
-gunzip erowid.json.gz
+gunzip -c erowid.json.gz >! erowid.json
 npm install
 npm start
 ```
