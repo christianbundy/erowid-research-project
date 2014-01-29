@@ -10,7 +10,7 @@
     } 
   ],
   "scripts": {
-    "start": "node main.js"
+    "start": "node --stack-size=32000 main.js"
   },
   "repository": {
     "type": "git",
