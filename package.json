@@ -23,7 +23,8 @@
     "drug"
   ],
   "dependencies" : {
-    "fs" : "*"
+    "graceful-fs" : "*",
+    "async": "*"
   },
   "engines": {
     "node": ">=0.10"
